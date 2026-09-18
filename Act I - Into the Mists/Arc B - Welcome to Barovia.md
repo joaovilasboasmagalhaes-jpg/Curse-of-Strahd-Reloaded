@@ -854,7 +854,7 @@ When the players return to Ismark, summarize Ireena's decision rather than repla
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning, roughly an hour before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea while the mansion remains dim and dark.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
@@ -876,11 +876,11 @@ If the players agree to do so, the player with the highest passive Wisdom (Perce
 
 The players have one round to kill the rat as it scurries toward a large hole in the kitchen wall. If they fail to do so, Ireena skewers it with her rapier before it can do so, recognizing it as one of Strahd's spies.
 
-***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
+***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players, leaving the mansion before dawn while the streets remain dark.
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+When the players arrive at the church with the burgomaster’s body in the final hours before dawn, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
 
 <div class="description">
 <p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
@@ -1088,9 +1088,9 @@ Otherwise, if the players spared Doru and relay his final message, read:
 
 Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
 
-The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. While the sky is still dark, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
 
-Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
+Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. The grave takes several hours to dig. As the eastern sky begins to lighten and dawn breaks, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
 
 <div class="description" style="text-align: center;">
 <p>O Morninglord</p>
