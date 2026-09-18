@@ -802,6 +802,56 @@ If confronted, Ismark can reluctantly share the following information:
 * He no longer believes that Barovia, surrounded by suspicious neighbors and in the shadow of the Devil’s keep, is safe for Ireena.
 * Instead, Ismark intends for Ireena to travel to Vallaki, a fortified town to the west. St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead.
 
+### Alternative: A Player-Facing Argument
+If you would rather give the players a direct role in the siblings' argument, use this version instead of reading the dialogue above.
+
+Shortly after midnight, the players are awakened by raised voices from somewhere below. Read:
+
+<div class="description">
+<p>You wake to the sound of angry voices echoing through the mansion below. Though the words are muffled by the walls and the groaning timbers of the old house, you can make out the voices of Ismark and Ireena—and the unmistakable pain beneath their anger.</p>
+<p>"You have no right to decide this for me, Ismark!" Ireena cries. "Father is dead, our neighbors are wounded, and the village needs us. I will not abandon them now!"</p>
+<p>Ismark's reply is low but strained. "The Devil has marked you. The villagers are afraid, and some of them already wanted to hand you over. I can't keep you safe here. I won't lose you too."</p>
+<p>"And you think Vallaki will save me? You think I can simply walk away and pretend none of this is my responsibility?"</p>
+<p>"I think you might survive there," Ismark says. "And right now, that has to be enough."</p>
+</div>
+
+The argument continues for several minutes, growing louder and more desperate before falling abruptly silent. The players can investigate, or wait until Ismark leaves the kitchen. A few moments later, the door opens and Ismark steps into the hall, carrying an empty cup. His face is flushed, and his eyes are red from crying. He pauses when he sees the players.
+
+Ismark apologizes for waking them and explains that he stepped away to fetch a cup of water before he said something he would regret. If the players ask what the argument was about, or offer their help, he reluctantly explains the situation. Read:
+
+<div class="description">
+<p>Ismark lowers his gaze, turning the empty cup between his hands.</p>
+<p>"Ireena is no longer safe here. Strahd has marked her, and the villagers are frightened enough to turn against her. I want her taken to Vallaki, where the town is fortified and St. Andral's Church may protect her from the undead."</p>
+<p>He swallows, his grip tightening around the cup. "I can't leave Barovia while the village is still recovering. I need someone to escort her—and someone she might actually listen to. I know this is a great deal to ask of people who barely know us, but you fought beside our people tonight. Father trusted you enough to give you a letter and ask for your counsel. That is more than enough for me to ask for your help now."</p>
+<p>"Please. Convince her that leaving isn't the same as abandoning us. Get her to Vallaki, where she might have a chance to live."</p>
+</div>
+
+Ismark asks the players to speak with Ireena. He waits silently nearby, giving them privacy but remaining close enough to intervene if the conversation becomes heated.
+
+Ireena is sitting at the kitchen table, visibly upset. If the players explain Ismark's request, she listens before responding. Read:
+
+<div class="description">
+<p>Ireena sits at the kitchen table, her hands clasped tightly in her lap. Her eyes are red from crying, but her expression is firm as she looks toward you.</p>
+<p>"He thinks leaving is simple. It isn't. Father is dead, our neighbors are wounded, and the village has lost its leader. If I leave now, who helps them rebuild? Who looks after the people who stayed?"</p>
+<p>She looks toward the darkened window.</p>
+<p>"But I know why he is afraid. I know what Strahd did to me. I just don't know whether Vallaki is truly safe—or merely another place where I'll be waiting for him to find me."</p>
+</div>
+
+Let the players respond. They can discuss whether Ireena should leave, whether they are willing to escort her, and what assurances they can offer. If useful, ask:
+
+* What makes Vallaki safer than Barovia?
+* What would convince Ireena that leaving is not abandoning her people?
+* What does she need from the players before she agrees to go?
+
+After the players have spoken, Ireena makes the decision herself. Read:
+
+<div class="description">
+<p>Ireena listens quietly, considering each answer. At last, she wipes her eyes and nods.</p>
+<p>"I still don't like leaving. But perhaps protecting Barovia means surviving long enough to return to it. I'll go to Vallaki—but only after we bury Father."</p>
+</div>
+
+When the players return to Ismark, summarize Ireena's decision rather than replaying the conversation. His shoulders sag with relief. "Thank you," he says. "I know what this costs her."
+
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
 The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
