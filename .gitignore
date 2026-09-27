@@ -1,3 +1,6 @@
 .obsidian/*.json
 .DS_Store
 .idea/
+.venv/
+barovia-map/tiles/
+__pycache__/
