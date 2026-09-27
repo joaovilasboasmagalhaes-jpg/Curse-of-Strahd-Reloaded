@@ -1,0 +1,2259 @@
+{
+  "file": {
+    "id": "curse-of-strahd-timeline",
+    "uid": "curse-of-strahd-885969",
+    "type": "timeline",
+    "title": "Curse of Strahd",
+    "appVersion": "0.7.0-alpha.2",
+    "start": -3000,
+    "end": 736,
+    "detailLevel": 1,
+    "theme": "parchment_v2",
+    "layout": "Horizontal",
+    "branchOrdering": "later-first",
+    "useSpreadsheet": true,
+    "useMaps": true,
+    "groups": [
+      {
+        "id": "g-main",
+        "title": "Main",
+        "order": 0,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-first-folk",
+        "title": "First Folk & the Fanes",
+        "order": 1,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-amber-temple",
+        "title": "Amber Temple",
+        "order": 2,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-von-zarovich",
+        "title": "Von Zarovich Line",
+        "order": 3,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-silver-dragon",
+        "title": "Order of the Silver Dragon",
+        "order": 4,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-abbey-krezk",
+        "title": "Abbey & Krezk",
+        "order": 5,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-martikov",
+        "title": "Martikov / Wizard of Wines",
+        "order": 6,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-wachter-vallaki",
+        "title": "Wachter & Vallaki",
+        "order": 7,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-durst",
+        "title": "Durst Family / Death House",
+        "order": 8,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-van-richten",
+        "title": "Van Richten",
+        "order": 9,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-strazni",
+        "title": "Strazni Family",
+        "order": 10,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-vistani",
+        "title": "Vistani",
+        "order": 11,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      }
+    ],
+    "dateFormat": "DMY",
+    "negID": "BU",
+    "posID": "BC",
+    "scaleSections": [
+      {
+        "start": -3000,
+        "end": 0,
+        "scale": 0.5,
+        "showBreak": true
+      },
+      {
+        "start": 345,
+        "end": 351,
+        "scale": 2,
+        "showBreak": true
+      }
+    ]
+  },
+  "elements": [
+    {
+      "id": "era-002321428166",
+      "type": "era",
+      "title": "Ancient Era",
+      "start": -3000,
+      "end": 0,
+      "color": "#07ab3d"
+    },
+    {
+      "id": "era-000675690614",
+      "type": "era",
+      "title": "Founding Era",
+      "start": 0,
+      "end": 345,
+      "color": "#5a95f4"
+    },
+    {
+      "id": "era-002467704783",
+      "type": "era",
+      "title": "Era of Blood",
+      "start": 345,
+      "end": 351,
+      "color": "#7b2304"
+    },
+    {
+      "id": "era-002228601094",
+      "type": "era",
+      "title": "Dark Era",
+      "start": 351,
+      "end": 600,
+      "color": "#000000"
+    },
+    {
+      "id": "era-001125574552",
+      "type": "era",
+      "title": "Dormant Era",
+      "start": 600,
+      "end": 735,
+      "color": "#5f5e5d"
+    },
+    {
+      "id": "era-003265407805",
+      "type": "era",
+      "title": "Strahd's Awakening",
+      "start": 735,
+      "end": 736,
+      "color": "#F4D05A",
+      "fuzzyEnd": true
+    },
+    {
+      "id": "span-first-folk",
+      "type": "span",
+      "title": "First Folk Civilization",
+      "start": -3000,
+      "end": -420,
+      "groupId": "g-first-folk",
+      "approxStart": true
+    },
+    {
+      "id": "span-rozana-worship",
+      "type": "span",
+      "title": "Worship of the Ladies Three (Rozana)",
+      "start": -2950,
+      "end": -500,
+      "groupId": "g-first-folk",
+      "tags": [
+        "religion"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-amber-temple-wizards",
+      "type": "span",
+      "title": "Amber Temple Wizards' Occupation",
+      "start": -1000,
+      "end": -940,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "faction",
+        "magic"
+      ],
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-kavan-reign",
+      "type": "span",
+      "title": "Kavan's Reign / Unification War",
+      "start": -500,
+      "end": -450,
+      "groupId": "g-first-folk",
+      "tags": [
+        "war",
+        "character"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-dostron-occupation",
+      "type": "span",
+      "title": "King Dostron's Occupation",
+      "start": -450,
+      "end": -420,
+      "groupId": "g-first-folk",
+      "tags": [
+        "war",
+        "character"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-zarovia-kingdom",
+      "type": "span",
+      "title": "Kingdom of Zarovia (Barov I)",
+      "start": 1,
+      "end": 201,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "faction"
+      ]
+    },
+    {
+      "id": "span-von-zarovich-exile",
+      "type": "span",
+      "title": "Von Zarovich Exile",
+      "start": 201,
+      "end": 301,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "faction"
+      ],
+      "parent": "span-zarovia-kingdom"
+    },
+    {
+      "id": "span-barov-ii-reconquest",
+      "type": "span",
+      "title": "Barov II's Reconquest",
+      "start": 301,
+      "end": 345,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war"
+      ],
+      "extendFrom": "span-von-zarovich-exile"
+    },
+    {
+      "id": "span-strahd-mortal-career",
+      "type": "span",
+      "title": "Strahd's Military Career (Mortal)",
+      "start": 309,
+      "end": 345,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "war"
+      ]
+    },
+    {
+      "id": "span-abbey-markovia",
+      "type": "span",
+      "title": "Abbey of Saint Markovia (Founding Era)",
+      "start": 330,
+      "end": 352,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "religion",
+        "location"
+      ]
+    },
+    {
+      "id": "span-order-silver-dragon",
+      "type": "span",
+      "title": "Order of the Silver Dragon",
+      "start": 333,
+      "end": 346,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "faction",
+        "war"
+      ]
+    },
+    {
+      "id": "span-wow-wereraven",
+      "type": "span",
+      "title": "Wizard of Wines (Wereraven Ownership)",
+      "start": 336,
+      "end": 346,
+      "groupId": "g-martikov",
+      "tags": [
+        "location",
+        "magic"
+      ]
+    },
+    {
+      "id": "span-strahd-conquest",
+      "type": "span",
+      "title": "Strahd's Wars of Conquest",
+      "start": 345,
+      "end": 346,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war"
+      ]
+    },
+    {
+      "id": "span-battle-luna-river",
+      "type": "span",
+      "title": "Battle of the Luna River Campaign",
+      "start": 346,
+      "end": 346,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "war",
+        "death"
+      ],
+      "parent": "span-order-silver-dragon",
+      "mergeParent": "span-revenants-argynvostholt"
+    },
+    {
+      "id": "span-wow-krezkov",
+      "type": "span",
+      "title": "Wizard of Wines (Krezkov Ownership)",
+      "start": 347,
+      "end": 410,
+      "groupId": "g-martikov",
+      "tags": [
+        "location"
+      ],
+      "extendFrom": "span-wow-wereraven"
+    },
+    {
+      "id": "span-strahd-mortal-ruler",
+      "type": "span",
+      "title": "Strahd as Mortal Ruler of Barovia",
+      "start": 345,
+      "end": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ],
+      "extendFrom": "span-strahd-mortal-career"
+    },
+    {
+      "id": "span-strahd-vampire-lord",
+      "type": "span",
+      "title": "Strahd as Vampire Lord",
+      "start": 351,
+      "end": 736,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "undead"
+      ],
+      "extendFrom": "span-strahd-mortal-ruler"
+    },
+    {
+      "id": "span-revenants-argynvostholt",
+      "type": "span",
+      "title": "Revenants of Argynvostholt",
+      "start": 346,
+      "end": 736,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "undead",
+        "faction"
+      ]
+    },
+    {
+      "id": "span-durst-cult",
+      "type": "span",
+      "title": "Elisabeth Durst's Cult (Death House)",
+      "start": 355,
+      "end": 365,
+      "groupId": "g-durst",
+      "tags": [
+        "religion",
+        "undead"
+      ],
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-patrina-intrigue",
+      "type": "span",
+      "title": "Patrina Velikovna's Intrigue",
+      "start": 348,
+      "end": 353,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "character",
+        "magic"
+      ],
+      "approxEnd": true
+    },
+    {
+      "id": "span-madam-eva-pact",
+      "type": "span",
+      "title": "Madam Eva's Pact with the Seeker",
+      "start": 351,
+      "end": 736,
+      "groupId": "g-vistani",
+      "tags": [
+        "character",
+        "magic",
+        "prophecy"
+      ]
+    },
+    {
+      "id": "span-strahd-retainers",
+      "type": "span",
+      "title": "Strahd's Mortal-Era Retainers Pass",
+      "start": 370,
+      "end": 440,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "death"
+      ],
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-baba-lysaga-coven",
+      "type": "span",
+      "title": "Baba Lysaga's Coven",
+      "start": 355,
+      "end": 736,
+      "groupId": "g-main",
+      "tags": [
+        "character",
+        "magic"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-cult-chernovog",
+      "type": "span",
+      "title": "Cult of Chernovog",
+      "start": 628,
+      "end": 629,
+      "groupId": "g-main",
+      "tags": [
+        "religion",
+        "faction"
+      ],
+      "parent": "span-baba-lysaga-coven",
+      "approxStart": true
+    },
+    {
+      "id": "span-wow-martikov",
+      "type": "span",
+      "title": "Wizard of Wines (Martikov Reclaimed)",
+      "start": 410,
+      "end": 736,
+      "groupId": "g-martikov",
+      "tags": [
+        "location"
+      ],
+      "extendFrom": "span-wow-krezkov",
+      "approxStart": true
+    },
+    {
+      "id": "span-van-richten-family",
+      "type": "span",
+      "title": "Van Richten's Family Life",
+      "start": 632,
+      "end": 672,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "mergeParent": "span-van-richten-hunter",
+      "approxEnd": true
+    },
+    {
+      "id": "span-van-richten-hunter",
+      "type": "span",
+      "title": "Van Richten's Monster-Hunting Career",
+      "start": 672,
+      "end": 736,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character",
+        "faction"
+      ]
+    },
+    {
+      "id": "span-fiona-wachter",
+      "type": "span",
+      "title": "Fiona Wachter's Path",
+      "start": 648,
+      "end": 736,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "character",
+        "magic"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-izek-strazni",
+      "type": "span",
+      "title": "Izek Strazni's Life",
+      "start": 676,
+      "end": 736,
+      "groupId": "g-strazni",
+      "tags": [
+        "character"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-ezmerelda-apprenticeship",
+      "type": "span",
+      "title": "Ezmerelda d'Avenir's Apprenticeship",
+      "start": 686,
+      "end": 690,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parent": "span-van-richten-hunter",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-abbot-tenure",
+      "type": "span",
+      "title": "The Abbot's Tenure at the Abbey",
+      "start": 588,
+      "end": 736,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "character",
+        "religion"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-keepers-feather",
+      "type": "span",
+      "title": "Keepers of the Feather",
+      "start": 604,
+      "end": 736,
+      "groupId": "g-martikov",
+      "tags": [
+        "faction"
+      ],
+      "approxStart": true
+    },
+    {
+      "id": "span-strahd-reawakening",
+      "type": "span",
+      "title": "Strahd's Reawakening & Reconquest",
+      "start": 735,
+      "end": 736,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war",
+        "undead"
+      ]
+    },
+    {
+      "id": "event-first-folk-arrive",
+      "type": "event",
+      "title": "First Folk arrive in Girvisa",
+      "date": -3000,
+      "groupId": "g-first-folk",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-first-folk"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-fanes-built",
+      "type": "event",
+      "title": "Swamp, Forest, and Mountain Fanes built",
+      "date": -2900,
+      "groupId": "g-first-folk",
+      "tags": [
+        "location",
+        "religion"
+      ],
+      "parents": [
+        "span-rozana-worship"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-dreamer-corrupted",
+      "type": "event",
+      "title": "The Dreamer falls, becomes the Devourer",
+      "date": -2600,
+      "groupId": "g-first-folk",
+      "tags": [
+        "religion"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-devourer-slain",
+      "type": "event",
+      "title": "The Devourer slain; Whispering Wall formed",
+      "date": -2500,
+      "groupId": "g-first-folk",
+      "tags": [
+        "religion",
+        "death"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-amber-temple-founded",
+      "type": "event",
+      "title": "Amber Temple founded",
+      "date": -1000,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "faction",
+        "magic"
+      ],
+      "parents": [
+        "span-amber-temple-wizards"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-wizards-fall",
+      "type": "event",
+      "title": "Amber Temple wizards fall to in-fighting",
+      "date": -940,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "death",
+        "magic"
+      ],
+      "parents": [
+        "span-amber-temple-wizards"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-kavan-whispering-wall",
+      "type": "event",
+      "title": "Kavan enters the Whispering Wall",
+      "date": -505,
+      "groupId": "g-first-folk",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-kavan-reign"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-kavan-bloodthorn",
+      "type": "event",
+      "title": "Kavan steals and corrupts Bloodthorn",
+      "date": -500,
+      "groupId": "g-first-folk",
+      "tags": [
+        "artifact",
+        "character"
+      ],
+      "parents": [
+        "span-kavan-reign"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-gems-to-wereravens",
+      "type": "event",
+      "title": "Weaver's life-giving gems given to the wereravens",
+      "date": -480,
+      "groupId": "g-first-folk",
+      "tags": [
+        "artifact",
+        "magic"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-dostron-invades",
+      "type": "event",
+      "title": "King Dostron invades the valley",
+      "date": -450,
+      "groupId": "g-first-folk",
+      "tags": [
+        "war"
+      ],
+      "parents": [
+        "span-dostron-occupation"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-dostron-fortress",
+      "type": "event",
+      "title": "Dostron's mountain fortress built (future Ravenloft site)",
+      "date": -449,
+      "groupId": "g-first-folk",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-dostron-occupation"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-dostron-dies",
+      "type": "event",
+      "title": "King Dostron dies; fortress falls to ruin",
+      "date": -420,
+      "groupId": "g-first-folk",
+      "tags": [
+        "death"
+      ],
+      "parents": [
+        "span-dostron-occupation"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-barov-i-founds-zarovia",
+      "type": "event",
+      "title": "King Barov von Zarovich I founds Zarovia",
+      "date": 1,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "faction",
+        "character"
+      ],
+      "parents": [
+        "span-zarovia-kingdom"
+      ]
+    },
+    {
+      "id": "event-zarovia-fractures",
+      "type": "event",
+      "title": "Zarovia fractures; House von Zarovich exiled",
+      "date": 201,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "faction"
+      ],
+      "parents": [
+        "span-von-zarovich-exile"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-barov-ii-raises-army",
+      "type": "event",
+      "title": "Barov von Zarovich II raises an army to reclaim Zarovia",
+      "date": 301,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "war"
+      ],
+      "parents": [
+        "span-barov-ii-reconquest"
+      ]
+    },
+    {
+      "id": "event-andral-crowns-barov-ii",
+      "type": "event",
+      "title": "Saint Andral grants Barov II the crown of old Zarovia",
+      "date": 301,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "religion",
+        "character"
+      ],
+      "parents": [
+        "span-barov-ii-reconquest"
+      ]
+    },
+    {
+      "id": "event-dusk-elves-conquered",
+      "type": "event",
+      "title": "Dusk elf kingdom conquered (aided by Rahadin)",
+      "date": 302,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war",
+        "character"
+      ],
+      "parents": [
+        "span-barov-ii-reconquest"
+      ]
+    },
+    {
+      "id": "event-brightblade-forged",
+      "type": "event",
+      "title": "The Brightblade forged; Prince Löwenhart's spirit sealed within",
+      "date": 302,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "artifact",
+        "magic"
+      ]
+    },
+    {
+      "id": "event-strahd-born",
+      "type": "event",
+      "title": "Strahd von Zarovich born",
+      "date": 302,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-lysaga-banished",
+      "type": "event",
+      "title": "Baba Lysaga banished from court",
+      "date": 302,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-strahd-squire",
+      "type": "event",
+      "title": "Strahd joins his father's army as a squire",
+      "date": 309,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-strahd-mortal-career"
+      ]
+    },
+    {
+      "id": "event-katarina-born",
+      "type": "event",
+      "title": "Katarina born to Barov II and a Vistana woman",
+      "date": 309,
+      "groupId": "g-vistani",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-strahd-rescued",
+      "type": "event",
+      "title": "Strahd wounded in battle, rescued by the Vistani",
+      "date": 312,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-strahd-mortal-career"
+      ]
+    },
+    {
+      "id": "event-strahd-general",
+      "type": "event",
+      "title": "Strahd becomes a general in Barov's army",
+      "date": 316,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "war"
+      ],
+      "parents": [
+        "span-strahd-mortal-career"
+      ]
+    },
+    {
+      "id": "event-sergei-born",
+      "type": "event",
+      "title": "Sergei von Zarovich born",
+      "date": 321,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-markovia-begins-abbey",
+      "type": "event",
+      "title": "Saint Markovia begins building her abbey",
+      "date": 330,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "religion",
+        "character"
+      ],
+      "parents": [
+        "span-abbey-markovia"
+      ]
+    },
+    {
+      "id": "event-abbey-completed",
+      "type": "event",
+      "title": "Abbey of Saint Markovia completed",
+      "date": 332,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "religion",
+        "location"
+      ],
+      "parents": [
+        "span-abbey-markovia"
+      ]
+    },
+    {
+      "id": "event-argynvost-arrives",
+      "type": "event",
+      "title": "Argynvost arrives, founds the Order of the Silver Dragon",
+      "date": 333,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "character",
+        "faction"
+      ],
+      "parents": [
+        "span-order-silver-dragon"
+      ]
+    },
+    {
+      "id": "event-argynvostholt-built",
+      "type": "event",
+      "title": "Argynvostholt manor constructed",
+      "date": 334,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-order-silver-dragon"
+      ]
+    },
+    {
+      "id": "event-wow-founded",
+      "type": "event",
+      "title": "Wizard of Wines winery founded by the wereravens",
+      "date": 336,
+      "groupId": "g-martikov",
+      "tags": [
+        "location",
+        "magic"
+      ],
+      "parents": [
+        "span-wow-wereraven"
+      ]
+    },
+    {
+      "id": "event-tsolenka-tower",
+      "type": "event",
+      "title": "White stone watchtower built at Tsolenka Pass",
+      "date": 340,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-order-silver-dragon"
+      ]
+    },
+    {
+      "id": "event-barov-ii-dies",
+      "type": "event",
+      "title": "Barov II dies; Strahd inherits, keeps the crown in a chest",
+      "date": 345,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "death"
+      ],
+      "parents": [
+        "span-strahd-mortal-ruler"
+      ]
+    },
+    {
+      "id": "event-strahd-declines-brightblade",
+      "type": "event",
+      "title": "Strahd declines the Brightblade, gifts it to Sergei",
+      "date": 345,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "artifact",
+        "character"
+      ],
+      "parents": [
+        "span-strahd-mortal-ruler"
+      ]
+    },
+    {
+      "id": "event-dusk-elf-rebellion",
+      "type": "event",
+      "title": "Dusk elf rebellion reignites; rival nations mobilize",
+      "date": 345,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war"
+      ],
+      "parents": [
+        "span-strahd-conquest"
+      ]
+    },
+    {
+      "id": "event-rebellion-crushed",
+      "type": "event",
+      "title": "Strahd crushes the rebellion; dusk elves relocated via the Vistani",
+      "date": 346,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war",
+        "character"
+      ],
+      "parents": [
+        "span-strahd-conquest"
+      ]
+    },
+    {
+      "id": "event-luna-river-battle",
+      "type": "event",
+      "title": "Battle of the Luna River — Vladimir Horngaard and Godfrey Gwilym slain",
+      "date": 346,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "war",
+        "death"
+      ],
+      "parents": [
+        "span-battle-luna-river"
+      ]
+    },
+    {
+      "id": "event-argynvost-slain",
+      "type": "event",
+      "title": "Argynvost slain at Argynvostholt; his skull taken as a trophy",
+      "date": 346,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "parents": [
+        "span-battle-luna-river"
+      ]
+    },
+    {
+      "id": "event-valley-named-barovia",
+      "type": "event",
+      "title": "Strahd names the valley \"Barovia\" and settles there",
+      "date": 346,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-strahd-mortal-ruler"
+      ]
+    },
+    {
+      "id": "event-markovia-condemns-strahd",
+      "type": "event",
+      "title": "Saint Markovia condemns Strahd, departs in peace",
+      "date": 347,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "religion",
+        "character"
+      ]
+    },
+    {
+      "id": "event-vallaki-krezk-founded",
+      "type": "event",
+      "title": "Boris Vallakovich founds Vallaki; Vasha Krezkova settles Krezk",
+      "date": 347,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "location",
+        "character"
+      ]
+    },
+    {
+      "id": "event-wow-to-krezkov",
+      "type": "event",
+      "title": "Wizard of Wines bequeathed to the Krezkov family",
+      "date": 347,
+      "groupId": "g-martikov",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-wow-krezkov"
+      ]
+    },
+    {
+      "id": "event-wachter-land-granted",
+      "type": "event",
+      "title": "House of Wachter granted lands in Vallaki",
+      "date": 347,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "faction"
+      ]
+    },
+    {
+      "id": "event-durst-settle",
+      "type": "event",
+      "title": "Durst family funds Old Bonegrinder, settles in Barovia village",
+      "date": 347,
+      "groupId": "g-durst",
+      "tags": [
+        "character",
+        "location"
+      ]
+    },
+    {
+      "id": "event-andral-dies",
+      "type": "event",
+      "title": "Saint Andral dies; St. Andral's Church built to house his bones",
+      "date": 348,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "religion",
+        "death"
+      ]
+    },
+    {
+      "id": "event-lysaga-svalich",
+      "type": "event",
+      "title": "Baba Lysaga settles in the Svalich Woods",
+      "date": 348,
+      "groupId": "g-main",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-patrina-amber-secrets",
+      "type": "event",
+      "title": "Patrina Velikovna discovers the secrets of the Amber Temple",
+      "date": 348,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "magic",
+        "character"
+      ],
+      "parents": [
+        "span-patrina-intrigue"
+      ]
+    },
+    {
+      "id": "event-ravenloft-begins",
+      "type": "event",
+      "title": "Construction of Castle Ravenloft begins",
+      "date": 349,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "id": "event-ravenloft-completed",
+      "type": "event",
+      "title": "Castle Ravenloft completed",
+      "date": 350,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "id": "event-strahd-refuses-gifts",
+      "type": "event",
+      "title": "Strahd studies magic under Patrina, refuses all three dark gifts",
+      "date": 350,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "magic",
+        "character"
+      ],
+      "parents": [
+        "span-patrina-intrigue"
+      ]
+    },
+    {
+      "id": "event-ravenovia-dies",
+      "type": "event",
+      "title": "Queen Ravenovia dies en route to Barovia; buried in the new crypts",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "death",
+        "character"
+      ]
+    },
+    {
+      "id": "event-sigil-of-the-sun",
+      "type": "event",
+      "title": "Ciril Romulich arrives with the Sigil of the Sun; Sergei made Most High Priest",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "artifact",
+        "religion"
+      ]
+    },
+    {
+      "id": "event-fanes-bound",
+      "type": "event",
+      "title": "Druidic elders guide Strahd to bind the three Fanes to his spirit",
+      "date": 351,
+      "groupId": "g-first-folk",
+      "tags": [
+        "magic",
+        "character"
+      ]
+    },
+    {
+      "id": "event-sergei-tatyana-love",
+      "type": "event",
+      "title": "Sergei falls in love with Tatyana Federovna; Strahd grows infatuated",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "id": "event-sergei-abdicates",
+      "type": "event",
+      "title": "Sergei abdicates as Most High Priest to marry Tatyana",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "religion"
+      ]
+    },
+    {
+      "id": "event-wedding-tragedy",
+      "type": "event",
+      "title": "Wedding day: Strahd murders Sergei, Tatyana leaps to her death, Strahd is reborn a vampire and the Mists seal Barovia",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "death",
+        "magic",
+        "undead",
+        "prophecy"
+      ],
+      "parents": [
+        "span-strahd-vampire-lord"
+      ]
+    },
+    {
+      "id": "event-guards-slaughtered",
+      "type": "event",
+      "title": "Traitorous guards slaughtered in the Hall of Bones; Leo Dilisnya escapes",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "death",
+        "war"
+      ]
+    },
+    {
+      "id": "event-katarina-madam-eva",
+      "type": "event",
+      "title": "Katarina forges a pact with the Seeker, becomes Madam Eva",
+      "date": 351,
+      "groupId": "g-vistani",
+      "tags": [
+        "character",
+        "magic",
+        "prophecy"
+      ],
+      "parents": [
+        "span-madam-eva-pact"
+      ]
+    },
+    {
+      "id": "event-heart-of-sorrow",
+      "type": "event",
+      "title": "The Heart of Sorrow forms from Strahd's first victims",
+      "date": 351,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "artifact",
+        "magic",
+        "undead"
+      ]
+    },
+    {
+      "id": "event-revenants-confront-eva",
+      "type": "event",
+      "title": "Revenants of the Order march on Ravenloft, learn the truth from Madam Eva",
+      "date": 351,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "undead"
+      ],
+      "parents": [
+        "span-revenants-argynvostholt"
+      ]
+    },
+    {
+      "id": "event-mirrors-removed",
+      "type": "event",
+      "title": "Strahd's reflection vanishes; mirrors removed from the castle",
+      "date": 352,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead"
+      ]
+    },
+    {
+      "id": "event-mists-confirmed",
+      "type": "event",
+      "title": "Scouts confirm an impassable Mist has sealed the valley's borders",
+      "date": 352,
+      "groupId": "g-main",
+      "tags": [
+        "magic"
+      ]
+    },
+    {
+      "id": "event-beucephalus-nightmare",
+      "type": "event",
+      "title": "Beucephalus transforms into a nightmare; Strahd learns the word \"vampire\"",
+      "date": 352,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead",
+        "character"
+      ]
+    },
+    {
+      "id": "event-sasha-bride",
+      "type": "event",
+      "title": "Sasha Ivliskova taken as Strahd's first bride",
+      "date": 353,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "undead"
+      ]
+    },
+    {
+      "id": "event-patrina-death",
+      "type": "event",
+      "title": "Patrina stoned to death by the dusk elves; Strahd punishes the killers",
+      "date": 353,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "parents": [
+        "span-patrina-intrigue"
+      ]
+    },
+    {
+      "id": "event-markovia-holy-war",
+      "type": "event",
+      "title": "Saint Markovia's holy war reaches Castle Ravenloft; she is slain",
+      "date": 354,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "death",
+        "war",
+        "religion"
+      ]
+    },
+    {
+      "id": "event-wights-raised",
+      "type": "event",
+      "title": "Strahd raises his slain guards as wights; the Abbey seals itself off",
+      "date": 354,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead"
+      ]
+    },
+    {
+      "id": "event-brightblade-destroyed",
+      "type": "event",
+      "title": "Khazan reports the Brightblade (Sunsword) destroyed",
+      "date": 355,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "artifact",
+        "magic"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-mist-vision-homeland",
+      "type": "event",
+      "title": "A vision of Strahd's homeland appears in the Mists near Yester Hill",
+      "date": 355,
+      "groupId": "g-main",
+      "tags": [
+        "prophecy",
+        "magic"
+      ]
+    },
+    {
+      "id": "event-abbey-clergy-fall",
+      "type": "event",
+      "title": "Abbey clergy descend into paranoia; all dead or insane",
+      "date": 356,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "death",
+        "religion"
+      ],
+      "parents": [
+        "span-abbey-markovia"
+      ]
+    },
+    {
+      "id": "event-argynvost-ghost",
+      "type": "event",
+      "title": "Argynvost's ghost begins haunting the ruins of Argynvostholt",
+      "date": 357,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "undead"
+      ],
+      "parents": [
+        "span-revenants-argynvostholt"
+      ]
+    },
+    {
+      "id": "event-elisabeth-amber-shard",
+      "type": "event",
+      "title": "Elisabeth Durst discovers an amber shard",
+      "date": 358,
+      "groupId": "g-durst",
+      "tags": [
+        "artifact",
+        "magic"
+      ],
+      "parents": [
+        "span-durst-cult"
+      ]
+    },
+    {
+      "id": "event-walter-bound",
+      "type": "event",
+      "title": "Elisabeth murders Gustav and baby Walter; binds Walter's undead spirit",
+      "date": 360,
+      "groupId": "g-durst",
+      "tags": [
+        "death",
+        "undead"
+      ],
+      "parents": [
+        "span-durst-cult"
+      ]
+    },
+    {
+      "id": "event-durst-cult-destroyed",
+      "type": "event",
+      "title": "Strahd destroys Elisabeth's cult after they claim adventurers he wanted for himself",
+      "date": 365,
+      "groupId": "g-durst",
+      "tags": [
+        "death",
+        "undead"
+      ],
+      "parents": [
+        "span-durst-cult"
+      ]
+    },
+    {
+      "id": "event-khazan-family-dies",
+      "type": "event",
+      "title": "Khazan's wife and child die in childbirth",
+      "date": 367,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-khazan-lich",
+      "type": "event",
+      "title": "Khazan becomes a lich, challenges Strahd, becomes his advisor instead",
+      "date": 369,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "magic",
+        "character",
+        "undead"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-sergei-tomb",
+      "type": "event",
+      "title": "Sergei's eternal tomb built; Strahd's Animated Armor and Strahd zombies created",
+      "date": 370,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "magic",
+        "undead",
+        "artifact"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-marina-ulrich-death",
+      "type": "event",
+      "title": "Marina Ulrich, Tatyana's first reincarnation, dies at Berez",
+      "date": 391,
+      "groupId": "g-vistani",
+      "tags": [
+        "death",
+        "prophecy"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-martikov-krezkov-marriage",
+      "type": "event",
+      "title": "The Martikovs arrange a marriage into the Krezkov family",
+      "date": 395,
+      "groupId": "g-martikov",
+      "tags": [
+        "character",
+        "faction"
+      ],
+      "parents": [
+        "span-wow-krezkov"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-wow-inherited-martikov",
+      "type": "event",
+      "title": "Winery secretly passes to a Martikov-blooded Krezkov daughter",
+      "date": 410,
+      "groupId": "g-martikov",
+      "tags": [
+        "location"
+      ],
+      "parents": [
+        "span-wow-martikov"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-leo-dilisnya-hunted",
+      "type": "event",
+      "title": "Disguised as \"Vasili von Holtz,\" Strahd hunts down Leo Dilisnya with Lovina Wachter's aid",
+      "date": 400,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "undead"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-leo-entombed",
+      "type": "event",
+      "title": "Leo Dilisnya entombed, starving, beneath Wachterhaus",
+      "date": 400,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "undead",
+        "character"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-baba-lysaga-berez",
+      "type": "event",
+      "title": "Baba Lysaga claims the ruins of Berez, slays the storm giant Deceba",
+      "date": 415,
+      "groupId": "g-main",
+      "tags": [
+        "character",
+        "death"
+      ],
+      "parents": [
+        "span-baba-lysaga-coven"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-khazan-demilich",
+      "type": "event",
+      "title": "Khazan attempts demilichdom and destroys himself; a Mist rift opens in his catacomb",
+      "date": 416,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "magic",
+        "undead"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-ludmilla-bride",
+      "type": "event",
+      "title": "Ludmilla Vilisevic becomes Strahd's bride and chief magical advisor",
+      "date": 430,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character",
+        "magic"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-anastrasya-volenta-brides",
+      "type": "event",
+      "title": "Strahd takes Anastrasya Karelova and Volenta Popofsky as brides",
+      "date": 470,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-ithuriel-abbot",
+      "type": "event",
+      "title": "The deva Ithuriel arrives, becomes the Abbot of the Abbey",
+      "date": 588,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "character",
+        "religion"
+      ],
+      "parents": [
+        "span-abbot-tenure"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-grand-conjunction-foretold",
+      "type": "event",
+      "title": "Madam Eva foretells the coming Grand Conjunction",
+      "date": 590,
+      "groupId": "g-vistani",
+      "tags": [
+        "prophecy",
+        "magic"
+      ],
+      "parents": [
+        "span-madam-eva-pact"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-devourer-torn-free",
+      "type": "event",
+      "title": "Strahd tears the Devourer's vestige free, binds her within the Heart of Sorrow",
+      "date": 590,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "magic",
+        "undead"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-fanes-bound-to-heart",
+      "type": "event",
+      "title": "Strahd channels the three Fanes' power into the Heart of Sorrow",
+      "date": 595,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "magic",
+        "prophecy"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-hibernation-begins",
+      "type": "event",
+      "title": "Strahd retires to hibernate for a century",
+      "date": 600,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead"
+      ],
+      "parents": [
+        "span-strahd-vampire-lord"
+      ]
+    },
+    {
+      "id": "event-spawn-rampage",
+      "type": "event",
+      "title": "Strahd's vampire spawn run rampant across the valley",
+      "date": 601,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-sigil-recovered",
+      "type": "event",
+      "title": "Lugdana, Ismark Antonovich, and Livius Martikov recover the Sigil of the Sun",
+      "date": 603,
+      "groupId": "g-silver-dragon",
+      "tags": [
+        "artifact",
+        "character"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-keepers-founded",
+      "type": "event",
+      "title": "Livius Martikov founds the Keepers of the Feather",
+      "date": 604,
+      "groupId": "g-martikov",
+      "tags": [
+        "faction"
+      ],
+      "parents": [
+        "span-keepers-feather"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-baba-zelenna-cult",
+      "type": "event",
+      "title": "Baba Zelenna founds the Cult of Chernovog at Yester Hill",
+      "date": 628,
+      "groupId": "g-main",
+      "tags": [
+        "religion",
+        "faction"
+      ],
+      "parents": [
+        "span-cult-chernovog"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-chernovog-defeated",
+      "type": "event",
+      "title": "Lugdana and Livius defeat Chernovog; Lugdana dies of her wounds; the Sigil is lost",
+      "date": 629,
+      "groupId": "g-main",
+      "tags": [
+        "death",
+        "magic"
+      ],
+      "parents": [
+        "span-cult-chernovog"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-van-richten-born",
+      "type": "event",
+      "title": "Rudolph van Richten born",
+      "date": 632,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-family"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-fiona-runs-away",
+      "type": "event",
+      "title": "Fiona Wachter runs away, joins Baba Lysaga's coven",
+      "date": 648,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-fiona-wachter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-fiona-ezra-pact",
+      "type": "event",
+      "title": "Fiona is banished, returns to Wachterhaus, pacts with \"Ezra\"",
+      "date": 649,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "character",
+        "magic",
+        "prophecy"
+      ],
+      "parents": [
+        "span-fiona-wachter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-erasmus-born",
+      "type": "event",
+      "title": "Erasmus van Richten born",
+      "date": 655,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-family"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-erasmus-lost",
+      "type": "event",
+      "title": "Erasmus kidnapped and sold to Baron Metus; Ingrid and Erasmus lost to Rudolph",
+      "date": 669,
+      "groupId": "g-van-richten",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-family"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-metus-destroyed",
+      "type": "event",
+      "title": "Rudolph destroys Baron Metus, becomes a monster hunter",
+      "date": 672,
+      "groupId": "g-van-richten",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-hunter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-radanavich-destroyed",
+      "type": "event",
+      "title": "Rudolph enters Barovia via Khazan's rift, destroys the Radanavich clan",
+      "date": 675,
+      "groupId": "g-van-richten",
+      "tags": [
+        "death",
+        "undead"
+      ],
+      "parents": [
+        "span-van-richten-hunter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-ireena-dire-wolf",
+      "type": "event",
+      "title": "Izek and Ireena Strazni attacked by a dire wolf; Ireena vanishes",
+      "date": 676,
+      "groupId": "g-strazni",
+      "tags": [
+        "character",
+        "death"
+      ],
+      "parents": [
+        "span-izek-strazni"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-izek-fire-arm",
+      "type": "event",
+      "title": "Izek gains a fiendish fire-arm, kills Baron Valentin Vallakovich",
+      "date": 682,
+      "groupId": "g-strazni",
+      "tags": [
+        "character",
+        "death",
+        "magic"
+      ],
+      "parents": [
+        "span-izek-strazni"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-roc-steals-gem",
+      "type": "event",
+      "title": "A roc steals a Wizard of Wines gem at Madam Eva's design",
+      "date": 683,
+      "groupId": "g-martikov",
+      "tags": [
+        "artifact",
+        "prophecy"
+      ],
+      "parents": [
+        "span-wow-martikov"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-blue-water-inn",
+      "type": "event",
+      "title": "Urwin Martikov and Danika Dorakova found the Blue Water Inn in Vallaki",
+      "date": 684,
+      "groupId": "g-martikov",
+      "tags": [
+        "location",
+        "character"
+      ],
+      "parents": [
+        "span-keepers-feather"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-ezmerelda-apprentice",
+      "type": "event",
+      "title": "Ezmerelda d'Avenir runs away, becomes Van Richten's apprentice",
+      "date": 686,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-ezmerelda-apprenticeship"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-ezmerelda-leg",
+      "type": "event",
+      "title": "Ezmerelda loses her leg to Kiril Stoyanovich; commissions a prosthetic",
+      "date": 690,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-ezmerelda-apprenticeship"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-victor-spellbook",
+      "type": "event",
+      "title": "Victor Vallakovich discovers Khazan's lost spellbook",
+      "date": 691,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "character",
+        "magic",
+        "artifact"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-nikolai-dies",
+      "type": "event",
+      "title": "Nikolai Wachter dies of illness; Fiona Wachter widowed",
+      "date": 691,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "death",
+        "character"
+      ],
+      "parents": [
+        "span-fiona-wachter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-van-richten-warned",
+      "type": "event",
+      "title": "Rudolph receives Ezmerelda's warning letter",
+      "date": 694,
+      "groupId": "g-van-richten",
+      "tags": [
+        "prophecy",
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-hunter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-van-richten-enters-barovia",
+      "type": "event",
+      "title": "Rudolph van Richten enters Barovia disguised, welcomed by Kolyan Indirovich",
+      "date": 694,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-hunter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-doru-recognizes",
+      "type": "event",
+      "title": "Doru recognizes \"Alanik Ray\" as Van Richten, demands to lead a revolt",
+      "date": 694,
+      "groupId": "g-van-richten",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-van-richten-hunter"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-mob-attacks-ravenloft",
+      "type": "event",
+      "title": "Doru's mob attacks Castle Ravenloft, awakening Strahd",
+      "date": 735,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war",
+        "death",
+        "undead"
+      ],
+      "parents": [
+        "span-strahd-reawakening"
+      ]
+    },
+    {
+      "id": "event-escher-doru-turned",
+      "type": "event",
+      "title": "Strahd spares Escher and Doru, turns them into vampire spawn",
+      "date": 735,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead",
+        "character"
+      ],
+      "parents": [
+        "span-strahd-reawakening"
+      ]
+    },
+    {
+      "id": "event-rahadin-confirms-date",
+      "type": "event",
+      "title": "Strahd interrogates Rahadin, confirms the Grand Conjunction hasn't passed",
+      "date": 735,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "prophecy",
+        "character"
+      ],
+      "parents": [
+        "span-strahd-reawakening"
+      ]
+    },
+    {
+      "id": "event-patrina-contacts-kasimir",
+      "type": "event",
+      "title": "Patrina's banshee contacts Kasimir Velikov in dreams",
+      "date": 735,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "undead",
+        "character"
+      ]
+    },
+    {
+      "id": "event-rahadin-proclamation",
+      "type": "event",
+      "title": "Rahadin proclaims Strahd's return to Barovia, Vallaki, and Krezk",
+      "date": 735,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "character"
+      ],
+      "parents": [
+        "span-strahd-reawakening"
+      ]
+    },
+    {
+      "id": "event-vallaki-gates-closed",
+      "type": "event",
+      "title": "Barovian refugees turned away; Baron Vargas enacts festival laws",
+      "date": 735,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "faction"
+      ]
+    },
+    {
+      "id": "event-abbot-harvests-remains",
+      "type": "event",
+      "title": "The Abbot begins harvesting remains for a masterpiece bride",
+      "date": 735,
+      "groupId": "g-abbey-krezk",
+      "tags": [
+        "undead",
+        "religion"
+      ],
+      "parents": [
+        "span-abbot-tenure"
+      ]
+    },
+    {
+      "id": "event-morgantha-settles",
+      "type": "event",
+      "title": "Morgantha's hag coven settles at Old Bonegrinder",
+      "date": 735,
+      "groupId": "g-main",
+      "tags": [
+        "character",
+        "magic"
+      ]
+    },
+    {
+      "id": "event-werewolf-loyalty",
+      "type": "event",
+      "title": "Emil Toranescu imprisoned; Kiril Stoyanovich takes the werewolf pack",
+      "date": 735,
+      "groupId": "g-main",
+      "tags": [
+        "character",
+        "faction"
+      ]
+    },
+    {
+      "id": "event-stella-severed",
+      "type": "event",
+      "title": "Victor and Stella's teleportation circle severs Stella's spirit",
+      "date": 736,
+      "groupId": "g-wachter-vallaki",
+      "tags": [
+        "magic",
+        "character"
+      ]
+    },
+    {
+      "id": "event-kasimir-turned-back",
+      "type": "event",
+      "title": "Kasimir Velikov turned back at Tsolenka Pass by vrocks",
+      "date": 736,
+      "groupId": "g-amber-temple",
+      "tags": [
+        "character",
+        "war"
+      ]
+    },
+    {
+      "id": "event-zombie-siege",
+      "type": "event",
+      "title": "Strahd's zombie horde besieges the village of Barovia",
+      "date": 736,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "war",
+        "undead"
+      ],
+      "parents": [
+        "span-strahd-reawakening"
+      ]
+    },
+    {
+      "id": "event-doru-torments-father",
+      "type": "event",
+      "title": "Doru sent to torment his father, Father Donavich",
+      "date": 736,
+      "groupId": "g-von-zarovich",
+      "tags": [
+        "undead",
+        "character"
+      ]
+    },
+    {
+      "id": "event-travelers-daggerford",
+      "type": "event",
+      "title": "Travelers arrive in Daggerford, unaware of the trials ahead",
+      "date": 736,
+      "groupId": "g-main",
+      "tags": [
+        "character"
+      ]
+    }
+  ]
+}
