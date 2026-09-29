@@ -631,6 +631,15 @@ Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Pl
 > 
 > Rahadin does not view Elga as a threat at this stage, dismissing her urn as an inconsequential relic of a conquered church. (See [players/sister_elga/rahadin.md](players/sister_elga/rahadin.md) and [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
 
+> [!abstract]+ **Ivan Petrovich Tie-in: Scent on the Wind**
+> As Rahadin’s gaze drifts past the rest of the company, it pauses for a lingering fraction of a second as it falls upon Ivan.
+> 
+> The chamberlain’s dark eyes narrow slightly, his head tilting as if catching a faint, familiar scent amidst the smoke and rot. The barest shadow of a cruel, knowing smile touches his lips.
+> 
+> *"A wolf playing at shepherd in the valley,"* Rahadin murmurs softly under his breath, barely louder than the screams of his deathly choir. *"How quaint."*
+> 
+> Without another word or second glance, Rahadin turns his horse around and departs the village, once more trailed by the twelve **zombies**. (See [players/ivan/dm_campaign_integration.md](players/ivan/dm_campaign_integration.md) for details.)
+
 Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
 
 Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
