@@ -46,6 +46,13 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
 
+> [!abstract]+ **Sister Elga Tie-in: Khazan's Marginalia & The Priory of the Ven**
+> If Sister Elga inspects Khazan's lost spellbook in Victor's workroom, a successful DC 12 Intelligence (Religion or Arcana) check (or automatic recognition if she studies it for 10 minutes) reveals familiar handwriting and liturgical diagrams in the margins of the necromantic chapters.
+>
+> In the late 350s B.C., Khazan sought the counsel of Abbot Ferd and the Priory of the Ven in a desperate attempt to retrieve the souls of his deceased wife and child. In his notes, Khazan refers to the Ven as the *"Monks of the Iron Scale,"* analyzing their unique soul-anchoring geometry and Urn-containment formulas. 
+>
+> A character familiar with Ven liturgy (such as Sister Elga) gains advantage on checks made to stabilize spiritual rituals or understand how to tether Stella's soul back to her physical body. (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+
 # H1. Erasmus' Plea
 Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
 

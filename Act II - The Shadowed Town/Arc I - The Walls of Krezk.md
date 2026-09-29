@@ -37,6 +37,11 @@ The Raven River Crossroads are largely as described in <span class="citation">R.
 
 The figure is recognizably similar to the **revenant** standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
 
+> [!abstract]+ **Sister Elga Tie-in: Echoes of the Eastern Priory**
+> If Sister Elga is present, the revenant pauses, tilting its head toward her golden scales symbol. 
+> 
+> *"A Doomguide of the eastern foothills..."* the revenant rasps solemnly. *"My memory of life is fragmented, but I recall your brethren walking these roads long ago, offering rest to those who could not find it. If you seek their fate, know that the ashes of your cloister lie east in the crags, and Sir Godfrey waits at Argynvostholt with the full memory of that day."*
+
 If the players tell the revenant that they are traveling to Krezk, it warns them that the burgomaster of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
 
 If the players tell the revenant that they are traveling to the Abbey of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
