@@ -36,6 +36,11 @@ The figure is recognizably similar to the **revenants** standing guard at Tser F
 
 The revenant hails the players and asks them to identify themselves and their business. If informed that they have come seeking Sir Godfrey Gwilym, it closes its eyes and murmurs gratefully, “So there are still those who oppose Zarovich’s reign. Good." 
 
+> [!abstract]+ **Sister Elga Tie-in: Path to the Cloister**
+> If Sister Elga makes herself known, the sentinel knight bows its rusted helm in deep reverence.
+> 
+> *"A Doomguide of the Ven,"* it murmurs quietly. *"Centuries ago, your order gave us solace in the wake of Lord Argynvost's fall. If you seek the ruins of your home, they lie east amidst the mountain ridges. But enter the chapel and speak with Sir Godfrey first—he was there when the Devil marched, and can tell you what lies buried within the Silent Cloister."*
+
 The revenant can inform the players that Sir Godfrey awaits visitors in the Chapel of Morning, at the eastern side of the first floor of the mansion of Argynvostholt. It warns them, however, that many unquiet spirits haunt the ruined manor, and to be wary should they explore its crumbling halls. 
 
 Should the players request directions to the chapel, the revenant advises them to enter the foyer through the main entrance, then proceed eastward into the dining hall. There, the revenant tells them, “the doors to the chapel stand ever-open to those who seek a brighter dawn."
@@ -124,6 +129,13 @@ At the players’ request, Godfrey can share the following information regarding
 
 > [!abstract]+ **The Dragon's Scale**
 > If a player in possession of the [[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
+
+> [!abstract]+ **Sister Elga Tie-in: The Priory of the Ven**
+> If Sister Elga wears her order's vestments or holy symbol, Sir Godfrey’s hollow eyes soften with ancient sorrow and recognition.
+>
+> *"The Priests of the Iron Scale,"* he murmurs softly. *"I did not think any of your line survived the Devil's wrath. In the dark years after our fall, your brothers and sisters in the foothills gave us comfort when our hatred threatened to consume us entirely. They offered prayers for our souls and silver for our blades. It broke my heart when Zarovich marched his legion upon your cloisters."*
+>
+> Godfrey can confirm that the ruins of the Priory (the *Silent Cloister*) still stand in the secluded crags to the east, though he warns that Strahd sealed the lowest vaults after the slaughter nearly four centuries ago. (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
 
 Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
 

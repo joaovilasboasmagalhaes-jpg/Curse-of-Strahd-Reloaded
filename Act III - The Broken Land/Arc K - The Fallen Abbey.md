@@ -302,6 +302,11 @@ This area is unlit. When the players first enter it, read:
 <p>The air here is thick and musty. Three sets of heavy silver shackles are bolted to the stone walls, with two surrounded by disturbed half-circles of salt. Claw marks mar the walls and floor, and the silver shackles bolted to the east wall have been heavily damaged, with one shackle burst open and the other torn from the wall entirely.</p>
 </div>
 
+> [!abstract]+ **Sister Elga Tie-in: Ancient Warding Shackles**
+> A character inspecting the silver shackles who succeeds on a DC 12 Intelligence (Religion) check (or Sister Elga automatically) recognizes the delicate filigree engraved upon the heavy silver clasps: stylized scales grasped by a skeletal hand, accompanied by salt-warding geometric runes of the Priory of the Ven.
+>
+> If asked about the shackles, Dmitri can share an old piece of family lore: when his ancestor Vasha Krezkova first founded the village nearly four centuries ago, wanderers in dark vestments—the "Doomguides of the Eastern Crags"—helped bless the founding cemetery and forged these specific consecrated silver bindings to help the settlers restrain malevolent spirits and afflictions of the blood. (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+
 If the players haven’t taken special steps to prevent or watch for the Krezkovs’ appearance, Dmitri and Anna find Kala missing from her bedroom, exit into the garden, and descend the wine cellar steps upon noticing the players’ footsteps in the snow, finding the players at the door to the hidden basement.
 
 “I’m sure you have questions," Dmitri says, quietly, when he first arrives. His eyes are haunted and sad, and his gaze lingers somberly on Kala’s face. “I ask only that you not judge us too harshly when you hear the answers."
