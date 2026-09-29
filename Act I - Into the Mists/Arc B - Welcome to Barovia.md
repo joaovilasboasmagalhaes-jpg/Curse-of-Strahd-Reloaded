@@ -618,7 +618,22 @@ As Rahadin approaches the players (or vice—versa), the players can hear the so
 
 The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
 
-Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
+Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss."
+
+> [!abstract]+ **Sister Elga Tie-in: Resonance of the Deathly Choir**
+> As Rahadin turns his steed to leave after addressing Ismark, his gaze sweeps across the group standing beside the young burgomaster. As his aura passes over Sister Elga, her *Urn of Soulcatching* begins to vibrate violently, its flame flaring into a brilliant, turbulent purple.
+> 
+> Because the urn operates on the same foundational soul-matrix that Strahd used to anchor Rahadin's life, the screaming chorus briefly resonates with the urn. While others hear only an indistinct cacophony of shrieks, Elga alone catches distinct words in ancient Elvish—the trapped souls of the slaughtered dusk elves, crying out in terror and cursing their butcher.
+> 
+> Rahadin feels the momentary pull on his spectral anchor and tugs the reins, reining in his horse as his dark eyes fix upon Elga’s holy symbol and urn with cold amusement. 
+> 
+> *"A child of the Ven,"* he muses in a low, resonant tone. *"I had thought your order went to ash four centuries ago in the eastern crags. Carry your little jar if it brings you comfort, Sister—but know that your masters died praying to scales that were already broken. Some souls are not meant for salvation."*
+> 
+> Rahadin does not view Elga as a threat at this stage, dismissing her urn as an inconsequential relic of a conquered church. (See [players/sister_elga/rahadin.md](players/sister_elga/rahadin.md) and [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+
+Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
+
+Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
 
 Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
 

@@ -359,6 +359,17 @@ If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimi
 ## C4b. Madam Eva's Tent
 This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
 
+> [!abstract]+ **Sister Elga Tie-in: The Long-Foretold Sister**
+> If Sister Elga is present, Madam Eva’s dark eyes linger on her with an uncharacteristic glint of quiet recognition and solemnity. 
+> 
+> "Ah," Eva rasps softly. "The little sister from the storm. The last stray of the Iron Scale. You are three hundred and eighty years late for your evening prayers, child."
+> 
+> If Elga asks about Abbot Ferd or what happened to her order, Madam Eva strictly declines to share what passed between her and the Abbot, shaking her head:
+> 
+> *"Your Abbot came to this very tent centuries ago when your god fell silent, demanding to see what lay ahead. I read his cards, as I am bound to do for any who ask. But a seeker's fortune is for their ears alone—I cannot give you what belonged to him.*
+> 
+> *If you seek the remnants of your flock, travel west beyond the walled town, to the secluded crags where the Luna River runs cold beneath the shadow of Mount Ghakis. The ruins of your priory sleep in the mist—and those who watched your brothers fall still stand vigil in the halls of the fallen dragon nearby."* (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+
 > [!profile]+ **Profile: Madam Eva**
 >
 > **Roleplaying Information**
@@ -815,6 +826,11 @@ If the players call out to this nameless **revenant** or step onto the bridge, i
 If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
 
 If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life. 
+
+> [!abstract]+ **Sister Elga Tie-in: Recognition of the Iron Scale**
+> If Sister Elga is wearing her holy symbol or church vestments, the revenant’s red-burning eyes flicker with startled recognition as it lowers its guard.
+> 
+> *"A priest of the Iron Scale..."* it murmurs in a rasping whisper. *"I thought your order perished when the Devil tore through your cloisters centuries ago. If you seek answers for what became of your brethren, travel west to Argynvostholt. Sir Godfrey Gwilym remembers your people well."*
 
 If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
 
