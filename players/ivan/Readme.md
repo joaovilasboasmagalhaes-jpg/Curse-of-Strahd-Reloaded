@@ -16,5 +16,5 @@ These player-accessible documents record Ivan's established background, knowledg
 
 This DM-only document contains mutable plans for connecting Ivan's backstory to Barovian lore.
 
-- [Backstory Plan](plan_backstory.md): The DM's working plan for developing those connections.
-- [Campaign Lore & Arc Integration Plan](dm_campaign_integration.md): Master planning document integrating Ivan's backstory with the Wolfir, the Huntress, the Fanes, and module-wide werewolf encounters.
+- [Clan Lore](clan_lore_dm.md): Mutable DM canon for the two clans, their secrecy, Strahd's limited interest, Skennis's ward plan, family history, and Ivan's exile.
+- [Campaign Integration](dm_campaign_integration.md): Mutable campaign-facing consequences, arc hooks, revelations, and implementation notes.
