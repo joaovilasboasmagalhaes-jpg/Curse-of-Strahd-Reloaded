@@ -148,6 +148,8 @@ The southern clan is absorbed into the northern den:
 
 By the time Ivan reaches Barovia, he does not know that his clan has moved north, that Skennis is alive, or that Emil has been taken to Castle Ravenloft.
 
+Weeks before any of this, while Emil Toranescu was still alpha and the pack still roamed freely beyond the Mists during Strahd's slumber, **Ravka Ashclaw** led one of the pack's routine raids beyond the valley and destroyed the shadar-kai village of Ashcairn — the home of Caspian, another player character. Ravka has no connection to Kiril at the time of the raid, but readily backs his coup once Strahd's awakening recalls the pack home. See [Caspian's DM Plans](../caspian/dm_plans.md) for the full detail; this is the DM's tie between Ivan's and Caspian's backstories, revealed together at Arc L.
+
 ## 10. Canon Questions Still Open
 
 These remain intentionally unresolved until they become useful in play:
@@ -158,3 +160,9 @@ These remain intentionally unresolved until they become useful in play:
 - Did any southern werewolves resist Kiril openly after the move?
 - Does the northern pack believe Kiril is their true leader, or merely Strahd's appointed intermediary?
 - Can the old wards be restored without fully reconsecrating the Forest Fane?
+
+## 11. Open Issue: Emil's Age/Timeline Conflict with Arc L
+
+Merging Emil Petrovich (Ivan's 19-year-old youngest brother) with Emil Toranescu (Arc L's alpha, mated to Zuleika for 13 years, chosen as Skennis's heir 5 years ago) creates an unresolved age contradiction — Emil would have been 6 years old when he supposedly began mentoring Bianca and Kiril.
+
+**Deferred fix (not yet applied):** Trim Arc L's Bianca's Fall timeline so the numbers fit a younger Emil — e.g., "thirteen years ago" → roughly four years ago for Bianca/Kiril joining the pack, and "five years ago" → roughly one year ago for Skennis stepping down. Revisit when this becomes relevant to prep (before running Arc L).

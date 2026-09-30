@@ -36,7 +36,7 @@ The Krezkov family connection can foreshadow Emil and Zuleika without immediatel
 
 ### Arc L: The Den of Wolves
 
-The den is the first major revelation of Ivan's backstory.
+The den is the first major revelation of Ivan's backstory. It is also the first major revelation of Caspian's backstory: this is the pack whose raiding party destroyed his home village of Ashcairn. See [Caspian's Campaign Integration](../caspian/dm_campaign_integration.md) for how the two reveals should share the scene without competing for focus.
 
 - Bianca recognizes Ivan as Kiril's brother and becomes emotionally conflicted rather than simply treating him as another intruder.
 - Skennis recognizes Ivan by scent and voice. His reaction should be immediate, but his first priority is getting Ivan to understand that the exile was not what it appeared to be.
@@ -55,6 +55,8 @@ The den is the first major revelation of Ivan's backstory.
 ### Arc Q: A Shining Beacon
 
 Kiril's confrontation should be personal rather than expositional. He can accuse Ivan of abandoning the clan and mock the old discipline of Clan Venatricho. He presents his corrupted strength as proof that he was right.
+
+If Ravka Ashclaw survived Arc L, she makes her last stand here alongside Kiril, giving Caspian his own reckoning in parallel (see [Caspian's Campaign Integration](../caspian/dm_campaign_integration.md)). Keep Kiril's scene focused on Ivan; Ravka's fight is Caspian's, not a competing claim on Kiril's narrative attention.
 
 His transformation into the mutant lycan represents the final defilement of inherited Wolfir power through hunger, coercion, and Strahd's influence.
 
