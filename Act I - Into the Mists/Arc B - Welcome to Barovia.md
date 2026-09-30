@@ -1034,6 +1034,14 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 
 Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
 
+> [!abstract]+ **Agni and Doru: Two Thresholds**
+>
+> If Agni reveals that he is affected by vampiric hunger, Doru notices that his scent is different from a vampire spawn's. Agni carries the hunger, but not the same settled pull toward living blood. Doru asks, quietly, “Have you fed? Please tell me you haven’t. If you haven’t, then you still have a choice I lost.” His voice tightens as he adds, “It became so much harder after tasting it. Before that, I could still tell myself the hunger was something being done to me. Afterward, every breath smelled like an invitation.”
+>
+> This is not a revelation Doru can prove, and he does not know why Agni is different. He only recognizes the difference through his own hunger. If Agni admits that he has not drunk living humanoid blood, Doru urges him to keep resisting and offers his experiment as evidence that hunger can be endured. If Agni refuses to discuss it, Doru respects the silence. If Agni claims that he has fed, Doru becomes frightened that Agni will eventually become what he is and asks the party to leave him alone.
+>
+> Agni can also choose to take part in the experiment by remaining beside Doru while the fresh blood is exposed. Lower the first die by one if Agni tells Doru that surviving the moment matters, even if the hunger never disappears. If Agni instead treats Doru as a monster or threatens him, increase the die normally. This scene should give Agni a chance to see that restraint is a choice made repeatedly, not proof that the hunger has vanished.
+
 > [!abstract] **The Players Attack**
 > Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
 
