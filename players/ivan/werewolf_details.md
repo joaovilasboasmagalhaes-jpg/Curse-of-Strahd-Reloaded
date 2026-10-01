@@ -59,7 +59,15 @@ Your Instinct can't exceed your maximum.
 
 ## Instinct Stages
 
-Your Instinct is divided into three stages: **Suppressed, Balanced, and Unleashed**. The effects of each stage are detailed below.
+As you gain or lose Instinct, you move through different stages that reflect your connection to the Beast.
+
+| Instinct Points per level | Stage |
+| --- | --- |
+| 1–2 | **Suppressed** |
+| 3–4 | **Balanced** |
+| 5–6 | **Unleashed** |
+
+As an example, a **5th-level Blood Hunter** has a maximum of 30 Instinct and is **Suppressed** with 1–10 Instinct, **Balanced** with 11–20 Instinct, and **Unleashed** with 21–30 Instinct.
 
 ### Suppressed
 
