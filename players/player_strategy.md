@@ -126,6 +126,16 @@ Sister Elga's intended transformation is:
 
 Her possible final legacy is a reformed Order of the Ven: an order devoted not only to destroying undead, but to protecting the boundary between life and death and guiding souls toward peace.
 
+## 11. Keep a Story Snapshot in Each Player's Readme
+
+Each player's `Readme.md` is the entry point to their character material. Keep a concise, DM-facing snapshot there so the DM can quickly recall:
+
+- The character's main goal, expressed as an actionable personal objective.
+- Their most distinguishing feature: the trait, relationship, object, or ability that most clearly sets them apart.
+- Other story hooks and NPC-readable details, such as visible signs, recognizable affiliations, unresolved relationships, strong reactions, or rumors.
+
+Base the snapshot on the player's established material, and link to the source documents. Separate established facts from mutable DM plans or unrevealed twists; do not present a planned connection as something the character already knows. Update the snapshot when the character's goal, canon, or campaign hooks change.
+
 ## Worked Example: Sister Elga
 
 The Sister Elga integration followed this sequence:
@@ -157,3 +167,5 @@ When integrating another player character, answer these questions:
 - How does the character retain agency?
 - What belief changes by the end?
 - What legacy remains after the campaign?
+- What main goal and distinguishing feature should be summarized in the player's Readme?
+- Which story hooks or visible details might an NPC notice, and which are still unrevealed DM plans?

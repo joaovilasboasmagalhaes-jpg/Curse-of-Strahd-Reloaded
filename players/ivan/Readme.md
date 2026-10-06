@@ -2,6 +2,14 @@
 
 This directory contains reference material and campaign-planning notes related to Ivan.
 
+## Story Snapshot (DM-Facing)
+
+> This snapshot combines established character facts with campaign hooks. Treat planned revelations as DM notes, not as information Ivan or the other players already know.
+
+- **Main goal:** Protect his family and clan, uncover what happened after his exile, and free Kiril from Strahd's influence if he can.
+- **Most distinguishing feature:** Ivan is an inherited Wolfir lycanthrope, trained from childhood by his pack. Unlike an infected werewolf, he can usually change form while retaining his mind; the full moon remains an exception.
+- **Story and NPC hooks:** His father Skennis and brothers Emil and Kiril are central to his choices. Ivan left to protect the pack after Kiril's threat, but carries guilt and doubts about his brother's betrayal. Wolves or Strahd's servants may recognize that he is not an ordinary werewolf; keep early reactions subtle. See [Backstory](backstory.md) and [Campaign Integration](dm_campaign_integration.md).
+
 ## Reference Documents
 
 These player-accessible documents record Ivan's established background, knowledge, and mechanics.
