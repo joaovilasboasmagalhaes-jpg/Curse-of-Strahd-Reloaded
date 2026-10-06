@@ -942,6 +942,8 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 >
 > Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
 >
+> In the first hours after Doru's return, Donavich spoke to his son through the trapdoor, hoping to hear the boy he raised beneath the hunger. When Doru's bloodlust and Strahd's influence broke through, Donavich panicked and sealed the undercroft. Since then, he has kept watch from a distance, prayed, and stopped answering Doru's calls. He tells himself that destroying the creature below is a mercy—and that his son is already dead—because the alternative, that Doru is still alive and suffering beneath his feet, is unbearable. He cannot bring himself to kill Doru, nor to face him, which is why he asks outsiders to do what he cannot.
+>
 > Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
 
 > [!profile]+ **Profile: Father Donavich**
@@ -964,13 +966,23 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 
 If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
 
+> [!info]+ **Donavich and Ireena's Bite Marks**
+>
+> If Donavich sees Ireena's bite marks, or learns that Strahd has bitten her, his fear for her cuts through his exhaustion. He has seen what Strahd made of Doru, and fears that Ireena might share that fate—though he does not assume she is already turning, and is confused if told that she has been bitten more than once without changing. He is gentle with her, in sharp contrast to his condemnation of "the creature" below, and urges her not to stay in Barovia where Strahd can return.
+>
+> *"He has marked you, child. I don't know what he intends—but I have seen what he can make of someone he loves. Please, don't wait here for him to decide."*
+>
+> If Strahd was in the village the previous night, Donavich falls quiet when he hears of it. This is the thread that can pull the truth about Doru into the open (see **A Second Visit**).
+
 As the conversation unfolds, the following exchanges might occur:
 
 * If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
+* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege. (If he has opened up, he adds that it was the undead husk of his son, Doru—and both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
 * If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
-If the players inquire further, Donavich can share the following information:
+***First Visit.*** If the players have not yet earned his trust, or if you would rather delay the reveal of Doru's fate, Donavich remains closed. He refuses to perform any blessing, says only that "a vampire spawn" attacked the church during the siege, and deflects any questions about the undercroft or his son. He asks the players to leave. (See **A Second Visit** below for how the full truth can come out later.)
+
+Once Donavich opens up—either because the players earn his trust or through the events of **A Second Visit**—he can share the following information:
 
 * When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
 * Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
@@ -980,8 +992,24 @@ If the players inquire further, Donavich can share the following information:
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
 If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+### A Second Visit
+If the players have already been turned away once, use this version to reveal Doru's fate without Donavich simply volunteering it. It works best if Ireena is present, if her bite marks are visible, or if the players mention that Strahd was in the village the previous night.
+
+Donavich is warmer toward Ismark and Ireena than he was toward the players alone, but remains guarded. When Strahd's attention on Ireena comes up, he goes silent. Doru has also felt Strahd's presence and has been pleading for his father more urgently than before. Read:
+
+<div class="description">
+<p>A voice rises faintly through the floorboards, hoarse and broken: "Father—please. Don't let him do to her what he did to me."</p>
+</div>
+
+Donavich freezes. He may step toward the trapdoor as if to silence the voice, then stop. If the voice calls again—"I'm still here. I'm still your son."—he breaks.
+
+<div class="description">
+<p>Donavich's hands tremble. "No," he whispers. "My son is dead. That thing below is a vampire spawn. It wears his voice to torment me."</p>
+</div>
+
+The contradiction is plain: Donavich calls Doru dead while Doru answers him. If the players press, he admits that Doru returned during the siege, that he locked him in the undercroft, and that he has not been able to bring himself to answer him since. From here, continue with the information and request in **Inside the Church**, including the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span>.
 ### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
+The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows:
 
 <div class="description">
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
@@ -992,6 +1020,8 @@ Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to t
 <div class="description">
 <p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
 </div>
+
+If Strahd visited the village the previous night, Doru felt his presence and is more frightened and agitated than usual. He doesn't know where Strahd went or what he did, only that he was near, and he is more urgent in his pleas to be heard by his father.
 
 Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
 
