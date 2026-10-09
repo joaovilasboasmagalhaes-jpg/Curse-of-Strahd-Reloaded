@@ -392,6 +392,9 @@ As the players explore their rooms, one of them finds a torn excerpt of *Van Ric
 
 Kolyan and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
 
+> [!info]+ **Van Richten's Reputation**
+> A character who succeeds on a DC 8 Intelligence (History) check has heard the name Rudolph van Richten. On a DC 12 check, they know he is a famous author and monster hunter whose books about monsters circulate even in distant realms.
+
 When the players are ready to depart, Ireena retrieves a wooden crate containing twelve *fire bottles* (see below) from a closet, with each bottle packed securely between wads of straw.
 
 > [!item]+ **Fire Bottle**
@@ -895,39 +898,27 @@ The players have one round to kill the rat as it scurries toward a large hole in
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body in the final hours before dawn, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+### The Urn's Warning
+As the players carry Kolyan's coffin through the town square on the way to the church, Sister Elga's *Urn of Soulcatching* begins to glow bright purple. Ismark notices and asks Elga what the urn is and what it does. After she explains its ability to harvest souls, Ismark watches the flame uneasily.
 
-<div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
-</div>
+“There may still be undead lingering around the village after the siege,” he says. “But by dawn, they should retreat. Perhaps that's what the urn is sensing. We should keep moving.”
 
-If Bildrath died in the siege, add:
+If the players linger in the square, Parriwimple comes back from his walk by the church. If the players continue promptly, they find him already outside the church when they arrive. In either case, he notices the coffin and asks Ismark if it holds Kolyan. When Ismark confirms it, Parriwimple offers his condolences.
 
-<div class="description">
-<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
-</div>
 
-Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
+Parriwimple explains that he spent the night caring for Bildrath, who was wounded by the zombie plague spreader. A healing potion kept his uncle alive and stabilized him, but Bildrath still came down with a fever from the zombie's necrotic poison. Parriwimple's constitution helped him shrug off the sickness, and he has been tending to Bildrath all night. Bildrath is now safe and asleep upstairs at the shop; his fever is mild and should pass within a few days. Parriwimple came out for a walk because he couldn't sleep while his uncle rested.
 
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
+Parriwimple says his walk took him by the church, where he used to talk with Doru. He still can't shake the habit, and hopes Doru somehow survived so they can have fun together again one day. He also misses Alanik and the pet monkey he used to play with. Parriwimple won't go into the church or stay away from his uncle for long. He returns to the shop and invites the players to visit before they leave Barovia.
 
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
+When the players arrive at the church with the burgomaster’s body in the final hours before dawn, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] looks over its aged, weatherworn exterior but finds no fresh damage from the siege.
 ### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+The interior of the church is as described in <span class="citation">Church (p. 45)</span>. Any damage Doru caused while under Strahd's influence is confined to the undercroft, where he remains imprisoned.
+
+Father Donavich has spent the night praying, with Doru's behavior keeping him on edge. When the players enter the chapel, Donavich is still kneeling behind the altar, half asleep. His prayer falters as the party approaches. Read:
 
 <div class="description">
-<p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
-<p>You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.</p>
-</div>
-
-Doru does not cry out to his father when the players enter the chapel. Instead, when the players first approach the chapel, Donavich’s prayers halt. Add the following line to the chapel’s description in place of Doru’s cry:
-
-<div class="description">
-<p>The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace."</p>
+<p>The soft prayer from behind the altar falters. The old priest jerks upright, blinking heavily as if dragged from the edge of sleep. His face is drawn with exhaustion, and his robes are creased from a night spent kneeling. When he sees Ismark and Ireena, his eyes widen in surprise. He takes a breath, smooths his vestments, and tries to compose himself.</p>
+<p>"Master Ismark. Ireena. Forgive me—I wasn't expecting you." His gaze falls on the coffin, and the surprise in his face gives way to sorrow. "Kolyan... I'm sorry. Of course. Let me prepare for the burial."</p>
 </div>
 
 > [!lore]+ **A Recent History of the Church**
@@ -941,8 +932,6 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 > In fact, however, it is Father Donavich’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
 >
 > Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
->
-> In the first hours after Doru's return, Donavich spoke to his son through the trapdoor, hoping to hear the boy he raised beneath the hunger. When Doru's bloodlust and Strahd's influence broke through, Donavich panicked and sealed the undercroft. Since then, he has kept watch from a distance, prayed, and stopped answering Doru's calls. He tells himself that destroying the creature below is a mercy—and that his son is already dead—because the alternative, that Doru is still alive and suffering beneath his feet, is unbearable. He cannot bring himself to kill Doru, nor to face him, which is why he asks outsiders to do what he cannot.
 >
 > Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
 
@@ -964,25 +953,15 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 >
 > ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
-
-> [!info]+ **Donavich and Ireena's Bite Marks**
->
-> If Donavich sees Ireena's bite marks, or learns that Strahd has bitten her, his fear for her cuts through his exhaustion. He has seen what Strahd made of Doru, and fears that Ireena might share that fate—though he does not assume she is already turning, and is confused if told that she has been bitten more than once without changing. He is gentle with her, in sharp contrast to his condemnation of "the creature" below, and urges her not to stay in Barovia where Strahd can return.
->
-> *"He has marked you, child. I don't know what he intends—but I have seen what he can make of someone he loves. Please, don't wait here for him to decide."*
->
-> If Strahd was in the village the previous night, Donavich falls quiet when he hears of it. This is the thread that can pull the truth about Doru into the open (see **A Second Visit**).
+If Ismark or Ireena asks how Donavich has been, he admits that he spent the entire night praying, and that Doru's behavior took a heavy toll on him.
 
 As the conversation unfolds, the following exchanges might occur:
 
 * If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege. (If he has opened up, he adds that it was the undead husk of his son, Doru—and both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
+* If Ismark, Ireena, or a player asks about Doru, Father Donavich explains that a **vampire spawn** attacked during the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
 * If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
-***First Visit.*** If the players have not yet earned his trust, or if you would rather delay the reveal of Doru's fate, Donavich remains closed. He refuses to perform any blessing, says only that "a vampire spawn" attacked the church during the siege, and deflects any questions about the undercroft or his son. He asks the players to leave. (See **A Second Visit** below for how the full truth can come out later.)
-
-Once Donavich opens up—either because the players earn his trust or through the events of **A Second Visit**—he can share the following information:
+If the players inquire further, Donavich can share the following information:
 
 * When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
 * Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
@@ -992,36 +971,20 @@ Once Donavich opens up—either because the players earn his trust or through th
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
 If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
-### A Second Visit
-If the players have already been turned away once, use this version to reveal Doru's fate without Donavich simply volunteering it. It works best if Ireena is present, if her bite marks are visible, or if the players mention that Strahd was in the village the previous night.
-
-Donavich is warmer toward Ismark and Ireena than he was toward the players alone, but remains guarded. When Strahd's attention on Ireena comes up, he goes silent. Doru has also felt Strahd's presence and has been pleading for his father more urgently than before. Read:
-
-<div class="description">
-<p>A voice rises faintly through the floorboards, hoarse and broken: "Father—please. Don't let him do to her what he did to me."</p>
-</div>
-
-Donavich freezes. He may step toward the trapdoor as if to silence the voice, then stop. If the voice calls again—"I'm still here. I'm still your son."—he breaks.
-
-<div class="description">
-<p>Donavich's hands tremble. "No," he whispers. "My son is dead. That thing below is a vampire spawn. It wears his voice to torment me."</p>
-</div>
-
-The contradiction is plain: Donavich calls Doru dead while Doru answers him. If the players press, he admits that Doru returned during the siege, that he locked him in the undercroft, and that he has not been able to bring himself to answer him since. From here, continue with the information and request in **Inside the Church**, including the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span>.
 ### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows:
+Any damage caused by Doru's struggles is confined to the undercroft. This area is otherwise as described in <span class="citation">E5g. Undercroft (p. 47)</span>. Modify the last sentence of the description as follows:
 
 <div class="description">
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
 </div>
 
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling in the far corner. The players can see signs of damage from his struggles in the room, but his hiding place is not immediately apparent. Darkvision alone doesn't reveal him: spotting him requires a DC 16 Wisdom (Perception) check, whether active or passive. The players' passive scores are all below this DC. A light source makes Doru visible in the corner, but doesn't automatically draw the players' attention to him. Otherwise, after one round, read:
 
 <div class="description">
 <p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
 </div>
 
-If Strahd visited the village the previous night, Doru felt his presence and is more frightened and agitated than usual. He doesn't know where Strahd went or what he did, only that he was near, and he is more urgent in his pleas to be heard by his father.
+Once Doru speaks, the voice clearly comes from above, in the far corner. If a light source illuminates him, he reflexively raises an arm to shield his eyes, unused to light after a week in the dark. This is a startled reaction, not a weakness: ordinary light doesn't harm him; sunlight does.
 
 Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
 
@@ -1054,6 +1017,20 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 >
 > ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
 
+> [!info]+ **What Doru Knows About Vampires**
+>
+> If the players ask, Doru can explain these traits from *Van Richten's Guide to Vampires* and his own experience. They describe vampires generally, not Strahd's full capabilities.
+>
+> **[Born from Death](https://2014.5e.tools/book.html#mm,0,born%20from%20death,null).** Most victims rise as vampire spawn: blood-hungry servants controlled by their creator. If a true vampire lets a spawn drink its blood, the spawn becomes a true vampire and is no longer controlled by its creator. Spawn also become free-willed if their creator dies.
+>
+> **[Chained to the Grave](https://2014.5e.tools/book.html#mm,0,chained%20to%20the%20grave,null).** A vampire must rest by day in its coffin, crypt, or grave. If it had no formal burial, it must rest beneath a foot of earth at the place it became undead. Moving its coffin or a significant amount of grave dirt can establish another resting place; some vampires keep several.
+>
+> **[Shapechanger](https://2014.5e.tools/book.html#mm,0,shapechanger,null).** Away from sunlight and running water, a vampire can use an action to become a Tiny bat or a Medium cloud of mist, or return to its true form. In bat form it can speak no words, walks at 5 feet, and flies at 30 feet. In mist form it cannot act, speak, or manipulate objects; it is weightless, can hover and fly 20 feet, pass through any gap air can pass through, and cannot pass through water. Mist form grants advantage on Strength, Dexterity, and Constitution saves and immunity to nonmagical damage, except sunlight damage. A vampire that dies in bat form reverts to its true form.
+>
+> **[Regeneration](https://2014.5e.tools/book.html#mm,0,regeneration,null).** At the start of its turn, a vampire regains 20 hit points if it has at least 1 hit point and isn't in sunlight or running water. Radiant damage or holy water suppresses this trait until the start of its next turn.
+>
+> **[Vampire Weaknesses](https://2014.5e.tools/book.html#mm,0,vampire%20weaknesses,null).** A vampire can't enter a residence without an occupant's invitation; takes 20 acid damage if it ends its turn in running water; and is paralyzed if a wooden piercing weapon is driven into its heart while it is incapacitated in its resting place, until the stake is removed. In sunlight, it takes 20 radiant damage at the start of its turn and has disadvantage on attack rolls and ability checks.
+
 > [!info]+ **Doru Will Remember That**
 >
 > When the players’ conversation with Doru begins, secretly place a six-sided die on the table, with its top face showing a one. Each time the players antagonize or discourage Doru, increase the number on the die by one. Each time the players are encouraging or kind, decrease the number on the die by one. (The number can’t go below zero or above six.)
@@ -1064,13 +1041,11 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 
 Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
 
-> [!abstract]+ **Agni and Doru: Two Thresholds**
+> [!abstract]+ **Agni and Doru**
 >
-> If Agni reveals that he is affected by vampiric hunger, Doru notices that his scent is different from a vampire spawn's. Agni carries the hunger, but not the same settled pull toward living blood. Doru asks, quietly, “Have you fed? Please tell me you haven’t. If you haven’t, then you still have a choice I lost.” His voice tightens as he adds, “It became so much harder after tasting it. Before that, I could still tell myself the hunger was something being done to me. Afterward, every breath smelled like an invitation.”
+> Doru is focused on the players' intentions, his own condition, and the scent of the fresh blood. Though he was forced to feed on his slain companions, he doesn't single Agni out or react to Agni's condition; if anything, Agni's scent is less compelling to him than the blood before him.
 >
-> This is not a revelation Doru can prove, and he does not know why Agni is different. He only recognizes the difference through his own hunger. If Agni admits that he has not drunk living humanoid blood, Doru urges him to keep resisting and offers his experiment as evidence that hunger can be endured. If Agni refuses to discuss it, Doru respects the silence. If Agni claims that he has fed, Doru becomes frightened that Agni will eventually become what he is and asks the party to leave him alone.
->
-> Agni can also choose to take part in the experiment by remaining beside Doru while the fresh blood is exposed. Lower the first die by one if Agni tells Doru that surviving the moment matters, even if the hunger never disappears. If Agni instead treats Doru as a monster or threatens him, increase the die normally. This scene should give Agni a chance to see that restraint is a choice made repeatedly, not proof that the hunger has vanished.
+> If the players directly explain Agni's unusual condition, Doru can only guess that it is a less extreme form of vampirism. He cannot identify or explain it. He recalls *Born from Death* describing how a vampire spawn may drink a vampire's blood as part of becoming a true vampire, but Doru has never taken that step.
 
 > [!abstract] **The Players Attack**
 > Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
@@ -1117,21 +1092,21 @@ Doru thanks the players and relinquishes the holy symbol without protest. If the
 
 Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel off the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
 
-If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
+If the players ask how Strahd compares to an ordinary vampire, Doru warns that the Devil is unlike any other. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. Doru can't describe Strahd's specific capabilities, only that he seemed to slaughter Doru's friends "in mere moments."
 
 Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
 ### The Burial
-If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
-
 If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
 
 <div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
-<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
-<p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
+<p>Donavich's eyes well with tears as he looks at the bronze sunburst. His hand reaches toward it, then stops short. A strangled sob escapes him as he sinks to his knees.</p>
+<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do."</p>
+<p>He swallows, his expression hardening. "It had to be done. For his sake—and ours. But that thing wore his face and corrupted this symbol. I will not wear it."</p>
 </div>
 
-Otherwise, if the players spared Doru and relay his final message, read:
+Donavich is certain the symbol was corrupted by being worn by the monster that impersonated his son. No argument can persuade him otherwise, and he refuses to wear or use it. The players may take the symbol to a holy place and perform a cleansing ritual. A character who succeeds on a DC 19 Intelligence (Arcana) check cleanses it; another character can assist to reduce the DC to 18. After a successful ritual, Donavich accepts that the symbol has been cleansed and is willing to use it again.
+
+Otherwise, if Doru survived his trial and the players tell Donavich that his son is alive, read:
 
 <div class="description">
 <p>Donavich stumbles back as if he's been struck, his face pale and his eyes wide with shock. For a moment, he simply stands there, silent—and then the silence is broken by a pained noise, a cross between a gasp and a sob, as he clutches the symbol to his chest. </p>
@@ -1139,7 +1114,9 @@ Otherwise, if the players spared Doru and relay his final message, read:
 <p>"My boy," he chokes out. "He's—he's still my boy?" </p>
 </div>
 
-Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
+Donavich's grief gives way to hope. He examines the symbol and decides that it is not corrupted after all. He wants to learn everything he can about vampirism and how Doru might be saved. He considers offering Doru his own blood, but Doru begs him never to let him feed again, afraid he would lose control after tasting blood. Donavich agrees to keep Doru imprisoned in the undercroft, hoping its sacred confinement will help Doru resist his urges, and asks the players to return someday with any knowledge that might help them save him.
+
+In either outcome, Donavich performs Kolyan's burial ceremony. If he has the symbol and is willing to use it, he casts *gentle repose* to sanctify Kolyan's remains before directing the players to lower the coffin into the grave. Without the symbol, any magic Donavich attempts fails, but he still conducts the ceremony.
 
 The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. While the sky is still dark, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
 
@@ -1170,8 +1147,6 @@ At the conclusion of Donavich’s prayer, Ismark and Ireena offer the following 
 
 Any players who wish to may offer words, prayers, or tributes of their own. 
 
-If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground. 
-
 With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
 
 Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
@@ -1180,6 +1155,8 @@ Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid momen
 > All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
 ### Return to the Mansion
 When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+
+Now that Ismark has learned about the urn's ability to harvest souls, he shows Sister Elga a record of the souls lost during the siege.
 
 As Ismark packs the rations, he can share the following information:
 
