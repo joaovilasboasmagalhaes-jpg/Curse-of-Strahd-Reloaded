@@ -5,8 +5,6 @@ Dating convention: the first night of the siege is Night 1. Each night runs from
 
 ---
 
-### Earlier losses and departures — entered on Night 1
-
 **Doru**, son of Father Donavich; young man of the village, and Mary's daughter's betrothed
 status: missing; presumed dead
 last seen: roughly three months before Night 1, departing in daylight from the eastern edge of the village for Castle Ravenloft. Departure witnessed by the burgomaster and many villagers.
@@ -26,6 +24,8 @@ how lost: Helped Doru assemble the marchers and joined the company. None returne
 status: missing; presumed dead
 last seen: departing with Doru and Alanik for Castle Ravenloft, roughly three months before Night 1.
 how lost: None returned and no bodies were found. The company numbered about two dozen; the precise count is uncertain.
+
+---
 
 **Emeric**, an older adult villager with graying hair
 status: departed for Vallaki; whereabouts unconfirmed
@@ -62,7 +62,7 @@ status: departed for Vallaki; whereabouts unconfirmed
 last seen: departing west along the Old Svalich Road with Emeric's party, after Rahadin's proclamation and roughly three months before Night 1.
 how lost: No word received since departure. The party numbered no more than two dozen; six members are listed above. The exact total is approximate.
 
-### Siege entries
+---
 
 **Anton Konstantinovich**, Alenka Konstantinova's brother
 status: missing
@@ -84,7 +84,7 @@ status: dead
 last seen: at home with Marta and their son on Night 4.
 how lost: Killed during the Night 4 attacks. Parriwimple survived and is in Bildrath's care.
 
-### Night 7 — siege ends
+---
 
 **Kolyan Indirovich**, older adult burgomaster of Barovia; father of Ismark Kolyanovich
 status: dead
@@ -98,7 +98,7 @@ how lost: Killed in the attacks. Many bodies were visible when the western barri
 
 The undead withdrew after Kolyan's death. The siege ended on Night 7.
 
-### Morning after Night 7
+---
 
 **Gertruda**, Mary's young adult daughter and Doru's betrothed
 status: missing
