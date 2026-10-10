@@ -55,6 +55,18 @@ If the players received the location of Van Richten’s hidden weapons cache fro
 
 The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The children are holding their parent's hands and don't attack until the one they're holding stops.
 
+> [!abstract]+ **Sister Elga Tie-in: Lansten Memories**
+>
+> On a 9–12, Sister Elga learns the soul's alignment; on a 13–16, she also learns its name; on a 17–19, she additionally learns one relevant memory of her choice from the table. A natural 20 reveals all information, including both memories.
+>
+> | Soul | Alignment | Warm memory from life | Memory of the attack |
+> | --- | --- | --- | --- |
+> | Jarek, the father | Neutral Good | He remembers fixing the roof during a summer rainstorm while Mila held a pot beneath the leak. When he climbed down, soaked through, Anya presented him with a wooden bird he had carved for her. She insisted it was payment for the repair. | He remembers leading his family off the road to hide after the attack on Barovia. The dead kept coming, even after the family stopped making noise. |
+> | Mila, the mother | Neutral Good | She remembers baking bread with all three children crowded around the table. Tomas kneaded the dough too fiercely, Petru got flour on his nose, and Anya laughed so hard she fell off her stool. Mila remembers wishing she could keep that sound forever. | She remembers recognizing one of the zombies as a neighbor from the village, but it didn't recognize her. It simply followed the family into the woods. |
+> | Anya, the daughter | Neutral Good | She remembers the first time her father let her walk alone to the old well. Frightened, she carried his little wooden bird in her pocket and practiced the whistle he had taught her. When she made it home, Jarek pretended not to have watched from the doorway. | She remembers her father squeezing her hand and telling her to keep holding on. Her strongest impression is the terror of his hand going slack. |
+> | Tomas, the older boy | Chaotic Good | He remembers saving half a honeyed crust from breakfast for Petru, who had been sick in bed. Petru ate it slowly, and Tomas felt proud that his little brother trusted him to stay beside him until he felt better. | He remembers trying to distract the dead by throwing a stone into the trees, then hearing them turn toward the sound. |
+> | Petru, the younger boy | Neutral Good | He remembers being lifted onto Jarek's shoulders at the village's harvest bonfire. From up high, the sparks looked like stars falling to earth. Mila waved below, while his siblings argued over who got to ride on their father's shoulders next. | He remembers being cold and confused, certain that his parents would take him home if he just kept holding their hands. |
+
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
 > [!info]+ **Undead Fortitude**
