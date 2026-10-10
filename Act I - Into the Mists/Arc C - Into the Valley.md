@@ -97,6 +97,9 @@ The carriage then comes to a stop. Read the following, modifying the text as nec
 <div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
 <p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
 
+![[Strahd introduction.webp]]
+<span class="credit">"Strahd von Zarovich" by Moonberry_maple. Check him on <a href="https://www.reddit.com/user/Moonberry_maple/">Reddit!</a></span>
+
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 
 <div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
