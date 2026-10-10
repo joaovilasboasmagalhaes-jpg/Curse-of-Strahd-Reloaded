@@ -90,7 +90,7 @@ The players can see a driver sitting in the coach box: the **vampire spawn** Esc
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape. Ireena will stop once she notices the carriage driver.
 
 The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
