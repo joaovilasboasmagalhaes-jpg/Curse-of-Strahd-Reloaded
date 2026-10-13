@@ -1,0 +1,3 @@
+The fight begins. The players wait for the monsters to come closer and hit them. They defended well, but Bildrath almost died from the virulent miasma attack. Agni gave him a healing potion. Parriwimple took him in his arms and carried him away. 
+
+Sister Elga noticed the blue tipped raven cawing at the party and trying to get their attention. The party decided to follow it into the town square. The zombie plague spreader and the wight followed them there. There, they see the scene of Ismark alone against another plague spreader, while children hide next to the statue in tents horrified by what happened.
