@@ -6,7 +6,7 @@ Ismark and the party head to the mansion to find Kolyan dead and Ireena unconsci
 
 Grim talks with Caspian about what they just faced and asks him if he’s set on facing Strahd.
 
-They sleep and wake up to Ireena and Ismark arguing. Sister Elga wants to investigate but the other stop her out of respect. They spot the swarms of bats spying through the windows and head to Ismark to warn him. Ismark then speaks with them and finds each of their goals when he asks them to take Ireena to Vallaki.  
+Before sleeping, sister elga performs a small nightly ritual. They sleep and wake up to Ireena and Ismark arguing. Sister Elga wants to investigate but the other stop her out of respect. They spot the swarms of bats spying through the windows and head to Ismark to warn him. Ismark then speaks with them and finds each of their goals when he asks them to take Ireena to Vallaki.  
 
 The players then convince Ireena to leave with them to Vallaki and sleep the rest of the night. Ivan stays watching a bit more until the bats disperce. 
 
