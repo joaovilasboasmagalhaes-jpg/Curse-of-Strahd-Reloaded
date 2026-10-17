@@ -1,3 +1,5 @@
+**[p. 4]**
+
 # Foreword: Ravenloft Revisited
 
 >>*We turned the corner, and there was a vampire.*
@@ -32,6 +34,8 @@
 
 
 ------
+
+**[p. 5]**
 
 # Introduction
 
@@ -87,6 +91,8 @@ Although the adventurers can escape by slaying Strahd, he can't be truly destroy
 
 The adventure ends when either **Strahd von Zarovich** or the characters are defeated. Your goal is to keep Strahd in play for as long as possible, using all the abilities and resources at his disposal.
 
+**[p. 6]**
+
 ### Adventure Structure
 
 Much of the adventure's action is driven by the clash between the adventurers' decisions and Strahd's goals, and the adventurers and the vampire are all caught in strands of fate that are represented by a special card reading detailed in chapter 1, "Into the Mists." Before you run the adventure, you need to conduct that reading to determine the location of several items that are key to the story, as well as one of the locations where Strahd can be found.
@@ -129,6 +135,8 @@ If an area of the adventure ends up feeling free of mystery or danger, consider 
 |     8th    | The Ruins of Berez     |    10   |
 |     9th    | Castle Ravenloft       |    4    |
 |     9th    | The Amber Temple       |    13   |
+
+**[p. 7]**
 
 ## Marks of Horror
 
@@ -188,6 +196,8 @@ There are no stranger bedfellows than horror and humor. Tension can't be sustain
 
 ------
 
+**[p. 9]**
+
 # Chapter 1: Into the Mists
 
 Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count **Strahd von Zarovich** so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.
@@ -219,6 +229,8 @@ Strahd believes that the key to his escaping Barovia lies in finding someone wor
 *I am the Ancient. I am the Land.*
 
 *My beginnings are lost in the darkness of the past. I am not dead. Nor am I alive. I am undead, forever.*— Tome of Strahd
+**[p. 10]**
+
 ### Strahd's Goals
 
 Strahd has the following goals in the adventure.
@@ -262,6 +274,8 @@ Strahd isn't a villain who remains out of sight until the final scene. Far from 
 When Strahd wants to terrorize the characters, he pays them a visit, either under the cloak of night or beneath overcast skies during the day. If they're indoors, he tries to charm or goad a character into inviting him inside (along with his vampire spawn, if they are present). Strahd and his minions never attack Ireena.
 
 These encounters are meant to test the characters, not kill them. After a few rounds of toying with them, Strahd and his creatures withdraw. If the characters retreat, Strahd is likely to allow them to flee, savoring their fear and believing he has broken them.
+
+**[p. 11]**
 
 ## Fortunes of Ravenloft
 
@@ -340,6 +354,8 @@ Flip over card 3, and read:
 >>
 
 This card determines the location of the *Sunsword* (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+
+**[p. 12]**
 
 #### 4. Strahd's Enemy
 
@@ -434,6 +450,8 @@ The treasure is hidden in the attic of the Burgomaster's mansion in Vallaki (cha
 >>
 
 The treasure lies in Strahd's tomb (chapter 4, area K86).
+
+**[p. 13]**
 
 #### Stars (Clubs)
 
@@ -579,6 +597,8 @@ The treasure lies in Castle Ravenloft's treasury (chapter 4, area K41).
 
 The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).
 
+**[p. 14]**
+
 #### Glyphs (Hearts)
 
 >>**One of Glyphs—Monk**
@@ -650,6 +670,8 @@ The treasure is hidden in the master bedroom of Wachterhaus (chapter 5, area N4o
 >>
 
 The treasure lies in Castle Ravenloft's chapel (chapter 4, area K15).
+
+**[p. 15]**
 
 ### Strahd's Enemy
 
@@ -812,6 +834,8 @@ This card refers to **Arabelle** (see chapter 2, area L). She gladly joins the p
 
 This card refers to **Vasilka** the flesh golem (see chapter 8, area S13).
 
+**[p. 17]**
+
 ### Strahd's Location in the Castle
 
 Drawn from the high deck, the fifth card in the card reading determines the location of the final showdown with Strahd—the place in Castle Ravenloft where the characters are sure to find him. The first time the characters arrive at the foretold location, Strahd is there, provided he hasn't been forced back into his coffin.
@@ -914,6 +938,8 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 Strahd confronts the characters in the treasury (area K41). "A woman of great beauty" refers to the portrait of Tatyana hanging in the castle's study (area K37), which contains a secret door that leads to the treasury.
 
+**[p. 18]**
+
 ## Adventure Hooks
 
 In the event that begins the adventure, the fates of Strahd and the adventurers are entwined as the characters are invited or forced into his domain. Different ways to get the adventurers to Barovia are described in the sections that follow. Use whichever one you favor.
@@ -957,6 +983,8 @@ The crest depicted on the letter's seal belongs to Strahd, though the characters
 
 The letter, which seems to have been written by the burgomaster, was actually penned by Strahd. If the characters read the letter, show the players "Kolyan Indirovich's Letter (Version 1)" in appendix F. The letter is bait to lure the adventurers to Barovia. If the characters take the bait, they arrive at area A (see chapter 2, "The Lands of Barovia").
 
+**[p. 19]**
+
 ### Mysterious Visitors
 
 The details of this adventure hook assume that your D&D campaign is based in or near Daggerford, a town on the Sword Coast in the Forgotten Realms, but you can change the location to suit your campaign.
@@ -992,6 +1020,8 @@ The leader of this group is **Stanimir** (CN male human), an old man with the st
 
 **Stanimir** is joined by his daughter, Damia (CN female human **spy**), and his son, Ratka (CN male human **bandit captain**). Nine other Vistani (male and female **bandits**) heed Ratka's commands. The six **draft horses** are used to pull the Vistani wagons, which contain their belongings but nothing of value.
 
+**[p. 20]**
+
 #### The Dancing Fire
 
 **Stanimir** introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
@@ -1023,6 +1053,8 @@ These Vistani refuse to speak the name of their "dread lord" and provide no addi
 If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, **Madam Eva**, at area G (see chapter 2). The characters arrive at area A and are taken through areas B, E, and F on the way to **Madam Eva**'s camp. If the characters rid themselves of their Vistani hosts before reaching **Madam Eva**'s camp, they're on their own.
 
 If the characters decline **Stanimir**'s invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
+
+**[p. 21]**
 
 ### Werewolves in the Mist
 
@@ -1065,6 +1097,8 @@ Members of the Emerald Enclave in the party gain inspiration whenever the party 
 ***About the Emerald Enclave.*** This widespread group of wilderness survivalists preserves the natural order while rooting out unnatural threats. Druids, rangers, and barbarians make up most of its membership.
 
 Branches of the organization can be found wherever untamed wilderness exists. Members of the Emerald Enclave know how to survive, and more important, they want to help others do the same. They aren't opposed to civilization or progress, but they strive to prevent civilization and the wilderness from destroying one another.
+
+**[p. 22]**
 
 #### Lords' Alliance
 
@@ -1116,6 +1150,8 @@ No matter which direction they go, the characters come to a lonely dirt road tha
 
 ------
 
+**[p. 23]**
+
 # Chapter 2: The Lands of Barovia
 
 The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of his family that ended here with the slaughter of hundreds. Struck by the scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
@@ -1142,6 +1178,8 @@ A deadly fog surrounds the land of Barovia and engulfs any creature that tries t
 - A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of exhaustion (see *appendix A* in the *Player's Handbook*). This exhaustion can't be removed while the creature is in the fog.
 - No matter how far a creature travels in the fog, or in which direction it goes, it gets turned around so that it eventually finds itself back in Barovia.
 - The area within the fog is heavily obscured (see "Vision and Light" in chapter 8 of the *Player's Handbook*).
+
+**[p. 24]**
 
 ### Sunlight in Barovia
 
@@ -1220,6 +1258,8 @@ Barovians live within a closed ecosystem. Every Barovian adult is expected to le
 >- **Female Names:** Alana, Clavdia, Danya, Dezdrelda, Diavola, Dorina, Drasha, Drilvia, Elisabeta, Fatima, Grilsha, Isabella, Ivana, Jarzinka, Kala, Katerina, Kereza, Korina, Lavinia, Magda, Marta, Mathilda, Minodora, Mirabel, Miruna, Nimira, Nyanka, Olivenka, Ruxandra, Sorina, Tereska, Valentina, Vasha, Victoria, Wensencia, Zondra
 >- **Family Names:** Alastroi, Antonovich/Antonova, Barthos, Belasco, Cantemir, Dargovich/Dargova, Diavolov, Diminski, Dilisnya, Drazkoi, Garvinski, Grejenko, Groza, Grygorovich/Grygorova, Ivanovich/Ivanova, Janek, Karushkin, Konstantinovich/Konstantinova, Krezkov/Krezkova, Krykski, Lansten, Lazarescu, Lukresh, Lipsiege, Martikov/Martikova, Mironovich/Mironovna, Moldovar, Nikolovich/Nikolova, Nimirovich/Nimirova, Oronovich/Oronova, Petrovich/Petrovna, Polensky, Radovich/Radova, Rilsky, Stefanovich/Stefanova, Strazni, Swilovich/Swilova, Taltos, Targolov/Targolova, Tyminski, Ulbrek, Ulrich, Vadu, Voltanescu, Zalenski, Zalken
 
+**[p. 25]**
+
 ### Souls and Shells
 
 Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them—only about one in every ten—have souls.
@@ -1235,6 +1275,8 @@ A Barovian woman, soulless or not, can give birth. A child born in Barovia might
 Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 
 If Strahd is defeated, the fog that surrounds Barovia fades away, allowing the inhabitants of the valley to leave if they wish. Only those who have souls, however, can truly leave this place. Soulless Barovians cease to exist as soon as they exit the valley.
+
+**[p. 26]**
 
 ### Barovians and Nonhumans
 
@@ -1299,6 +1341,8 @@ Each family or clan of Vistani is its own little gerontocracy, with the oldest m
 
 Vistani families and clans are closely knit. They resolve disagreements through contests that end with reconciliatory singing, dancing, and storytelling. The Vistani are quick to act when their lives or traditions are threatened and are merciless when they believe they must be.
 
+**[p. 27]**
+
 ### Strahd's Vistani Servants
 
 During one of Strahd's military campaigns, years before he became a vampire, a group of Vistani rescued him after he was wounded in battle. These Vistani not only nursed Strahd back to health but also delivered him safely home. As a reward for their generosity, Strahd declared that all Vistani had the right to come and go from his land as they please, and this privilege extends to the present day. Thus, Vistani can travel freely through the fog that surrounds Barovia, without fear of harm or entrapment.
@@ -1330,6 +1374,8 @@ Vistani know the following facts about Barovia and Barovians:
 - The Old Svalich Road passes through Strahd's domain. Three settlements lie on the road like beads on a string: Krezk to the west, Vallaki in the heart of the valley, and Barovia to the east. Strahd has spies in each settlement.
 - There's an old windmill on the road between the village of Barovia and the town of Vallaki. It should be avoided at all costs! (The Vistani refuse to say more.)
 - It is wise to stick to the road. Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the Svalich Woods.
+
+**[p. 28]**
 
 #### Beliefs and Superstitions
 
@@ -1422,6 +1468,8 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 Use the descriptions that follow to help run each random encounter. The table entries are presented in alphabetical order.
 
+**[p. 29]**
+
 #### Barovian Commoners
 
 >>The sound of snapping twigs draws your attention to several dark shapes in the fog. They carry torches and pitchforks.
@@ -1459,6 +1507,8 @@ If someone spots the berserker, read:
 >>
 
 The berserkers shun civilized folk. They try to remain hidden and withdraw if they are spotted, attacking only if trapped or threatened.
+
+**[p. 30]**
 
 #### Corpse
 
@@ -1536,6 +1586,8 @@ Have each of the characters in the front rank of the party's marching order make
 
 Barovian hunters and trappers set these traps hoping to thin out the wolf population, but Strahd's wolves are too clever to be caught in them. If none of the characters in the front rank spots the hidden trap, one random party member steps on it. Rules for the *hunting trap* are presented in chapter 5, "*Equipment*," of the *Player's Handbook*.
 
+**[p. 31]**
+
 #### Needle Blights
 
 >>Hunched figures lurch through the mist, their gaunt bodies covered in needles.
@@ -1582,6 +1634,8 @@ If both the rider and its mount are destroyed, this encounter can't occur again.
 >>
 
 If the characters are moving quietly and not carrying light sources, they can try to hide from the **Strahd zombies**. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
+
+**[p. 32]**
 
 #### Swarms of Bats
 
@@ -1652,6 +1706,8 @@ They try to befriend the characters to see if they are carrying silvered weapons
 ***Wolf Form.*** Werewolves in wolf form follow the party from a safe distance for several hours. If their Dexterity (Stealth) checks exceed the characters' passive Wisdom (Perception) scores, the werewolves attack with surprise when the characters decide to take a short or long rest. Otherwise, they wait until the characters are weakened by another random encounter before moving in for the easy kill.
 
 The werewolves' lair is a cave complex that overlooks Lake Baratok (area Z). If you used the "Werewolves in the Mist" adventure hook to lure the characters to Barovia, captured werewolves can be forced to divulge the location of their den, where they keep their prisoners.
+
+**[p. 33]**
 
 #### Will-o'-Wisp
 
@@ -1724,6 +1780,8 @@ If Strahd is defeated, the gates of Barovia swing open, and the road east become
 
 >***Webs.*** Characters can pass through ordinary webs, including thick cobwebs, without fear of being restrained or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see "*Dungeon Hazards*" in chapter 5 in the *Dungeon Master's Guide* for rules on giant spider webs.
 
+**[p. 34]**
+
 ### C. Svalich Woods
 
 >>Towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence of a forgotten grave, yet exude the feeling of an unvoiced scream.
@@ -1748,6 +1806,8 @@ The letter in Dalvan's hand has a large "B" set into its wax seal. The parchment
 Dalvan was instructed to place the letter at the gates, in the hope that visitors would find it and turn back.
 
 If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of howling, five **dire wolves** arrive and attack. If the characters are trying to leave Barovia, these dire wolves are joined by a pack of twenty **wolves**. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the village of Barovia (area E).
+
+**[p. 35]**
 
 ### D. River Ivlis
 
@@ -1784,6 +1844,8 @@ As the characters leave the area, read:
 
 One random character sees him- or herself hanging from the gallows. The other characters see an unfamiliar Barovian. The corpse looks and smells real, and it rapidly melts away into nothing if touched or moved.
 
+**[p. 36]**
+
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10 percent chance of finding the treasure.
@@ -1818,6 +1880,8 @@ If the characters linger by the fire, one of the Vistani recounts the following 
 >>
 
 The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the characters haven't spoken with **Madam Eva**, the storyteller urges them to do so.
+
+**[p. 37]**
 
 #### Madam Eva's Tent
 
@@ -1878,6 +1942,8 @@ The two black **draft horses** are under Strahd's control. The horses wait for t
 
 Characters who don't want to travel east in the carriage can follow the road northwest through a set of iron gates (area B) that open as they approach and close behind them, or the characters can travel south along the winding road to the bridge at Tser Falls (area H).
 
+**[p. 38]**
+
 ### J. Gates of Ravenloft
 
 The following text assumes that the characters arrive here in the carriage from area I. Modify the text as needed if the characters arrive by another means.
@@ -1924,6 +1990,8 @@ Characters who act quickly can save **Arabelle** before she drowns. A character 
 **Arabelle** has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, **Luvash**, will give the characters a reward for doing so.
 
 A descendant of **Madam Eva** with the blood of Barovian royalty in her veins, **Arabelle** is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+
+**[p. 39]**
 
 ### M. Mad Mage of Mount Baratok
 
@@ -1980,6 +2048,8 @@ If your card reading reveals that the Mad Mage is the party's ally in the battle
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
 
 The **archmage** has never had his fortune read by **Madam Eva** and doesn't care to, but if he is told about the *Holy Symbol of Ravenkind*, the *Tome of Strahd*, and the *Sunsword*, he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+
+**[p. 40]**
 
 ### N. Town of Vallaki
 
@@ -2052,6 +2122,8 @@ Chapter 15 delves into the cave complex that is the main den of Barovia's werewo
 
 ------
 
+**[p. 41]**
+
 # Chapter 3: The Village of Barovia
 
 ![](img/adventure/CoS/012-cos03-01.webp)
@@ -2095,6 +2167,8 @@ A house of Barovian villagers is home to 1d4 adults (male and female human **com
 #### Strahd Zombies
 
 When the characters open a door or a shuttered window of a house infested with Strahd zombies, they are assailed by the stench of death. If the characters dare to enter, the zombies converge on their location.
+
+**[p. 43]**
 
 ## Areas of the Village
 
@@ -2143,6 +2217,8 @@ Use the following information to roleplay the other NPCs in the tavern.
 
 If the characters arrive in the company of other Vistani, the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit **Madam Eva** (see chapter 2, area G) to have their fortunes read.
 
+**[p. 44]**
+
 ### E3. Mad Mary's Townhouse
 
 >>A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse.
@@ -2171,6 +2247,8 @@ If the characters enter the mansion, read:
 >>
 
 Ismark and Ireena made the coffin themselves.
+
+**[p. 45]**
 
 #### Roleplaying Ireena
 
@@ -2227,6 +2305,8 @@ This is **Donavich**'s room and contains nothing of value.
 
 **Donavich** lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area E5g).
 
+**[p. 46]**
+
 #### E5e. Office
 
 >>An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
@@ -2261,6 +2341,8 @@ In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2
 
 Once Kolyan is put in the ground, **Donavich** suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). **Donavich** is unaware that the abbey, once a bastion of good, has become a den of evil.
 
+**[p. 47]**
+
 #### E5g. Undercroft
 
 >>The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips through the cracks, allowing you to glimpse a gaunt shape in the far corner.
@@ -2275,6 +2357,8 @@ If the characters restrain **Doru** and either promise him blood or threaten to 
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is in the undercroft, it's contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.
+
+**[p. 48]**
 
 ### E6. Cemetery
 
@@ -2322,6 +2406,8 @@ This event occurs as the characters make their way through the village.
 
 
 ------
+
+**[p. 49]**
 
 # Chapter 4: Castle Ravenloft
 
@@ -2382,6 +2468,8 @@ Angry **villagers** who have entered the castle brandish *torches* and pitchfork
 Characters can try to hide from the witch (who has darkvision) or catch her by surprise. This **Barovian witch** is one of the servants of Strahd dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
+
+**[p. 50]**
 
 #### Black Cat
 
@@ -2452,6 +2540,8 @@ This random encounter happens only once. If this result comes up again, treat it
 >>
 
 If more than two **flying swords** are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their blindsight.
+
+**[p. 51]**
 
 #### Giant Spider Cocoon
 
@@ -2543,6 +2633,8 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 |  5  | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts 1d4 hungry **vampire spawn** (see below), which arrive in 1d4 + 1 rounds.                                                                                                                     |
 |  6  | A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.                                                              |
 
+**[p. 52]**
+
 #### Vampire Spawn
 
 If any character has a passive Wisdom (Perception) score of 16 or higher, the party isn't surprised. In that case, read:
@@ -2591,6 +2683,8 @@ The open main doors to the keep lead to area K7. The large, shattered window ove
 Each outer gate tower has an ironbound door with a built-in lock.
 
 Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of *dispel magic* (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
+
+**[p. 54]**
 
 ### K2. Center Court Gate
 
@@ -2674,6 +2768,8 @@ If the characters enter from either direction, read:
 
 If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area K1, heading east. The dragons are four **red dragon wyrmlings**, and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
 
+**[p. 55]**
+
 ### K8. Great Entry
 
 >>Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones.
@@ -2691,6 +2787,8 @@ The elf is **Rahadin**, the castle chamberlain (see appendix D). He fights only 
 #### Development
 
 After all the characters leave this room, the eight **gargoyles** attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble *torches* in the sconces, plunging the hall into darkness unless the characters have light sources.
+
+**[p. 56]**
 
 ### K9. Guests' Hall
 
@@ -2719,6 +2817,8 @@ The organ appears locked in place and immovable, but a character who makes a suc
 The food on the table is tasty, the wine delicious.
 
 ![](img/adventure/CoS/026-cos04-04.webp)
+
+**[p. 57]**
 
 ### K11. South Archers' Post
 
@@ -2773,6 +2873,8 @@ If your card reading reveals that a treasure is here, it lies on the floor behin
 
 If your card reading indicates an encounter with **Strahd** in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
 
+**[p. 58]**
+
 ### K16. North Chapel Access
 
 >>This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.
@@ -2822,6 +2924,8 @@ Both suits of armor are mechanical traps, each one activated by a pressure plate
 When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (2d6) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
 
 The suits of armor act much like metal puppets—a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
+
+**[p. 59]**
 
 ### K20. Heart of Sorrow
 
@@ -2885,6 +2989,8 @@ The skeletons, which were assembled by **Cyrus Belview** (see area K62), are hel
 The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
 
 The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed the message "Please register for your own convenience and that of your next of kin." The book is more than half-filled with names, all of them illegible.
+
+**[p. 61]**
 
 ### K24. Servants' Quarters
 
@@ -2952,6 +3058,8 @@ Have the players roll initiative, and run this as a combat encounter with the "v
 
 A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage. If the mannequin is reduced to 0 hit points while in the air, it falls to the floor.
 
+**[p. 62]**
+
 ### K28. King's Balcony
 
 >>A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
@@ -2994,6 +3102,8 @@ Lief knows that there's a key that unlocks all four chests, but he can't remembe
 
 The western door leads to area K25. The eastern door provides access to a staircase (area K21) that leads down to area K9 and up to a landing outside area K35, continuing upward from there to area K47.
 
+**[p. 63]**
+
 #### Treasure
 
 The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Investigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
@@ -3027,6 +3137,8 @@ The shaft is 170 feet tall. It starts at area K61, climbs 90 feet to area K31, a
 Scaling the shaft is impossible without the aid of magic or the use of a climber's kit, because the walls are smooth and slick with mildew, and the greasy iron chains are too thick and slippery to grasp.
 
 Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pushed open to reveal area K47.
+
+**[p. 64]**
 
 ### K31b. Shaft Access
 
@@ -3091,6 +3203,8 @@ The dark figures are four **swarms of rats** piled atop one another to form manl
 
 The steel door is engraved with images of a human king in armor astride a horse, a majestic range of mountains and shooting stars in the background. Tiny figures of people and wolves frame the image.
 
+**[p. 65]**
+
 ### K36. Dining Hall of the Count
 
 >>Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
@@ -3115,6 +3229,8 @@ The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of d
 A character who plays the harp and succeeds on a DC 15 Charisma (Performance) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If **Pidlwick II** (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
 
 With nothing more to add, the ghost of Pidlwick fades away and doesn't appear again. If the characters attack the ghost, it attacks them in turn.
+
+**[p. 66]**
 
 #### Treasure
 
@@ -3185,6 +3301,8 @@ The secret door to the west is set into the back wall of the fireplace (area K37
 
 The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a *knock* spell or similar magic.
 
+**[p. 67]**
+
 ### K39. Hall of Webs
 
 >>This ancient hall is choked with spider webs broken by a single clear path down its center.
@@ -3223,6 +3341,8 @@ The domed ceiling is coated with dry pitch. The "stars" are shards of glowing cr
 The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a *Daern's instant fortress* (see chapter 7, "Treasure," of the *Dungeon Master's Guide*). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
 
 The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of the fortress are 3 inches thick. Characters who are able to reduce their size or assume gaseous form can enter the tower through these slits.
+
+**[p. 68]**
 
 #### Treasure
 
@@ -3324,6 +3444,8 @@ The portrait on the wall depicts **Strahd von Zarovich** before he became a vamp
 
 If the characters attack the rug or the picture, or if they attempt to remove either item, the **guardian portrait** (see appendix D) attacks.
 
+**[p. 70]**
+
 ### K48. Offstair
 
 >>This spiraling staircase is dark and dusty.
@@ -3366,6 +3488,8 @@ The cloak is ordinary. The witches in area K56 placed it here to help them remem
 
 The trapdoor can be found after a search of the room and a successful DC 13 Wisdom (Perception) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a *knock* spell, or similar magic. It swings down when unlocked.
 
+**[p. 71]**
+
 ### K52. Smokestack
 
 >>Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone.
@@ -3391,6 +3515,8 @@ A character must succeed on a DC 15 Dexterity (Acrobatics) check to traverse the
 >>
 
 The three **cats** are familiars of the witches in area K56. If the familiars see the characters here, the witches are alerted to their presence.
+
+**[p. 72]**
 
 ### K55. Element Room
 
@@ -3443,6 +3569,8 @@ Not visible from the entrance is a small table behind the cauldron on which sits
 
 The courtyard is 190 feet below, the roof of the keep 80 feet below. A stone railing encloses a stone spiral staircase that descends into the tower.
 
+**[p. 73]**
+
 ### K58. Bridge
 
 >>A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds.
@@ -3478,6 +3606,8 @@ If the characters see **Pidlwick II** in bright light, read:
 If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
 If one or more characters are mean toward **Pidlwick II**, its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking 1d6 bludgeoning damage per 10 feet fallen.
+
+**[p. 74]**
 
 ### K60. North Tower Peak
 
@@ -3547,6 +3677,8 @@ Any creature on top of the elevator when it reaches the top of the shaft must ma
 
 The elevator remains at the top of the shaft until the lever in area K31 is moved to the "down" position. When that happens, the trap resets in 1 round: the portcullises come down, and the elevator compartment descends to its place in the hallway at the bottom of the shaft as the stone block rises to the top of the shaft. When the elevator reaches the bottom, its portcullises rise again.
 
+**[p. 76]**
+
 #### Development
 
 The sound of the elevator moving can be heard throughout the castle. Characters who are trapped or asleep in the elevator compartment are easy prey for Strahd, who can reach them by way of the trapdoor in area K47.
@@ -3576,6 +3708,8 @@ Along the east wall is a rusted but sturdy iron portcullis that bars the way to 
 
 The double doors at the west end of the hall are made of heavy planks banded with steel. They open into area K67.
 
+**[p. 77]**
+
 ### K63. Wine Cellar
 
 >>Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
@@ -3584,6 +3718,8 @@ The double doors at the west end of the hall are made of heavy planks banded wit
 The rats are harmless. **Cyrus Belview** (see area K62) treats them like pets.
 
 Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to area K18.
+
+**[p. 78]**
 
 #### Wine Casks
 
@@ -3642,6 +3778,8 @@ The dragon skull mounted above the eastern doors belonged to Argynvost (see chap
 If your card reading reveals that a treasure is here, it is lying on the bone table.
 
 If your card reading indicates an encounter with **Strahd** in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
+
+**[p. 79]**
 
 ### K68. Guards' Run
 
@@ -3709,6 +3847,8 @@ When a character sets off a trap, other characters in the hall see an explosion 
 
 Characters who fall victim to the teleport traps are transported to dungeon cells closed with iron bars and under 5 feet of brackish water (areas K74 and K75).
 
+**[p. 80]**
+
 ### K74. North Dungeon
 
 The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
@@ -3761,6 +3901,8 @@ This cell is linked to a teleport trap in area K73.
 #### K74f. Empty Cell
 
 This cell contains nothing of interest.
+
+**[p. 81]**
 
 #### K74g. Gray Ooze
 
@@ -3818,6 +3960,8 @@ This cell is linked to a teleport trap in area K73. The skeletal remains of a dw
 #### K75e. Empty Cell
 
 This cell contains nothing of interest.
+
+**[p. 82]**
 
 #### K75f. Dead Wizard
 
@@ -3906,6 +4050,8 @@ The stones set into the brazier's rim are colored red, orange, yellow, green, bl
 
 After 5 rounds, the sand runs out, and the color of the flame returns to white. When the flame does so, the sand instantly reappears in the top part of the hourglass (provided the hourglass is intact), and the stone that was cast into the fire reappears in the brazier's rim.
 
+**[p. 84]**
+
 #### Development
 
 If the brazier, the hourglass, or either **golem** is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
@@ -3950,6 +4096,8 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 Characters who have knowledge of stonecutting can tell that this passage is a relatively new construction compared to other areas of Ravenloft. The tunnel is 120 feet long, with a stone door at its eastern end.
 
 Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
+
+**[p. 85]**
 
 ### K82. Marble Slide
 
@@ -4006,6 +4154,8 @@ The catacombs are home to tens of thousands of bats. The bats hang here during d
 Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a *detect magic* spell, which reveals an aura of conjuration magic in the trapped areas. Although the traps can't be disarmed, a successful casting of *dispel magic* (DC 16) on a trap suppresses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an *antimagic field*.
 
 These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the **wights** in crypt 14. The wight materializes in the creature's previous location and attacks any living creature it sees.
+
+**[p. 86]**
 
 #### Crypt 1
 
@@ -4072,6 +4222,8 @@ If the characters disturb Saint Markovia's remains, add:
 >>
 
 ***Treasure.*** A *detect magic* spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on *Saint Markovia's thighbone*.
+
+**[p. 87]**
 
 #### Crypt 7
 
@@ -4148,6 +4300,8 @@ The slab upon which the helm rests is weight-sensitive. If the helm is removed f
 
 A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
+**[p. 88]**
+
 #### Crypt 13
 
 *King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler*
@@ -4202,6 +4356,8 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 ***Treasure.*** The skull's *black opal eye-gems* are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
 Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a *staff of power* materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the *staff of power* can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+
+**[p. 89]**
 
 #### Crypt 16
 
@@ -4273,6 +4429,8 @@ Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The
 
 ***Development.*** If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" section in chapter 13), Patrina (NE female dusk elf) returns as an **archmage** with no spells prepared. If the characters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy Strahd (a lie). If the characters oblige, she repays their kindness by learning as much about them as possible before pursuing her own goals.
 
+**[p. 90]**
+
 #### Crypt 22
 
 *Sir Erik Vonderbucks*
@@ -4332,6 +4490,8 @@ Three **giant wolf spiders** infest this otherwise empty crypt. The spiders make
 If the bell is rung inside the crypt, magic fire sweeps through the crypt to scorch Chef Ofenheiss's bones. A creature in the crypt must make a DC 17 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half damage on a successful one. Any creature that fails its save catches fire, taking 5 (1d10) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
 
 ***Treasure.*** Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 250 gp).
+
+**[p. 91]**
 
 #### Crypt 29
 
@@ -4393,6 +4553,8 @@ Creatures that enter the eastern alcove of this crypt are teleported to the east
 Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
 If the sword is pulled from the armor, Sir Klutz appears as a **phantom warrior** (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before Strahd became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
+
+**[p. 92]**
 
 #### Crypt 34
 
@@ -4464,6 +4626,8 @@ A *mending* cantrip can repair the spear, which is broken into three pieces of r
 
 If your card reading reveals that a treasure is here, it is in a secret compartment under Grislek's remains. Once his charred bones are cleared away, the compartment can be found and opened without an ability check.
 
+**[p. 93]**
+
 #### Crypt 39
 
 *Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trod*
@@ -4522,6 +4686,8 @@ A *detect magic* spell reveals that the western and eastern alcoves radiate stro
 
 Creatures that enter the western alcove are instantly teleported to the western alcove of crypt 32 in area K84. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of crypt 32 appears here.
 
+**[p. 94]**
+
 #### Treasure
 
 Strahd lavished many fine gifts on his three brides.
@@ -4577,6 +4743,8 @@ If your card reading indicates an encounter with **Strahd** in this area, he is 
 
 ------
 
+**[p. 95]**
+
 # Chapter 5: The Town of Vallaki
 
 Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced vah-*lah*-key) seems like a safe haven against the evils of the Svalich Woods, if not Strahd himself. The town lies beyond the sight of Castle Ravenloft and doesn't, at first blush, seem as depressed (or oppressed) as the village of Barovia farther east. Characters who spend time in Vallaki, however, quickly realize that there is no happiness here, only false hope—which Strahd himself cultivates.
@@ -4613,6 +4781,8 @@ Heavy iron chains with iron padlocks keep the gates shut at night. During the da
 Two town **guards** (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., 1d10 + 1 piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
 
 If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human **guards**, half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human **commoners** armed with clubs, daggers, and *torches*.
+
+**[p. 96]**
 
 ### House Occupants
 
@@ -4655,6 +4825,8 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 - West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.
 - South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.
 
+**[p. 97]**
+
 ## Areas of Vallaki
 
 The following areas correspond to labels on the map of Vallaki above.
@@ -4690,6 +4862,8 @@ The culprit is **Milivoj**, whom Father Lucian correctly suspects. But the pries
 St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, **Milivoj** used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts **Milivoj** and succeeds on a DC 10 Charisma (Intimidation) check, he admits that Yeska told him about the bones. He also admits to passing along the information to **Henrik van der Voort**, the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
 
 The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a *hallow* spell.
+
+**[p. 98]**
 
 ### N2. Blue Water Inn
 
@@ -4732,6 +4906,8 @@ A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined wel
 
 A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
 
+**[p. 100]**
+
 #### N2c. Taproom
 
 >>Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
@@ -4762,6 +4938,8 @@ On rare occasions when he has something to say, Szoldar speaks brusquely, while 
 During his stay at the inn, **Rictavio** is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, **Rictavio** plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
 
 **Rictavio** wears a *hat of disguise* and a *ring of mind shielding* to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
+
+**[p. 101]**
 
 #### N2d. Wine Storage
 
@@ -4817,6 +4995,8 @@ A secret door in the back of the loft can be pushed open to reveal a bedchamber 
 Guests aren't told about the inn's secret hallway. **Rictavio** knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
 
 At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen (area N2e) beyond. The eastern secret door can be pulled open to reveal a balcony (area N2j) that overlooks the taproom.
+
+**[p. 102]**
 
 #### N2j. Great Balcony
 
@@ -4886,6 +5066,8 @@ A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q
 
 ![The Martikov Family](img/adventure/CoS/054-cos05-07.webp)
 
+**[p. 103]**
+
 #### N2p. Master Bedroom
 
 >>Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
@@ -4924,6 +5106,8 @@ People come and go from the mansion at all hours during the day. Guards bring cr
 If the characters knock on the front doors, a maid (LG female human **commoner**) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
 
 ![Map 5.3: Burgomaster's Mansion (Area N3)](img/adventure/CoS/055-015.webp)![Player Version](img/adventure/CoS/056-cos502.webp)
+**[p. 105]**
+
 #### Roleplaying the Vallakovich Family
 
 Use the following information to roleplay the burgomaster and his family.
@@ -4956,6 +5140,8 @@ The stairs climb to the upstairs gallery (area N3i).
 The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
 
 Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+
+**[p. 106]**
 
 #### N3b. Parlor
 
@@ -5028,6 +5214,8 @@ If the characters arrive here from the kitchen (area N3g), read:
 >>The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
 >>
 
+**[p. 107]**
+
 #### N3j. Izek's Bedroom
 
 The door to this room is locked. **Izek Strazni** carries the only key.
@@ -5082,6 +5270,8 @@ The man is a Vallakian shoemaker named Udo Lukovich (LN male human **commoner**)
 Baron Vallakovich has the key to Udo's manacles. The manacles break if they take 10 damage or more from a single weapon attack.
 
 If the characters release Udo, his first desire is to return to his home. Later, he plans to tell Father Lucian (see area N1) of his ill treatment in the burgomaster's estate. If the baron discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+
+**[p. 108]**
 
 #### N3n. Master Bedroom Closet
 
@@ -5143,6 +5333,8 @@ Characters are most likely to enter this room via a trapdoor in the ceiling of t
 
 A door in the south wall can be pulled open to area N3s.
 
+**[p. 109]**
+
 #### N3s. Attic Storage
 
 >>This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
@@ -5194,6 +5386,8 @@ Victor recently inscribed his own version of a teleportation circle on the floor
 Victor has tested his circle on two reluctant servants (compelled by his *suggestion* spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
 
 ***Treasure.*** Victor's spellbook contains all the spells Victor has prepared (see the **mage** stat block in the *Monster Manual*) as well as the following spells: *animate dead*, *blight*, *cloudkill*, *darkvision*, *glyph of warding*, *levitate*, *remove curse*, and *thunderwave*.
+
+**[p. 110]**
 
 ### N4. Wachterhaus
 
@@ -5249,6 +5443,8 @@ Two closets flank the front door. The western closet contains Lady Wachter's out
 >>
 
 The staircase climbs 15 feet to the upstairs hall (area N2l).
+
+**[p. 112]**
 
 #### N4c. Kitchen
 
@@ -5309,6 +5505,8 @@ If the characters aim to oppose the burgomaster, Lady Wachter offers them a warm
 Ernst Larnak, Lady Wachter's spy, lounges here when he's not out spying on her behalf.
 
 ***Treasure.*** The room contains several items of value, including a golden goblet (worth 250 gp) from which Ernst drinks wine, a crystal wine decanter (worth 250 gp), four electrum candelabras (worth 25 gp each), and a bronze urn with frolicking children painted on its sides (worth 100 gp).
+
+**[p. 113]**
 
 #### N4l. Upstairs Hall
 
@@ -5371,6 +5569,8 @@ Most of the Wachter family's book collection was sold off years ago to cover deb
 
 A section of the bookshelf that stretches along the southernmost wall is actually a secret door on hidden hinges. The bookshelf can be pulled outward, revealing an open doorway that leads to area N4q.
 
+**[p. 114]**
+
 #### N4q. Storage Room
 
 >>Behind the hinged panel in the bookcase lies a dusty, ten-foot-square room with a curtained window and shelves lining three walls. On the bottom shelf rests an iron chest. The other shelves are bare.
@@ -5423,6 +5623,8 @@ The imp doesn't get involved in the fighting unless Lady Wachter is drawn into t
 
 The pentagram is a nonmagical decoration, though Lady Wachter would have her cultists believe otherwise.
 
+**[p. 115]**
+
 ### N5. Arasek Stockyard
 
 >>This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."
@@ -5450,6 +5652,8 @@ The wagon also contains the torn-up remains of a doll. A character who makes a s
 If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either **Rictavio** (area N2) or **Piccolo** (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. **Rictavio** can make the tiger break off its attack and lure it back into the wagon.
 
 ![](img/adventure/CoS/061-cos05-12.webp)
+
+**[p. 116]**
 
 #### Treasure
 
@@ -5486,6 +5690,8 @@ If the characters break into the store, Henrik offers no resistance. He tells th
 If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four **guards** to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won't retrieve the bones himself for fear of being killed by the vampires.
 
 ![Map 5.5: Coffin Maker's Shop (Area N6)](img/adventure/CoS/063-cos05-13.webp)![Player Version](img/adventure/CoS/064-cos504.webp)
+**[p. 117]**
+
 #### N6a. Coffin Storage
 
 >>Arranged haphazardly about the floor of this musty, L-shaped room are thirteen wooden coffins.
@@ -5522,6 +5728,8 @@ Henrik prepares his meals here.
 Henrik sleeps here, at night and well into the morning. The bookshelf contains a handful of storybooks and carpenters' manuals that have been handed down from previous generations.
 
 ***Treasure.*** The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom (Perception) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of **Strahd von Zarovich**.
+
+**[p. 118]**
 
 #### N6f. Vampire Nest
 
@@ -5560,6 +5768,8 @@ Blinsky believes the burgomaster is right—that the only way to escape from Bar
 ***Ireena Kolyana Dolls.*** Blinsky makes special dolls for the burgomaster's henchman, **Izek Strazni** (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
 
 ***Von Weerg's Masterpiece.*** Blinsky considers himself a student of a great inventor and toymaker named Fritz von Weerg. Blinsky has heard rumors that von Weerg's greatest invention—a clockwork man—lies somewhere in Castle Ravenloft. If the characters seem intent on going there, Blinsky asks if they would be so kind as to find the clockwork "myasterpiece" and "dyeliver" it to him, in exchange for which Blinsky offers to make them any toy they desire. Because "byusiness" has not been good, he says, he has no other reward to offer except, perhaps, his new monkey companion.
+
+**[p. 119]**
 
 ### N8. Town Square
 
@@ -5638,6 +5848,8 @@ The dusk elves reside in small homes built into the hillside and are mostly self
 There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
 
 ![{@creature Luvash|CoS}](img/adventure/CoS/068-cos05-18.webp)![{@creature Arrigal|CoS}](img/adventure/CoS/069-cos05-17.webp)
+**[p. 121]**
+
 #### N9a. Kasimir's Hovel
 
 If the characters approach the house at the base of the hill on the eastern perimeter of the camp, read the following text:
@@ -5693,6 +5905,8 @@ If the characters ask something of the Vistani but have not earned **Luvash**'s 
 
 ***Dealing with Arrigal.*** **Arrigal** is a much more dangerous creature than his brute of a brother. If the characters have something in their possession that is either useful or harmful to Strahd and **Arrigal** becomes aware of it, he tries to deprive the characters of this item, stalking them if necessary and going as far as to kill one or more of them if he thinks he can escape with the item in his possession. If he succeeds, he takes one of the riding horses (area N9d) and delivers the item to Strahd at Castle Ravenloft.
 
+**[p. 122]**
+
 #### N9d. Horses
 
 >>The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
@@ -5728,6 +5942,8 @@ There are three of these wagons at the camp.
 >>
 
 Each of these wagons contains three Vistani (CN male and female human **bandits**). The Vistani are playing a dice game for favors, since they have no money. They respond to sounds of alarm by drawing their weapons and heading to the tent (area N9c).
+
+**[p. 123]**
 
 #### N9h. Vistani Family Wagon
 
@@ -5787,6 +6003,8 @@ Karl and **Nikolai Wachter** (see areas N2 and N4) are young, foolish men from a
 
 The saber-toothed tiger doesn't harm anyone until it takes damage, whereupon it attacks the perceived source of the damage. If he is still alive, **Izek Strazni** gathers six town guards and hunts down the beast with the intention of killing it. Meanwhile, **Rictavio** does his best to lure the beast back to his wagon while assuring townsfolk that it won't harm them.
 
+**[p. 124]**
+
 #### Development
 
 If he's still in power, the burgomaster conducts an investigation to find out where the tiger came from. Guards and local witnesses are questioned. The Wachter boys feign innocence, insisting that they were at the festival, but Gunther and Yelena Arasek (area N5) admit to hearing "evil growls" and scratching sounds coming from inside the carnival wagon parked in their stockyard. When pressed, the Araseks admit to seeing the wagon's "weird owner" routinely drop food into the wagon through a hatch in the roof. They also confess that the half-elf paid them for their silence.
@@ -5828,6 +6046,8 @@ If the characters thwart the attack on the church and protect Father Lucian, Str
 
 ------
 
+**[p. 125]**
+
 # Chapter 6: Old Bonegrinder
 
 Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: **Morgantha** and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women—a frumpy mother and her two homely daughters—the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.
@@ -5867,6 +6087,8 @@ Beyond the windmill is the forest. Once atop the windmill's hill, the characters
 
 ![](img/adventure/CoS/071-cos06-02.webp)
 
+**[p. 126]**
+
 ## Areas of the Windmill
 
 The following areas correspond to labels on the map of Old Bonegrinder below.
@@ -5896,6 +6118,8 @@ The chicken coop contains three chickens, a rooster, and a few laid eggs.
 The wooden trunk has tiny holes bored into its lid and contains a hundred croaking **toads**. Several toads escape if the lid is lifted, but they are harmless.
 
 ![Map 6.1: Old Bonegrinder (Area O)](img/adventure/CoS/072-019.webp)![Player Version](img/adventure/CoS/073-cos601.webp)
+**[p. 127]**
+
 ### O2. Bone Mill
 
 Unless she has been lured elsewhere, **Morgantha** is encountered here. This is where she grinds children's bones to make the powder for her dream pastries.
@@ -5926,6 +6150,8 @@ Each crate is 3 feet square. The top one is empty, but the middle and lower ones
 
 The two captured children (LG male and female noncombatants) were taken from the village of Barovia after being given to the hags by their parents in exchange for dream pastries. The boy, Freek, is seven years old. The girl, Myrtle, is barely five. Their crates are full of crumbs, as the hags are fattening them up. If freed, neither child wants to go home, because of what their parents did. They both speak kindly of Ismark and Ireena in Barovia, hoping to be taken to them.
 
+**[p. 128]**
+
 #### Treasure
 
 The hags don't use the bed for sleeping, but they store their treasure in it. Six pieces of cheap jewelry (worth 25 gp each) are stuffed in the moldy straw mattress.
@@ -5951,6 +6177,8 @@ Several ravens circle overhead, and one pecks at something on top of the stone t
 
 
 ------
+
+**[p. 129]**
 
 # Chapter 7: Argynvostholt
 
@@ -6002,6 +6230,8 @@ The spirit of the dragon Argynvost isn't at rest, either. It can sense that the 
 | 15–16 | Grave in the Svalich Woods (ch. 2, "Random Encounters")                   |
 | 17–20 | Corpse of one deceased player character or NPC, wherever it happens to be |
 
+**[p. 130]**
+
 ## Approaching the Mansion
 
 A winding branch of the Old Svalich Road meanders up the forested slope of a mountain spur to the old mansion, which is perched on high ground overlooking the Svalich Woods and the Luna River valley.
@@ -6035,6 +6265,8 @@ If scrutinized with a *detect magic* spell, the statue radiates an aura of evoca
 If a creature climbs the steps or sets foot on the landing, the dragon statue (area Q1) opens its mouth and exhales a 60-foot cone of harmless cold air, then closes its mouth and doesn't activate again until the next dawn. At one time, the statue would breathe a cone of ice and hail, but its magic has deteriorated over the years.
 
 The doors are unlocked and can be pushed open to reveal a dark foyer (area Q3).
+
+**[p. 132]**
 
 ### Q3. Dragon's Foyer
 
@@ -6093,6 +6325,8 @@ The fire doesn't attack. On its first turn, if it has not been reduced to 0 hit 
 
 The dragon refers to the Order of the Silver Dragon and the beacon (area Q53).
 
+**[p. 133]**
+
 ### Q7. Parlor
 
 >>Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds.
@@ -6149,6 +6383,8 @@ A secret door at the north end of the west wall can be pulled open to reveal a d
 >>
 
 A *continual flame* spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
+
+**[p. 134]**
 
 ### Q13. Chapel of Morning
 
@@ -6216,6 +6452,8 @@ Characters who can read the Draconic script can decipher the writing on the wall
 >*founder of the Order of the Silver Dragon*.
 >
 
+**[p. 135]**
+
 #### Development
 
 If the skull of Argynvost is brought from Castle Ravenloft (see chapter 4, area K67) and sealed inside the mausoleum, the dragon's spirit transforms into a brilliant light at the top of the tower (see area Q53).
@@ -6275,6 +6513,8 @@ The mural accurately depicts the Balinok Mountains.
 >>
 
 This room has been thoroughly looted. The wooden floor is soft and spongy, and it can't support more than 100 pounds of weight. If more weight is applied, the floor collapses, and any creature in the room falls 20 feet, taking damage as normal and landing in area Q12.
+
+**[p. 136]**
 
 ### Q24. Chapel Balcony
 
@@ -6338,6 +6578,8 @@ A tattered black curtain conceals an archway leading to a spiral staircase that 
 
 At the top of the stairs is a secret door that can be pulled open to reveal area Q36 beyond.
 
+**[p. 138]**
+
 ### Q31. East Staircases
 
 A round-topped wooden door opens to reveal a spiral staircase with narrow windows set into its walls. The stair connects the third floor and the mansion's roof.
@@ -6396,6 +6638,8 @@ Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q
 
 Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
 
+**[p. 139]**
+
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's in Vladimir's possession, and he doesn't part with it willingly unless the beacon of Argynvostholt has been lit (see area Q53).
@@ -6446,6 +6690,8 @@ If the beacon in area Q53 has been lit, Sir Godfrey remains a revenant even afte
 
 >>This dusty closet has a slender window set into the north wall. The room is otherwise empty.
 >>
+
+**[p. 140]**
 
 ### Q39. Vladimir's Bedroom
 
@@ -6505,6 +6751,8 @@ Argynvost preferred to sleep in his dragon form. Thus, there is no furniture her
 ### Q43. Hole in Roof
 
 This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength (Athletics) check. A failure by 5 or more causes the climber to slide down to the parapet, landing prone but taking no damage.
+
+**[p. 141]**
 
 ### Q44. Dragon Gargoyle
 
@@ -6583,6 +6831,8 @@ These turret rooftops are 80 feet above ground level. The spiral stairs descend 
 
 >***Spectral Longbow.*** *Ranged Weapon Attack:*  +2 to hit, range 150/600 ft., one target. Hit: 4 (1d8) force damage.
 
+**[p. 142]**
+
 ### Q53. Beacon of Argynvostholt
 
 >>Wooden stairs climb to the tower's peak, which has a stone floor and a thirty-foot-high pitched roof. Ravens roost on crisscrossing rafters, coming and going through small holes in the roof. Ten-foot-high, five-foot-wide arched windows are evenly spaced around the walls. Each window consists of a lead latticework fitted with small panes of transparent glass.
@@ -6636,6 +6886,8 @@ Hot on Ezmerelda's trail are the Vistani leader **Arrigal** (NE male human **ass
 
 ------
 
+**[p. 143]**
+
 # Chapter 8: The Village of Krezk
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.
@@ -6658,6 +6910,8 @@ The following areas correspond to labels on the map of Krezk below.
 >>
 
 The Old Svalich Road continues west from this location for a little more than a mile before it plunges into the foggy curtain that surrounds Barovia (see chapter 2, "Mists of Ravenloft"). Characters who follow the road north arrive at the gatehouse (area S2).
+
+**[p. 145]**
 
 ### S2. Gatehouse
 
@@ -6709,6 +6963,8 @@ Every cottage has its own graveyard where family members are interred. All the c
 
 ![](img/adventure/CoS/085-cos08-03.webp)
 
+**[p. 146]**
+
 #### Krezk Lore
 
 In addition to the information known to all Barovians (see "Barovian Lore" in chapter 2), the villagers of Krezk (called Krezkites) know the following bits of local lore:
@@ -6734,6 +6990,8 @@ The gazebo is so frail that it wouldn't take more than a strong wind to knock it
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, the item is hidden under the gazebo. The gazebo must be torn down to reach it, and doing that doesn't sit well with the locals. If the characters damage the gazebo and don't repair it, any Charisma checks they make to shift the attitudes of the villagers have disadvantage.
+
+**[p. 147]**
 
 ### S5. Winding Road
 
@@ -6782,6 +7040,8 @@ Otto has the Standing Leap feature (see the **mongrelfolk** stat block in append
 ***Zygfrek Belview.*** Zygfrek stands 4 feet, 7 inches tall. The left side of her face and body is covered with lizard scales, the right with tufts of gray wolf fur. Between these tufts is pale human skin. One of her eyes is that of a feline, and her fingers and hands resemble cat's paws with opposable thumbs. She has a gruff voice and wears a gray cloak with black fur trim.
 
 Zygfrek has the Darkvision feature (see the **mongrelfolk** stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
+
+**[p. 148]**
 
 ### S7. Graveyard
 
@@ -6839,6 +7099,8 @@ The double doors are heavy but unlocked. They can be pushed open to reveal a fog
 ### S11. Inner Gatehouses
 
 These two empty buildings help support the curtain wall (area S18) that encloses the courtyard (area S12). The wooden doors that lead to them are unlocked.
+
+**[p. 150]**
 
 ### S12. Courtyard
 
@@ -6915,6 +7177,8 @@ The music comes from upstairs (area S17). The stone staircase leads down to the 
 
 The stew pot in the fireplace contains several gallons of hot turnip and rabbit soup, intended for the mongrelfolk imprisoned in areas S12c and S15.
 
+**[p. 151]**
+
 #### Roleplaying the Abbot
 
 **The Abbot** believes he is righteous. He regrets transforming the Belviews into horrid mongrelfolk, and he considers their imprisonment to be necessary, to contain their madness. With regard to Strahd's bride, he believes that she is the key to freeing the land from its curse. The insane Abbot can't be convinced otherwise.
@@ -6960,6 +7224,8 @@ The sixty **mongrelfolk** confined here are fed at irregular intervals by **Clov
 >>
 
 Three **mongrelfolk** are confined here. One of them cradles a polished brass candlestick as if it was a doll. Any attempt to take it causes the mongrelfolk to attack.
+
+**[p. 152]**
 
 #### S15b. Quarreling Mongrelfolk
 
@@ -7056,6 +7322,8 @@ If anyone rings the bell, a cacophony erupts from the courtyard and the east win
 
 **Clovin Belview**, **the Abbot**'s manservant, a two-headed neutral evil **mongrelfolk** (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
 
+**[p. 153]**
+
 #### Roleplaying Clovin
 
 Clovin stands 4 feet, 7 inches tall and has a barrel-like shape. His right head is fully formed and combines the features of a patchy-haired man with those of a goat, complete with stubby horns. His left head is about half normal size and has a soft, cherubic face partly covered with crocodilian hide. Clovin has a crab's pincer in place of his left hand and a bear's paw where his right foot should be. He wears an ill-fitting monk's robe with a belt made of hempen rope.
@@ -7069,6 +7337,8 @@ The larger head does all the talking. The smaller head has a forked snake's tong
 #### Teleport Destination
 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
+
+**[p. 154]**
 
 #### Thing on the Table
 
@@ -7123,6 +7393,8 @@ The wood of the counter is old, soft, and easily broken. Nothing of value remain
 >>
 
 Six **shadows** haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
+
+**[p. 155]**
 
 ### S22. Operating Room
 
@@ -7196,6 +7468,8 @@ The evening after the burgomaster's visit, **the Abbot** releases all the mongre
 
 The characters can stop all this from happening by delivering the dress to **the Abbot**. They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing **the Abbot** beforehand.
 
+**[p. 156]**
+
 #### Development
 
 If Lydia Petrovna's bridal gown is delivered to **the Abbot**, he honors whatever deal he made with the characters. If the characters resort to magical trickery (for example, creating an illusory dress), **the Abbot** becomes hostile toward them once the deception is revealed.
@@ -7237,6 +7511,8 @@ If Sergei and Ireena are brought together, Ireena is no longer within Strahd's g
 
 
 ------
+
+**[p. 157]**
 
 # Chapter 9: Tsolenka Pass
 
@@ -7281,6 +7557,8 @@ The tower door is made of ironbound wood and barred from within. A character can
 >>
 
 The stairs climb 20 feet to area T5.
+
+**[p. 159]**
 
 #### Teleport Destination
 
@@ -7360,6 +7638,8 @@ The roc attacks a random creature on the bridge, snatching up a horse or a mule,
 
 ![](img/adventure/CoS/097-cos09-03.webp)
 
+**[p. 160]**
+
 ### Bloodhorn's Charge
 
 As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call **Sangzor** ("Bloodhorn"):
@@ -7390,6 +7670,8 @@ A character who wears **Sangzor**'s pelt can command the respect of the berserke
 
 ------
 
+**[p. 161]**
+
 # Chapter 10: The Ruins of Berez
 
 Long before **Ireena Kolyana**, there was a peasant from Berez named Marina.
@@ -7415,6 +7697,8 @@ The following boxed text assumes that the characters approach Berez from the nor
 The river ranges in depth but is never more than 10 feet deep. Muriel Vinshaw, a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away.
 
 A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by 1d4 swarms of hungry flies (use the **swarm of insects (wasps)** stat block in the *Monster Manual*). The swarms don't trouble characters in areas U3 or U5.
+
+**[p. 162]**
 
 ### Marsh Scarecrows
 
@@ -7471,6 +7755,8 @@ Four **giant poisonous snakes** attack characters who venture more than 10 feet 
 
 There is no gate in the fence, and **Baba Lysaga** uses her flying skull (see area U3) to enter and leave the pen. If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts **Baba Lysaga**, who arrives in her flying skull on initiative count 20 in 2 rounds. The howling skulls also attract the seven **scarecrows** in the marsh (see "Marsh Scarecrows" above). Roll initiative once for all the scarecrows.
 
+**[p. 163]**
+
 ### U3. Baba Lysaga's Hut
 
 >>Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider.
@@ -7513,6 +7799,8 @@ The wooden chest in the hut is protected by a *glyph of warding* that requires a
 
 If your card reading reveals that a treasure is here, it's in the chest with the other items.
 
+**[p. 164]**
+
 ### U4. Churchyard
 
 >>Through the fog you see the empty shell an old stone church, north of which is a cemetery of leaning gravestones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire.
@@ -7530,6 +7818,8 @@ The following boxed text assumes that the characters have met **Ireena Kolyana**
 >>
 
 The epitaph reads as follows: Marina, Taken by the Mists.
+
+**[p. 165]**
 
 #### Fortunes of Ravenloft
 
@@ -7571,6 +7861,8 @@ The circle has another property that druid characters can't sense but might disc
 
 At your discretion, the circle might have other strange properties that have been forgotten over time. Although she knows something of the circle's history, Muriel is unaware of its properties.
 
+**[p. 166]**
+
 ## Special Events
 
 You can use one or both of the following special events while the characters are exploring the ruins of Berez.
@@ -7605,6 +7897,8 @@ The dragon, like the soldiers, is a harmless phantom. The mansion that the chara
 
 ------
 
+**[p. 167]**
+
 # Chapter 11: Van Richten's Tower
 
 One of the men employed by Strahd to raise Castle Ravenloft was an archwizard named Khazan. After his work on the castle was complete, Khazan retired to the Barovian valley and built a tower for himself on a small island on Lake Baratok. With the help of some engineers and laborers, he also built an earth-and-gravel causeway connecting the island with the nearby shore.
@@ -7634,6 +7928,8 @@ The mossy griffons atop the buttresses are nothing more than decorative statues.
 ### Khazan's Spell Drain
 
 Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an *antimagic field* centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door in area V2, the golems in areas V4, and the animated suit of armor in area V7.
+
+**[p. 168]**
 
 ## Areas of the Tower
 
@@ -7678,6 +7974,8 @@ The interior of the wagon contains the following items:
 
 ![](img/adventure/CoS/107-cos11-02.webp)
 
+**[p. 169]**
+
 ### V2. Tower Door
 
 >>The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol—a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: Khazan.
@@ -7696,6 +7994,8 @@ The third time this trap is triggered, the magic fails and causes the tower to c
 Each stick figure embossed on the door has differently positioned arms—either bent up or down at the elbow, or sticking straight out to the side. When a creature standing within 5 feet of the door uses an action to imitate the arm positions of all eight stick figures in the proper sequence, the trap is disabled and the door swings open on rusty hinges for 10 minutes. The lines of the symbol on the door reveal the proper sequence. The dance can be performed in one of two ways; a creature must trace the path of the lines, starting at either endpoint. All eight sets of arm positions must be performed, with no repeats, for the sequence to be complete.
 
 If the arm positions are done out of order, a **young blue dragon** magically appears within 30 feet of the door and attacks all creatures it can see. The characters can keep trying to open the door while the dragon is attacking them. The dragon disappears if it is reduced to 0 hit points or if the characters open the door.
+
+**[p. 170]**
 
 #### Vestibule
 
@@ -7729,6 +8029,8 @@ The crates in this room are all empty.
 >>
 
 In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower's elevator mechanism (see area V4). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 150 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 20 feet to the ground floor.
+
+**[p. 171]**
 
 ### V6. Tower, Third Floor
 
@@ -7770,6 +8072,8 @@ Leading the hunt is **Kiril Stoyanovich**, a **werewolf** with 90 hit points. Ac
 
 If the characters were drawn into Barovia by the "Werewolves in the Mist" adventure hook, this encounter represents a climactic confrontation between the characters and the werewolf pack that has been terrorizing settlements in the Forgotten Realms. The werewolves know that the tower has magical defenses, so they are cautious. Kiril tries to lure the characters outside for a final showdown, but pulls his pack into the woods if the characters start lobbing spells or making ranged attacks from the tower.
 
+**[p. 172]**
+
 #### Development
 
 A captured werewolf can be forced to divulge the whereabouts of the children kidnapped by the pack. They are being held in a cave to the west (see chapter 15, "Werewolf Den").
@@ -7790,6 +8094,8 @@ From this moment on, Strahd gains a new goal: kill **Ezmerelda d'Avenir**. Knowi
 
 
 ------
+
+**[p. 173]**
 
 # Chapter 12: The Wizard of Wines
 
@@ -7816,6 +8122,8 @@ Five days ago, evil druids stole the third and final gem and bore it to Yester H
 Two days ago, the druids returned with a horde of blights and drove Davian's family from the winery. They've also poisoned the fermentation vats, leaving the winery with only a few bottles and barrels of drinkable wine.
 
 Even if the characters succeed in helping the Martikovs reclaim the winery, wine production in the valley will eventually stop as the vineyard dies off. Only by recovering the magic gems and replanting them in the soil can the characters ensure that the Barovians aren't without wine to comfort them on dark, wretched nights.
+
+**[p. 174]**
 
 ## Approaching the Vineyard
 
@@ -7874,6 +8182,8 @@ Thirty **needle blights** (in six groups of five) emerge from the surrounding vi
 |   5   | 1 **druid** and 2 **vine blights** (from area W20)   |
 
 The druid lurking in area W16 carries a *Gulthias staff* (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
+
+**[p. 176]**
 
 ## Areas of the Winery
 
@@ -7960,6 +8270,8 @@ The sliding wooden doors along the north wall (leading to area W5) are chained s
 
 The single door leading to area W5 is barred shut from the inside, as is the single door leading to area W2.
 
+**[p. 177]**
+
 ### W10. Glassblower's Workshop
 
 >>A dirty window in the south wall allows dim light to enter this room. Wine bottles are manufactured here, as evidenced by the tools lying about, the wooden rack full of freshly blown glass bottles along the south wall, the hearth built into the southwest corner, and the barrel of sand standing next to it. A staircase descends underground, and between it and the rack of bottles stands a barred door.
@@ -7984,6 +8296,8 @@ The stairs connect all three levels of the winery.
 >>
 
 The spiraling ramp connects all three levels of the winery. The evil druids who have taken over the winery use this ramp to move between levels.
+
+**[p. 178]**
 
 ### W13. Back Staircase
 
@@ -8056,6 +8370,8 @@ The wooden chest is locked, and the key is hidden in a compartment in one of the
 
 A secret door in the north corner of the east wall can be pushed open to gain access to the loading winch (area W16).
 
+**[p. 179]**
+
 #### Treasure
 
 Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of **Strahd von Zarovich**), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom (Perception) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
@@ -8098,6 +8414,8 @@ The contraption standing near the north wall is a printing press, which **Davian
 
 You can use one or both of the following special events after the characters have rid the winery of its current menace.
 
+**[p. 180]**
+
 ### Wine Delivery
 
 After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, **Davian Martikov** suggests they go along with the wine wagon to ensure its safety.
@@ -8125,6 +8443,8 @@ Three days after Wintersplinter's attack, **Baba Lysaga** (see chapter 10, area 
 
 ------
 
+**[p. 181]**
+
 # Chapter 13: The Amber Temple
 
 ![](img/adventure/CoS/116-cos13-01.webp)
@@ -8145,6 +8465,8 @@ Strahd has returned to the temple several times to learn new magic and to find a
 Characters who visit the temple can sense the presence of great evil. The dark vestiges imprisoned within the temple will try to corrupt them, offering them secrets and gifts in exchange for a taste of the evil that lurks within their true hearts.
 
 *I would not be called 'death' so soon. I made a pact with death, a pact of blood.*— Tome of Strahd
+**[p. 183]**
+
 ## Areas of the Temple
 
 The following areas correspond to labels on the maps of the Amber Temple below.
@@ -8226,6 +8548,8 @@ Arrow slits cut into the walls of the upper galleries (areas X8 and X17) and arc
 
 The marble wizard statues stand 8 feet tall. Their 9-foot-tall golden staffs are made of wrought iron coated in peeling gold paint. The northeast statue fell over when an earth tremor collapsed the wall of its alcove.
 
+**[p. 184]**
+
 ### X5a. God of Secrets
 
 This 40-foot-tall statue, carved out of granite, depicts a faceless god of secrets. At the base of the statue, in the back, is a secret door that can be found with a successful DC 20 Wisdom (Perception) check. It can be pulled open to reveal a spiral staircase that climbs to a stone trapdoor set into the floor of the statue's hollow head.
@@ -8274,6 +8598,8 @@ The characters' bizarre reflections are illusions meant to discourage them from 
 
 The east hall leads to area X32, the west hall to area X36.
 
+**[p. 185]**
+
 ### X6. Southeast Annex
 
 >>This room is featureless except for a rough-edged, 10-foot-diameter circular hole in the floor to the east and empty torch sconces along the walls. Double doors of amber stand open to the north and west. A single closed door lies just south of the western set of double doors.
@@ -8317,6 +8643,8 @@ Hiding behind the lectern is **Vilnius** (NE male human **mage**) and his invisi
 - The temple is a haven for forbidden knowledge.
 - Flameskulls—constructs made from the remains of dead wizards—guard the temple.
 - Barbaric mountain folk use the temple for shelter.
+
+**[p. 186]**
 
 #### Treasure
 
@@ -8388,6 +8716,8 @@ Other than the berserkers' armor and weapons, there is nothing of value here. Th
 A fissure has formed in the southwest wall. The gap is 2 feet wide, 10 feet tall, and 15 feet deep. It leads outside (area X1a).
 
 A secret door in the south wall opens into area X16. Neither the mountain folk nor the dire wolf knows of it.
+
+**[p. 187]**
 
 #### Development
 
@@ -8464,6 +8794,8 @@ The table is real, but the torches, the feast, and the chairs are illusions crea
 
 Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A *detect magic* spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven **specters** materialize and attack whoever has the ewer.
 
+**[p. 188]**
+
 #### Treasure
 
 Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn.
@@ -8534,6 +8866,8 @@ The furnishings here are in poor condition and fall apart easily.
 
 There are three secret doors in this room. The secret door to area X28 has an *arcane lock* spell cast on it. The password to suppress the spell is "**Exethanter**."
 
+**[p. 189]**
+
 #### Treasure
 
 The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: *The Incants of Exethanter*. The spellbook contains all the spells on the lich's list of prepared spells (see the **lich** stat block in the *Monster Manual*). The lich attacks anyone who tries to take its spellbook.
@@ -8581,6 +8915,8 @@ If the characters enter these catacombs, add:
 >>
 
 The magic candles ignite when a living creature enters the catacombs and melt away if taken from the area.
+
+**[p. 191]**
 
 ### X31a. West Catacombs
 
@@ -8653,6 +8989,8 @@ As soon as this dark gift is received, one side of the beneficiary's face sags a
 
 As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
 
+**[p. 192]**
+
 #### X33b. Vault of Maverus
 
 The amber door to this room is sealed with an *arcane lock* spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of area X33a.
@@ -8720,6 +9058,8 @@ The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 
 The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
 
+**[p. 193]**
+
 #### X33e. Vault of Harkotha
 
 The amber door to this room is sealed with an *arcane lock* spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of area X33a.
@@ -8763,6 +9103,8 @@ The beneficiary of this dark gift becomes twitchy and nervous, and also gains th
 ***East Sarcophagus.*** The vestige within this sarcophagus offers the dark gift of Seriach, the Hell Hound Whisperer. Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two **hell hounds**. Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.
 
 The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.) Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal.
+
+**[p. 194]**
 
 ### X34. Wizard's Bedchamber
 
@@ -8835,6 +9177,8 @@ The ceiling here is 30 feet high and flat. The statue in the northern alcove is 
 ![{@creature Amber Golem|CoS}](img/adventure/CoS/122-cos13-05.webp)
 
 See area X41 for a description of the cracks in the south wall.
+
+**[p. 195]**
 
 #### Treasure
 
@@ -8909,6 +9253,8 @@ The spiral staircase climbs 30 feet to area X30. See area X41 for a description 
 
 Inside the wooden crates, buried in earth, are six **vampire spawn** created by Strahd from a dead party of adventurers. As soon as they hear intruders in the room, the vampire spawn burst out of their crates and attack, fighting until destroyed.
 
+**[p. 196]**
+
 #### Teleport Destination
 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
@@ -8966,6 +9312,8 @@ Strahd has lost interest in Patrina as a consort. Given the chance, he turns her
 
 ------
 
+**[p. 197]**
+
 # Chapter 14: Yester Hill
 
 ![](img/adventure/CoS/123-cos14-01.webp)
@@ -8998,6 +9346,8 @@ These burial mounds predate the arrival of Strahd and the druids. They have rema
 >>
 
 The ring of boulders that surrounds the field is 250 feet in diameter and ranges from 5 to 10 feet high. Any creature that climbs over the black boulders has a 10 percent chance of being struck by lightning, taking 44 (8d10) lightning damage. Characters can avoid the damage by sticking to the two trails that pass through the ring.
+
+**[p. 198]**
 
 #### Wooden Statue
 
@@ -9037,6 +9387,8 @@ The dead adventurer's tattered leather armor isn't salvageable, but the axe embe
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's buried amid the roots of the Gulthias tree, beneath the skeleton of the dead adventurer. Characters who dig in the ground under the skeleton automatically find it.
+
+**[p. 200]**
 
 ### Y5. Wall of Fog
 
@@ -9094,6 +9446,8 @@ The rocks of the cairn are heavy but can be rolled aside, revealing a *blood spe
 
 ------
 
+**[p. 201]**
+
 # Chapter 15: Werewolf Den
 
 West of Lake Baratok is a cave complex that the werewolves of Barovia use as a den. Characters who interrogate captured werewolves can learn the den's location. Most of the werewolf pack is out hunting when the characters first arrive, including the pack's leader, **Kiril Stoyanovich**.
@@ -9123,6 +9477,8 @@ When the characters first approach the werewolf den, read:
 >>
 
 One hundred feet above the cave mouth (area Z1), farther up the sloping mountainside and not visible from the cave mouth or its vicinity, is a rocky ledge (area Z8). A character can scale the slope to reach the ledge without the need for a climber's kit or ability checks.
+
+**[p. 203]**
 
 ## Areas of the Den
 
@@ -9192,6 +9548,8 @@ When an alarm sounds, Wencensia takes Kellen to area Z7, locks him in one of the
 
 Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a *greater restoration* spell or a *remove curse* spell on Kellen ends his lycanthropy.
 
+**[p. 204]**
+
 ### Z6. Kiril's Cave
 
 >>At the back of this cave hangs a curtain made of human skin.
@@ -9233,6 +9591,8 @@ Anyone who steals from Mother Night is cursed. The werewolves know this, and thu
 Any creature that takes treasure from this pile is haunted by horrible dreams every night lasting from dusk until dawn. The curse affects only the creature that did the pilfering and isn't passed on to anyone else who might come into possession of the item. Returning a stolen item to the treasure pile doesn't end the curse.
 
 A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A *greater restoration* or a *remove curse* spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
+
+**[p. 205]**
 
 #### Fortunes of Ravenloft
 
@@ -9281,6 +9641,8 @@ If the characters take the children to Krezk, the villagers there look after the
 
 
 ------
+
+**[p. 207]**
 
 # Epilogue
 
@@ -9335,6 +9697,8 @@ On the morning after Strahd's demise, the characters feel drawn to Castle Ravenl
 >>Shimmering light surrounds Ireena and Sergei. Hand in hand, they walk east toward the edge of the overlook. Their feet do not touch the ground as they tread a path beyond this mortal world. Their invisible road takes them beyond the eastern precipice, their glow illuminating and thinning the clouds above Barovia. The clouds suddenly break open, letting shafts of glorious sunlight flood through. In the valley below, the strange fog dissolves. Barovia is free once more.
 >>
 
+**[p. 208]**
+
 ### Escape from Barovia
 
 Strahd's death grants Barovia a reprieve. The fog that surrounds the land thins, and it no longer harms those who pass through it. The dark clouds that have loomed over the valley for centuries give way to sunshine, shocking the Barovians out of their despair.
@@ -9376,6 +9740,8 @@ After the mists reappear, **Madam Eva** and her Vistani come back to the valley,
 
 ------
 
+**[p. 209]**
+
 # Appendix A: Character Options
 
 ### Character Background
@@ -9413,6 +9779,8 @@ During character creation, players can select the following background for their
 					</table>
 				</div>
 			</div>
+**[p. 210]**
+
 ### Gothic Trinkets
 
 When rolling for a trinket, consider using the *Gothic Trinkets table*, which is designed for a gothic game.
@@ -9450,6 +9818,8 @@ When rolling for a trinket, consider using the *Gothic Trinkets table*, which is
 			</div>
 
 ------
+
+**[p. 211]**
 
 # Appendix B: Death House
 
@@ -9506,6 +9876,8 @@ Rose and Thorn say that they won't go back in the house until they know the mons
 
 The children died of starvation centuries ago after their insane parents locked them in the attic and forgot about them. They were too young and innocent to understand that their parents were guilty of heinous crimes. Their parents told them stories about a monster in the basement to keep the children from going down to the dungeon level. The "terrible howls" they heard were actually the screams of the cult's victims.
 
+**[p. 212]**
+
 ### The Mists
 
 Characters who remain outside the house can see the mists close in around them, swallowing up the rest of the village. As more buildings disappear into the mists, the characters are left with little choice but to seek refuge in the house. The mists stop short of entering the house but engulf anyone outside (see chapter 2, "The Lands of Barovia," for information on the mists' effect).
@@ -9549,6 +9921,8 @@ This oak-paneled room looks like a hunter's den. Mounted above the fireplace is 
 Two padded chairs draped in animal furs face the hearth, with an oak table between them supporting a cask of wine, two carved wooden goblets, a pipe rack, and a candelabrum. A chandelier hangs above a cloth-covered table surrounded by four chairs.
 
 Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a *heavy crossbow*, a *light crossbow*, a *hand crossbow*, and 20 *bolts* for each weapon. The north cabinet is unlocked and holds a small box containing a *deck of playing cards* and an assortment of wine glasses.
+
+**[p. 213]**
 
 #### Trapdoor
 
@@ -9600,6 +9974,8 @@ The master of the house used to spend many hours here before his descent into ma
 The desk has several items resting atop it: an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family's insignia (a windmill). The desk drawer is empty except for an iron key, which unlocks the door to area 20.
 
 The bookshelves hold hundreds of tomes covering a range of topics including history, warfare, and alchemy. There are also several shelves containing first-edition collected works of poetry and fiction. The books rot and fall apart if taken from the house.
+
+**[p. 214]**
 
 #### Secret Door
 
@@ -9660,6 +10036,8 @@ A dumbwaiter in the corner of the west wall has a button on the wall next to it.
 
 The jewelry box on the vanity is made of silver with gold filigree (worth 75 gp). It contains three gold rings (worth 25 gp each) and a thin platinum necklace with a topaz pendant (worth 750 gp).
 
+**[p. 215]**
+
 ### 13. Bathroom
 
 This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall. A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.
@@ -9718,6 +10096,8 @@ The door to this room is locked from the outside (see area 16 for details).
 The Durst children, **Rose** and **Thorn**, were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
 
 The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom (Perception) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).
+
+**[p. 217]**
 
 #### Rose and Thorn
 
@@ -9795,6 +10175,8 @@ The stone slab is etched with the name Rosavalda Durst. The chamber beyond conta
 
 If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by **Rose's ghost** when this occurs is no longer possessed (see also the "Development" section in area 20).
 
+**[p. 218]**
+
 #### 23F. Thorn's Crypt
 
 The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
@@ -9861,6 +10243,8 @@ The skeletons on the wall are harmless decor.
 #### Concealed Door
 
 Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom (Perception) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area 32).
+
+**[p. 219]**
 
 #### Treasure
 
@@ -9964,6 +10348,8 @@ If the characters make the sacrifice, the cultists fade away, but their tireless
 
 If the characters leave the dais without making the sacrifice, the cultists' chant changes: "Lorghoth the Decayer, we awaken thee!" This chant rouses the shambling mound and prompts it to attack. It pursues prey beyond the room but won't leave the dungeon. It can move through tunnels without squeezing and completely fills its space. At the start of the shambling mound's first turn, the chant changes again: "The end comes! Death, be praised!" If the shambling mound dies, the chanting stops and the apparitions vanish forever.
 
+**[p. 220]**
+
 ## Endings
 
 The mists of Ravenloft continue to surround Death House until the characters stand atop the dais and either appease or defy the cultists. Strahd is satisfied either way, prompting the mists to recede.
@@ -9985,6 +10371,8 @@ Keep track of initiative as the characters make their way through the house. Onc
 
 
 ------
+
+**[p. 221]**
 
 # Appendix C: Treasures
 
@@ -10193,6 +10581,8 @@ The magic items described here, if they are found, can play significant roles in
 
 ------
 
+**[p. 225]**
+
 # Appendix D: Monsters and NPCs
 
 Barovia is a land of vampires, ghosts, and werewolves. In addition, adventurers who explore this unholy realm encounter other things that go bump in the night, including creatures born out of Strahd's evil. The new monsters that appear in this adventure are described below, along with several of the vampire's allies and enemies—souls whose fates are entwined with those of the adventurers. Strahd himself appears here as well.
@@ -10290,6 +10680,8 @@ The armor understands Common but obeys only the commands of its master.
 
 ![{@creature Strahd's Animated Armor|CoS}](img/adventure/CoS/143-636623960253938131.webp)
 
+**[p. 228]**
+
 ### Baba Lysaga
 
 Two women gave life to **Strahd von Zarovich**. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named **Baba Lysaga**. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
@@ -10318,6 +10710,8 @@ Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen t
 
 ![{@creature Baba Lysaga|CoS}](img/adventure/CoS/144-636379873620950408.webp)
 
+**[p. 229]**
+
 ### Barovian Witch
 
 The mad women and men known as **Barovian witches** forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use *alter self* spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
@@ -10329,6 +10723,8 @@ The mad women and men known as **Barovian witches** forge pacts with Strahd and 
 Barovian witches use the *find familiar* spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
 ![{@creature Barovian Witch|CoS}](img/adventure/CoS/145-636379876850421049.webp)
+
+**[p. 230]**
 
 ### Blight, Tree
 
@@ -10368,6 +10764,8 @@ Van Richten tracked down Ezmerelda's family soon after the kidnapping, but not b
 
 ## Creatures (I-Q)
 
+**[p. 231]**
+
 ### Izek Strazni
 
 **Izek** and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
@@ -10393,6 +10791,8 @@ The new appendage has barbed spines, elongated fingers, and long nails. He can c
 ***Flaw.*** "I would do anything, kill anything, to find my sister."
 
 ![{@creature Izek Strazni|CoS}](img/adventure/CoS/147-636623996907006468.webp)
+
+**[p. 232]**
 
 ### Kasimir Velikov
 
@@ -10423,6 +10823,8 @@ With the characters' help, Kasimir thinks he might be able to find out how to re
 
 ***Flaw.*** "I believe my sister can be redeemed."
 
+**[p. 233]**
+
 ### Madam Eva
 
 The fortune-teller **Madam Eva** lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
@@ -10443,6 +10845,8 @@ None of **Madam Eva**'s Vistani kin know her true identity or purpose. They puzz
 
 ***Flaw.*** "The people whose fates I divine aren't important. They are but the means to an end."
 
+**[p. 234]**
+
 ### Mongrelfolk
 
 **Mongrelfolk** are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
@@ -10458,6 +10862,8 @@ None of **Madam Eva**'s Vistani kin know her true identity or purpose. They puzz
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
 ![{@creature Mongrelfolk|CoS}](img/adventure/CoS/148-636985373100391611.webp)
+
+**[p. 235]**
 
 ### Phantom Warrior
 
@@ -10503,6 +10909,8 @@ After the deaths of Sergei and Tatyana, the castle became virtually abandoned, a
 
 ## Creatures (R-Z)
 
+**[p. 236]**
+
 ### Rahadin
 
 **Rahadin**, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
@@ -10533,6 +10941,8 @@ Strahd was upset that the dusk elves had taken Patrina from him. After securing 
 
 ![{@creature Rahadin|CoS}](img/adventure/CoS/151-636623996027511661.webp)
 
+**[p. 238]**
+
 ### Rictavio
 
 Several months ago, a **colorfully dressed half-elf bard** came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
@@ -10554,6 +10964,8 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 ***Flaw.*** "I am cursed. Thus, I will never have peace."
 
 ![{@creature Rictavio|CoS}](img/adventure/CoS/152-636623995708971736.webp)
+
+**[p. 239]**
 
 ### Strahd von Zarovich
 
@@ -10611,6 +11023,8 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 
 ![{@creature Strahd von Zarovich|CoS}](img/adventure/CoS/153-636988936829621698.webp)
 
+**[p. 241]**
+
 ### Strahd Zombie
 
 **Strahd zombies** are undead that serve the vampire **Strahd von Zarovich**. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
@@ -10652,6 +11066,8 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 ***Flaw.*** "Destroying Strahd would end the vampire's torment, and that is something I will never allow."
 
+**[p. 242]**
+
 ### Wereraven
 
 **Wereravens** are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
@@ -10670,6 +11086,8 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 
 
 ------
+
+**[p. 243]**
 
 # Appendix E: The Tarokka Deck
 
@@ -10790,6 +11208,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 ### High Deck
 
 ![Artifact](img/decks/CoS/Tarokka Deck/156-dnd_tarokka_artifact.webp)![Beast](img/decks/CoS/Tarokka Deck/157-dnd_tarokka_beast.webp)![Broken One](img/decks/CoS/Tarokka Deck/158-dnd_tarokka_brokenone.webp)![Darklord](img/decks/CoS/Tarokka Deck/159-dnd_tarokka_darklord.webp)![Donjon](img/decks/CoS/Tarokka Deck/160-dnd_tarokka_donjon.webp)![Ghost](img/decks/CoS/Tarokka Deck/161-dnd_tarokka_ghost.webp)![Executioner](img/decks/CoS/Tarokka Deck/162-dnd_tarokka_executioner.webp)![Horseman](img/decks/CoS/Tarokka Deck/163-dnd_tarokka_horseman.webp)![Innocent](img/decks/CoS/Tarokka Deck/164-dnd_tarokka_innocent.webp)![Marionette](img/decks/CoS/Tarokka Deck/165-dnd_tarokka_marionette.webp)![Mists](img/decks/CoS/Tarokka Deck/166-dnd_tarokka_mists.webp)![Raven](img/decks/CoS/Tarokka Deck/167-dnd_tarokka_raven.webp)![Seer](img/decks/CoS/Tarokka Deck/168-dnd_tarokka_seer.webp)![Tempter](img/decks/CoS/Tarokka Deck/169-dnd_tarokka_tempter.webp)
+**[p. 244]**
+
 ### Swords
 
 ![Warrior](img/decks/CoS/Tarokka Deck/170-dnd_tarokka_warrior.webp)![Avenger](img/decks/CoS/Tarokka Deck/171-dnd_tarokka_avenger.webp)![Paladin](img/decks/CoS/Tarokka Deck/172-dnd_tarokka_paladin.webp)![Soldier](img/decks/CoS/Tarokka Deck/173-dnd_tarokka_soldier.webp)![Mercenary](img/decks/CoS/Tarokka Deck/174-dnd_tarokka_mercenary.webp)![Myrmidon](img/decks/CoS/Tarokka Deck/175-dnd_tarokka_myrmidon.webp)![Berserker](img/decks/CoS/Tarokka Deck/176-dnd_tarokka_berserker.webp)![Hooded One](img/decks/CoS/Tarokka Deck/177-dnd_tarokka_hoodedone.webp)![Dictator](img/decks/CoS/Tarokka Deck/178-dnd_tarokka_dictator.webp)![Torturer](img/decks/CoS/Tarokka Deck/179-dnd_tarokka_torturer.webp)
@@ -10804,6 +11224,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 ![Priest](img/decks/CoS/Tarokka Deck/200-dnd_tarokka_priest.webp)![Monk](img/decks/CoS/Tarokka Deck/201-dnd_tarokka_monk.webp)![Missionary](img/decks/CoS/Tarokka Deck/202-dnd_tarokka_missionary.webp)![Healer](img/decks/CoS/Tarokka Deck/203-dnd_tarokka_healer.webp)![Shepherd](img/decks/CoS/Tarokka Deck/204-dnd_tarokka_shepherd.webp)![Druid](img/decks/CoS/Tarokka Deck/205-dnd_tarokka_druid.webp)![Anarchist](img/decks/CoS/Tarokka Deck/206-dnd_tarokka_anarchist.webp)![Charlatan](img/decks/CoS/Tarokka Deck/207-dnd_tarokka_charlatan.webp)![Bishop](img/decks/CoS/Tarokka Deck/208-dnd_tarokka_bishop.webp)![Traitor](img/decks/CoS/Tarokka Deck/209-dnd_tarokka_traitor.webp)
 
 ------
+
+**[p. 251]**
 
 # Appendix F: Handouts
 
@@ -10835,6 +11257,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 
 ![](img/adventure/CoS/211-f2.webp)
 
+**[p. 252]**
+
 ## From the Tome of Strahd
 
 >>I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.
@@ -10859,6 +11283,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 >>
 
 ![](img/adventure/CoS/212-f3.webp)![](img/adventure/CoS/213-f4.webp)
+**[p. 254]**
+
 ## Journal of Rudolph van Richten
 
 >>For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.
@@ -10879,6 +11305,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 >>
 
 ![](img/adventure/CoS/214-f5.webp)![](img/adventure/CoS/215-f6.webp)
+**[p. 256]**
+
 ## Kolyan Indirovich's Letter (version 2)
 
 >>Hail thee of might and valor:
@@ -10965,6 +11393,8 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 
 
 ------
+
+**[p. 257]**
 
 # Poster Map
 
