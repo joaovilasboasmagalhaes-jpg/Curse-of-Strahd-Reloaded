@@ -1,0 +1,15 @@
+---
+description: "Work on a player's backstory. Without a name, shows where every player stands."
+agent: "Backstory Developer"
+argument-hint: "Player name (agni, caspian, grim, ivan, sister_elga), or nothing for the overview"
+---
+Find out where the named player stands and do the next step. Do not ask the DM which step to run.
+
+**No player named:** list every player with: whether `player_profile.md` exists, their concepts and statuses (`exploring`, `chosen`, `integrated`, `discarded`), and what is left to integrate. Stop there.
+
+**Player named:** read their Readme, profile, design notes and concepts, then:
+- **No concept yet:** offer distinct options with a recommendation, using the `player-arc` skill. If the profile is missing, say so and do not guess the player's preferences. Save the direction as `players/<name>/concepts/<short-title>.md` from `.github/skills/player-arc/concept-template.md`, status `exploring`.
+- **A concept is `exploring`:** improve it from the DM's input. When the DM wants it tested, have the Integrator do a dry run (no campaign edits) and the Continuity Reviewer check it. Record the result in the concept.
+- **A concept is `chosen`:** have the Integrator list every edit with its file and section, and show the list to the DM. Apply only after the DM approves, then have the Continuity Reviewer check the result and set the concept to `integrated`.
+
+Never edit campaign files without the DM's approval. Finish with what you did and the one decision you need from the DM.
