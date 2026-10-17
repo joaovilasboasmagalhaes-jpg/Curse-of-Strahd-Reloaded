@@ -23,7 +23,7 @@ If you cannot tell which mode applies, use dry run.
 1. Read `.github/copilot-instructions.md` and `players/player_strategy.md` (the reusable integration method).
 2. Read the player's Readme, then only the files it points to that you need.
 3. Load the `campaign-state` skill to find the current position and what is fixed. Use `timeline`, `cartographer`, `npcs` and `combat` as the integration needs them.
-4. Follow the method in `player_strategy.md`: find the character's core, pick a campaign anchor, place the backstory on the timeline, tie it to an existing mystery, give it a physical location, and connect it to existing NPCs and factions.
+4. Compare with the other players' arcs. If the anchor, antagonist, plot shape or payoff duplicates another player's, choose a different angle so the arc stays personal. Then follow the method in `player_strategy.md`: find the character's core, pick a campaign anchor, place the backstory on the timeline, tie it to an existing mystery, give it a physical location, and connect it to existing NPCs and factions.
 5. For creative options and pacing, delegate to the `writer` subagent.
 6. Draft the edits. Then delegate to `continuity-reviewer` with the draft and resolve what it reports before presenting.
 

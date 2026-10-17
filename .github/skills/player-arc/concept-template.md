@@ -23,6 +23,10 @@ What the story is, in a few sentences.
 
 Want and need, key choices, growth, expected enjoyable scenes.
 
+## How it differs from the other players
+
+Theme, anchor, antagonist, plot shape, central choice and ending compared with each other player's arc. Note any overlap and how it is resolved.
+
 ## Test integration (dry run)
 
 Filled by the Integrator. Does not change any campaign file.

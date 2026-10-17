@@ -30,6 +30,7 @@ Check each of these. Report which are strong, thin or missing.
 - **Escalation.** Stakes and costs grow. Each stage should ask for something harder than the last.
 - **Setup and payoff.** Anything raised early (a hook, an item, a relationship) pays off later. Do not leave threads dangling.
 - **Spotlight.** Beats are spread across sessions and balanced with the other four players. Include moments for the character's mechanics and the player's play style.
+- **Distinct from the other players.** The arc must feel personal. If it copies another player's arc, the player feels interchangeable. Compare it with the other arcs on: central theme and emotional core, anchor (faction, NPC, place), kind of antagonist, plot shape (e.g. hunted, seeking, redeeming, inheriting), the central choice, type of scenes, and the ending. Flag any overlap and change the shared element so this arc owns something no one else has. A shared anchor is fine only if each player's angle on it is different.
 - **Fun beats.** Include scenes the player will enjoy as play (their favorite kinds of scenes), not only lore delivery.
 - **Resolution.** The ending fits the arc's promise. It can be bittersweet, but it should not be arbitrary or taken away from the player. It should also happen at a point in the campaign where the player is present for it.
 - **Table reality.** The player can discover it through play. A secret that only the DM knows does not entertain anyone.
@@ -38,11 +39,11 @@ Check each of these. Report which are strong, thin or missing.
 
 **Develop options**
 1. Read the player's Readme, fixed backstory and profile. Name the character's core (what the backstory is emotionally about).
-2. Offer two to four distinct directions. For each give the arc in a few beats, the want/need, the key choices the player gets, the payoff, and the likely risk.
-3. Recommend one and say why it fits this player.
+2. Read the other players' arcs and list what is already taken (themes, anchors, antagonists, plot shapes, endings). Offer two to four directions that differ from each other and from those. For each give the arc in a few beats, the want/need, the key choices the player gets, the payoff, and the likely risk.
+3. Recommend one and say why it fits this player and what makes it theirs alone.
 
 **Evaluate a concept**
-Score it against the list above, note what the player is likely to enjoy and what could disappoint them, and propose the smallest changes that improve it.
+Score it against the list above, including a comparison with every other player's arc for overlap, note what the player is likely to enjoy and what could disappoint them, and propose the smallest changes that improve it.
 
 **Plan beats across the campaign**
 Map the arc onto acts and arcs using `campaign-state`, `timeline` and `cartographer`. Space the beats across sessions, and note where the player's mechanics matter (`combat`) and which NPCs carry the story (`npcs`).

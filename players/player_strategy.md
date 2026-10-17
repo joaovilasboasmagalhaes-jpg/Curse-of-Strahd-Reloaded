@@ -21,6 +21,8 @@ For Sister Elga, the monastery was her home, family, education, and moral founda
 
 Her core direction became **the shepherd of souls**: someone who protects the dead from corruption, listens to what they remember, and guides them toward rightful rest.
 
+Also check that this core differs from the other players' cores. An arc that repeats another player's theme, antagonist, or ending feels like a copy and is not personal to its player.
+
 ## 2. Find a Strong Campaign Anchor
 
 Choose an existing place, faction, event, or NPC that naturally reflects the character's themes. This keeps the backstory connected to the campaign instead of creating a separate adventure beside it.
@@ -135,6 +137,17 @@ Each player's `Readme.md` is the entry point to their character material. Keep a
 - Other story hooks and NPC-readable details, such as visible signs, recognizable affiliations, unresolved relationships, strong reactions, or rumors.
 
 Base the snapshot on the player's established material, and link to the source documents. Separate established facts from mutable DM plans or unrevealed twists; do not present a planned connection as something the character already knows. Update the snapshot when the character's goal, canon, or campaign hooks change.
+
+## 12. Stage the Arc Across the Campaign
+
+Do not park every revelation in one location or the endgame. Break the arc into stages tied to scenes the party will already play:
+
+- Give each stage a question, a clue, a choice, and a cost.
+- Gate stages by the character's deeds and growth, not by dates, so early or late visits never break the order.
+- Supply each revelation from at least two sources.
+- Let the character act, not only receive information from NPCs.
+- Give the character's signature item or ability a growth path so power and story advance together.
+- Revisit the plan after each session log and update what the player now knows.
 
 ## Worked Example: Sister Elga
 
