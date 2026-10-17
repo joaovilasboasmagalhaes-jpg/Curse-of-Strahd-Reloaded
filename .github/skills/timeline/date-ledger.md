@@ -10,11 +10,11 @@ Maintained by `timeline`. Filled by `campaign-state` after each session. Status:
 | 4 | Octyavr 28 (day to the start of the night siege) | Arc B date | inferred |
 | 5 | Octyavr 28 (night) | Siege | inferred |
 | 6 | Octyavr 28 (night) to before dawn on Neyavr 1 | The log has them sleep and wake, and eat "before dawn" | inferred |
-| 7 | Neyavr 1 | Church, departure, crossroads. Tarokka is on Neyavr 1 per Arc C | inferred |
+| 7 | Neyavr 1 | Church, departure, crossroads. Tarokka is on Neyavr 1 per Arc C | confirmed |
 
 ## Current date
 
-**Neyavr 1, 735 B.C. (inferred)**, at the River Ivlis Crossroads. Unconfirmed by the DM.
+**Neyavr 1, 735 B.C. (confirmed)**, at the River Ivlis Crossroads.
 
 ## Notes
 
