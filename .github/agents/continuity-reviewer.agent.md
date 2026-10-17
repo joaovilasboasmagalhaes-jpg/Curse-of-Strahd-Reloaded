@@ -16,11 +16,12 @@ The request says whether the content is a **concept** (status `exploring`) or a 
 
 ## Approach
 1. Read the content under review and `.github/copilot-instructions.md`.
-2. Load the skills that apply by reading their `SKILL.md` and linked files: `campaign-state` (what already happened), `timeline` (dates, durations, moons), `cartographer` (places, routes, travel time), `npcs` (status, knowledge, personality), `combat` (stats, difficulty).
-3. Check each claim in the content against those sources, in this order of authority: session logs, then campaign files, then the original book only where the guide cites it, then mutable player plans.
-4. Check what each NPC could know. An NPC must not act on knowledge a source does not give them.
-5. For significant combats, flag a static HP race (no objective, nothing to react to, or a long expected length) as a style/pacing note, per the `combat` skill's design principles.
-6. Check spoilers. DM-only plans must not appear as something the characters already know.
+2. Read `.github/skills/barovia-rules-reference/SKILL.md` for the domain's special rules and their continuity implications.
+3. Load the skills that apply by reading their `SKILL.md` and linked files: `campaign-state` (what already happened), `timeline` (dates, durations, moons), `cartographer` (places, routes, travel time), `npcs` (status, knowledge, personality), `combat` (stats, difficulty).
+4. Check each claim in the content against those sources, in this order of authority: session logs, then campaign files, then the original book only where the guide cites it, then mutable player plans. The quick reference is an index to campaign rulings, not a higher authority than their source sections.
+5. Check what each NPC could know. An NPC must not act on knowledge a source does not give them.
+6. For significant combats, flag a static HP race (no objective, nothing to react to, or a long expected length) as a style/pacing note, per the `combat` skill's design principles.
+7. Check spoilers. DM-only plans must not appear as something the characters already know.
 
 ## Output Format
 A short list, most serious first. For each item give:
