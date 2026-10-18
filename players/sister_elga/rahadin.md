@@ -16,7 +16,13 @@ Here’s the summary of our plans for Rahadin:
    - The urn vibrates and its flame flares bright purple. Elga alone hears distinct dusk elf voices crying in ancient Elvish.
    - Rahadin notices the soul-drag, spots her holy symbol and urn, but dismisses her with cold arrogance (*"Carry your little jar if it brings you comfort, Sister..."*), underestimating her as a harmless novice carrying the relic of a dead church.
 
-4. **Narrative & Encounter Design:**
+4. **The Choir Ladder (Escalating Encounters):**
+   - **Rung 1, Arc B (played):** The Urn resonates with voices in Elvish.
+   - **Rung 2, Arc D6 / O1:** She hears names (from Kasimir); one voice answers "Sister." Rahadin notices her listening.
+   - **Rung 3, Arc O (castle):** She hears the binding itself: a Ven Passing hymn sung backward. The choir was bound with her own church's liturgy.
+   - **Rung 4, Arc P (Rahadin's Challenge):** She seizes one bound soul as the choir surges; Rahadin staggers and the Sanctum seal cracks (the seal and his anchor are twins).
+   - **Rung 5, Arc T (Rahadin's Vengeance):** She Unbinds the whole choir. See [DM Plans](dm_plans.md).
+5. **Narrative & Encounter Design:**
    - **Endgame Payoff:** This resolution is an endgame beat—not meant to be fully tackled early on while Rahadin is far beyond the party's level.
    - **Seeding Clues:** Earlier interactions should drop hints about the unnatural soul-density of his aura and familiar Ven-like ritual runes etched into his equipment or flesh.
    - **Lightweight Implementation:** Reuse existing campaign scenes and replace other evil-enforcer beats with Rahadin (2–3 targeted swaps) to keep DM prep minimal while reinforcing his presence.

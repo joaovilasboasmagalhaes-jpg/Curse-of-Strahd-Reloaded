@@ -54,6 +54,14 @@ During their active decades (352–375 B.C.), the Priory did not exist in comple
 
 ---
 
+## How the Cloister Is Run (Three Visits)
+
+- **Visit 1 (Neyavr 13, Act III).** Outer cloister only: Vane, Theresa, and the partial Tome. The brethren plead with her to stay and take the Abbot's chair. The Sanctum is sealed with Rahadin's sigil, and the seal also holds the brethren's vigil in place. The Urn flinches from it as it did from Rahadin, and he may remark on the visit at dinner.
+- **Between visits.** The seal is the twin of Rahadin's soul-anchor. Freeing even one soul from his choir (Arc P) cracks it. Strahd offers the key at dinner (Arc O5b); taking it is a choice.
+- **Visit 2 (Act IV start).** The seal is cracked. The brethren can receive their Passing rites, easing or ending their local hauntings, and the Sanctum opens to Abbot Ferd (below). No soul can leave Barovia while the Mists remain.
+- **Epilogue.** The Cloister is reconsecrated as the first house of the reformed Ven; the Sanctum's vessels serve as an ark until the Mists lift.
+- **If she arrives early.** She sees the outer cloister and meets the looped brethren, but nothing past the seal opens. See [DM Plans](dm_plans.md).
+
 ## Layout & Key Encounters in 735 B.C.
 
 ### 1. The Courtyard & The Drill Grounds
@@ -79,8 +87,10 @@ During their active decades (352–375 B.C.), the Priory did not exist in comple
 - **Atmosphere:** An underground crypt of obsidian pedestals, broken glass conduits, and hundreds of hollow soul-urns etched with the scales of Kelemvor.
 - **Climax Encounter — Abbot Ferd, The Penitent Bound:**
   - *State:* Suspended in iron and silver chains inside a massive, cracked obsidian soul-sarcophagus. Strahd left Ferd alive as an experiment in eternal soul-anchoring. Ferd exists as a desiccated, semi-spectral figure caught between life and undeath.
-  - *The Revelation:* When Elga approaches, Ferd awakens. Weeping tears of spiritual ash, he confesses the full truth:
-    1. He sent Elga away on a fabricated wild-goose chase to keep her safe from the volatile ritual.
-    2. His pride and obsession caused the disaster and inadvertently built the Heart of Sorrow.
-    3. Strahd tortured him and plundered their sacred liturgy to empower himself and Rahadin.
-  - *The Final Rite:* Ferd begs Elga to deliver the *Ritual of Doom Guidance* upon him. Once drawn into her *Urn of Soulcatching*, at maximum Affinity, Ferd bestows upon Elga the complete counter-liturgy needed to unbind Rahadin's soul-chorus and dismantle the Heart of Sorrow.
+  - *The Revelation (Visit 2):* When Elga approaches, Ferd awakens. Weeping tears of spiritual ash, he explains the dream that connected to the Vistani fire and his reasons for sending her away. The exact truth of what he believed and why he gave the assignment remains a DM decision; do not assume he knowingly sent her to murder innocents or that protecting her alone justifies it. He can still be accountable for his choice.
+    1. The dream's connection to the Vistani fire is revealed, but its interpretation and Ferd's culpability remain open.
+    2. The recall rune's origin remains open; see [DM Plans](dm_plans.md).
+    3. His pride and obsession caused the disaster and inadvertently built the Heart of Sorrow.
+    4. Strahd tortured him and plundered their sacred liturgy to empower himself and Rahadin.
+  - *The Rite of Unbinding:* Ferd teaches Elga the counter-liturgy while still bound. It lets her sever the hold on a bound soul, which is what Rahadin's soul-chorus and the Heart of Sorrow require.
+  - *Her Choice:* Ferd asks Elga to perform his Passing rite. It can give him a meaningful farewell or end his local haunting, but cannot send him beyond the Mists. She may instead keep him in the Urn as a voice (the Warden's path), or refuse him. See [DM Plans](dm_plans.md).

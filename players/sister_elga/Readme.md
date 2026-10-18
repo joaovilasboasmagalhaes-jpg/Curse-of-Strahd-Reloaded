@@ -8,7 +8,7 @@ This directory contains reference material and campaign-planning notes related t
 
 - **Main goal:** Discover what happened to the Priory of the Ven, recover and preserve its knowledge, and rebuild the monastery while seeking justice for its destruction.
 - **Most distinguishing feature:** Elga is a Priest of the Ven devoted to Kelemvor, trained to hunt undeath and guide its trapped souls to rest with her Urn of Soulcatching.
-- **Story and NPC hooks:** Her missing Tome of Records, the ruined Priory, and her fear of becoming undead all offer personal stakes. The Urn's reaction to nearby undead can draw attention; a Ven symbol or her work with souls may interest religious figures, undead hunters, or the dead themselves. The planned resonance with Rahadin is an optional early breadcrumb. See [Backstory](backstory.md), [Plot Hook](plot_hook.md), and [Rahadin](rahadin.md).
+- **Story and NPC hooks:** Her missing Tome of Records, the ruined Priory, and her fear of becoming undead all offer personal stakes. The Urn's reaction to nearby undead can draw attention; a Ven symbol or her work with souls may interest religious figures, undead hunters, or the dead themselves. Rahadin's choir has already resonated with the Urn (Session 6); the staged arc is in [DM Plans](dm_plans.md). See [Backstory](backstory.md), [Plot Hook](plot_hook.md), and [Rahadin](rahadin.md).
 
 ## Reference Documents
 

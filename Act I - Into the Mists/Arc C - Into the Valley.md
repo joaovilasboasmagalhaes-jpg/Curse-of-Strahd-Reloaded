@@ -99,6 +99,9 @@ This scene begins similarly to <span class="citation">River Ivlis Crossroads (p.
 ## C2a. Strahd’s Arrival
 The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
 
+> [!warning]+ **DM Only: Sister Elga's Urn**
+> Escher is undead. If Sister Elga is within 300 feet, her Urn of Soulcatching glows bright purple. Tell the player.
+
 > [!abstract]+ **What If The Players Flee?**
 >
 > The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape. Ireena will stop once she notices the carriage driver.
@@ -390,11 +393,13 @@ This scene unfolds largely as described in <span class="citation">Madam Eva’s 
 > 
 > "Ah," Eva rasps softly. "The little sister from the storm. The last stray of the Iron Scale. You are three hundred and eighty years late for your evening prayers, child."
 > 
-> If Elga asks about Abbot Ferd or what happened to her order, Madam Eva strictly declines to share what passed between her and the Abbot, shaking her head:
+> Eva hints that she knows more than she says. What she **can** say, if the moment fits and Elga asks (none of it is required):
 > 
-> *"Your Abbot came to this very tent centuries ago when your god fell silent, demanding to see what lay ahead. I read his cards, as I am bound to do for any who ask. But a seeker's fortune is for their ears alone—I cannot give you what belonged to him.*
+> * **Ferd.** She met the Abbot briefly. A seeker's fortune is for their ears alone, so she cannot give Elga what belonged to him.
+> * **The priory.** *"If you seek your priory, travel west beyond the walled town, to the secluded crags where the Luna River runs cold beneath the shadow of Mount Ghakis."* She makes no remark on the priory's condition, its people, or how it came to Barovia. If pressed, she stays mysterious.
+> * **The Urn's souls.** If Elga asks where they went: *"Barovia keeps what it takes close to its heart."*
 > 
-> *If you seek the remnants of your flock, travel west beyond the walled town, to the secluded crags where the Luna River runs cold beneath the shadow of Mount Ghakis. The ruins of your priory sleep in the mist—and those who watched your brothers fall still stand vigil in the halls of the fallen dragon nearby."* (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+> (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
 
 > [!profile]+ **Profile: Madam Eva**
 >
@@ -507,6 +512,9 @@ Give the players a few minutes away from the table to plan out their stories bef
 > * Eliza, not one for half-truths, alternates between True and False.
 > * Arturi, cynical and distrusting, alternates between Half-True and False.
 > * Ireena, quick to warm to the player, alternates between True and Half-True.
+
+> [!abstract]+ **Sister Elga Tie-in: The Fire**
+> If Sister Elga tells the Abbot's dream (a campfire, a dancing people, a curse on the Great Guide), or asks what a Vistani fire means to those around it, Stanimir answers with a Vistani story of his own, and Eliza says it sounds like a dream about fear, not about them. They cannot say what Ferd saw, and they do not discuss Vistani curses. Elga may also say nothing.
 
 
 > [!lore]+ **Arturi's Manuscript**
