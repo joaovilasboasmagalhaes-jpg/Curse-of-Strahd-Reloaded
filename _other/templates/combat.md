@@ -12,6 +12,11 @@
 > |-|-|-|-|-|
 > | Monster 1 | 3 | 4 | 5 | 6 |
 > 
+> ### **Dynamics:**
+> - **Objective beyond "kill everything":**
+> - **What the players react to (terrain, enemy behavior, clock, twist):**
+> - **Expected length:** X rounds. **Early exit:**
+>
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 > 
