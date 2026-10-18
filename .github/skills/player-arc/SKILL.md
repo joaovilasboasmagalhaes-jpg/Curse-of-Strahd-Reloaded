@@ -16,7 +16,7 @@ Knowledge for making a character's story work **for the player at the table**. S
 | Past decisions and rejected ideas | `players/<name>/design_notes.md`, if present |
 | Current ideas | `players/<name>/concepts/*.md` (see [concept-template.md](./concept-template.md)) |
 | Decided plans | `players/<name>/dm_plans.md`, `dm_campaign_integration.md` |
-| What the player did and reacted to at the table | `sessions/Session N.md` (fixed) |
+| What the player did and reacted to at the table | `sessions/Session N/log.md` (fixed) |
 | The reusable integration method | `players/player_strategy.md` |
 | Other players' arcs (for spotlight balance) | Their Readmes and plans |
 

@@ -6,7 +6,7 @@ In any chat, type `/` and pick one of these five. That is all you need to rememb
 |---|---|
 | `/story` | Understand the story, or find plot holes. Example: `/story plot holes in Arc K`, `/story explain Act III` |
 | `/player` | Work on a player's backstory. Example: `/player grim`. With no name it shows where every player stands |
-| `/prep-session` | Get an outline for the next session |
+| `/prep-session` | Get a quick outline for the next session (for full prep, see below) |
 | `/post-session` | Update the campaign notes after you write a session log |
 | `/check` | Check a file or plan for mistakes against what already happened |
 
@@ -21,6 +21,12 @@ Working on one player for a while? Pick **Backstory Developer** in the chat's ag
 - Exploring ideas: nothing in the campaign changes.
 - When you like an idea, tell it: "choose this one".
 - Next time you run `/player <name>`, it lists the exact edits and waits for your OK before touching any campaign file.
+
+## Session prep
+
+For full prep, pick **Session Prep** in the agent picker and say which session ("prep session 8"). It follows your pipeline (`.github/skills/session-prep/pipeline.md`) one step at a time and keeps the plan in `sessions/Session N/prep.md`. It tells you when the lock point is reached and when you can stop preparing.
+
+Each session has a folder: `sessions/Session N/log.md` (history, fixed) and `prep.md` (the plan, from Session 8 on).
 
 ## Things only you can do
 

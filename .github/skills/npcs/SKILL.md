@@ -15,7 +15,7 @@ Covers an NPC's **facts** (identity, status, relationships, knowledge) and **beh
 | Where they appear and what they do | Arc files (`Act * /Arc *.md`) |
 | Strahd | `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`: his three modes (Gentleman, Tyrant, Monster), relationships and goals |
 | Original book NPCs | `assets/Curse of Strahd.md`: the area chapters (3-15), Appendix D, Chapter 1 ("Roleplaying Strahd", "When Strahd Attacks"). Use an entry only where the guide references it. If the guide does not mention an original NPC, assume the NPC does not exist. The Reloaded text wins on conflicts |
-| What happened to them at the table | `sessions/Session N.md` (fixed), summarized in [roster-state.md](./roster-state.md) |
+| What happened to them at the table | `sessions/Session N/log.md` (fixed), summarized in [roster-state.md](./roster-state.md) |
 | NPCs added or changed by planning | `players/*/dm_plans.md`, `dm_campaign_integration.md`, `clan_lore_dm.md`, and edits in the campaign files. Campaign-file edits count as canon |
 | Backstory NPCs | The player's Readme and fixed backstory |
 

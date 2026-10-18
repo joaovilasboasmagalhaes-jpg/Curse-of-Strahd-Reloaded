@@ -3,7 +3,7 @@ description: "Prepare the next session: current position, likely scenes, NPCs, t
 agent: "agent"
 argument-hint: "Optional focus (a player, an arc, a location)"
 ---
-Prepare the next session. Use the `campaign-state` skill first, then `timeline`, `cartographer`, `npcs`, `combat` and `session-rules` as needed. Check every scene, fight, reward and NPC choice against the Session 0 rules (content boundaries, PvP consent, difficulty, loot, resurrection) and list any that conflict.
+Prepare the next session, following the `session-prep` skill and writing `sessions/Session N/prep.md` only if asked. Use the `campaign-state` skill first, then `timeline`, `cartographer`, `npcs`, `combat` and `session-rules` as needed. Check every scene, fight, reward and NPC choice against the Session 0 rules (content boundaries, PvP consent, difficulty, loot, resurrection) and list any that conflict.
 
 1. State the current position (act, arc, section, in-world date and its status) and which player threads are open.
 2. Read the next likely arc sections, and the original book passage where the arc cites it.

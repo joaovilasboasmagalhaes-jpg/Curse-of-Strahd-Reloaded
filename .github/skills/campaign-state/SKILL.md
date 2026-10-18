@@ -11,7 +11,7 @@ Answers "where are we?" and "what has already happened?" from the session logs. 
 
 | Source | Role | Changeable? |
 |---|---|---|
-| `sessions/Session N.md` | Events that already happened | No. Fixed history. The DM may add forgotten details, so re-check the logs when precision matters. |
+| `sessions/Session N/log.md` | Events that already happened | No. Fixed history. The DM may add forgotten details, so re-check the logs when precision matters. |
 | Act/arc files, chapters, appendices | The campaign, including our edits | Yes. Edited freely to integrate new events. |
 | `assets/Curse of Strahd.md` | The original book, used only where the arc files cite it (citations like `(p. 43)`; find `**[p. 43]**` or the area heading such as `### E2.`) | Reference. The Reloaded text overrides it where they differ. |
 | `players/*/Readme.md` | Says which player files are fixed and which are mutable | Follow it per player. |
@@ -20,7 +20,7 @@ If a logged event is vague, there is room to interpret it. If it is explicit, it
 
 ## Procedure: locate the current position
 
-1. List `sessions/` and read the highest-numbered log. Skim earlier logs if the last one is short, since logs vary in length.
+1. List `sessions/` and read the `log.md` in the highest-numbered folder. Skim earlier logs if the last one is short, since logs vary in length.
 2. Check whether the digest's "last session covered" matches the newest log. If a newer log exists, read it and update the digest.
 3. Find the matching sections in the campaign files. Arc files use headed sections such as `C2a. Strahd's Arrival`. Search headings with grep for the locations and NPCs named in the log.
 4. Report:

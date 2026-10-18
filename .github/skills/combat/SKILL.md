@@ -19,7 +19,7 @@ Provides numbers and mechanics. The identity and behavior of an NPC belong to `n
 | Combat entry format | `_other/templates/combat.md`: Combat Level, Expected Character Level, Expected HP Consumption, Expected Allies, an enemies table by player count (3 to 6) and a Balancing table |
 | Party capabilities | Each player's Readme, then their mechanics files (for example `players/agni/vampire_details.md`, Elga's `players/sister_elga/soul_gathering.md` and `potion_brewing.md`) and fixed backstory |
 | Party level | The `Act * Summary.md` milestones: Act I starts at 2nd and ends at 4th, Act II 4th to 5th, Act III 5th to 8th |
-| Past fights | `sessions/Session N.md` |
+| Past fights | `sessions/Session N/log.md` |
 
 ## Rules
 
