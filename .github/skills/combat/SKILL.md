@@ -29,6 +29,9 @@ Provides numbers and mechanics. The identity and behavior of an NPC belong to `n
 - **Fixed history.** The logs say what happened in earlier fights. Do not retcon outcomes.
 - **Party, not average party.** There are five PCs (Agni, Caspian, Grim, Ivan, Sister Elga). Use their real mechanics, not a generic party.
 - **Elga's Urn warns of undead.** Her Urn glows bright purple within 300 feet of any undead, so an ambush by undead near her is never a surprise to her player. When building or judging an encounter with undead, say when the Urn starts glowing and remind the DM to tell the player.
+- **Intended difficulty (Session 0).** The table chose: few easy fights, most fights hard, and TPK is a frequent, accepted risk. Do not balance encounters to guarantee survival. When judging a fight, a result of "easy" or "comfortably winnable" is a mismatch with the table's intent: say so and propose a harder or more dangerous version (stronger enemies, a clock, worse terrain, reinforcements). Pair danger with foreshadowing and a way to retreat or escape, since the DM promised a fair chance to avoid bad situations. Combat is infrequent (about every two or three sessions), so each fight should matter.
+- **Enemy behavior.** Enemies act like trained soldiers: they use cover, focus weak targets, retreat when losing and exploit weaknesses. Beasts and mindless creatures may be simpler, and commanders smarter.
+- **Session 0 combat rules.** Flanking +2 to attack rolls, critical hits double the dice, default 5e conditions, potions are an action (full) or a bonus action (rolled), death saves are secret. See the `session-rules` skill.
 - **Spoilers.** Hidden abilities and planned boss encounters in player plans are DM-only.
 
 ## Design principles
@@ -54,7 +57,7 @@ Find it in the Bestiary or NPC appendix, follow any reference, and report AC, HP
 **Judge an encounter**
 1. Get the enemies' stats and the party's level for the current act.
 2. List relevant party strengths and weaknesses from their mechanics files (healing, blood hunter abilities, turn undead, ranged damage, mobility).
-3. Estimate the difficulty and the HP drain. Compare with the guide's own rating where it gives one, and say that the result is an estimate, not a calculation.
+3. Estimate the difficulty and the HP drain. Compare with the guide's own rating where it gives one, and say that the result is an estimate, not a calculation. Compare it with the table's intended difficulty (mostly hard, TPK possible) and say if the fight is too easy.
 4. Run the combat check from the design principles (objective, or reactive battlefield/behavior) and note the expected length in rounds.
 5. Suggest adjustments in the style of the template's Balancing table.
 

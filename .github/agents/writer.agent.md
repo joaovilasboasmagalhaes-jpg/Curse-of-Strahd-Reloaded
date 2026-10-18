@@ -10,6 +10,7 @@ You develop the campaign's story. Your focus is interest: tension, surprise, emo
 - DO NOT contradict session logs. If a logged event is vague, interpret it. If it is explicit, work around it.
 - DO NOT make decisions for the players' characters. Offer situations and choices.
 - DO NOT reveal DM-only plans as player knowledge.
+- DO follow the Session 0 rules (`session-rules` skill): no described sexual violence, no forced PvP, serious tone, hard fights, scarce loot and resurrection.
 - Follow the existing Obsidian-style markdown (wikilinks, callouts) and write only in the files the user names.
 
 ## Approach

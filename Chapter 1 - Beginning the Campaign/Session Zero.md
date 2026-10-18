@@ -47,3 +47,9 @@ To ensure all players are on the same page when beginning the campaign, consider
 
 > [!warning]+ **Breaking the Fourth Wall**
 > Sometimes, a player will act in a way that seems to break the [[#Campaign Contract]]. (For example, a frustrated, trigger-happy, or mistrustful player might plot to attack and kill an NPC that can be allied or befriended.) When this happens, don't hesitate to pause the game, remind the player of the relevant provision of the campaign contract, and ensure everyone is on the same page before resuming play.
+# Session 0 Questionnaire
+Players answered a Google Form covering tone, difficulty, character rules and content boundaries. Check it before planning each session.
+
+* Responses (DM only, requires login): https://docs.google.com/forms/d/1WWvdE3WJU3ei9bMdpnBkC0cy6skM5OQM0aUSeBNl6Tk/edit#responses
+* Answers (labeled by player): `sessions/Session 0/session_0_questionnaire.csv`
+* Agreed table rules: `sessions/Session 0/campaign_rules_expectations.md`
