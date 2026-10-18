@@ -1,117 +1,184 @@
 # Grim: DM Campaign Planning & Lore (DM Notes)
 
 > [!warning] DM-only canon
-> This document contains mutable planning material for the DM. It is not player-facing canon. Details become fixed only when they are deliberately revealed in play or copied into a player document.
+> This document contains mutable planning material for the DM. It is not player-facing canon. Details become fixed only when deliberately revealed in play or copied into a player document.
 
 ---
 
-## 1. The Bargain and the Living Shadow
+## 1. Purpose and Current Position
 
-Years ago, Grim's adventuring party fought a coven of hags. The hags survived and secretly marked her, intending to return one day and finish what they had started.
+Grim's story should unfold alongside the campaign, not wait in the background until the party reaches Berez. Its recurring question is not simply **where is Milo?** It is **what will Grim do to find him, and what kind of mother will she be when the Mists make her choose?**
 
-After decades of peace, the mark drew the attention of the Mists. Grim had become exactly the sort of person Barovia seeks to claim: experienced, resilient, deeply attached, and finally happy.
+The intended emotional spine is **caution becoming deliberate courage**. Grim's caution has kept her and her companions alive; it is not a flaw to cure. But the loss of Will and Milo can turn caution into desperation, and desperation can make other people feel like acceptable costs. At Death House, Grim argued for the ritual because she thought it was the only route out and was willing to risk a "random" baby to keep pursuing her son. Let that be understandable, consequential, and open to growth rather than treating it as proof she is evil.
 
-When the Mists came, they seized the opportunity. Will was killed, Milo was taken into Barovia, and Grim was left with just enough hope to follow.
+Each stage in Section 3 gives her a choice that tests this: whether to help another family, what price a deal is worth and who pays it, and whether she can protect Milo without treating him as property. Her wit, caution, and negotiation are strengths, not just a prelude to a final fight.
 
-A shadowy creature, an agent of the Mists, appeared before Grim and offered her a bargain. It gave her a flesh pouch containing a beating heart said to be Milo's and promised a path to her son. In return, Grim accepted a bond that would guide her into Barovia and bind her to the search.
+### Fixed Through Session 7
 
-The heart serves as a tether between Grim and Milo. As long as she continues to seek him, the connection remains. If she abandons the search, the bond is severed and Milo is lost to her forever.
+These are established by the backstory or session logs and must not be retconned:
 
-The bond manifested as a Living Shadow. This shadow is not merely a gift or a curse, but a fragment of the Mist Creature itself that remained attached to Grim when the bargain was sealed.
-
-The shadow watches, guides, and occasionally interferes. It possesses a will of its own and exists to maintain the bond between Grim and the path leading to Milo.
-
-The abilities granted by the Living Shadow are not rewards. They are natural consequences of carrying a piece of the creature within her. The shadow can reach where she cannot, manipulate the world around her, mimic her actions from impossible distances, and occasionally exert its own influence when events begin to slip beyond its control.
-
-The true nature of the heart remains unknown. It may be Milo's actual heart, a magical tether, or simply a convincing illusion created to sustain the bargain.
-
-The hags know more than they should about what happened to Grim, but they were never the masterminds. They merely left the mark that allowed greater powers within the Mists to notice her.
+- Grim's adventuring party fought hags in a swamp. Some companions died; the coven survived and marked Grim, and she never learned what happened to the bodies.
+- Grim built a peaceful life with Will and their thirteen-year-old son Milo. A hulking shadow appeared during the Mists' attack, killed Will, and took Milo.
+- The shadow gave Grim a flesh pouch with a slow, steady heartbeat and said Milo lived "beyond the Mists." It offered a path through the Vistani in return for Grim carrying the heart and continuing to seek her son. If she abandons the search, the bond is lost.
+- Grim accepted. Her Living Shadow and the pouch are tied to that bargain, but the players have not established what either truly is.
+- Grim favored the Death House ritual when the party was desperate to escape. She was prepared to risk Walter if that seemed necessary, then abandoned the attempt when it became too dangerous.
+- Grim helped the village of Barovia, offered her blood to Doru, recoiled at Agni's deathly touch, and asked Doru about people without hearts. Doru only mentioned Strahd's heart.
+- Grim gave Rahadin no reason to know the pouch's meaning; the Session 6 log explicitly says Rahadin knew nothing about it. Do not let Rahadin, Strahd, or another NPC act as if they know Milo is missing unless Grim or another character has told them.
+- The party is at the River Ivlis Crossroads at the end of Session 7, meeting Strahd. Their next likely steps are the remainder of Arc C, Tser Pool, and travel toward Vallaki.
 
 ---
 
-## 2. Mother Night and the Mist Creature
+## 2. The Story Underneath
 
-The shadowy figure that struck Grim's bargain is not a freelance fiend. It is a manifestation of **Mother Night**, the Dark Power worshipped by Baba Lysaga and secretly courted by Morgantha's hag coven at Old Bonegrinder ([Arc H - The Lost Soul](../../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)). This literalizes Morgantha's line to the players when confronted about Franz's stolen children: *"their souls were forfeit from the moment that they were born into these Mists... darker powers than Strahd von Zarovich command the Mists that encircle the valley."* Grim's Living Shadow is a splinter of that same power.
+Everything in this section is hidden from Grim and the player until earned in play. Rulings are settled; anything still undecided is tagged with its question number and listed in Section 6.
 
-Dark Powers never act directly — they watch, tempt, and strike bargains, but don't personally commit violence. They also can't send anything *out* of Barovia — the Mists are a one-way trap that reaches beyond the valley to pull chosen souls in, but nothing inside can cross back out to hunt someone down. That means the "hulking figure" who killed Will and seized Milo and the "shadow" who later spoke to Grim and offered the pouch aren't the same thing, and neither of them came from Baba Lysaga's hut itself:
+### Settled Rulings
 
-- **The hulking figure is the Mists' own reaching hand, not a thing Baba Lysaga sent.** It's the same impersonal force that "spirits" every outsider into Barovia — a fleeting, half-solid shape born the instant the mist thickened around Grim's town — given enough presence to tear a life apart and drag two people through, then dissolve. It killed Will simply because he stood between it and what it came for, with no more thought than a wave swallowing a fencepost.
-- **The shadow that spoke to Grim is Mother Night's presence**, manifesting through that same Mist once the violence was already done. It never raised a hand against Grim or Will — it arrived to survey the wreckage and offer a deal, exploiting a grieving, desperate mother exactly as a Dark Power is meant to. The bargain, not the killing, is Mother Night's contribution.
-- **The hag coven that marked Grim, decades ago and far outside Barovia, once studied under Baba Lysaga — but long before Barovia existed.** Before her banishment, while she still served as King Barov II's advisor on matters of magic, Lysaga kept a circle of students and correspondents in the wider world. Hags, unlike mortals, can be functionally ageless, and at least one coven from that circle has endured ever since, carrying her old teachings and their devotion to Mother Night across centuries while Lysaga herself followed Strahd into the valley and was sealed away with it. Marking Grim was simply an old habit passed down from their "mother" — a small devotional cruelty, not a message sent to anyone.
-- **Baba Lysaga never learns of Grim or Milo through the mark itself — she has no way to reach past the Mists.** It's Mother Night who bridges the gap: recognizing the handiwork of her own old devotees on a soul now being drawn into her domain, she treats the timing as too fitting to waste, and quietly delivers word of the newly-taken child to Baba Lysaga once he's already inside Barovia — through a dream, an omen carried by one of Lysaga's strixes, or simply a whispered certainty that settles over her like it always does when "her" children need finding. The Dark Power orchestrates the coincidence; Lysaga only has to reach out and claim what's already been placed within her domain.
-- Morgantha's coven and Baba Lysaga are not aware of each other's arrangements with Grim specifically, but both ultimately answer to (or bargain with) the same Dark Power. This gives the DM freedom to let either faction surface first without contradicting the other.
-- The Living Shadow should occasionally act with a will faintly other than Grim's own — nudging her toward Berez, growing agitated near Baba Lysaga's hut or Old Bonegrinder, and once or twice literally overriding her chosen action at a critical moment. It is a leash as much as a gift.
+- **The violent agent and the bargain-maker are separate.** The backstory describes one hulking shadow, but it was two forces. The violent one killed Will and took Milo; the Mists, which are not violent, arrived afterward and offered the Dark Gift. Whatever the violent agent is, its identity and link to Mother Night and the old hag debt are open (Q1, Q2).
+- **The Mists and Mother Night converged on Grim on the same day, on purpose.** There is a real connection between them, and which one targeted Grim first does not matter.
+- **The Mists' deals are true.** They intend to corrupt, but they never lie. Everything the voice told Grim is literally true, and it promised only a path and a bond, never a reunion.
+- **The outside hags admired Baba Lysaga and learned from her at a distance.** See below.
 
-### Why the Original Hags Marked Grim
+### The Pouch Is Honest
 
-The fight that marked Grim wasn't a random monster encounter — it was her party interrupting the coven mid-harvest.
+The pouch cannot lie. The voice told Grim to "carry his heart," and under the Mists' honest-deal rule that statement is literally true. It is neither a mundane illusion nor a false token. Its heartbeat is real and tied to Milo while he lives.
 
-- **Hags steal children; it's what they do.** Night hags propagate by snatching human infants (a detail already canon to the species, echoed by Morgantha's coven abducting Fyodor and Myrtle in [Arc H - The Lost Soul](../../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)). Grim's old coven was doing the same in some nameless swamp village — stealing infants to raise as future hags, and rendering what they didn't keep into grim confections not unlike Morgantha's "dream pastries."
-- **Grim's party stopped them and freed the children they found — but the hags survived and escaped with a grudge.** Before they fled, one of them marked Grim specifically, promising, in the old, patient way hags make good on their threats, that a debt was now owed: *a child for the children she'd cost them.*
-- **This reframes the mark as a promise, not just a curse.** Decades of peace weren't mercy — the hags were simply waiting, as hags do, for the debt to come due on its own. When the Mists finally collected on it, they weren't inventing new cruelty; they were fulfilling an old one.
-- **This should land hard for Grim in Barovia.** When she encounters Morgantha's coven doing the exact same thing to Franz's children in Arc H, it shouldn't feel like a new horror — it should feel like watching the same crime happen again, and give her a personal, immediate reason to intervene long before she has any proof it connects to Milo.
+What "his heart" means is still open: it may be his actual heart, or his life-essence in a sense that makes the words true. Its pulse should not be treated as a compass or a diagnostic tool; it proves the connection is real, not where Milo is or how he is doing (Q3).
 
-### Why This Happened to Grim
+The pouch being honest does not make the bargain kind. The Mists corrupt through what the search does to Grim, not through deception. What "lost to you" concretely means if she abandons the search is Q4.
 
-Grim wasn't chosen at random — the old mark made her a recognized, "flagged" soul the moment the Mists reached for her town, and Mother Night decided her claiming was worth turning into a gift for one of her most devoted (if maddest) servants.
+### The Outside Hags Admired Lysaga
 
-- **The mark is a thread, not just a brand.** Hag-work like this doesn't fade with distance or time. It kept Grim faintly perceptible to anything that knew how to read such marks — dormant for decades, but never truly gone.
-- **When the Mists reached for Barovia's newest arrivals, Mother Night recognized the old thread and decided to use it twice.** Grim herself became the bargain — a soul worth binding to an endless, hopeful search. Milo became a gift, delivered into Barovia for Baba Lysaga to eventually claim, precisely because his mother's mark already bore the fingerprints of Lysaga's own teachings.
-- **Milo was taken *because* he was Grim's son — nothing more.** Nothing about him personally mattered to Mother Night or Baba Lysaga; he simply happened to be the child standing beside the marked thread when it was pulled.
-- **Why not simply take one of Morgantha's stolen children instead?** Baba Lysaga's obsession was never for "a child" in the abstract — it's for a specific echo of Strahd's own infancy. Strahd was born beyond the valley, before Barovia existed, and brought into her care from outside; that's precisely what she lost, and precisely what no Barovian-born child can replicate. Fyodor and Myrtle are native to the valley — already of the domain, and besides, already spoken for by Morgantha's own soul-harvesting business, not idle stock to be handed off. Milo, arriving from beyond the Mists exactly as Strahd once did, is the only kind of "gift" that fits the shape of what she's been waiting centuries to recreate.
-- **Why not ask the werewolf pack to fetch a child, since they can cross the Mists?** Per [Caspian's DM Plans](../caspian/dm_plans.md) and [Agni's DM Plans](../agni/dm_plans.md), the pack's crossings beyond the valley only happened during Strahd's century-long hibernation, and stopped the moment he awoke and sealed the borders against them out of suspicion — which lines up with the same handful of weeks before the campaign begins, when Grim's town was taken. By the time Baba Lysaga might have wanted to call in that favor, the door the pack used to slip through was already shut. Even setting timing aside, a feral raiding party makes an unreliable errand-runner for something this delicate — they hunt for meat, not for gently-delivered infants, and Lysaga has no particular sway over Kiril's pack to begin with. The Mists' own reach, orchestrated through Mother Night, was the only avenue still open to her.
-- **This is why Grim, and not some unrelated family, lost everything.** It reframes the tragedy as the payoff of a debt she never knew she still owed, rather than pure misfortune — consistent with how Dark Powers are said to operate: nothing is ever entirely random, and every bargain traces back to a door the victim (however unknowingly) already left ajar.
+The outside coven are admirers of Baba Lysaga who learned her craft at a distance. Lysaga was banished from King Barov II's court when Strahd was a newborn, and she did not follow his army into the valley until decades later. That exile gave her time to gather students and admirers in the wider world. Hags live for centuries, so a coven from that circle could have outlived her departure into Barovia.
 
-### Why Will Died and Grim Didn't
+The distance is deliberate. The hags never took orders from Lysaga, and she may not know they exist. Use evidence to build the connection gradually: a repeated phrase, a similar mark, an old name for Lysaga, or Morgantha recognizing the *style* of the mark. Avoid saying that the outside coven studied in Berez; they could not have done so after Barovia was sealed. How much the coven knew about the debt's collection is Q8.
 
-Will and Grim weren't treated the same way because they weren't worth the same thing to the Mists and to Mother Night.
+### Why Baba Lysaga Wants Milo
 
-- **Will was an obstacle in the Mists' reach, nothing more.** Whatever half-formed will drove the hulking figure that night wanted Milo and, soon after, Grim herself — Will simply stood in the way and was disposed of without ceremony.
-- **Will was also an anchor Grim needed to lose.** Whether or not anything intended it, his death removed the one thing that could have kept Grim out of Barovia — a settled, ordinary life she'd have chosen over any pursuit. Milo, taken alive rather than killed, became the replacement anchor: one that pulls her in instead of holding her back.
-- **A corpse is a poor investment; a devoted searcher isn't.** Mother Night doesn't feed on a single death — she feeds on prolonged grief, obsession, and hope kept perpetually just out of reach. A dead Grim is over in an instant. A living Grim, bound to a bargain she chose to accept, generates exactly the kind of slow, renewable suffering domains of dread like Barovia exist to produce. This is why the shadow bothered to appear and negotiate at all, rather than simply letting the mist finish its work and vanish.
-- **Grim was already marked.** The old hag coven's mark meant she was a known, pre-approved vessel the moment the Mists noticed her — the bargain wasn't improvised on the spot, it was the payoff of a debt laid decades earlier.
-- **A willing vessel serves Mother Night's purposes better than a grieving one.** A mother who voluntarily walks herself and her son's "heartbeat" straight into the valley — and who will not fight recklessly, because doing so risks the very bond keeping Milo findable — makes for a far richer, longer torment than simply leaving her broken and directionless outside the Mists. Grim's cooperation is coerced, but it's real cooperation, and that's what the bargain was built to produce.
+Baba Lysaga's obsession is rooted in losing the infant Strahd when she was banished. A Barovia-born child taken by Morgantha is not interchangeable with a child brought from beyond the Mists; the latter echoes the original loss and can be twisted into a substitute heir. Milo is thirteen, not an infant, so Lysaga should not treat him as a literal replacement baby. Her delusion can instead be that he is "Strahd returned" and that she can still shape him into the son she believes was stolen from her. She may infantilize, rename, or try to make him dependent on her, but Milo remains a person with memories, fear, and agency—not a prop in her delusion. Whether her failing body adds a practical clock is Q7.
 
-## 3. Where Milo Is
+The werewolf pack is not a dependable alternative courier. Its crossings beyond the valley were limited and ended when Strahd sealed the borders after awakening; in any event, Kiril's pack is not Lysaga's tame delivery service. Morgantha's stolen children are also not what Lysaga wants: they are Barovia-born and already part of Morgantha's own bargains and soul-harvesting schemes. This distinction is Lysaga's fixation, not an objective claim that Milo is more valuable than those children.
 
-Milo is alive. He is not hidden by Strahd or his court — he was taken because Mother Night saw an opportunity to deliver a fresh, living child into the hands of Baba Lysaga, completing her oldest and most private obsession.
+---
 
-- Baba Lysaga has spent centuries maintaining a *programmed illusion* of a child and crib in her hut, which she calls "Strahd" — a delusion born of her banishment from the newborn Strahd centuries ago (see [Non-Player Characters](../../Appendices/Non-Player%20Characters.md)). Milo is meant to eventually replace that illusion with something real: a living child Baba Lysaga can raise as the "son" she was never allowed to keep.
-- Until that transfer happens, Milo is kept safe, fed, and magically sedated — Baba Lysaga has no interest in harming him, only in possessing him. She keeps him close, not hidden away: tucked in a curtained alcove beside (or hidden beneath) the illusory crib in her own hut, **T3k. Baba Lysaga's Hut** (see [Arc T - The Three Fanes](../../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)). She dotes on him personally, in the same room where she maintains the *programmed illusion* she calls "Strahd."
-- This means Milo's rescue coincides with the campaign's existing climactic confrontation with Baba Lysaga in Arc T, giving Grim's personal arc a natural home in the story without requiring a bespoke side-dungeon — and it puts Milo in the same room as Baba Lysaga herself, raising the stakes of that fight directly.
+## 3. Campaign Progression at a Glance
 
-## 4. Physical Trail: Old Bonegrinder to Berez
+Each stage advances a different question. The clues are invitations, not mandatory gates. If the party skips a scene, use an alternate source later; if Grim finds Milo early, honor that success and shift the story toward protecting him and understanding the bond.
 
-Grim's search should unfold in two stages, mirroring the module's own hag content:
+| Stage | Campaign anchor | Question advanced | Grim's meaningful choice |
+|---|---|---|---|
+| 1. The Road In | Arc C: Strahd, Tser Pool, Vistani | Is the bargain a path, a leash, or both? | How much does she tell the Vistani, and does she accept help without surrendering control? |
+| 2. Other People's Children | Arc E, then Arc F/G | Can she help another family without confusing their story with Milo's? | Does she spend time, leverage, or safety to help Arabelle or another child? |
+| 3. The Familiar Crime | Arc H: Old Bonegrinder | Is Morgantha's child-taking connected to the old hag debt? | What will Grim risk to stop a bargain that resembles her own? |
+| 4. The False Nursery | Arc I: Baba Lysaga | Does the trail lead to Milo, or is Lysaga exploiting Grim's hope? | Does Grim negotiate, investigate, retreat, or risk a rescue? |
+| 5. The Wider Pattern | Arc J and later Act III scenes | What do the Mists and Barovia do with hearts, names, and bonds? | Does Grim share the truth with the party and let them help? |
+| 6. The Easy Answer | Arc R/S: Amber Temple | What price would she accept for certainty? | Does she reject a shortcut that would turn someone else into payment? |
+| 7. The Reckoning | Arc T: Berez | Who has been using the bargain, and what does Milo want? | Does Grim define family as possession, protection, or a relationship Milo can choose? |
 
-1. **Old Bonegrinder (Arc H).** Grim's shadow reacts to Morgantha and her daughters — a faint pull, a whisper of recognition — even though Milo was never held there. If Grim investigates Morgantha directly (in or out of the existing Arc H plot), Morgantha can't produce Milo, but she recognizes the make of Grim's bargain immediately: "Mother Night's mark, that is. I know the hand that struck it, though it isn't mine." She refuses to say more without a price (consistent with her established dealmaking behavior), but can be bargained with for a name — Baba Lysaga's — and a warning: "Berez. And bring nothing that woman would call a child."
-2. **Berez (Arc I and Arc T).** The real trail leads to Baba Lysaga. Arc I (**The Walls of Krezk**) already brings the party to her hut for the *scrying* favor Baron Krezkov requests; this is Grim's first chance to be near Milo without yet knowing it. Baba Lysaga's illusory lullaby and crib (already in the room) should visibly unsettle Grim's shadow. Arc T's later, larger confrontation at Berez is where the truth and the rescue converge.
+Do not require every stage. A strong Grim scene every few sessions is enough; some sessions should belong to the other characters and to the party's shared problems.
 
-## 5. Foreshadowing
+---
 
-- **Arc C (Into the Valley) / early Vistani contact:** A Vistani elder or Madam Eva reacts oddly to Grim's shadow-bond, recognizing the mark of a much older bargain and warning her, obliquely, that "the swamp remembers what it's owed."
-- **Arc I (The Walls of Krezk):** During the scrying favor, Baba Lysaga's illusory child and crib should make Grim's heartbeat-pouch pulse faster, and the Living Shadow grows restless, straining toward the crib before Grim consciously understands why. Baba Lysaga notices the reaction with open curiosity rather than alarm — she has no reason yet to suspect Grim is a threat.
-- **Old Bonegrinder (Arc H):** Morgantha's recognition of the mark (see Section 4) is the first hard confirmation that a *specific* power, not a vague curse, is behind Grim's bargain.
-- **Arc T (The Three Fanes):** The child's voice — the *programmed illusion* Baba Lysaga uses in her hut — should, for Grim alone, sound unmistakably like Milo the first time she hears it, before she has any proof he's actually near.
+## 4. Stage Details
 
-## 6. Baba Lysaga as a Personal Antagonist
+### Stage 1: The Road In (Arc C)
 
-Baba Lysaga should not simply be an obstacle standing between Grim and her son. She should be a dark mirror.
+**Start from the current scene.** Strahd has just greeted the party at the River Ivlis Crossroads. He has no established knowledge of the heart or Milo. Do not have him react to the pouch as if he recognizes it, and do not force Grim to disclose her history. If she brings it up, Strahd can respond to what she actually says, with his usual curiosity and predatory courtesy.
 
-- She, too, lost the only child she considered hers (Strahd, torn from her by banishment), and has spent centuries unable to let that loss go. She sees nothing wrong in what she's doing to Grim — from her perspective, she's simply owed a child, the same way she believes she was owed Strahd.
-- She underestimates Grim, seeing her as a grieving, harmless mother rather than a threat, which preserves Grim's agency: nothing forces a confrontation before the party is ready, and Grim retains full control over how (or whether) she confronts Baba Lysaga about Milo once she learns the truth.
-- Baba Lysaga never takes the heart-pouch or the Living Shadow from Grim. They remain hers to use, lose, or destroy.
+At Tser Pool, Stanimir and Madam Eva are the first plausible people to ask about the bargain's route. They should not solve it. The Vistani know the roads through the Mists; they need not know the identity of the shadow, where Milo is, or whether the pouch is authentic. Madam Eva can give Grim a personal epithet or a guarded image—*a mother carrying a borrowed heartbeat*—without naming the destination. If Grim asks directly, Eva can say that the pouch is a bond, not a map, and that every bond has a price. This is a reading of the situation, not a confirmation of the speaker's honesty.
 
-## 7. Resolution
+The Vistani also give Grim a useful choice: explain the bargain and ask for help, or keep its terms private. If she does ask for help, they can guide her through the valley but cannot promise to get her back out or take her to Milo. That preserves the Vistani's role in her arrival without making them responsible for her whole quest.
 
-Milo can be recovered alive during the party's assault on Berez in Arc T, in the same room as the fight with Baba Lysaga itself. This should be framed as a rescue objective layered onto the existing encounter, not a separate scene — similar in spirit to the Ashcairn children in [Caspian's DM Plans](../caspian/dm_plans.md). Because he's kept at her side rather than stashed away, the party (and Baba Lysaga) may need to weigh the risk to Milo directly during the fight — she may threaten or grab him if cornered, using him as a shield or bargaining chip.
+**Payoff:** Grim enters Barovia with a lead and a question, not an answer. The session's principal focus remains the party's meeting with Strahd and the Tarokka reading.
 
-- If Baba Lysaga is slain or driven off with Milo still unaccounted for, the Living Shadow (still tethered to Mother Night rather than to Baba Lysaga personally) can guide Grim to his exact hiding spot in the hut, giving the party a way to still complete the rescue even after the boss fight ends.
-- Freeing Milo should sever the bond gently rather than violently — the heartbeat in the pouch simply stops once he's safe, its purpose spent, leaving Grim with a keepsake rather than a leash.
-- Grim's transformation: from a woman defined by caution and by what she's lost, to someone who has faced the exact kind of power that preys on people like her — and won. The campaign should let her decide what becomes of the Living Shadow itself once the bond is severed: cast it off, or keep some small fragment of it, changed, as a reminder of what she survived.
+### Stage 2: Other People's Children (Arcs D-G)
 
-## 8. Open Questions
+Use the existing family and community stories as mirrors, not as a string of extra Grim quests. The party may encounter Arabelle's disappearance, Ireena's vulnerability, and the strained families of Vallaki. Grim can recognize how fear and bargaining make people treat children as things to move, trade, or protect. She is not required to take every child under her wing.
 
-- Should Morgantha's coven or Baba Lysaga be the one to first reveal Mother Night's involvement, or should the DM hold that reveal until Berez regardless of player choices?
-- Whether Baba Lysaga uses Milo as a hostage/shield if the fight in Arc T turns against her, and how harshly to play that threat given the table's tone.
-- Whether Wensencia or the other Berez witches (Arc Q) know about Milo and could be leveraged or bargained with independently of Baba Lysaga.
+Arc E's search for Arabelle is the strongest early choice. Let Grim contribute her practical caution, negotiation, and search skills. The meaningful beat is not that Arabelle resembles Milo; it is that Grim can help a child whose fate is not hers to control. If she chooses to help, Arabelle can later remember Grim as someone who listened to her rather than treating her as cargo. If Grim declines or the party has other priorities, do not punish her; a Vistana or the rescued girl can later supply a secondhand rumor about the windmill's child-taking.
+
+Arc F provides a lore clue only if it arises naturally. Fiona's history as Baba Lysaga's former student and the *Grimoire of Night's Whispers* can show that Lysaga's students used marks, bargains, and rites to bind people to obligations. Fiona need not recognize Grim's exact mark. She may recognize a phrase or technique and admit that Lysaga did not invent it. This hints that Lysaga's methods spread beyond Barovia, without saying how closely Grim's old coven knew her.
+
+Arc G can echo the danger of a protective motive becoming control through Izek's relationship with Ireena. Keep this brief and centered on Ireena and Izek's established story; it is a contrast Grim can notice, not a new subplot she must resolve.
+
+**Payoff:** Grim sees that Barovia's child-related horrors are systemic, but the campaign does not tell her that every missing child is Milo.
+
+### Stage 3: The Familiar Crime (Arc H)
+
+Old Bonegrinder is Grim's first major personal test. Morgantha's coven has taken Franz's children, Fyodor and Myrtle, in a bargain made under grief and desperation. This resembles both Grim's old fight with the outside coven and the bargain that brought her to Barovia. Let Grim recognize the pattern, but do not make Morgantha responsible for Milo or imply that she knows his location.
+
+Morgantha may notice the pouch or the mark if Grim displays them. Her strongest useful response is limited: she recognizes an old hag-debt or a style of binding, but says the mark is not hers. She can claim that the bargain's author has "borrowed a hag's handwriting" or that "someone has taught the Mists to keep accounts." Treat this as suspicious testimony, not fact. If the party bargains with her for the heartstone, her established terms and dream-collateral remain the center of Arc H; do not add a second mandatory bargain just for Grim.
+
+Give Grim a choice that changes how she understands the bargain: intervene to rescue Franz's children even though doing so costs time and risks the party, try to negotiate with Morgantha using her silver tongue, or decide that this is not a safe fight yet and seek another route. If she protects the children, let that matter. If the party must flee, Morgantha can taunt Grim with the resemblance between their bargains without claiming that Grim is already hers.
+
+**Clue:** In a recovered contract, memory, or conversation, Grim can find a mark or phrase that resembles her old one. This confirms a shared tradition, not the identity of the mastermind. A second route to the same clue is Fiona's grimoire or an old hag's later testimony.
+
+### Stage 4: The False Nursery (Arc I)
+
+The party already has a campaign reason to visit Baba Lysaga: Baron Krezkov's scrying request. Use the existing audience, offering, and blood-scrying scene. Grim's first Berez visit should be unsettling but should not dump her entire backstory into Baba's dialogue.
+
+The illusory child and crib are a strong mirror for Grim's loss. The pouch's pulse may briefly synchronize with the lullaby, then fall out of rhythm. Baba Lysaga notices the Living Shadow or the mark and recognizes something familiar in its craft; she does not automatically know Grim, Milo, the bargain's terms, or the pouch's true nature. She might ask, *"Who taught you to carry a child this way?"* or call the mark an old debt. She is trying to learn what Grim knows, not help her.
+
+**Provisional DM truth (Q5, Q6):** Milo is alive and is currently kept by Baba Lysaga in a curtained alcove beside the illusory crib in her hut. Lysaga dotes on him and calls him her son, but he is frightened and does not share her delusion. Grim does not know this yet. Do not protect him with arbitrary immunity: if the party investigates well, they can find him here, and reaching and protecting him in Lysaga's territory is still a real challenge.
+
+If the party does not find him, leave a fair clue for later: a second heartbeat from behind a wall, an empty cup still warm, a child's scuffed boot, or Baba's lullaby changing when Grim approaches. Use one or two, not all of them. Baba may deny it, bargain, or force the party to retreat; she should not simply explain the truth.
+
+If Milo is rescued early (see Section 3), the remaining arc becomes protecting him from Lysaga and the old bargain, learning what the heart means, and deciding whether Grim can release the bond without losing her son again. Arc T can then be about confronting Lysaga's wider threat and ending her claim rather than repeating the rescue.
+
+### Stage 5: The Wider Pattern (Act III)
+
+Act III should broaden Grim's understanding of what the heart and the Mists mean, while keeping the main campaign in front.
+
+- **Arc J, The Stolen Gem:** Baba Lysaga's strixes and alliance with the druids make her a recurring threat rather than a name in Grim's notes. A strix can carry a scrap of nursery cloth, a lullaby phrase, or a mark matching the one on Grim. This is a trace of Lysaga's methods, not proof that she is physically near Milo. If the party captures or drives off a strix, Grim can choose whether to question it, follow it, or prioritize the winery.
+- **Arc L, The Den of Wolves:** Caspian's missing children and the pack's violence offer a parallel to Milo without making Grim responsible for Caspian's resolution. A quiet exchange between the two can let Grim recognize that a parent or rescuer cannot always choose the outcome for a child. This should support both characters' agency, not turn the children into interchangeable stakes.
+- **Arc O, Dinner with the Devil:** Strahd may ask what Grim seeks if she has told him or made it obvious. He knows only what his spies could reasonably learn. He can offer information or assistance in exchange for service, but he must not claim knowledge of the pouch or Milo without an established source. His offer is a temptation: useful, plausible, and dangerous, not an automatic lie.
+- **Arc P, Ravenloft Heist:** Near the Heart of Sorrow, the pouch may beat in time with the vast heart for a few moments, then resume its own rhythm. This suggests a family resemblance between bonds that bind life to Barovia; it does not prove that the pouch uses the same magic or that Strahd made it. This is an atmosphere clue, not a location ping.
+
+**Choice:** Grim can share the pouch's behavior with the party or continue to carry the secret alone. Sharing gives the group more context for later rescue decisions; secrecy remains a valid character choice and should not be punished with a lost clue.
+
+### Stage 6: The Easy Answer (Arc R and Arc S)
+
+At the Amber Temple, the party encounters powers that offer bargains. Grim's test is not to reject every bargain automatically; she has survived by judging risks. Give her one offer that speaks directly to her need for Milo—such as revealing the heart's true nature, locating him, or severing the bond. The price should be concrete and personal, not a vague "corruption" surcharge. Possible prices include giving up the memory of Will's voice, surrendering the shadow to the vestige, or promising another soul. Do not use a child as the required price unless the player has signaled that this kind of threat is welcome at the table.
+
+The offer must be optional, and the party must have another way forward. Its purpose is to make Grim choose with better information than she had at Death House. If she accepts, make the cost real and let her work with the consequences. If she refuses, reward the judgment with a truthful but incomplete clue from another source. This is where her arc can show growth without declaring that her earlier choice was unforgivable.
+
+### Stage 7: The Reckoning (Arc T)
+
+Arc T already brings the party to Berez and Baba Lysaga's hut. If Milo was not rescued earlier, this is the intended major rescue opportunity. Keep him in the hut or its immediate hidden space so the confrontation stays personal and the party can act on what it has learned. If he was rescued earlier, Baba's attack on the Martikovs, her use of the hut, and her grudge against the party still provide a reason to confront her.
+
+Lysaga tries to keep Milo through affection, threats, and her warped account of Strahd's childhood, working on him and Grim alike. Keep Milo's reactions specific to the thirteen-year-old in the backstory: he may be frightened, angry, confused, or glad to see his mother, and he should get a chance to speak and make choices after the immediate danger passes.
+
+The heart's truth can be confirmed here by the bargain-maker, Baba's records, or what happens when Grim and Milo are together. The reveal should settle what "his heart" truly meant (Q3) and show that the bargain was honest throughout: it promised a path and a bond, never a reunion. When Milo is safe and Grim freely chooses what the bond means, the pouch can stop beating, change, or remain as a keepsake. Do not make it stop solely because a villain dies; the emotional resolution belongs to Grim's choice.
+
+The final challenge is not "will Grim sacrifice herself for Milo?"—that answer is already clear. It is whether she can protect him without treating him as an object to recover, and whether she can refuse the old hag-debt's demand for another child in payment. Let her choose what to do with the Living Shadow: cast it off, keep it changed, or leave the question open.
+
+---
+
+## 5. Character Growth and Party Involvement
+
+Grim's arc should generate scenes with the group, not isolate her in a private quest.
+
+- **Agni:** If he uses Blood Sense on the pouch, describe an uncanny pulse that feels like lifeblood but does not resolve into a creature: no identity, direction, distance, or health. If Milo himself is within normal range, Blood Sense reports an extra living creature honestly, which can become a moment of trust between Agni and Grim.
+- **Caspian:** The Ashcairn children in Arc L are a parallel, but their fate belongs to Caspian and the party. Grim can offer hard-earned perspective or help with a rescue; she should not solve the scene for him.
+- **Sister Elga:** Her work with souls and the dead can help distinguish a life-tether from a trapped soul, but she cannot determine the pouch's origin without evidence. Their different views of the Death House ritual can mature into a respectful disagreement about cost, not a forced reconciliation.
+- **Ivan:** His insistence on ending threats and Grim's caution can create tactical tension. Give them chances to negotiate a plan together, especially when Baba Lysaga or the hags make direct action dangerous.
+
+### Track Progress, Not Points
+
+After each session, record only three things in the DM's notes: what Grim now believes about Milo or the pouch; what choice she made when someone else's safety was at stake; and which lead she chose to follow or set aside. Use those answers to select the next scene. Do not add a separate numerical affinity system unless the table would enjoy one.
+
+---
+
+## 6. Open Questions
+
+These are intentional mysteries, resolved one at a time with the DM. When one is settled, move its answer into Section 2 and delete it here. Numbers are kept stable so references (Q1-Q9) stay valid. The arc's emotional resolution does not depend on explaining every supernatural mechanism.
+
+1. **Q1. Who or what is the violent agent?** It is separate from the Mists. Its source is likely Mother Night's side or the old hag debt, but it is unnamed.
+2. **Q2. What is the connection between the Mists and Mother Night?** Do they cooperate, does one serve the other, or do both serve the same Dark Power?
+3. **Q3. Is the pouch's heart literally Milo's heart?** If so, how is he alive without it?
+4. **Q4. What does "lost to you" concretely mean if Grim abandons the search?** One idea is that Lysaga completes a naming rite that makes Milo hers.
+5. **Q5. How and when did Lysaga learn of or receive Milo?**
+6. **Q6. Where is Milo kept?** The provisional default is the alcove in Lysaga's hut.
+7. **Q7. Is Lysaga's failing-body ritual real, and how close is it?**
+8. **Q8. How much did the outside coven know?** Did they expect their debt to be collected, and are they still alive?
+9. **Q9. What happened to Grim's fallen companions' bodies?** A survivor, a hag's memory, or an item recovered at Old Bonegrinder can connect that wound to the present without requiring every former companion to appear.

@@ -423,6 +423,13 @@ If Muriel is with the players in raven form, Madam Eva regards her with an emoti
 
 If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
 
+> [!abstract]+ **Grim Tie-in: The Baker on the Road**
+> Only if Grim asks Madam Eva about Milo, the pouch, or whoever marked her, Eva studies the pouch for a long moment, then says:
+>
+> *"The woman who marked you still travels this road, pushing a baker's cart. Ask her what she knows of the boy."*
+>
+> Eva says nothing more: not the baker's name, where Milo is, or who gave Grim the pouch. If pressed, she answers only that some bargains are not hers to read. Grim has never seen the hags' human forms, so she cannot identify the baker on sight. (The baker is Morgantha, met at **C9**. See [players/grim/concepts/the-honest-price.md](players/grim/concepts/the-honest-price.md).)
+
 If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
 
 Regardless of the players' response, Madam Eva replies, shaking her head: "I will not do this thing for you—not yet. If you wish to pursue this path, however, come to the River Ivlis crossroads at midnight tonight. I shall await you there, by the gallows. Come alone—and do not allow yourselves to be followed." Madam Eva refuses to elaborate, and dismisses the players from her tent if they attempt to protest.
