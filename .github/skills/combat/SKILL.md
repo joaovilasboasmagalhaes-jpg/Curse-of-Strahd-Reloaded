@@ -28,6 +28,7 @@ Provides numbers and mechanics. The identity and behavior of an NPC belong to `n
 - **Reloaded wins.** Take stat blocks, modified abilities and encounter sizes from the Reloaded files, using the original only where cited. A Reloaded entry that modifies an original monster replaces it.
 - **Fixed history.** The logs say what happened in earlier fights. Do not retcon outcomes.
 - **Party, not average party.** There are five PCs (Agni, Caspian, Grim, Ivan, Sister Elga). Use their real mechanics, not a generic party.
+- **Elga's Urn warns of undead.** Her Urn glows bright purple within 300 feet of any undead, so an ambush by undead near her is never a surprise to her player. When building or judging an encounter with undead, say when the Urn starts glowing and remind the DM to tell the player.
 - **Spoilers.** Hidden abilities and planned boss encounters in player plans are DM-only.
 
 ## Design principles

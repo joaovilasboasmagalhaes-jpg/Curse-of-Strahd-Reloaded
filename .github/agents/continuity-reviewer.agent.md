@@ -22,6 +22,7 @@ The request says whether the content is a **concept** (status `exploring`) or a 
 5. Check what each NPC could know. An NPC must not act on knowledge a source does not give them.
 6. For significant combats, flag a static HP race (no objective, nothing to react to, or a long expected length) as a style/pacing note, per the `combat` skill's design principles.
 7. Check spoilers. DM-only plans must not appear as something the characters already know.
+8. Check Sister Elga's Urn (`players/sister_elga/soul_gathering.md`): it glows bright purple within 300 feet of any undead. If the content places Elga near undead, report it as an issue if the plan does not have the Urn glow and the player be told. If an undead is hidden or disguised, note that the Urn still glows.
 
 ## Output Format
 A short list, most serious first. For each item give:
