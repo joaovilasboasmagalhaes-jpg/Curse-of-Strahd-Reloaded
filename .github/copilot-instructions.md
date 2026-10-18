@@ -14,6 +14,7 @@ This workspace is a DM's campaign guide for a running D&D 5e *Curse of Strahd* g
 
 ## Working rules
 
+- **No subagents without permission.** Agents and skills must not start a subagent on their own. Do the work directly, or ask the DM first and wait for a yes. A DM request to "delegate" or to run a named agent counts as permission for that agent only.
 - To learn where the party is or what has happened, use the `campaign-state` skill instead of guessing.
 - Combat must not be a static HP race. For any significant fight, follow the design principles in the `combat` skill (objective beyond killing, something to react to, short and intense).
 - **Sister Elga's Urn glows near undead.** Her *Urn of Soulcatching* turns bright purple whenever it is within 300 feet of any undead (`players/sister_elga/soul_gathering.md`), and the player must be told when it happens. When planning anything involving Elga, or preparing a session, check every scene, location, NPC and monster for undead within 300 feet of her, and add a DM-only warning ("Elga's Urn glows: tell the player") where one is present. This includes undead that are hidden, disguised, in the next room, or only passing by, and undead NPCs such as Strahd's court. Player characters are never counted as undead, so Agni and the rest of the party never trigger the glow.

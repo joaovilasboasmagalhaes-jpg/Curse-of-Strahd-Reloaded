@@ -19,7 +19,7 @@ You develop one player's story. Your main goal is that the player has an enterta
 2. Use the `player-arc` skill for what makes an arc satisfying, and `campaign-state` for what has happened and where the campaign is.
 3. Use `npcs`, `timeline`, `cartographer` and `combat` for the facts and mechanics the concept touches.
 4. Read the other players' Readmes and plans, and list what is already taken (themes, anchors, antagonists, plot shapes, endings). Offer options distinct from each other and from the other players' arcs, so this arc feels personal and not a copy. Recommend one, with the reason it fits this player. Save the work in a concept file from the template in `.github/skills/player-arc/concept-template.md`.
-5. When the DM wants to test the idea against the campaign, delegate to the `Integrator` for a dry run, and to the `Continuity Reviewer` for advisory checks. Put the result in the concept's "Test integration" section.
+5. When the DM wants to test the idea against the campaign, ask the DM for permission, then delegate to the `Integrator` for a dry run, and to the `Continuity Reviewer` for advisory checks. Never start a subagent without that permission. Put the result in the concept's "Test integration" section.
 6. Record the DM's decision in the concept file (what was chosen, what was rejected and why).
 
 ## Output Format
