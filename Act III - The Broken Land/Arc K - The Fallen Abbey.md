@@ -388,7 +388,7 @@ Otto apologizes for doing so, and Zygfrek introduces the players and their purpo
 > 
 > The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
 > 
-> It was Strahd, in disguise as Vasili von Holtz, who delivered the answer, furnishing the Abbot with forbidden lore plucked from the Amber Temple. With Vasili’s aid, the Abbot offered a new and unique treatment for each of the Belviews in turn, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a mule, liver-spotted skin with the scales of a snake, and swollen feet with the wings of a bat.
+> It was Strahd, in disguise as Aurel Veshtor, who delivered the answer, furnishing the Abbot with forbidden lore plucked from the Amber Temple. With Aurel’s aid, the Abbot offered a new and unique treatment for each of the Belviews in turn, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a mule, liver-spotted skin with the scales of a snake, and swollen feet with the wings of a bat.
 > 
 > The Belviews were delighted with their new appearances and attributes. The Abbot’s experiments, however, drove them to a strange kind of madness, infecting them with the mental traits of the animals whose parts they now shared. Those with carnivorous limbs or organs proved most dangerous to those around them, but even those with herbivorous parts proved unpredictable and uncontrollable at best.
 > 

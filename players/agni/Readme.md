@@ -22,5 +22,5 @@ These player-accessible documents record Agni's established background, knowledg
 
 These DM-only documents contain mutable plans for connecting Agni's backstory to Barovian lore.
 
-- [DM Plans](dm_plans.md): Mutable DM canon for Lord Cassian von Holtz, the Widow’s Peak experiment, the 3-tiered cure, and thematic NPC foils.
+- [DM Plans](dm_plans.md): Mutable DM canon for Doctor Osric Valemont, the Widow’s Peak experiment, the 3-tiered cure, and thematic NPC foils.
 - [Campaign Integration](dm_campaign_integration.md): Mutable campaign-facing consequences, act-by-act DM hooks, scene adjustments, inter-party alchemical collaboration with Sister Elga, and boss encounters.

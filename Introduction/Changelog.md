@@ -1,3 +1,5 @@
+# Local changes (October 18, 2026)
+* Renamed Strahd's alias "Vasili von Holtz" to "Aurel Veshtor" in [[History of Barovia]] and [[Arc K - The Fallen Abbey]]; the original adventure's N4q letter, cited in the History, still uses the old name
 # Patch 2.0.1.15 (August 20, 2026)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that Ismark has the statistics of a **veteran** in [[Arc B - Welcome to Barovia]]

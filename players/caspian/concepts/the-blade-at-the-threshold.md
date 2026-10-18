@@ -48,7 +48,7 @@ The backstory itself says the survivors reported that the attackers spoke of ser
 
 ## How it differs from the other players
 
-- **Agni:** His center is blood hunger, his son, and a multi-stage cure against Cassian. Caspian's center is justice, responsibility, and the boundary between the Shadowfell and Barovia; the children are a possible den encounter, not a parallel child-cure campaign.
+- **Agni:** His center is blood hunger, his son, and a multi-stage cure against Osric Valemont. Caspian's center is justice, responsibility, and the boundary between the Shadowfell and Barovia; the children are a possible den encounter, not a parallel child-cure campaign.
 - **Ivan:** His center is family, clan, leadership, and the Huntress's inheritance. Caspian may share the den and the pack, but does not inherit Ivan's family revelations or become responsible for deciding the clan's future.
 - **Sister Elga:** Her center is the Ven, the trapped dead, and whether her institution should preserve or release souls. Caspian's resonance is about living across planar boundaries and resisting powers that manipulate them, not shepherding the dead.
 - **Grim:** Her center is finding Milo and the cost of a supernatural bargain. Caspian's resolution should not depend on recovering a missing child as the sole emotional payoff; the den children, if used, remain one decision among several.

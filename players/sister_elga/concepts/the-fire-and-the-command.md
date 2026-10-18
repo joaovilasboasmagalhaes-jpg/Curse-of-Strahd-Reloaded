@@ -55,7 +55,7 @@ Risk to manage: do not let the unseen "other force" overshadow Ferd's own decisi
 ## How It Differs from the Other Players
 
 - **Grim:** Her core antagonist and emotional stakes are Morgantha's coven, Milo, and the soul bag. Elga's core remains the Ven, Ferd, her doctrine, and Rahadin. The bag is a brief thematic mirror; no Elga reveal determines Grim's culprit, reunion, or choice.
-- **Agni:** His core is Cassian, Milosh, and a cure pursued through alchemy. Elga may help with alchemy, but this camp scene is about her faith and interpretation of an order, not a child's cure.
+- **Agni:** His core is Osric Valemont, Milosh, and a cure pursued through alchemy. Elga may help with alchemy, but this camp scene is about her faith and interpretation of an order, not a child's cure.
 - **Caspian:** His arc is the werewolf raid on Ashcairn and the children taken from home. Elga's scene is not another child-rescue or revenge lead.
 - **Ivan:** His arc concerns divided family, return to the pack, and the Huntress. Elga's home/order is also a community, but her central question is what the dead deserve and how she judges doctrine.
 
