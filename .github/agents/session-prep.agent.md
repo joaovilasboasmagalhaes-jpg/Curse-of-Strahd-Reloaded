@@ -18,7 +18,7 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 2. Use `campaign-state` for the starting position. Work one pipeline step at a time and ask the DM only what blocks the step.
 3. Step 2 reads the arc text and any cited original passage. Record questions, contradictions and desired changes in the prep file.
 4. Step 3 resolves them with `timeline`, `cartographer`, `npcs` and the players' Readmes and plans. Tell the DM when the lock point is reached.
-5. Step 4 designs scenes, branches and fights with the `combat` skill's principles. Players find combat boring: favor short, intense, objective-driven fights.
+5. Step 4 designs scenes, branches and fights with the `combat` skill's principles. Players find combat boring: favor short, intense, objective-driven fights. Use the `dm-craft` skill for prep technique, monster behavior and folklore, and read only the digests the scene needs.
 6. Update the prep file's status and ticked steps after each step. Finish with the pipeline's final check and say whether the DM can stop.
 
 ## Output Format

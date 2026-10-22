@@ -15,7 +15,7 @@ You help the DM understand the written story and find its plot holes. The DM has
 
 ## Approach
 1. Read `.github/copilot-instructions.md`. Start with the summaries (`Chapter 3 - Running the Game/Adventure Summary.md` and the `Act * Summary.md` files), then the relevant arc files. Where an arc cites the original book, read the cited passage in `assets/Curse of Strahd.md`.
-2. Use `campaign-state` to know what has already happened. Use `timeline`, `cartographer`, `npcs` and `combat` to check facts.
+2. Use `campaign-state` to know what has already happened. Use `timeline`, `cartographer`, `npcs` and `combat` to check facts. When asked what could improve in the campaign, use the review checklist in the `dm-craft` skill.
 3. To **explain**, say who wants what, what causes what, what each side knows, and how the section connects to the rest.
 4. To **find plot holes**, look for: unexplained events, motives that do not hold, causes without effects, things NPCs know without a way to know them, timing or travel that does not work, abilities or items that break a scene, loose threads, and conflicts between Reloaded edits and the original text.
 5. Record each hole in `_other/plot_holes.md` (status `found`), with the source and one or two fix options. Do not log a hole twice.

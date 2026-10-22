@@ -18,6 +18,7 @@ Covers an NPC's **facts** (identity, status, relationships, knowledge) and **beh
 | What happened to them at the table | `sessions/Session N/log.md` (fixed), summarized in [roster-state.md](./roster-state.md) |
 | NPCs added or changed by planning | `players/*/dm_plans.md`, `dm_campaign_integration.md`, `clan_lore_dm.md`, and edits in the campaign files. Campaign-file edits count as canon |
 | Backstory NPCs | The player's Readme and fixed backstory |
+| Portraying villains and folklore-based NPCs (optional inspiration, never canon) | `dm-craft/books/villain-guide.md` (Strahd, his court), `vampires.md`, `werebeasts.md`, `vistani.md`. The guide wins on conflicts |
 
 ## Rules
 

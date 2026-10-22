@@ -19,7 +19,7 @@ You develop the campaign's story. Your focus is interest: tension, surprise, emo
 3. Read the involved players' Readmes. Use their stakes (goals, losses, fears) to make scenes personal.
 4. Use `npcs` for who is involved and how they would act, `timeline` and `cartographer` for what is possible, and `combat` for fights.
 5. For every significant combat, apply the `combat` skill's design principles: an objective beyond "kill everything" or a battlefield/enemy behavior to react to, short and intense rather than a long HP race.
-6. Offer a few distinct options when the choice is the DM's, and recommend one with a reason.
+6. Use the `dm-craft` skill for scene, horror, villain and pacing technique, and for Vistani, vampire and werewolf folklore. Offer a few distinct options when the choice is the DM's, and recommend one with a reason.
 
 ## Output Format
 For each idea: the scene or beat, what it asks of the players, which characters or plans it connects, and the risks (spoilers, pacing, continuity). If asked to write text, keep it ready to use at the table.

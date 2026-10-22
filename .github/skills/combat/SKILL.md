@@ -20,6 +20,7 @@ Provides numbers and mechanics. The identity and behavior of an NPC belong to `n
 | Party capabilities | Each player's Readme, then their mechanics files (for example `players/agni/vampire_details.md`, Elga's `players/sister_elga/soul_gathering.md` and `potion_brewing.md`) and fixed backstory |
 | Party level | The `Act * Summary.md` milestones: Act I starts at 2nd and ends at 4th, Act II 4th to 5th, Act III 5th to 8th |
 | Past fights | `sessions/Session N/log.md` |
+| How monsters should behave tactically | `dm-craft/books/monsters-know.md` (digest of *The Monsters Know What They're Doing*; behavior only, the numbers stay from the files above). Werewolves: `dm-craft/books/werebeasts.md` (lore-only) |
 
 ## Rules
 

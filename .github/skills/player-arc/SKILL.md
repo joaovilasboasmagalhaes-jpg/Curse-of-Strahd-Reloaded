@@ -19,6 +19,7 @@ Knowledge for making a character's story work **for the player at the table**. S
 | What the player did and reacted to at the table | `sessions/Session N/log.md` (fixed) |
 | The reusable integration method | `players/player_strategy.md` |
 | Other players' arcs (for spotlight balance) | Their Readmes and plans |
+| Backstory health check, exercises and horror prompts | `dm-craft/books/backstory-guide.md`; spotlight and table dynamics: `dm-craft/books/gameplay-guide.md`; making a villain personal: `dm-craft/books/villain-guide.md` |
 
 ## What makes an arc satisfying
 

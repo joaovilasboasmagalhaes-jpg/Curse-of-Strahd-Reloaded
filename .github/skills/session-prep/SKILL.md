@@ -13,6 +13,8 @@ The DM's pipeline is in [pipeline.md](./pipeline.md). Follow it in order and sto
 | Session log (what happened) | `sessions/Session N/log.md` | Yes, history |
 | Session prep (the plan) | `sessions/Session N/prep.md` | No, mutable until played |
 
+For prep technique and running advice, see `dm-craft/books/lazy-dm.md` and `gameplay-guide.md`. Where they conflict with the pipeline, the pipeline wins.
+
 Prep files start at Session 8. Sessions 1-7 have logs only. Once a session is played, its prep is a historical plan. The log wins on any conflict.
 
 ## prep.md format

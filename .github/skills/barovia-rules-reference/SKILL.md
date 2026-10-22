@@ -8,6 +8,8 @@ user-invocable: false
 
 Use this when checking whether a draft relies on Barovia behaving like an ordinary place. These are campaign rulings, not a complete rules summary. Check the cited campaign sections for details and exceptions; do not infer additional restrictions.
 
+Real-world and Ravenloft folklore digests live in `dm-craft/books/` (`vampires.md`, `werebeasts.md`, `vistani.md`). They are flavor only and never override the rules below.
+
 ## The Mists and Leaving Barovia
 
 - Barovia is a demiplane enclosed by deadly fog. A creature trying to leave is engulfed by it; ordinary travel out is not possible.
