@@ -1,0 +1,3938 @@
+{
+  "folder": "Nw48mAHK53c2vucJ",
+  "name": "Rahadin, Kinslayer",
+  "type": "npc",
+  "img": "tokenizer/npc-avatars/Avatar.Rahadin%2C_Castle_Chamberlain.webp?v=1787405683038",
+  "system": {
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "abilities": {
+      "str": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 22,
+        "proficient": 1,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 17,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 15,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 16,
+        "proficient": 1,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 18,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "bonuses": {
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      }
+    },
+    "tools": {},
+    "spells": {
+      "spell1": {
+        "value": 0,
+        "override": null
+      },
+      "spell2": {
+        "value": 0,
+        "override": null
+      },
+      "spell3": {
+        "value": 0,
+        "override": null
+      },
+      "spell4": {
+        "value": 0,
+        "override": null
+      },
+      "spell5": {
+        "value": 0,
+        "override": null
+      },
+      "spell6": {
+        "value": 0,
+        "override": null
+      },
+      "spell7": {
+        "value": 0,
+        "override": null
+      },
+      "spell8": {
+        "value": 0,
+        "override": null
+      },
+      "spell9": {
+        "value": 0,
+        "override": null
+      },
+      "pact": {
+        "value": 0,
+        "override": null
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": null,
+        "calcs": [
+          "unarmored",
+          "armored"
+        ],
+        "formulas": [],
+        "override": null
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        }
+      },
+      "movement": {
+        "units": "ft",
+        "hover": false,
+        "ignoredDifficultTerrain": [],
+        "bonus": "",
+        "special": "",
+        "speeds": {
+          "walk": "35",
+          "burrow": "",
+          "climb": "",
+          "fly": "",
+          "swim": ""
+        }
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "ranges": {
+          "blindsight": null,
+          "darkvision": 60,
+          "tremorsense": null,
+          "truesight": null
+        },
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "int",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hd": {
+        "spent": 0
+      },
+      "hp": {
+        "max": 180,
+        "temp": null,
+        "tempmax": null,
+        "value": 180,
+        "formula": "28d8 + 72",
+        "dt": null
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0
+      },
+      "price": {
+        "value": null,
+        "denomination": "gp"
+      },
+      "spell": {
+        "level": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "",
+        "public": ""
+      },
+      "alignment": "",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": null,
+      "type": {},
+      "habitat": {
+        "value": [],
+        "custom": ""
+      },
+      "cr": 14,
+      "treasure": {
+        "value": []
+      }
+    },
+    "resources": {
+      "legact": {
+        "max": 3,
+        "spent": 0
+      },
+      "legres": {
+        "max": 0,
+        "spent": 0
+      },
+      "lair": {
+        "value": false,
+        "initiative": null,
+        "inside": false
+      }
+    },
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dr": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dv": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "elvish"
+        ],
+        "custom": "",
+        "communication": {
+          "telepathy": {
+            "value": null,
+            "units": "ft"
+          }
+        }
+      },
+      "important": false
+    },
+    "identifier": "",
+    "rolls": {}
+  },
+  "prototypeToken": {
+    "name": "Rahadin, Castle Chamberlain",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "texture": {
+      "src": "tokenizer/npc-images/Token.Rahadin%2C_Castle_Chamberlain.webp?v=1787405679649",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "scaleX": 2,
+      "scaleY": 2,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {
+      "dnd5e": {
+        "lockSize": false,
+        "lockScale": false
+      },
+      "wall-height": {
+        "tokenHeight": 0
+      },
+      "LocknKey": {
+        "LPFormulaFlag": "",
+        "LPFormulaOverrideFlag": false,
+        "LBFormulaFlag": "",
+        "LBFormulaOverrideFlag": false,
+        "PickPocketFormulaFlag": "",
+        "PickPocketFormulaOverrideFlag": false,
+        "LootFormulaFlag": "",
+        "PickPocketDCFlag": null
+      }
+    },
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "xbY3fnNKbtJetm0x",
+      "name": "Studded Leather Armor",
+      "type": "equipment",
+      "system": {
+        "description": {
+          "value": "<div class=\"ve-rd__b  ve-rd__b--2\"><p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p></div>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "PHB'14",
+          "page": "144",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "quantity": 1,
+        "weight": {
+          "value": 13,
+          "units": "lb"
+        },
+        "price": {
+          "value": 45,
+          "denomination": "gp"
+        },
+        "attunement": "",
+        "equipped": true,
+        "identified": true,
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": 12,
+          "dex": null
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "type": {
+          "value": "light",
+          "baseItem": "studded"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": [
+          "gear"
+        ],
+        "activities": {},
+        "attuned": false,
+        "identifier": "studded-leather-armor",
+        "crew": {
+          "value": []
+        },
+        "rarities": []
+      },
+      "img": "icons/equipment/chest/breastplate-rivited-red.webp",
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "studded%20leather%20armor_phb"
+        },
+        "dnd5e": {
+          "-=riders": null
+        }
+      },
+      "effects": [],
+      "_stats": {
+        "systemVersion": "5.3.3",
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0
+    },
+    {
+      "name": "Screams of the Dead",
+      "type": "feat",
+      "_id": "vZFVfaZ2XDL4AF0k",
+      "img": "icons/creatures/abilities/mouth-teeth-human.webp",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.<br class=\"Apple-interchange-newline\"></p>",
+          "chat": ""
+        },
+        "identifier": "feature",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        },
+        "dnd5e": {
+          "-=riders": null
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "name": "Phantom Steed",
+      "system": {
+        "description": {
+          "value": "<p>A Large, quasi-real, @UUID[Compendium.dnd5e.actors24.Actor.phbsumPhantomSte]{horselike creature} appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.</p><p>For the duration, you or a creature you choose can ride the steed. The steed uses the <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmRidingHorse000]{Riding Horse}</strong> stat block (see appendix B), except it has a Speed of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "activation": {
+          "type": "minute",
+          "condition": "",
+          "value": 1
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour",
+          "expiry": null
+        },
+        "target": {
+          "affects": {
+            "type": "space",
+            "count": "1",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false,
+            "stationary": false,
+            "type": ""
+          }
+        },
+        "range": {
+          "value": "30",
+          "units": "ft",
+          "special": ""
+        },
+        "uses": {
+          "max": "3",
+          "recovery": [
+            {
+              "period": "day",
+              "type": "recoverAll"
+            }
+          ],
+          "spent": 0
+        },
+        "level": 3,
+        "school": "ill",
+        "properties": [
+          "vocal",
+          "somatic",
+          "ritual"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
+            "type": "summon",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "override": false,
+              "concentration": false,
+              "expiry": null
+            },
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "bonuses": {
+              "ac": "",
+              "hd": "",
+              "hp": "",
+              "attackDamage": "",
+              "saveDamage": "",
+              "healing": ""
+            },
+            "creatureSizes": [],
+            "creatureTypes": [],
+            "match": {
+              "attacks": false,
+              "proficiency": false,
+              "saves": false,
+              "disposition": false
+            },
+            "profiles": [
+              {
+                "count": "",
+                "name": "",
+                "_id": "G7S0KZMpdXcKb2eo",
+                "uuid": "Compendium.dnd5e.actors24.Actor.phbsumPhantomSte",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "types": []
+              }
+            ],
+            "summon": {
+              "mode": "",
+              "prompt": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "sort": 0,
+            "img": null,
+            "effects": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          }
+        },
+        "identifier": "phantom-steed",
+        "method": "innate",
+        "prepared": 1,
+        "ability": "",
+        "sourceItem": ""
+      },
+      "_id": "mnUm8LDTklUPYn7r",
+      "type": "spell",
+      "img": "icons/creatures/mammals/deer-antlers-glowing-blue.webp",
+      "effects": [],
+      "folder": "HCovEE4VoPGlIbKi",
+      "sort": 500000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "-=riders": null
+        },
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.spells24.Item.phbsplPhantomSte"
+      }
+    },
+    {
+      "name": "Nondetection",
+      "system": {
+        "description": {
+          "value": "<p>For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "activation": {
+          "type": "action",
+          "condition": "",
+          "value": null
+        },
+        "duration": {
+          "value": "8",
+          "units": "hour",
+          "expiry": null
+        },
+        "target": {
+          "affects": {
+            "type": "any",
+            "count": "",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false,
+            "stationary": false,
+            "type": ""
+          }
+        },
+        "range": {
+          "units": "touch",
+          "special": ""
+        },
+        "uses": {
+          "max": "1",
+          "recovery": [
+            {
+              "period": "day",
+              "type": "recoverAll"
+            }
+          ],
+          "spent": 0
+        },
+        "level": 3,
+        "school": "abj",
+        "properties": [
+          "vocal",
+          "somatic",
+          "material"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
+            "type": "utility",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "override": false,
+              "concentration": false,
+              "expiry": null
+            },
+            "effects": [
+              {
+                "_id": "usz9yzOPHV4Nb93D",
+                "level": {},
+                "uuid": null
+              }
+            ],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "roll": {
+              "formula": "",
+              "name": "",
+              "prompt": false,
+              "visible": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "sort": 0,
+            "img": null,
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          }
+        },
+        "identifier": "nondetection",
+        "method": "innate",
+        "prepared": 1,
+        "ability": "",
+        "sourceItem": ""
+      },
+      "_id": "sszFZQKxYUTDN0Zr",
+      "type": "spell",
+      "img": "icons/magic/perception/hand-eye-fire-blue.webp",
+      "effects": [
+        {
+          "name": "Hidden from Divination",
+          "origin": null,
+          "duration": {
+            "value": 28800,
+            "units": "seconds",
+            "expiry": "turnStart",
+            "expired": false
+          },
+          "disabled": false,
+          "flags": {},
+          "img": "icons/magic/perception/mask-stone-eyes-orange.webp",
+          "_id": "usz9yzOPHV4Nb93D",
+          "type": "base",
+          "system": {
+            "changes": [],
+            "magical": true,
+            "origin": {
+              "item": "Compendium.dnd5e.spells24.Item.phbsplNondetecti",
+              "actor": null,
+              "behavior": null,
+              "effect": null,
+              "message": null
+            },
+            "conditions": "{}",
+            "rider": {
+              "statuses": []
+            }
+          },
+          "description": "",
+          "tint": "#ffffff",
+          "transfer": false,
+          "statuses": [],
+          "sort": 0,
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "14.368",
+            "systemId": "dnd5e",
+            "systemVersion": "6.0.3",
+            "createdTime": 1787414274362,
+            "modifiedTime": 1790101283470,
+            "lastModifiedBy": "neX3IKfOaAj3abkB",
+            "exportSource": null
+          },
+          "start": null,
+          "showIcon": 1,
+          "folder": null
+        }
+      ],
+      "folder": "HCovEE4VoPGlIbKi",
+      "sort": 600000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "-=riders": null
+        },
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1790101283470,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.spells24.Item.phbsplNondetecti"
+      }
+    },
+    {
+      "name": "Mask of the Wild",
+      "type": "feat",
+      "_id": "XeyQ1qLja9x2ShUK",
+      "img": "icons/svg/cowled.svg",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.<br class=\"Apple-interchange-newline\"></p>",
+          "chat": ""
+        },
+        "identifier": "mask-of-the-wild",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        },
+        "dnd5e": {
+          "-=riders": null
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "RWqhWC4AGLnOubnc",
+      "name": "Multiattack",
+      "type": "feat",
+      "system": {
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "Ms63W7e3Mv2Margn": {
+            "type": "utility",
+            "name": "Use",
+            "_id": "Ms63W7e3Mv2Margn",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            },
+            "img": null,
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "description": {
+          "value": "<p>Rahadin makes three attacks with his scimitars @UUID[Actor.CKyfSPNr3wUXvmIR.Item.pP1qPS8zVSGn7hsS] and/or @UUID[Actor.CKyfSPNr3wUXvmIR.Item.t1STj71ei6pA6Gve]. He can replace one attack with his @UUID[Actor.CKyfSPNr3wUXvmIR.Item.w8Tx8XTMb0iKYGq4] feature.</p>",
+          "chat": ""
+        },
+        "identifier": "multiattack",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "enchant": {},
+        "prerequisites": {
+          "level": null,
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "advancement": {},
+        "crewed": false
+      },
+      "folder": "4T18pEvubPMQLzvD",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
+      "effects": [],
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "-=riders": null
+        },
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787416368658,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.monsterfeatures24.Item.mmMultiattack000"
+      },
+      "sort": -100000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      }
+    },
+    {
+      "name": "Indomitable",
+      "type": "feat",
+      "_id": "c1VBNGYNbJvkUlzE",
+      "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+      "system": {
+        "activities": {
+          "ZKJPalYWAK6TI2a9": {
+            "type": "utility",
+            "_id": "ZKJPalYWAK6TI2a9",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "reaction",
+              "override": false,
+              "condition": "A hostile creature ends its turn"
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "formula": "",
+              "name": ""
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p><strong>Trigger</strong>: A hostile creature ends its turn. <strong>Effect</strong>: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>",
+          "chat": ""
+        },
+        "identifier": "indomitable",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 250000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": "Actor.GQuaqRF83GqWt1Q2.Item.c1VBNGYNbJvkUlzE",
+        "exportSource": null
+      }
+    },
+    {
+      "name": "Parry",
+      "type": "feat",
+      "img": "icons/skills/melee/shield-block-bash-yellow.webp",
+      "system": {
+        "activities": {
+          "ZKJPalYWAK6TI2a9": {
+            "type": "utility",
+            "_id": "ZKJPalYWAK6TI2a9",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "reaction",
+              "override": false,
+              "condition": "A hostile creature ends its turn"
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "formula": "",
+              "name": ""
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from magic missile this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.<br class=\"Apple-interchange-newline\"></p>",
+          "chat": ""
+        },
+        "identifier": "indomitable",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 300000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787416745731,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": "Actor.GQuaqRF83GqWt1Q2.Item.c1VBNGYNbJvkUlzE",
+        "exportSource": null
+      },
+      "_id": "0cDUaq8xhCTY9nYe"
+    },
+    {
+      "name": "Riposte",
+      "type": "feat",
+      "img": "icons/skills/melee/hand-grip-sword-white-brown.webp",
+      "system": {
+        "activities": {
+          "ZKJPalYWAK6TI2a9": {
+            "type": "utility",
+            "_id": "ZKJPalYWAK6TI2a9",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "reaction",
+              "override": false,
+              "condition": "A hostile creature ends its turn"
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "formula": "",
+              "name": ""
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with @UUID[Actor.CKyfSPNr3wUXvmIR.Item.pP1qPS8zVSGn7hsS] or @UUID[Actor.CKyfSPNr3wUXvmIR.Item.t1STj71ei6pA6Gve] attack against that enemy with advantage.<br class=\"Apple-interchange-newline\"></p>",
+          "chat": ""
+        },
+        "identifier": "indomitable",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 400000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787416733977,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": "Actor.GQuaqRF83GqWt1Q2.Item.0cDUaq8xhCTY9nYe",
+        "exportSource": null
+      },
+      "_id": "tsktAGOtQoaLNrg6"
+    },
+    {
+      "_id": "zICVKA1vDQSxihk9",
+      "name": "Fey Ancestry",
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<p>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "CC-BY-4.0",
+          "rules": "2014",
+          "revision": 1
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "race",
+          "subtype": ""
+        },
+        "requirements": "Elf, Half-Elf",
+        "properties": [],
+        "activities": {},
+        "enchant": {},
+        "prerequisites": {
+          "level": null,
+          "items": [],
+          "repeatable": false
+        },
+        "identifier": "fey-ancestry",
+        "advancement": {},
+        "crewed": false
+      },
+      "flags": {},
+      "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
+      "effects": [],
+      "folder": "aLN5eM7XnKvAtnRj",
+      "sort": 0,
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787414274362,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.races.Item.cnTbpPPeGW7vGjOV"
+      }
+    },
+    {
+      "_id": "IeeivpoIX4OCTXNy",
+      "name": "Innate Spellcasting",
+      "type": "feat",
+      "system": {
+        "source": {
+          "custom": "",
+          "book": "CoS",
+          "page": "237",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "description": {
+          "value": "<div class=\"ve-rd__b ve-rd__b--3\"><p></p><div data-roll-name-ancestor=\"Innate Spellcasting\" class=\"ve-rd__b ve-rd__b--named ve-rd__b--3\"><p><span class=\"entry-title-inner \">Innate Spellcasting.</span> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:</p><ul class=\"ve-rd__list ve-rd__list-hang-notitle\"><li class=\"ve-rd__li ve-rd__li-spell\"><p>3/day: @UUID[Compendium.dnd5e.spells24.Item.phbsplPhantomSte]</p></li><li class=\"ve-rd__li ve-rd__li-spell\"><p>1/day: @UUID[Actor.GQuaqRF83GqWt1Q2.Item.sszFZQKxYUTDN0Zr]</p></li></ul></div></div>",
+          "chat": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "advancement": {},
+        "activities": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
+            "type": "cast",
+            "activation": {
+              "type": "action",
+              "override": false
+            },
+            "spell": {
+              "uuid": "Actor.KoKowQWBBHvd5niF.Item.Pv7xbzSm2gLHV2gS",
+              "spellbook": false,
+              "properties": [],
+              "challenge": {
+                "override": false
+              }
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "img": null,
+            "sort": 0,
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          },
+          "dnd5eactivity001": {
+            "_id": "dnd5eactivity001",
+            "type": "cast",
+            "activation": {
+              "type": "action",
+              "override": false
+            },
+            "spell": {
+              "uuid": "Actor.KoKowQWBBHvd5niF.Item.HaFXtoIS9fhrfne2",
+              "spellbook": false,
+              "properties": [],
+              "challenge": {
+                "override": false
+              }
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "img": null,
+            "sort": 0,
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          },
+          "dnd5eactivity002": {
+            "_id": "dnd5eactivity002",
+            "type": "cast",
+            "activation": {
+              "type": "action",
+              "override": false
+            },
+            "spell": {
+              "uuid": "Actor.KoKowQWBBHvd5niF.Item.QKhFIKJpa691971L",
+              "spellbook": false,
+              "properties": [],
+              "challenge": {
+                "override": false
+              }
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "img": null,
+            "sort": 0,
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          },
+          "dnd5eactivity003": {
+            "_id": "dnd5eactivity003",
+            "type": "cast",
+            "activation": {
+              "type": "action",
+              "override": false
+            },
+            "spell": {
+              "uuid": "Actor.KoKowQWBBHvd5niF.Item.yMkCgcKet2W3CEtY",
+              "spellbook": false,
+              "properties": [],
+              "challenge": {
+                "override": false
+              }
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "img": null,
+            "sort": 0,
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          }
+        },
+        "identifier": "innate-spellcasting",
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": ""
+      },
+      "img": "icons/magic/unholy/orb-smoking-green.webp",
+      "flags": {
+        "plutonium": {
+          "page": "monsterSpellcasting",
+          "source": "CoS",
+          "hash": "innate%20spellcasting_rahadin_cos_cos"
+        },
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "effects": [],
+      "_stats": {
+        "systemVersion": "5.3.3",
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "createdTime": 1787414274362,
+        "modifiedTime": 1787415673792,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.world.all-creatures.Actor.KoKowQWBBHvd5niF.Item.CSMvN1OYeewPZ7F8",
+        "duplicateSource": null
+      },
+      "folder": null,
+      "sort": -200000,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      }
+    },
+    {
+      "name": "Thorn",
+      "system": {
+        "description": {
+          "value": "<p>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 3,
+          "units": "lb"
+        },
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": true,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            },
+            "modifiers": []
+          },
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "slashing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": "",
+            "modifiers": []
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": "scimitar"
+        },
+        "properties": [
+          "fin",
+          "gear",
+          "lgt"
+        ],
+        "proficient": null,
+        "activities": {
+          "YOx3cikY6oPu6Ojh": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "value": "5",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "YOx3cikY6oPu6Ojh",
+            "name": "",
+            "img": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          },
+          "3vaCyoHeiNfMk7Fn": {
+            "type": "save",
+            "_id": "3vaCyoHeiNfMk7Fn",
+            "img": "",
+            "sort": 100000,
+            "activation": {
+              "type": "action",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": []
+            },
+            "save": {
+              "ability": [
+                "con"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "19"
+              },
+              "visible": true
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "ammunition": {},
+        "mastery": "nick",
+        "identifier": "scimitar",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true,
+        "rarities": []
+      },
+      "_id": "pP1qPS8zVSGn7hsS",
+      "type": "weapon",
+      "folder": "fd3qxAXCv2FhExPp",
+      "img": "icons/weapons/swords/scimitar-worn-blue.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "dnd5e": {},
+        "LocknKey": {
+          "PickPocketDCFlag": "0",
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787415564660,
+        "modifiedTime": 1787416045929,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbwepScimitar00"
+      }
+    },
+    {
+      "name": "Chain",
+      "system": {
+        "description": {
+          "value": "<p>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 3,
+          "units": "lb"
+        },
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": true,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            },
+            "modifiers": []
+          },
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "slashing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": "",
+            "modifiers": []
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": "scimitar"
+        },
+        "properties": [
+          "fin",
+          "gear",
+          "lgt"
+        ],
+        "proficient": null,
+        "activities": {
+          "YOx3cikY6oPu6Ojh": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "value": "5",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "YOx3cikY6oPu6Ojh",
+            "name": "",
+            "img": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          },
+          "2SGgeOJK67kMyOa3": {
+            "type": "save",
+            "_id": "2SGgeOJK67kMyOa3",
+            "img": "",
+            "sort": 100000,
+            "activation": {
+              "type": "action",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": []
+            },
+            "save": {
+              "ability": [
+                "con"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "19"
+              },
+              "visible": true
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "ammunition": {},
+        "mastery": "nick",
+        "identifier": "scimitar",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true,
+        "rarities": []
+      },
+      "_id": "t1STj71ei6pA6Gve",
+      "type": "weapon",
+      "folder": "fd3qxAXCv2FhExPp",
+      "img": "icons/weapons/swords/scimitar-guard-wood.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "dnd5e": {},
+        "LocknKey": {
+          "PickPocketDCFlag": "0",
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787415576199,
+        "modifiedTime": 1787416080680,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbwepScimitar00"
+      }
+    },
+    {
+      "name": "Haunt",
+      "type": "feat",
+      "_id": "w8Tx8XTMb0iKYGq4",
+      "img": "icons/creatures/magical/spirit-fire-yellow.webp",
+      "system": {
+        "activities": {
+          "nB1Lyow9MmPQMDzD": {
+            "type": "save",
+            "_id": "nB1Lyow9MmPQMDzD",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": []
+            },
+            "save": {
+              "ability": [
+                "wis"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "17"
+              },
+              "visible": true
+            },
+            "name": "",
+            "behaviors": []
+          },
+          "drnPbtxpOXoJ0V3j": {
+            "type": "damage",
+            "_id": "drnPbtxpOXoJ0V3j",
+            "img": "",
+            "sort": 100000,
+            "activation": {
+              "type": "action",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "damage": {
+              "critical": {
+                "allow": false
+              },
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 6,
+                  "bonus": "",
+                  "types": [
+                    "psychic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>",
+          "chat": ""
+        },
+        "identifier": "feature",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787416106487,
+        "modifiedTime": 1787416331560,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "gbJtT28icRIWq1m8",
+      "name": "Deathly Choir",
+      "type": "feat",
+      "system": {
+        "source": {
+          "custom": "",
+          "book": "CoS",
+          "page": "237",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "description": {
+          "value": "<div class=\"ve-rd__b  ve-rd__b--3\"><p>Any creature within 10 feet of Rahadin that isn't protected by a @spell[mind blank] spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a [[/save ability=wis dc=16]] saving throw. Each creature takes 16 ([[/damage 3d10 type=psychic]]) damage on a failed save, or half as much damage on a successful one.</p></div>",
+          "chat": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "properties": [],
+        "advancement": {},
+        "activities": {
+          "dnd5eactivity001": {
+            "_id": "dnd5eactivity001",
+            "type": "save",
+            "activation": {
+              "type": "bonus",
+              "value": 1,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "creature",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "save": {
+              "ability": [
+                "wis"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "17"
+              },
+              "visible": true
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": []
+            },
+            "img": "",
+            "sort": 0,
+            "effects": [],
+            "flags": {},
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "name": "",
+            "behaviors": []
+          },
+          "2MyoQXJ9j1tBbskW": {
+            "_id": "2MyoQXJ9j1tBbskW",
+            "type": "damage",
+            "name": "",
+            "activation": {
+              "type": "action",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "prompt": true,
+              "override": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "critical": {
+                "allow": false
+              },
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 8,
+                  "bonus": "",
+                  "types": [
+                    "psychic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            },
+            "img": "",
+            "sort": 0,
+            "effects": [],
+            "flags": {},
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "behaviors": []
+          }
+        },
+        "identifier": "deathly-choir",
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false
+        },
+        "requirements": ""
+      },
+      "img": "icons/creatures/abilities/mouth-teeth-tongue-purple.webp",
+      "flags": {
+        "plutonium": {
+          "page": "monsterTrait",
+          "source": "CoS",
+          "hash": "deathly%20choir_rahadin_cos_cos"
+        }
+      },
+      "effects": [],
+      "_stats": {
+        "systemVersion": "5.3.3",
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "createdTime": 1787416421019,
+        "modifiedTime": 1787416480675,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "exportSource": null,
+        "compendiumSource": "Compendium.world.all-creatures.Actor.KoKowQWBBHvd5niF.Item.tdYWUxNUBfSVqu5e",
+        "duplicateSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      }
+    },
+    {
+      "name": "Swift Step",
+      "type": "feat",
+      "_id": "yyGUv3BUfvwhJyKy",
+      "img": "icons/skills/movement/feet-winged-sandals-tan.webp",
+      "system": {
+        "activities": {
+          "66pSbAbi9EZjbNnR": {
+            "type": "utility",
+            "_id": "66pSbAbi9EZjbNnR",
+            "img": "",
+            "sort": 0,
+            "activation": {
+              "type": "bonus",
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "flags": {},
+            "range": {
+              "units": "self",
+              "override": false,
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "stationary": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {
+                "min": null,
+                "max": null
+              },
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false,
+              "identifier": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "name": "",
+              "formula": ""
+            },
+            "name": "",
+            "behaviors": []
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "advancement": {},
+        "description": {
+          "value": "<p>Rahadin takes the Dash or Disengage action.<br class=\"Apple-interchange-newline\"></p>",
+          "chat": ""
+        },
+        "identifier": "swift-step",
+        "source": {
+          "revision": 1,
+          "rules": "2014"
+        },
+        "crewed": false,
+        "enchant": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "flags": {
+        "LocknKey": {
+          "IDKeysFlag": "",
+          "RemoveKeyonUseFlag": false,
+          "LPFormulaFlag": "",
+          "LPFormulaOverrideFlag": false,
+          "LBFormulaFlag": "",
+          "LBFormulaOverrideFlag": false,
+          "ReplacementItemFlag": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787416516868,
+        "modifiedTime": 1787416587665,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "tokenizer-2": {
+      "layerStack": [
+        {
+          "id": "FBGPrSiwd0g8obss",
+          "type": "image",
+          "name": "Background",
+          "src": "modules/tokenizer-2/img/dark-texture.webp",
+          "visible": true,
+          "locked": false,
+          "blendMode": "source-over",
+          "transform": {
+            "x": 0,
+            "y": 0,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "rotation": 0
+          },
+          "adjustments": {
+            "brightness": 1,
+            "contrast": 1,
+            "opacity": 1,
+            "blur": 0,
+            "tint": null,
+            "hue": 0,
+            "saturation": 100,
+            "grayscale": 0,
+            "temperature": 0,
+            "lineArt": {
+              "enabled": false,
+              "blurSize": 25
+            },
+            "rimLight": {
+              "enabled": false,
+              "color": "#ffffff",
+              "size": 4,
+              "intensity": 0.8
+            },
+            "vignette": {
+              "enabled": false,
+              "intensity": 50,
+              "size": 30
+            },
+            "filmGrain": {
+              "enabled": false,
+              "intensity": 20,
+              "size": 1
+            },
+            "chromaticAberration": {
+              "enabled": false,
+              "intensity": 5
+            },
+            "unsharpMask": {
+              "enabled": false,
+              "amount": 100,
+              "radius": 1
+            }
+          },
+          "masks": [
+            {
+              "id": "QBWE1cu6NoaXTRpp",
+              "type": "frame-ray",
+              "src": "modules/tokenizer-2/img/default-frame-npc.png",
+              "ringConfig": null
+            }
+          ],
+          "lasso": {
+            "regions": []
+          },
+          "paintMask": null,
+          "animation": null,
+          "isVideo": false,
+          "isBackground": true
+        },
+        {
+          "id": "2lHX98ha45uRwMVc",
+          "type": "image",
+          "name": "Rahadin, Castle Chamberlain",
+          "src": "tokenizer/npc-avatars/Avatar.Rahadin%2C_Castle_Chamberlain.webp?v=1787405404904",
+          "visible": true,
+          "locked": false,
+          "blendMode": "source-over",
+          "transform": {
+            "x": 2.665502982646416,
+            "y": 22.21258134490239,
+            "scaleX": 0.41106000000000004,
+            "scaleY": 0.41106000000000004,
+            "rotation": 0
+          },
+          "adjustments": {
+            "brightness": 1,
+            "contrast": 1,
+            "opacity": 1,
+            "blur": 0,
+            "tint": null,
+            "hue": 0,
+            "saturation": 100,
+            "grayscale": 0,
+            "temperature": 0,
+            "lineArt": {
+              "enabled": false,
+              "blurSize": 25
+            },
+            "rimLight": {
+              "enabled": false,
+              "color": "#ffffff",
+              "size": 4,
+              "intensity": 0.8
+            },
+            "vignette": {
+              "enabled": false,
+              "intensity": 50,
+              "size": 30
+            },
+            "filmGrain": {
+              "enabled": false,
+              "intensity": 20,
+              "size": 1
+            },
+            "chromaticAberration": {
+              "enabled": false,
+              "intensity": 5
+            },
+            "unsharpMask": {
+              "enabled": false,
+              "amount": 100,
+              "radius": 1
+            }
+          },
+          "masks": [
+            {
+              "id": "uSe4wrHGkh8otgtO",
+              "type": "frame-ray",
+              "src": "modules/tokenizer-2/img/default-frame-npc.png",
+              "ringConfig": null
+            }
+          ],
+          "lasso": {
+            "regions": []
+          },
+          "paintMask": null,
+          "animation": null,
+          "isVideo": false
+        },
+        {
+          "id": "cS4LgXNgqqSstJre",
+          "type": "image",
+          "name": "default frame npc",
+          "src": "modules/tokenizer-2/img/default-frame-npc.png",
+          "visible": false,
+          "locked": false,
+          "blendMode": "source-over",
+          "transform": {
+            "x": 0,
+            "y": 0,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "rotation": 0
+          },
+          "adjustments": {
+            "brightness": 1,
+            "contrast": 1,
+            "opacity": 1,
+            "blur": 0,
+            "tint": null,
+            "hue": 0,
+            "saturation": 100,
+            "grayscale": 0,
+            "temperature": 0,
+            "lineArt": {
+              "enabled": false,
+              "blurSize": 25
+            },
+            "rimLight": {
+              "enabled": false,
+              "color": "#ffffff",
+              "size": 4,
+              "intensity": 0.8
+            },
+            "vignette": {
+              "enabled": false,
+              "intensity": 50,
+              "size": 30
+            },
+            "filmGrain": {
+              "enabled": false,
+              "intensity": 20,
+              "size": 1
+            },
+            "chromaticAberration": {
+              "enabled": false,
+              "intensity": 5
+            },
+            "unsharpMask": {
+              "enabled": false,
+              "amount": 100,
+              "radius": 1
+            }
+          },
+          "masks": [],
+          "lasso": {
+            "regions": []
+          },
+          "paintMask": null,
+          "animation": null,
+          "isVideo": false,
+          "isFrame": true
+        },
+        {
+          "id": "ZNtPln2Xq6WUDCak",
+          "type": "image",
+          "name": "pngtree vtt token frame black paladin viking glory stylized png image 17953277",
+          "src": "worlds/curse-of-strahd/assets/macro-icons/token-ring/pngtree-vtt-token-frame-black-paladin-viking-glory-stylized-png-image_17953277.webp",
+          "visible": true,
+          "locked": false,
+          "blendMode": "source-over",
+          "transform": {
+            "x": 0,
+            "y": 0,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "rotation": 0
+          },
+          "adjustments": {
+            "brightness": 1,
+            "contrast": 1,
+            "opacity": 1,
+            "blur": 0,
+            "tint": null,
+            "hue": 0,
+            "saturation": 100,
+            "grayscale": 0,
+            "temperature": 0,
+            "lineArt": {
+              "enabled": false,
+              "blurSize": 25
+            },
+            "rimLight": {
+              "enabled": false,
+              "color": "#ffffff",
+              "size": 4,
+              "intensity": 0.8
+            },
+            "vignette": {
+              "enabled": false,
+              "intensity": 50,
+              "size": 30
+            },
+            "filmGrain": {
+              "enabled": false,
+              "intensity": 20,
+              "size": 1
+            },
+            "chromaticAberration": {
+              "enabled": false,
+              "intensity": 5
+            },
+            "unsharpMask": {
+              "enabled": false,
+              "amount": 100,
+              "radius": 1
+            }
+          },
+          "masks": [],
+          "lasso": {
+            "regions": []
+          },
+          "paintMask": null,
+          "animation": null,
+          "isVideo": false,
+          "isFrame": true
+        }
+      ],
+      "isDynamicRingMode": false,
+      "avatarLayerStack": [
+        {
+          "id": "XI3wAnmUOEILlLKL",
+          "type": "image",
+          "name": "Image Layer",
+          "src": "worlds/curse-of-strahd/assets/creatures/rahadin.webp",
+          "visible": true,
+          "locked": false,
+          "blendMode": "source-over",
+          "transform": {
+            "x": 0,
+            "y": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0
+          },
+          "adjustments": {
+            "brightness": 1,
+            "contrast": 1,
+            "opacity": 1,
+            "blur": 0,
+            "tint": null,
+            "hue": 0,
+            "saturation": 100,
+            "grayscale": 0,
+            "temperature": 0,
+            "lineArt": {
+              "enabled": false,
+              "blurSize": 25
+            },
+            "rimLight": {
+              "enabled": false,
+              "color": "#ffffff",
+              "size": 4,
+              "intensity": 0.8
+            },
+            "vignette": {
+              "enabled": false,
+              "intensity": 50,
+              "size": 30
+            },
+            "filmGrain": {
+              "enabled": false,
+              "intensity": 20,
+              "size": 1
+            },
+            "chromaticAberration": {
+              "enabled": false,
+              "intensity": 5
+            },
+            "unsharpMask": {
+              "enabled": false,
+              "amount": 100,
+              "radius": 1
+            }
+          },
+          "masks": [],
+          "lasso": {
+            "regions": []
+          },
+          "paintMask": null,
+          "animation": null,
+          "isVideo": false
+        }
+      ],
+      "avatarAspect": "custom",
+      "avatarCanvasSize": {
+        "width": 512,
+        "height": 508
+      },
+      "isOversized": true
+    },
+    "dnd5e": {}
+  },
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1790101283469,
+    "modifiedTime": 1791712521013,
+    "lastModifiedBy": "neX3IKfOaAj3abkB",
+    "compendiumSource": null,
+    "duplicateSource": "Actor.GQuaqRF83GqWt1Q2",
+    "exportSource": {
+      "worldId": "curse-of-strahd",
+      "uuid": "Actor.CKyfSPNr3wUXvmIR",
+      "coreVersion": "14.368",
+      "systemId": "dnd5e",
+      "systemVersion": "6.0.3"
+    }
+  }
+}

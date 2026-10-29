@@ -1,0 +1,18 @@
+{
+  "name": "Swarm of Lesser Strix", "cr": 0.25, "size": "med", "alignment": "unaligned",
+  "book": "Reloaded", "page": "Arc C, C3",
+  "type": {"value": "construct", "swarm": "tiny"},
+  "abilities": {"str": 6, "dex": 14, "con": 8, "int": 3, "wis": 12, "cha": 6},
+  "skills": {"prc": 1},
+  "ac": 12, "hp": {"max": 24, "formula": "7d8 - 7"},
+  "speed": {"walk": 10, "fly": 50},
+  "dr": ["bludgeoning", "piercing", "slashing"], "dv": ["fire"],
+  "ci": ["charmed", "frightened", "grappled", "paralyzed", "petrified", "prone", "restrained", "stunned"],
+  "biography": "<p>Statistics of a swarm of ravens (Monster Manual), but vulnerable to fire. Each lesser strix is an artificial crow of burlap, straw, twigs and sharp stone teeth. Source: Arc C, C3. Arc balancing for 3 players: 16 HP, Beaks 5 (2d4), or 2 (1d4) at half HP or fewer.</p>",
+  "items": [
+    {"name": "Swarm", "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny strix. The swarm can't regain hit points or gain temporary hit points."},
+    {"kind": "weapon", "natural": true, "name": "Beaks", "ability": "dex",
+     "damage": [{"n": 2, "d": 6, "type": "piercing", "bonus": ""}],
+     "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer."}
+  ]
+}

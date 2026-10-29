@@ -1,0 +1,24 @@
+{
+  "name": "Greater Strix", "cr": 3, "size": "med", "alignment": "lawful evil",
+  "book": "Reloaded", "page": "Arc C, C3",
+  "type": {"value": "construct"},
+  "abilities": {"str": 17, "dex": 16, "con": 17, "int": 7, "wis": 12, "cha": 8},
+  "ac": 14, "hp": {"max": 68, "formula": "8d10 + 24"},
+  "speed": {"walk": 30, "fly": 50}, "senses": {"darkvision": 60}, "languages": ["common"],
+  "dv": ["fire"],
+  "biography": "<p>Statistics of a manticore (Monster Manual), but Medium, a construct, and vulnerable to fire. Tail spikes are silver barbs loosed from its wings. Built by Baba Lysaga to hunt wereravens; fights to the death. Does not attack Ireena. Source: Arc C, C3.</p>",
+  "items": [
+    {"name": "Tail Spike Regrowth", "description": "The greater strix has twenty-four silver barbs. Used barbs regrow when it finishes a long rest."},
+    {"name": "Multiattack", "description": "The greater strix makes three attacks: one with its bite and two with its claws or three with its tail spikes.",
+     "activities": [{"type": "utility"}]},
+    {"kind": "weapon", "natural": true, "name": "Bite", "ability": "str",
+     "damage": [{"n": 1, "d": 8, "type": "piercing"}],
+     "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."},
+    {"kind": "weapon", "natural": true, "name": "Claw", "ability": "str",
+     "damage": [{"n": 1, "d": 6, "type": "slashing"}],
+     "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."},
+    {"kind": "weapon", "natural": true, "name": "Tail Spike", "ability": "dex", "ranged": true,
+     "damage": [{"n": 1, "d": 8, "type": "piercing"}], "range": 100, "long": 200,
+     "description": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage. The barbs are silver, loosed in a volley from the strix's wings."}
+  ]
+}
