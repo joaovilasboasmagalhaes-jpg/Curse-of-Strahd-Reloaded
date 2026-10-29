@@ -26,6 +26,7 @@ Paraphrased digests of the books listed in [external-book.md](../../../assets/ex
 | Vampire folklore, clues, wards, exhumation scenes | [vampires.md](./books/vampires.md) |
 | Werewolves, lycanthropy clues, investigations and horror beats | [werebeasts.md](./books/werebeasts.md) |
 | Vistani culture, customs, tribes, scenes and taboos | [vistani.md](./books/vistani.md) |
+| How NPCs speak: dialogue, read-aloud, Strahd's and the court's manner | [strahd-voice.md](./books/strahd-voice.md) |
 
 ## Campaign review checklist
 

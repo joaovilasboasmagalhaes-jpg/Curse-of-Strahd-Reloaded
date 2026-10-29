@@ -28,6 +28,7 @@ Covers an NPC's **facts** (identity, status, relationships, knowledge) and **beh
 - **Spoilers.** DM-only plans are not known to the characters. Label them when reporting.
 - **Stay in range.** Surprise comes from a believable motive, not from out-of-character action. Barovians are scared and under siege, so fear, grief and distrust of outsiders are the baseline unless a source says otherwise. Strahd acts through his three modes and long-term goals, not as an enemy who attacks on sight.
 - **Never decide the players' characters' reactions.** Describe only NPCs.
+- **Voice.** Whenever NPCs speak in a written scene (dialogue, read-aloud, sample lines), read `dm-craft/books/strahd-voice.md` first and follow it: formal period diction, courtesy as menace, understatement, dry irony, and plain speech for common Barovians.
 
 ## Procedures
 
