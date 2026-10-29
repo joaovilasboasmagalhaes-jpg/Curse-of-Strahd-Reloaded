@@ -1,0 +1,2401 @@
+{
+  "name": "Strahd, the Soldier",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "abilities": {
+      "str": {
+        "value": 20,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 20,
+        "proficient": 1,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 18,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 20,
+        "proficient": 0,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 15,
+        "proficient": 1,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 20,
+        "proficient": 1,
+        "max": null,
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "attack": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "bonuses": {
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 2,
+        "bonuses": {
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "passive": ""
+        }
+      }
+    },
+    "tools": {},
+    "spells": {
+      "spell1": {
+        "value": 0,
+        "override": null
+      },
+      "spell2": {
+        "value": 0,
+        "override": null
+      },
+      "spell3": {
+        "value": 0,
+        "override": null
+      },
+      "spell4": {
+        "value": 0,
+        "override": null
+      },
+      "spell5": {
+        "value": 0,
+        "override": null
+      },
+      "spell6": {
+        "value": 0,
+        "override": null
+      },
+      "spell7": {
+        "value": 0,
+        "override": null
+      },
+      "spell8": {
+        "value": 0,
+        "override": null
+      },
+      "spell9": {
+        "value": 0,
+        "override": null
+      },
+      "pact": {
+        "value": 0,
+        "override": null
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 16,
+        "calcs": [
+          "natural"
+        ],
+        "formulas": [],
+        "override": null
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        }
+      },
+      "movement": {
+        "units": "ft",
+        "hover": false,
+        "ignoredDifficultTerrain": [],
+        "bonus": "",
+        "special": "",
+        "speeds": {
+          "walk": "40",
+          "burrow": "",
+          "climb": "40",
+          "fly": "",
+          "swim": ""
+        }
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "ranges": {
+          "blindsight": null,
+          "darkvision": 120,
+          "tremorsense": null,
+          "truesight": null
+        },
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hd": {
+        "spent": 0
+      },
+      "hp": {
+        "max": 331,
+        "temp": null,
+        "tempmax": null,
+        "value": 331,
+        "formula": "39d8 + 156",
+        "dt": null
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0
+      },
+      "price": {
+        "value": null,
+        "denomination": "gp"
+      },
+      "spell": {
+        "level": 0
+      }
+    },
+    "details": {
+      "biography": {
+        "value": "<p>Phase rules: Each phase has an independent 331 hit point pool. When a phase reaches 0 hit points, replace it with another phase of your choice and end all conditions affecting Strahd. By default, the order is Mage, Soldier, Vampire. A phase reduced to 0 hit points cannot be used again until Strahd completes a long rest in his coffin. If all phases reach 0 hit points, Strahd becomes an immune-to-damage mist (except sunlight) unless he is in running water or sunlight; he must reach his coffin within 2 hours or be destroyed. In his coffin, he reverts to Vampire form, is paralyzed until he regains hit points, and regains 1 hit point after 1 hour.</p><p>Shared traits: Strahd does not require air. He cannot enter a residence without an occupant's invitation. He cannot gain the benefits of a long rest except by resting in his coffin for 8 consecutive hours between dawn and dusk. He can communicate with Barovian bats, rats, and wolves, which obey his commands. If a wooden piercing weapon is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed. While he retains the Fanes, Mountain grants permanent nondetection; Swamp lets him cast major image and move earth without components; Forest lets him cast beast sense and locate creature without components. If destroyed while retaining at least one Fane, he regains a new body in his coffin after 24 hours with all hit points and phases restored.</p><p>Source block lists passive Perception 24, although Perception +16 implies passive 26. The Foundry skill calculation displays +16; verify the passive value at the table.</p>",
+        "public": ""
+      },
+      "alignment": "lawful evil",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": null,
+      "type": {
+        "value": "undead",
+        "subtype": "shapechanger",
+        "swarm": "",
+        "custom": ""
+      },
+      "habitat": {
+        "value": [],
+        "custom": ""
+      },
+      "cr": 21,
+      "treasure": {
+        "value": []
+      }
+    },
+    "resources": {
+      "legact": {
+        "max": 0,
+        "spent": 0
+      },
+      "legres": {
+        "max": 0,
+        "spent": 0
+      },
+      "lair": {
+        "value": true,
+        "initiative": 20,
+        "inside": false
+      }
+    },
+    "source": {
+      "revision": 1,
+      "rules": "2014",
+      "custom": "",
+      "book": "Reloaded",
+      "page": "Chapter 2, Strahd's Tactics",
+      "license": ""
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [
+          "necrotic"
+        ],
+        "custom": "",
+        "bypasses": []
+      },
+      "dr": {
+        "value": [
+          "bludgeoning",
+          "piercing",
+          "slashing"
+        ],
+        "custom": "",
+        "bypasses": [
+          "mgc"
+        ]
+      },
+      "dv": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "abyssal",
+          "common",
+          "draconic",
+          "elvish",
+          "giant",
+          "infernal"
+        ],
+        "custom": "",
+        "communication": {
+          "telepathy": {
+            "value": null,
+            "units": "ft"
+          }
+        }
+      },
+      "important": false
+    },
+    "identifier": "strahd-the-soldier",
+    "rolls": {}
+  },
+  "prototypeToken": {
+    "name": "Strahd, the Soldier",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "sight": {
+      "enabled": false
+    },
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "KtRx7UFO3PCcJHPL",
+      "name": "Battlefield Awareness",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd has advantage on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells. Strahd cannot be disarmed.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "battlefield-awareness",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "wYiQioltXzx42Bkm",
+      "name": "Close Quarters Fighter",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd does not have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "close-quarters-fighter",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "Xzfpu8TjCXuYSfYr",
+      "name": "Regeneration",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd regains 20 hit points at the start of his turn if he has at least 1 hit point and is not in sunlight. If he takes radiant damage, this trait does not function at the start of his next turn.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "regeneration",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "2GUb2RJuFARwasHS",
+      "name": "Spider Climb",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "spider-climb",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "TgBEJmksWTgNIMns",
+      "name": "Sunlight Hypersensitivity",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>While in sunlight, Strahd takes 20 radiant damage at the start of his turn and has disadvantage on attack rolls and ability checks.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "sunlight-hypersensitivity",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "6yI4j4p4zdO9DJpH",
+      "name": "Fast Grappler",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd does not have to spend extra movement to move a creature grappled by him if the creature is the same size or smaller.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "fast-grappler",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "7eNkNTCnsldHC0st",
+      "name": "Multiattack",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd makes two attacks, only one of which can be an umbral net.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "multiattack",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "bjsFhYBSRtzYmsbo": {
+            "_id": "bjsFhYBSRtzYmsbo",
+            "type": "utility",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "MONrh19TgIwicyGc",
+      "name": "Longsword",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 11 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage. The target must succeed on a DC 20 Strength saving throw or be pushed 5 feet away and knocked prone.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "longsword",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "WcXljfkmtXQ1OWWY": {
+            "_id": "WcXljfkmtXQ1OWWY",
+            "type": "attack",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "value": "5",
+              "units": "ft",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "attack": {
+              "ability": "",
+              "bonus": "+12",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": false,
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 10,
+                  "bonus": "+5",
+                  "types": [
+                    "slashing"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                },
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 6,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            }
+          },
+          "MGmeb3zSzk1hWmZl": {
+            "_id": "MGmeb3zSzk1hWmZl",
+            "type": "save",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "save": {
+              "ability": [
+                "str"
+              ],
+              "visible": true,
+              "dc": {
+                "calculation": "",
+                "formula": "20"
+              }
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": []
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "bnM2FPE2v6k9uvCB",
+      "name": "Umbral Net",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Ranged Spell Attack: +12 to hit, range 30/60 ft., one creature. Hit: 7 (2d6) necrotic damage and the target is restrained until the start of Strahd's next turn.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "umbral-net",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "6UJKvbwrwPhzNL7Y": {
+            "_id": "6UJKvbwrwPhzNL7Y",
+            "type": "attack",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "value": "30",
+              "units": "ft",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "attack": {
+              "ability": "",
+              "bonus": "+12",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": false,
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 6,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "OF0f4WVXAfojF2wE",
+      "name": "Thunderous Wave",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd slams his sword into the ground. Each creature within 5 feet makes a DC 20 Strength saving throw, taking 14 (3d8) thunder damage and being pushed 5 feet on a failure, or half damage and no push on a success.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "thunderous-wave",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "170PxybyTUDXJqis": {
+            "_id": "170PxybyTUDXJqis",
+            "type": "save",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "bonus",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "save": {
+              "ability": [
+                "str"
+              ],
+              "visible": true,
+              "dc": {
+                "calculation": "",
+                "formula": "20"
+              }
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 3,
+                  "denomination": 8,
+                  "bonus": "",
+                  "types": [
+                    "thunder"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "V5nEjGMb8IoY5j2v",
+      "name": "Dark Volley",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd conjures shadowy arrows at a point within 120 feet. Each creature in a 10-foot-radius, 40-foot-high cylinder centered there makes a DC 20 Dexterity saving throw, taking 18 (4d8) necrotic damage on a failure or half on a success.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "dark-volley",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "Aa8dgLDtKUK0JAnC": {
+            "_id": "Aa8dgLDtKUK0JAnC",
+            "type": "save",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "bonus",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "visible": true,
+              "dc": {
+                "calculation": "",
+                "formula": "20"
+              }
+            },
+            "damage": {
+              "onSave": "half",
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 4,
+                  "denomination": 8,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "ZzaKk1ShaascVCMI",
+      "name": "Multiple Reactions",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Strahd can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "multiple-reactions",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "hKzzSS6DWUZJhdNR",
+      "name": "Indomitable",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Trigger: A hostile creature ends its turn. Strahd repeats the saving throw against one effect or condition currently affecting him. This has no effect if the effect did not originally require a failed saving throw.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "indomitable",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "yHVMU3fH6x3lbhFB": {
+            "_id": "yHVMU3fH6x3lbhFB",
+            "type": "utility",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "reaction",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "djVsstkKdOxd2Frw",
+      "name": "Commander's Retreat",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>In response to taking damage from a melee attack, Strahd forces the attacker to succeed on a DC 20 Strength saving throw or be pushed 5 feet away. Strahd can then move up to his speed away without provoking opportunity attacks.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "commander's-retreat",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "cbwJy59CiuNTDjTI": {
+            "_id": "cbwJy59CiuNTDjTI",
+            "type": "save",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "reaction",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "save": {
+              "ability": [
+                "str"
+              ],
+              "visible": true,
+              "dc": {
+                "calculation": "",
+                "formula": "20"
+              }
+            },
+            "damage": {
+              "onSave": "none",
+              "parts": []
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "axpSY9Y3ZkXg9x4T",
+      "name": "Vengeful Strike",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>In response to taking damage from a spell or attack, Strahd moves up to his speed toward the attacker without provoking opportunity attacks and can make a longsword attack against them.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "vengeful-strike",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "if3TQR113eGVwyvb": {
+            "_id": "if3TQR113eGVwyvb",
+            "type": "attack",
+            "name": "",
+            "sort": 0,
+            "img": null,
+            "activation": {
+              "type": "reaction",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "value": "5",
+              "units": "ft",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "attack": {
+              "ability": "",
+              "bonus": "+12",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": false,
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 10,
+                  "bonus": "+5",
+                  "types": [
+                    "slashing"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                },
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 6,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "doyUF9gGeYiZdT6Z",
+      "name": "Plant Growth (Forest Fane)",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>At initiative count 20 outdoors, while the Forest Fane has not been reconsecrated, Strahd casts plant growth without components or concentration.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "plant-growth-(forest-fane)",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "J24Auh96fU6WL2tN",
+      "name": "Wrath of Nature (Forest Fane)",
+      "type": "feat",
+      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793297335310,
+        "modifiedTime": 1793297335310,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>At initiative count 20 outdoors, while the Forest Fane has not been reconsecrated, Strahd casts wrath of nature without components or concentration. He cannot use the spell's rocks effect when cast this way.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "wrath-of-nature-(forest-fane)",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    }
+  ],
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1793297335310,
+    "modifiedTime": 1793297335310,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

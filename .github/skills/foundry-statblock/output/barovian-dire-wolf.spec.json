@@ -1,0 +1,35 @@
+{
+  "name": "Barovian Dire Wolf",
+  "cr": 1,
+  "size": "lg",
+  "alignment": "unaligned",
+  "book": "Curse of Strahd",
+  "page": "35",
+  "type": {"value": "beast"},
+  "abilities": {"str": 17, "dex": 15, "con": 15, "int": 3, "wis": 12, "cha": 7},
+  "skills": {"prc": 1, "ste": 1},
+  "ac": 14,
+  "hp": {"max": 37, "formula": "5d10 + 10"},
+  "speed": {"walk": 50},
+  "ci": ["charmed", "frightened"],
+  "biography": "Barovian dire wolves are Strahd's loyal servants. They cannot be charmed or frightened.",
+  "items": [
+    {
+      "name": "Keen Hearing and Smell",
+      "description": "The dire wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
+    {
+      "name": "Pack Tactics",
+      "description": "The dire wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    {
+      "kind": "weapon",
+      "natural": true,
+      "name": "Bite",
+      "ability": "str",
+      "damage": [{"n": 2, "d": 6, "type": "piercing"}],
+      "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+      "activities": [{"type": "save", "ability": "str", "dc": 13}]
+    }
+  ]
+}
