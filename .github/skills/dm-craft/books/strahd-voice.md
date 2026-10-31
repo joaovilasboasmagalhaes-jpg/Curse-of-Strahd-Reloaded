@@ -12,14 +12,23 @@
 5. **Rhetorical questions and observations.** The speaker steers by asking what the listener already knows, or by remarking on the listener's own state ("You are cold, and tired, and afraid. Sit.").
 6. **Weariness of centuries.** Old speakers refer to long memory, patience and regret: what they have seen many times before, what they once loved. Emotion is held in and shows as restraint, then a single crack.
 7. **Pride and possession.** Strahd speaks of the land, the castle and its people as his: "my valley", "my guests". Pride, wounded honor and bitterness about Tatyana and his brother surface in word choice more than in outbursts.
-8. **Sensory, grounded narration.** Short, concrete detail (candle smoke, cold stone, the scent of old roses, the sound of a clock) rather than abstract description.
+8. **Feeling beneath restraint.** Strahd is capable of loyalty, affection, grief, envy and regret. Do not play him as emotionless in every mode; let feeling briefly show, then watch him turn it into justification or command.
+9. **Sensory, grounded narration.** Short, concrete detail (candle smoke, cold stone, the scent of old roses, the sound of a clock) rather than abstract description.
+
+## Character Behind the Voice
+
+Strahd is a soldier as well as a ruler. He values discipline, courage, competence and earned loyalty. As a mortal, he was willing to risk his life to save Alek Gwilym, a trusted comrade; that loyalty was real, not simply a calculation. Show it through decisive protection rather than sentimental speeches. With age and power, his protectiveness can become possessive, and he may expect obedience in return.
+
+His bonds are complicated. Sergei was both a brother Strahd could care for and a painful reminder of the youth, affection and warmth he believed he had lost. Tatyana first drew real tenderness and longing from him, but when she refused him, he converted desire into entitlement. Do not confuse the sincerity of a feeling with the goodness of what Strahd does in its name.
+
+The memoir's High Priestess Lady Ilona Darovnya is a model for the formidable adviser Strahd can respect: he takes competence seriously, even when it comes with an independent will. He may listen without yielding authority. In court, he rules through more than force: titles, ceremony, appointments, patronage, hospitality and personal favor bind nobles to his order. His graciousness can be politically useful, but he does not regard his sovereignty as shared.
 
 ## By speaker
 
 | Speaker | Manner |
 |---|---|
-| **Strahd, Gentleman mode** | Gracious host. Long, balanced sentences, flattery, an invitation, an offer. Never raises his voice |
-| **Strahd, Tyrant mode** | Clipped and cold. Short declaratives, a question that is an order, a calm statement of consequence. Contempt in precision |
+| **Strahd, Gentleman mode** | Gracious host. Long, balanced sentences, flattery, an invitation, an offer. His curiosity and occasional warmth can be genuine, even as the conversation probes and binds. Never raises his voice |
+| **Strahd, Tyrant mode** | Clipped and cold. Short declaratives, a question that is an order, a calm statement of consequence. Contempt in precision; speak like a commander who expects his authority to be recognized |
 | **Strahd, Monster mode** | Words fail him: broken, hissed, stripped of courtesy. The contrast with his usual polish is the horror |
 | **Court and servants (Rahadin, Ireena's circle, other nobles)** | Formal, deferential or icy. Rahadin: spare, exact, dutiful, never wasted a word |
 | **Educated or scholarly NPCs (Van Richten, Rictavio, Fiona Wachter)** | Formal and fluent; the register shows class or learning. Dry, practical, wary |

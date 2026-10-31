@@ -6,6 +6,10 @@ description: The DM's step-by-step pipeline for preparing a session, and where p
 
 The DM's pipeline is in [pipeline.md](./pipeline.md). Follow it in order and stop at the "lock" point (step 3) for redesign. Stop preparing when the final check is all ticked.
 
+## Working Across Turns
+
+Treat prep as one continuous, phased collaboration. Stay on the current pipeline step across turns, using its rules and `Done when` criteria without asking the DM to repeat them. Once those criteria are met, mark the step complete, announce the transition, and continue to the next step without requiring another command or permission to advance. Pause when the DM asks; campaign-edit approval is still required independently. If new information reopens a completed step, address it without restarting the whole pipeline.
+
 ## Where things live
 
 | Item | Path | Fixed? |
@@ -48,4 +52,4 @@ Foundry, maps, tokens, props, music.
 - Every scene, fight, reward and NPC choice is checked against the `session-rules` skill.
 - Steps 2-3 use `campaign-state`, `timeline`, `cartographer` and `npcs`; step 4 fights use `combat`.
 - Do not prepare more than the session can reasonably reach.
-- Do not edit campaign files or logs during prep. Propose arc changes as edits and say which file; apply them only when the DM agrees.
+- During prep, do not edit session logs. Record desired campaign-source changes in step 2; in step 3, apply relevant edits to campaign files once the DM agrees, and note the files and outcome in `prep.md`.
