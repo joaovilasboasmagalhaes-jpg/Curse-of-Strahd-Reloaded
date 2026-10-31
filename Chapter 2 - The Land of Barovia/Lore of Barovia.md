@@ -9,6 +9,8 @@ The Dark Powers do not necessarily seek to corrupt those they encounter. Instead
 
 As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. However, the Vistani, werewolves, and (while Strahd is asleep) people with mist talismans (see **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61)** can come and go through the mists as they please.
 
+Every newborn in Barovia has a soul, which originates within the valley rather than crossing the Mists from another plane. The souls of those who die remain trapped in Barovia and may later be reincarnated, but recycled souls are not the only source of souls for new births.
+
 Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.

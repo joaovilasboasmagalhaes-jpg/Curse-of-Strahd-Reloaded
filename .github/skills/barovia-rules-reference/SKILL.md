@@ -34,10 +34,11 @@ Real-world and Ravenloft folklore digests live in `dm-craft/books/` (`vampires.m
 
 ## Souls and the Dark Powers
 
+- Every native Barovian is born with a soul. New souls can originate within Barovia as new life begins; they do not need to cross the Mists from another plane. Souls of the dead remain trapped and may later reincarnate, but reincarnation is not the only source of souls for new births.
 - The Dark Powers can offer choices and temptations, but cannot directly act upon souls within their domains: they cannot destroy Ireena/Tatyana's soul or command her spirit.
 - The Dark Powers' protection keeps Ireena/Tatyana out of Strahd's reach; past incarnations chose death when offered a way to escape him. An offer is not mind control.
 - Check claims about the Dark Powers directly controlling, destroying, or forcibly moving a soul. Keep their influence indirect unless another campaign source establishes otherwise.
-- Source: `Chapter 2 - The Land of Barovia/Lore of Barovia.md`, **Dark Powers**.
+- Sources: `Chapter 2 - The Land of Barovia/Lore of Barovia.md`, **Metaphysics & Magic** and **Dark Powers**; `Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md`, Sergei's account of reincarnation.
 
 ## Lycanthropy
 
