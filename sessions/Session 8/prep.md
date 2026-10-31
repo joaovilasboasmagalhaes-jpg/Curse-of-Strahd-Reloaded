@@ -1,13 +1,13 @@
 # Session 8 prep
 
-**Status:** reading done, resolving (step 3)
+**Status:** locked (step 4 design)
 **Starts:** River Ivlis Crossroads, Neyavr 1, 735 B.C., after noon (date confirmed by DM) · **Length:** 4 hours IRL
 
 ## Pipeline progress
 
 - [x] 1. Define the session
 - [x] 2. Read the material
-- [ ] 3. Resolve and adapt (lock)
+- [x] 3. Resolve and adapt (lock)
 - [ ] 4. Design the session
 - [ ] 5. Prepare the table
 - [ ] 6. Study and practice
@@ -70,9 +70,11 @@ Questions and desired changes only. Answers, decisions and the resulting edits t
 
 #### Tser Pool
 
+- What happened to the Vistani that brought the players to Barovia? Where are they? Where did they go?
 - Soulless Barovians don’t exist? How does that work?
 - Read original section to properly understand.
 - Include players’ backstories in the dialogue with Madam Eva.
+- prepare Madam Eva's personal readings for each player
 - Revise “I have only seen him once these past ten years, however”, it makes it seem like she lost him ten years ago.
 - Adjust the players’ entrance to the pool to reflect the rumour of their arrival and to showcase the ambience and the people.
 - How did Van Richten control a horde of undead?
@@ -80,16 +82,22 @@ Questions and desired changes only. Answers, decisions and the resulting edits t
 
 ### Other questions
 
-Questions that block the lock:
+Questions resolved for the lock:
 
 1. **Personal readings vs the arc text.** C4b has Eva refuse any request to read fortunes or advise on beating Strahd ("not yet"). C4e (midnight) is where she offers palm, crystal ball or cards. Proposal: in the tent she gives each character a short personal reading in the palm/crystal-ball style (personal, no cards, no Strahd-defeat guidance) and still refuses the Tarokka until midnight. C4e then needs a one-line edit so she does not re-offer palm and crystal-ball readings. **DM to confirm.**
+	**DM decision:** Any player character may request a personal reading in the tent. These readings are private. The shared reading remains at midnight as planned; C4e's group offer stays in place.
 2. **Format.** Does every player get one (Ireena too?), one at a time in front of the group or privately? Private is stronger but slower. **DM to choose.**
+	**DM decision:** Any party member may choose to receive one; no one is required to. Each reading is private.
 3. **Content source.** Reusable now: Elga (recognition and permitted facts, already in C4b), Grim (the baker with the cart, only if she asks), Agni (aside about Vasili, only if he asks; it assumes Eva refuses to read, so it needs updating), Ivan (Eva's fondness for Muriel; no explicit text). Caspian has nothing. Ivan and Caspian need a reading drafted.
+	**DM decision:** Define the personal reading content during Step 4; no specific lines or sources are being locked in Step 3.
 4. **Arturi.** The arc says he is to be removed. He only matters if C4c is reached. Default: leave him out unless the stretch beats are reached.
+	**DM decision:** The next session will not include the tales by the fire. The Game of Stories and Arturi's tale are out of scope for Session 8.
 
 ## 3. Resolve and adapt (lock)
 
 Answers to the section 2 questions, decisions, and the changes made to campaign notes. Headings mirror section 2.
+
+**Deferral rule:** Every deferral names a specific destination as “Deferred to <place>” and records the task in that destination. For a destination within this file, name the section and list the task there; for another session, add the task to that session's prep file.
 
 ### DM questions
 
@@ -101,7 +109,7 @@ Answers to the section 2 questions, decisions, and the changes made to campaign 
 
 **Ask the players what they bought from the shop.**
 
-> **Unresolved; carry to Session 9.** The player did not have enough time between sessions to choose their purchases. The Session 7 log records agate moss and a religious symbol, but leaves the rest undefined. Ask the player at the next session, then check the items against Bildrath's stock and update Foundry inventory.
+> **Deferred to Session 9, Section 1: Scope, and Section 5: Table prep.** The player did not have enough time between sessions to choose their purchases. The Session 7 log records agate moss and a religious symbol, but leaves the rest undefined. Ask the player at the next session, then check the items against Bildrath's stock and update Foundry inventory. These tasks are recorded in [[../Session 9/prep#1. Scope|Session 9 Scope]] and [[../Session 9/prep#5. Table prep|Session 9 Table prep]].
 
 **Fix the date and tell it to 57. Start keeping track of it for each session.**
 
@@ -109,11 +117,11 @@ Answers to the section 2 questions, decisions, and the changes made to campaign 
 
 **Add shortcut to access calendar in Foundry.**
 
-> **Deferred to Step 5 (table prep).** Add a shortcut to access the calendar in Foundry. Barovia's calendar has 12 months of 28 days; the first full moon is Neyavr 8.
+> **Deferred to Section 5: Table prep.** Add a shortcut to access the calendar in Foundry. Barovia's calendar has 12 months of 28 days; the first full moon is Neyavr 8. The task is listed in [[#5. Table prep|Table prep]].
 
 **Get cards for Tarokka reading.**
 
-> **Deferred to Session 9, Step 5 (table prep).** The C4f Tarokka reading is next session, not this one. Get/check the deck then; it needs the five fixed cards: Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette. The personal readings this session use palms or the crystal ball, not cards.
+> **Deferred to Session 9, Section 5: Table prep.** The C4f Tarokka reading is next session, not this one. Get/check the deck then; it needs the five fixed cards: Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette. The personal readings this session use palms or the crystal ball, not cards. The task is recorded in [[../Session 9/prep#5. Table prep|Session 9 Table prep]].
 
 #### Strahd's Arrival
 
@@ -129,7 +137,7 @@ Answers to the section 2 questions, decisions, and the changes made to campaign 
 
 **Decide Strahd’s relation to the Heart. Develop Grim’s backstory. (Maybe) change Strahd’s fate to include a stronger presence of the party, particularly Sister Elga. Or a more specific mention.**
 
-> **Heart (DM decision).** Strahd has no connection to Grim’s pouch and no prior knowledge of its origin or link to Milo. Defer his exact response if Grim shows or asks about it to the player-specific conversation task below. Grim’s broader backstory development belongs to player-arc work, not this prep.
+> **Heart (DM decision).** Strahd has no connection to Grim’s pouch and no prior knowledge of its origin or link to Milo. **Deferred to Section 3, “Strahd's conversation topic bank,” below:** prepare his exact response if Grim shows or asks about the pouch; the task is recorded in that topic. Grim’s broader backstory development belongs to player-arc work, not this prep.
 >
 > **Foretelling (DM decision).** Leave the reading unchanged. Strahd can suspect that the party are the foretold strangers and newcomers, which makes him unusually curious and attentive at their first meeting, but he does not know their roles or what change they will bring. This is a collective interpretation; the fortune does not single out Sister Elga or any other character. The party and Muriel do not know the full reading. Arc U later confirms Strahd's interpretation of the newcomers as foretold to mark the end of his imprisonment.
 
@@ -144,11 +152,11 @@ Answers to the section 2 questions, decisions, and the changes made to campaign 
 
 **Check Dire wolf stats.**
 
-> **Resolved: verified for Foundry.** Use the 2014 Monster Manual dire wolf: AC 14, 37 HP, speed 50 ft., Bite +5 to hit for 10 (2d6 + 3) piercing damage, DC 13 Strength save or knocked prone, Keen Hearing and Smell, and Pack Tactics. Barovian dire wolves also cannot be charmed or frightened. An existing Barovian Dire Wolf actor export includes this setting's trait and bite; confirm it is available in the Foundry world in Step 5. Six wolves may appear (one per player plus Ireena), only if Strahd's escalation or the party's flight triggers them.
+> **Resolved: verified for Foundry.** Use the 2014 Monster Manual dire wolf: AC 14, 37 HP, speed 50 ft., Bite +5 to hit for 10 (2d6 + 3) piercing damage, DC 13 Strength save or knocked prone, Keen Hearing and Smell, and Pack Tactics. Barovian dire wolves also cannot be charmed or frightened. An existing Barovian Dire Wolf actor export includes this setting's trait and bite; confirm it is available in the Foundry world in [[#5. Table prep|Section 5: Table prep]]. Six wolves may appear (one per player plus Ireena), only if Strahd's escalation or the party's flight triggers them.
 
 **Simulate a battle with Strahd to check if anything must be changed on his Stat block.**
 
-> **Deferred to Step 4 (session design).** Run the C2 duel simulation before deciding whether Strahd's stat block or the encounter text needs changes. Include the five unopposed rounds, the transition to his Mage form, and the ambiguities around regeneration, reactions, and telekinetic grasp timing. No stat-block changes are approved yet.
+> **Deferred to Section 4: Session design.** Run the C2 duel simulation before deciding whether Strahd's stat block or the encounter text needs changes. Include the five unopposed rounds, the transition to his Mage form, and the ambiguities around regeneration, reactions, and telekinetic grasp timing. No stat-block changes are approved yet. The task is listed in [[#4. Session design|Session design]].
 
 **Prepare Strahd’s player-specific conversation points: greetings, questions, and reactions.**
 
@@ -158,55 +166,63 @@ The topic bank is in [[#Strahd's conversation topic bank]] below.
 
 **Prepare Strahd’s questions, answers from the players and reactions from Strahd.**
 
-> **Resolved for Step 3; DM approved.** Ask Strahd's additional Death House question: the party put Rose and Thorn's spirits to rest, even though the logs do not mention Walter's bones. Ireena may answer Strahd for herself if she chooses; do not script or require her response. Draft likely player answers and Strahd's reactions in Step 4, using the concessions and mercy lines in C2d.
+> **Resolved for Step 3; DM approved.** Ask Strahd's additional Death House question: the party put Rose and Thorn's spirits to rest, even though the logs do not mention Walter's bones. Ireena may answer Strahd for herself if she chooses; do not script or require her response. **Deferred to Section 4: Session design:** draft likely player answers and Strahd's reactions, using the concessions and mercy lines in C2d. The task is listed in [[#4. Session design|Session design]].
 
 #### The Strix
 
 **Decide what Ivan’s effects with silver are.**
 
-> **Copilot (decision).** Ivan's files give silver no mechanic. His clan treats it as a taboo ("burns the divine boon"), and the Barovia lycanthropy rule covers infected creatures, not inherited ones. Because the strix barbs are silver, it will come up. Options: (A) cultural only: the barbs are ordinary piercing damage to Ivan, and he just reacts with disgust; (B) in Hybrid Form, silver ignores any damage resistance his form gives and blocks any form-based regeneration until his next turn. This matches Muriel's regeneration being blocked by the same barbs. I recommend (B) and telling the player beforehand. Check with the player and his class features before you rule.
+> **Deferred to Session 9, Section 2: Open questions and carryovers.** Ask Ivan's player whether he wants silver to have any personal or mechanical effect, especially when the silver barbs come up in C3. Until then, treat silver as ordinary piercing damage to Ivan; his level-3 Hybrid Form has no stated silver weakness or regeneration for silver to suppress. His clan's ban on using silver against its own is a cultural taboo, not a rule that dictates his reaction. The task is recorded in [[../Session 9/prep#2. Open questions and carryovers|Session 9 open questions]].
 
 **Create stat blocks for strix fight. (Greater Strix, Lesser Strix, Muriel)**
 
-> **Copilot (step 4).** Muriel's block already exists in the arc and the NPC appendix (63 HP). She starts this fight at 1 HP and cannot regenerate or change until the barbs are removed. The strix are not in the Bestiary. The arc defines them as a Monster Manual manticore (Medium construct, vulnerable to fire, silver barbs instead of tail spikes) and a Monster Manual swarm of ravens (vulnerable to fire). The Monster Manual is not in the workspace, so I will write both blocks at step 4 with the numbers marked as from memory for you to verify. The same greater strix also appears as a scout in Arc I, so keep the two consistent. I will also check the fight against the table's difficulty rule (the arc rates it "Bruising", 34% HP) and the combat principles.
+> **Deferred to Section 4: Session design.** Build or verify the Strix encounter actors alongside the combat design. Muriel already has a stat block in Arc C and an actor export; check whether the other required actors are available before creating anything. Keep any Foundry import or table setup in Section 5. The design and verification task is listed in [[#4. Session design|Session design]], and Foundry setup is listed in [[#5. Table prep|Table prep]].
 
 **Baba Lysaga made the Strix as a gift to Strahd for his awakening. Do they keep in touch? What is their relationship? Who commanded the Strix to attack Muriel? If it was Baba Lysaga, how did she know about Muriel listening in on Strahd?**
 
-> **Copilot (decision, with a recommended answer).** What the files say: Lysaga was Strahd's nursemaid, banished when he was an infant, and followed his army to the valley. She treats an illusory baby as "Strahd" and teaches her witches they are his younger siblings. Ludmilla is the envoy between the castle and Lysaga, and Lysaga built the strix to hunt wereravens (Arc J). The Strahd file has no entry for what Strahd thinks of her. Recommended chain: Strahd detected Muriel in Eva's tent and drove her off. The strix are his gift, and their standing order is to hunt wereravens, so he, or Ludmilla for him, points the nearest strix at her. Lysaga never needs to know about Muriel, and the two never speak directly. Players cannot learn Lysaga's name from the strix this session. They only see a construct of wood, burlap, raven feathers and silver barbs. Grim's thread later ties strix to Lysaga.
+> **Resolved: DM approved; applied in Arc C.** Baba Lysaga made and released the strix to hunt wereravens. The gift to Strahd does not mean he directs their attacks: they act independently when they encounter wereravens. The strix attack Muriel without knowing she eavesdropped on Strahd. Lysaga's established devotion to Strahd and Ludmilla's role as an envoy remain; no direct contact between Lysaga and Strahd is needed for this attack. The players see constructs of wood, burlap, raven feathers, and silver barbs; they need not learn Lysaga's name this session.
 
 **How will Muriel react if questioned about the siege?**
 
-> **Copilot (decision, with suggestions).** Facts: she is the blue-tipped raven that led the party to the square in Session 5 (Elga noticed it), so the party already knows this bird acts intelligently. She cannot speak in raven form, only mimic the sounds in the arc, and the party needs *speak with animals* to talk to her. Her fiancé Elric died in Castle Ravenloft after joining Doru's rebellion, not in the village siege. Suggested behavior: she does not deny being the village raven, but plays it as a clever bird who followed "the loud ones" and offers no reasons. Asked about the siege, she mimics a short, tense sound and then goes quiet or turns away. She leaves the Keepers' secrets alone and the Elric grief unspoken. Her warmth should show in the rescue and in how she takes to Ireena and Ismark's name.
+> **Resolved: DM approved; applied in Arc C.** Muriel truthfully explains that she led the party to the square because Ismark was alone, children were hiding, and the dead were closing in. She admits she called for help, but does not reveal her identity or her role with the Keepers, and denies knowledge of Strahd or the strix's origins.
 
 #### Tser Pool
 
+**What happened to the Vistani that brought the players to Barovia? Where are they? Where did they go?**
+
+> **Resolved for Session 8; applied in Arc C.** The Vistana who abandoned the party is not Stanimir and is not at Tser Pool. The guide left with another caravan; its destination and the guide's current whereabouts are unknown. Stanimir and the Tser Pool Vistani have heard no word of that caravan since. If asked, Stanimir does not defend or excuse the abandonment and does not ask the party to forgive the guide; see [[Arc C - Into the Valley#C4a. Arrival at Tser Pool|C4a]]. Preserve the party's impression that the guide was not sorry; the Tser Pool camp is a separate group.
+
 **Soulless Barovians don’t exist? How does that work?**
 
-> **Copilot (answered).** In the original book most Barovians are soulless, and Strahd cannot feed on them. Reloaded removes that. Stanimir's lore deliberately omits the soulless Barovians, which "don't exist", and the Strahd file has all Barovians keep their souls, since his escape plan needs to consume them ("repurpose their soulless husks"). So no native Barovian is born soulless in this version. Souls can still be lost or taken. Examples: Stella Wachter's soulless body in Arc H, and the Amber vestiges claiming slivers of soul. Players hearing "Barovians have no souls" from a Vistana would be wrong in this campaign. Stanimir should simply not say it.
+> **Resolved: DM approved; added to Lore of Barovia.** Every newborn in Barovia has a soul, which originates within the valley rather than crossing the Mists. Souls of the dead remain trapped and may later be reincarnated, but recycling is not the only source of souls for new births. Stanimir should not speak of soulless Barovians.
 
 **Read original section to properly understand.**
 
-> **Copilot (read).** Original area G: a clearing by a lake, five round tents and four wagons around a bonfire, a big lit tent near the shore, eight horses drinking, an accordion and singing. Twelve drunk Vistani and three sober captains, all in league with Strahd, who attack only if provoked and otherwise offer wine. A Vistana tells of the wizard thrown from the precipice. Eva names each character, refers to their past deeds, and offers a reading, which is the Tarokka reading of chapter 1. Reloaded changes: the camp is sober, only Eliza spies for Strahd, Stanimir greets the party, Eva expects them, and she holds the reading back until midnight. The soulless lore is cut.
+> **Resolved: DM approved.** The original Area G and its differences from Reloaded have been reviewed. Arc C now contains a self-contained Tser Pool arrival description; retain the Reloaded changes: sober camp, Eliza as the sole Strahd spy, Stanimir's greeting, Eva expecting the party, and the Tarokka reading deferred until midnight. No further source change is needed for this question.
 
 **Include players’ backstories in the dialogue with Madam Eva.**
 
-> **Copilot (step 4, ties to my questions 1-3).** Existing material: Elga (recognition, already in C4b), Grim (the baker with the cart, only if she asks), Agni (an aside about Vasili, only if he asks, written assuming Eva refuses to read), Ivan (Eva's fondness for Muriel, nothing explicit), Caspian (nothing). The personal readings are the natural place for all five. At step 4 I will draft a short epithet and reading per player. Eva can speak only in symbols about each person's own life, cannot reveal what she told others, and gives no guidance on beating Strahd.
+> **Resolved: DM approved; applied in Arc C.** Eva's greeting is limited to a name and a brief, affectionate observation, with no round-robin introductions or personal revelations. The detailed per-character knowledge and candidate lines have moved to the Step 4 workshop below.
+
+**prepare Madam Eva's personal readings for each player**
+
+> **Deferred to Section 4: Session design.** Draft one personal reading per player after the DM resolves the related format and content questions under “Other questions” in Section 2. Keep the party Tarokka reading for Session 9. The task is listed in [[#4. Session design|Session design]].
 
 **Revise “I have only seen him once these past ten years, however”, it makes it seem like she lost him ten years ago.**
 
-> **Copilot (rewrite suggestions).** Agreed. It reads as one sighting in a decade, which implies she lost him about then. Options that keep the Roc wild and Eva wistful: (1) "He no longer answers when I call, child. I have glimpsed him circling Ghakis, and no more. Doubtless he has gone wild without me." (2) "Many winters have passed since he last came to my hand." The files do not date when she gave up the Seeker's mantle, so avoid a number.
+> **Resolved: DM approved; applied in Arc C.** Eva now says, “He no longer answers when I call, child. I have glimpsed him circling Ghakis, and no more. Doubtless he has gone wild without me.” This keeps her wistful without implying she lost him ten years ago or assigning a date to their last meeting.
 
 **Adjust the players’ entrance to the pool to reflect the rumour of their arrival and to showcase the ambience and the people.**
 
-> **Copilot (step 4).** A plausible channel for the rumour already exists: Strahd's day spy in the village of Barovia is a Vistani, and Eliza at Tser Pool reports to Strahd, so word of outsiders from beyond the Mists reached the camp. Eva also expects them. I will draft a read-aloud at step 4 that uses the original ambience (the lake, the tents and wagons, the horses, the accordion and the fire), a Vistani camp that is sober but watchful, curious glances, and Stanimir's welcome. The Reloaded text has no "friends in the village" detail, so you may want to decide who exactly carried the word.
+> **Resolved: DM approved; applied in Arc C.** C4a now has a self-contained arrival description based on the original area, adapted for this campaign's sober camp, Eliza as the only Strahd spy, the rumor of the outsiders' arrival, and Stanimir's welcome directing them to Madam Eva.
 
 **How did Van Richten control a horde of undead?**
 
-> **Copilot (not needed this session).** The Game of Stories and Arturi's tale are out of scope, so this can wait. The guide never explains it, and it cuts both ways: Arc T has Ezmerelda suspect a curse, a demon, an illusion or a lie, and the Pending Changes note says Arturi is to be removed and Ezmerelda made the sole survivor. Arc C also says Vistani curses are mere superstition, so the "curse" cannot be a Vistani one. Options when needed: (a) he never commanded the dead, and the horde was bait or a ritual that went wrong; (b) Arturi's account is distorted, since he only saw it from inside a trunk; (c) a grief-fuelled spell or pact he later regretted. I would pick (b) plus (a) together, which fits the pending changes.
+> **Deferred to Session 9, Section 2: Open questions and carryovers.** Revisit how Van Richten's undead horde was controlled if Arturi's tale remains relevant after the planned campaign changes. No explanation is established in Session 8. The task is recorded in [[../Session 9/prep#2. Open questions and carryovers|Session 9 open questions]].
 
 **Check Source: Wise, David. *Van Richten's Guide to the Vistani.* Wizards of the Coast, 1995.**
 
-> **Copilot.** I cannot verify the book or the passage from the workspace, and the original module does not contain Arturi's story. One flag: in 1995 the publisher was TSR (Wizards of the Coast bought TSR in 1997), so the citation likely names the current rights holder, not the original publisher. Check the book itself for the author, year, and whether it contains the Radanavich massacre as the guide describes it.
+> **Deferred to Session 9, Section 2: Open questions and carryovers.** Check the source book for the author, original publisher, year, and whether it contains the Radanavich massacre passage described in Arc C. The task is recorded in [[../Session 9/prep#2. Open questions and carryovers|Session 9 open questions]]. The workspace does not contain a verifiable copy of the book or passage.
 
 ### Other questions
 
@@ -216,7 +232,9 @@ Resolved by reading:
 - **Strahd's introduction** already happened in Session 7. C2b picks up from there.
 - **Muriel** keeps her raven disguise ("Blue"), travels with the party to Vallaki, and Eva notices her in C4b.
 
-Still awaiting the DM's answers to questions 1-4 in section 2 (personal readings vs the arc text, format, content source, Arturi).
+### Other questions
+
+**Resolved: DM decisions recorded in Section 2.** Optional personal readings are private and available to any player character who requests one in Eva's tent. The shared reading remains at midnight. Define the personal reading content in Step 4; do not script it during Step 3. The Game of Stories and Arturi's tale are out of scope for Session 8.
 
 ### Continuity
 
@@ -262,7 +280,17 @@ Use only topics that arise naturally in the conversation; this is a menu, not a 
 _Not started._
 
 - Simulate the C2 duel between Strahd and one 3rd-level character, then assess whether the stat block or encounter text needs adjustment. Check the five unopposed rounds, Mage-form transition, regeneration, reactions, telekinetic grasp timing, and the mercy exit.
-- Prepare Madam Eva's personal crystal-ball readings for the player characters, drawing on each character's own backstory. Resolve the format and whether Ireena also receives a reading before drafting; keep the party Tarokka reading for Session 9.
+- Draft optional private personal readings any player character may request, using the workshop below and fixed backstory details. Decide the exact content and delivery in Step 4; the shared reading remains at midnight as planned.
+
+### Madam Eva's Personal-Reading Workshop
+
+These are DM-only working notes, not approved dialogue. Any player character may request a private personal reading; the exact content will be developed in Step 4. Eva does not introduce the characters in turn, reveal one person's reading to another, or give advice on defeating Strahd. Her greeting in Arc C is only a name and a brief affectionate observation; any deeper material below belongs in a personal reading.
+
+- **Agni:** Osric's report identifies him as one of the strongest experimental candidates, but Eva should not simply recite a dossier. Existing candidate images connect his family loss, Vasili's old-man guise, the vampiric strain, the alchemist's heart-blood, and the Amber Temple catalyst. The “father who drank the sorrow of his own house” means Agni drank Mavis's blood after her death. The important choice is that drinking from a living humanoid would seal his condition; keep this warning fair and distinguish it from what he already did. Candidate line: *“The blood of your dead bought you time. Take it from the living, and the hunger may bind you beyond the remedy you seek.”* This is a draft, not approved text.
+- **Caspian:** Eva may allude to the destroyed home, the dead family, the taken children, and his pursuit of the werewolf trail as a search for justice and rescue. Candidate line: *“You followed the wolves through the mists, carrying justice for the dead and worry for the missing.”* Do not name Ashcairn or Ravka, identify the attackers, or connect them to Ivan's family before the planned reveal.
+- **Grim:** Eva may frame the pouch as a mother carrying a borrowed heartbeat. If Grim asks about Milo, the pouch, or who marked her, the established clue is: *“The woman who marked you still travels this road, pushing a baker's cart. Ask her what she knows of the boy.”* Do not name Morgantha, reveal Milo's location, or identify who made the bargain.
+- **Ivan:** The established opaque image is *“the wolf who shut the door behind him.”* Eva may show genuine fondness toward Muriel. Any reading should leave Ivan's clan, family, and the Huntress unnamed; avoid turning a symbolic clue into an explanation of his heritage.
+- **Sister Elga:** Move the material formerly in Arc C's long C4b callout here. Eva recognizes her as the last stray of the Iron Scale, displaced from her own time: *“The little sister from the storm. The last stray of the Iron Scale. You are three hundred and eighty years late for your evening prayers, child.”* If Elga asks, Eva can say she met Abbot Ferd but cannot reveal his private fortune; point toward the Priory's location in the western crags; and answer a question about the Urn's souls with *“Barovia keeps what it takes close to its heart.”* Do not explain the Priory's condition or origin.
 
 ### Combats
 
@@ -278,6 +306,7 @@ _Not started._
 ## 5. Table prep
 
 - Add a shortcut to access the Barovian calendar in Foundry. Calendar: 12 months of 28 days; first full moon is Neyavr 8.
+- Confirm the Barovian Dire Wolf actor is available in Foundry and matches the verified 2014 statistics and Barovian traits.
 - **Foundry actors to confirm/load:**
 	- **C2, crossroads:** Strahd (Vampire; Mage form if the duel occurs), Escher (vampire spawn), and six Barovian dire wolves if the escalation or flight triggers them.
 	- **C3, Strix:** Greater Strix, two swarms of lesser strix, Muriel Vinshaw, and Ireena Kolyana.

@@ -317,7 +317,7 @@ The greater strix is joined by two **swarms of lesser strix** (each using the st
 > | 4 | Reduce the number of swarms of lesser strix to one. |
 > | 6 | Increase the number of swarms of lesser strix to three. |
 
-These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
+These abominations were built and released by the witch Baba Lysaga to hunt down wereravens. These particular strix were a gift from Baba Lysaga to Strahd upon his awakening, but act independently: when they find Muriel, their standing purpose drives them to attack her. Strahd did not direct this attack, and the strix do not know that Muriel was listening to his Tarokka reading. They continue to pursue Muriel, attacking the players instead if they attempt to harm them or otherwise shelter Muriel from their assault. They fight to the death.
 
 > [!warning]+ **Don't Hurt Ireena**
 > Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
@@ -385,7 +385,7 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
 
 > [!info]+ **Muriel Incognito**
-> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
+> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell. Since they saw her deliberately lead them to the town square during the siege, she does not pretend to be simple-minded if asked about it. She tells the truth: "Ismark was alone. The little ones were hiding by the statue, and the dead were closing in. I couldn't fight them, so I called for help. You came." She answers what she saw at the square but does not explain her true nature or her role with the Keepers, and denies all knowledge of Strahd or the strix's origins. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
 > 
 > While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
 > 
@@ -402,30 +402,28 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
 
 ## C4a. Arrival at Tser Pool
-This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd (use the statistics of a **spy**).
+Read:
 
-As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
+<div class="description">
+<p>The muddy track narrows between close-set trees, its deep wagon ruts winding through the mist. Then the branches fall away, opening onto a clearing beside the Ivlis, where the river widens into a small lake. Five colorful, round tents and four barrel-topped wagons stand around a bonfire. Near the shore, a much larger tent glows warmly from within. Eight unbridled horses drink at the water's edge.</p>
+<p>An accordion carries a mournful tune over the fire, where Vistani sing and talk together. The camp is sober; as you enter, conversations soften and several faces turn toward you. Word of travelers from beyond the Mists has reached the camp before you. An old Vistana steps forward with a welcoming smile. "So the rumor has found its faces. Madam Eva has been expecting you." He gestures toward the great tent.</p>
+</div>
+
+> [!info]+ **DM Only: Tser Pool**
+> None of the Vistani at the camp are intoxicated. Only Eliza serves as a spy for Strahd (use the statistics of a **spy**).
+
+Stanimir is a jovial, colorful old Vistana with a twinkle in his eye, largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
 
 Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
 However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
+> [!info]+ **DM Only: The Abandoned Caravan**
+> The Vistana who left the party is not Stanimir and is not at Tser Pool. The guide left with another caravan; neither Stanimir nor the camp knows its destination or has heard from it since. If asked, Stanimir listens without defending the guide and replies: *"That caravan has not come to my fire, and I have heard no word of it since. I was not on the road with you, so I cannot say what your guide intended. But I will not ask you to call it an accident, or to forgive them."*
+
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
 ## C4b. Madam Eva's Tent
-This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
-
-> [!abstract]+ **Sister Elga Tie-in: The Long-Foretold Sister**
-> If Sister Elga is present, Madam Eva’s dark eyes linger on her with an uncharacteristic glint of quiet recognition and solemnity. 
-> 
-> "Ah," Eva rasps softly. "The little sister from the storm. The last stray of the Iron Scale. You are three hundred and eighty years late for your evening prayers, child."
-> 
-> Eva hints that she knows more than she says. What she **can** say, if the moment fits and Elga asks (none of it is required):
-> 
-> * **Ferd.** She met the Abbot briefly. A seeker's fortune is for their ears alone, so she cannot give Elga what belonged to him.
-> * **The priory.** *"If you seek your priory, travel west beyond the walled town, to the secluded crags where the Luna River runs cold beneath the shadow of Mount Ghakis."* She makes no remark on the priory's condition, its people, or how it came to Barovia. If pressed, she stays mysterious.
-> * **The Urn's souls.** If Elga asks where they went: *"Barovia keeps what it takes close to its heart."*
-> 
-> (See [players/sister_elga/silent_cloister.md](players/sister_elga/silent_cloister.md) for details.)
+This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. Madam Eva greets the group without going around the circle. If a character draws her attention, she may use their name and one brief, affectionate observation; save personal history and revelations for a personal reading, if one is given.
 
 > [!profile]+ **Profile: Madam Eva**
 >
@@ -446,22 +444,26 @@ This scene unfolds largely as described in <span class="citation">Madam Eva’s 
 >
 > ***Relationships.*** Madam Eva alone knows that she is an avatar of the Seeker.
 
+> [!info]+ **Madam Eva's Greeting (DM Only)**
+> Eva may use a character's name and one light, affectionate observation if it feels natural. These are optional forms of address, not a round-robin introduction.
+>
+> * **Agni Vidar:** *"Master Vidar, your eyes are a striking shade."*
+> * **Caspian:** *"Master Caspian, a scholar's poise behind a swordsman's readiness."*
+> * **Grim:** *"Mistress Grim, so watchful even at rest."*
+> * **Ivan:** *"Master Ivan, quiet as a closed door."*
+> * **Sister Elga:** *"Sister Elga, your devotion is plain."*
+
 She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
 
 If Muriel is with the players in raven form, Madam Eva regards her with an emotion nearly resembling fondness and asks to inspect her. She strokes Muriel’s wings and notes that she once had a beloved pet raven named Turul long ago.  
 
-“I have only seen him once these past ten years, however,” Eva adds, somewhat mournfully. “Doubtless, he has gone wild without me.” (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
+“He no longer answers when I call, child. I have glimpsed him circling Ghakis, and no more. Doubtless he has gone wild without me,” Eva adds, somewhat mournfully. (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
 
 If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
 
-> [!abstract]+ **Grim Tie-in: The Baker on the Road**
-> Only if Grim asks Madam Eva about Milo, the pouch, or whoever marked her, Eva studies the pouch for a long moment, then says:
->
-> *"The woman who marked you still travels this road, pushing a baker's cart. Ask her what she knows of the boy."*
->
-> Eva says nothing more: not the baker's name, where Milo is, or who gave Grim the pouch. If pressed, she answers only that some bargains are not hers to read. Grim has never seen the hags' human forms, so she cannot identify the baker on sight. (The baker is Morgantha, met at **C9**. See [players/grim/concepts/the-honest-price.md](players/grim/concepts/the-honest-price.md).)
+Any player character may request a personal reading from Madam Eva. If asked, she agrees to speak with that character privately; the content of each reading is prepared separately in the Session 8 notes. She does not share one character's reading with the others.
 
-If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
+If the players ask for a shared reading or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
 
 Regardless of the players' response, Madam Eva replies, shaking her head: "I will not do this thing for you—not yet. If you wish to pursue this path, however, come to the River Ivlis crossroads at midnight tonight. I shall await you there, by the gallows. Come alone—and do not allow yourselves to be followed." Madam Eva refuses to elaborate, and dismisses the players from her tent if they attempt to protest.
 
