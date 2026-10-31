@@ -22,6 +22,22 @@ Player profile, design notes, and existing concepts are not present in Ivan's fo
 4. **Alpha, Arc Q:** Ivan confronts Kiril and chooses what to tell the southern clan. He may accept leadership as a responsibility, not a birthright he must obey.
 5. **Heir of the Huntress, Arc T/Epilogue:** Ivan may voluntarily run a Hunt at the Forest Fane, letting the Huntress use his Wolfir bond as an additional channel against Strahd's control. The party can still reconsecrate the Fanes if Ivan is absent or declines.
 
+### Proposed bridge: Kiril, Strahd, and the northern pack
+
+This fills the gap between the southern clan's discovery of the northern pack and Kiril's rise to power. The sequence below is a proposal for the DM, not established canon until chosen.
+
+At the Session 8 crossroads, Strahd has had very little contact with Kiril. His attention has been occupied by punishing the village of Barovia, Osric, and other concerns. After his meeting with Madam Eva, he will begin paying closer attention to the werewolves, but the extent and consequences of that shift are for the DM to decide after this session.
+
+1. During his unauthorized hunt, Kiril encounters and kills a northern werewolf, learning that the northern pack serves Strahd. Skennis confirms the discovery but withholds the full history and location.
+2. After Strahd awakens, Kiril seeks Baba Lysaga and makes a bargain: she grants him corrupted power, and he pledges himself to Strahd. The exact channel and content of that pledge are undecided. Ludmilla could relay a brief report, but there has been no established detailed interview or personal meeting between Strahd and Kiril.
+3. Strahd may later investigate Kiril's origin, command, numbers, territory, loyalty, and military use. He may ask whether the southern clan's distinct customs or inherited lycanthropy connect to the Fanes. These are future questions, not information he has already collected. Kiril knows only fragments of the clan's older history and could not give Strahd the full Wolfir-Huntress account. Strahd would care about family ties only if they affected succession, loyalty, or leverage.
+4. Kiril returns to the southern clan and privately threatens Ivan, claiming Strahd's attention has turned toward them. Ivan chooses exile to protect the clan.
+5. Only after Ivan leaves does Kiril claim full authority and move the entire southern clan north under false pretenses. He reveals the northern pack after the move and forces the clan's absorption.
+6. Emil is not yet imprisoned at the Session 8 crossroads. After this session, decide whether Kiril defeats and sends him to Ravenloft, when that happens, and whether Strahd personally learns anything from the transfer. Do not run Emil's imprisonment as an established event before that decision.
+7. By Session 8, Strahd knows Clan Venatricho exists and that Kiril came from the southern woods, based on a brief report relayed through Ludmilla. He may know Ivan's name from spies, but does not know Ivan belongs to the clan or is Kiril's brother. Do not use Arc C's *"Your line survives"* greeting unless Ivan first gives Strahd a basis for that conclusion; Strahd does not automatically detect Wolfir or lycanthropy. After this session, decide what Strahd learns as he turns more attention toward the werewolves.
+
+Still for the DM to decide after Session 8: what Kiril's pledge to Strahd involved and how it was conveyed; how closely Strahd investigates Kiril and the southern clan; what Strahd learns about the clan's origin and its possible connection to the Fanes; and if, when, and how Emil becomes Strahd's prisoner.
+
 ## What it gives the player
 
 Ivan's concrete want is to find his family, discover what happened after his exile, and stop Kiril from destroying the clan. The deeper question is whether protection means leaving others behind or choosing to stand with them and share the burden.
@@ -62,7 +78,7 @@ Filled by the Integrator. Does not change any campaign file.
 - Does any player character hold the Wolf's Tooth relic?
 - How should the Neyavr 8 full moon overlap with Arc H's Ethereal Plane ritual?
 - Should Zsolt and Mathilda be southern clan members, moving that reveal into Arc E, or should the clan location stay unknown until Arc L?
-- How can Emil be 19 while Arc L says he and Zuleika have been mates for 13 years and that he became alpha five years ago? The deferred proposal is to shorten Arc L's timeline before running it.
+- Before Arc L is run, adapt its source-derived Emil/Kiril/Zuleika history (ages, leadership roles, relationships, and chronology) to fit Ivan's fixed backstory. Do not resolve the conflict by changing the backstory.
 - Is Kiril inherited Wolfir or infected? The current clan plan treats him as inherited, while Arc L describes an infection eleven years ago.
 - How does Ezmerelda's Black Terror, who attacked beyond the Mists two years ago, fit Kiril's recent history and the southern clan's isolation?
 - Is the clan's belief that its dead return to the Whispering Wall literal, mistaken, or a belief the Dark Powers exploit?

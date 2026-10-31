@@ -1114,7 +1114,7 @@ Otherwise, if Doru survived his trial and the players tell Donavich that his son
 <p>"My boy," he chokes out. "He's—he's still my boy?" </p>
 </div>
 
-Donavich's grief gives way to hope. He examines the symbol and decides that it is not corrupted after all. He wants to learn everything he can about vampirism and how Doru might be saved. He considers offering Doru his own blood, but Doru begs him never to let him feed again, afraid he would lose control after tasting blood. Donavich agrees to keep Doru imprisoned in the undercroft, hoping its sacred confinement will help Doru resist his urges, and asks the players to return someday with any knowledge that might help them save him.
+Donavich's grief gives way to hope. He examines the symbol and decides that it is not corrupted after all. He wants to learn everything he can about vampirism and how Doru might be saved. As promised, he tries feeding Doru livestock blood. It is enough to stave off starvation, but it never fully sates him; Doru survives, perpetually weakened by his lingering hunger. Donavich keeps him in the undercroft while he searches for a way to save him, and asks the players to return someday with any knowledge that might help.
 
 In either outcome, Donavich performs Kolyan's burial ceremony. If he has the symbol and is willing to use it, he casts *gentle repose* to sanctify Kolyan's remains before directing the players to lower the coffin into the grave. Without the symbol, any magic Donavich attempts fails, but he still conducts the ceremony.
 

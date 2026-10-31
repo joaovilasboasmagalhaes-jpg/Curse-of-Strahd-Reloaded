@@ -125,7 +125,7 @@ Whether Ireena is with the party or not, add:
 
 > [!lore]+ **Strahd’s Foretelling**
 >
-> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
+> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber (she was a witch of Baba Lysaga’s coven who broke his bond to the Fane; see [[History of Barovia#Echoes of Evil]]), he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
 >
 > - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
 > - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
@@ -149,13 +149,17 @@ Whether Ireena is with the party or not, add:
 > [!abstract]+ **The Players Misbehave**
 >
 >  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
->  
+>
+> If Ivan is the player and Strahd has learned that he was born in Barovia or otherwise belongs to the valley, instead say: "Disrespect is unbecoming. In a stranger it is ignorance. In a son of these woods it is a choice. I will assume ignorance, this once." If Strahd has not learned that Ivan is local, use the standard warning above.
+>
 >  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player. 
 >  
 >  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
->  
+>
 >  The third time that a player disrespects Strahd, he frowns. Read the following:
 >  
+> If Ivan is the player and Strahd has learned that he was born in Barovia or otherwise belongs to the valley, replace the opening paragraph of Strahd's speech with: "You were not born beyond the Mists, which makes it worse. You know what this valley is, and whose it is. You have simply chosen to forget it." If Strahd has not learned that Ivan is local, use the standard opening paragraph below.
+>
 >  <hr>
 >  
 > "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
@@ -205,6 +209,28 @@ Whether Ireena is with the party or not, add:
 > If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
+
+> [!abstract]+ **Player-Specific Addresses**
+>
+> **Agni Vidar.** Strahd's gaze lingers on Agni's burgundy eyes. He frames his interest as an inference, not a revelation: *"Your eyes are an uncommon shade, Master Vidar. Does the hunger trouble you?"* He does not mention Osric, the experiment, or Milosh.
+>
+> <hr>
+>
+> **Caspian.** If the reports from Strahd's spies reached him, he knows Caspian has openly expressed hatred of him. He may probe the grievance with keen curiosity: *"I hear you have formed a poor opinion of me, sir. On what evidence, I wonder?"* If Caspian mentions werewolves, Strahd gives him his full attention and asks, *"Werewolves? Tell me what happened."* If Caspian says they served Strahd, he replies, *"Quite possibly. But you have yet to tell me whether they carried my orders, or merely spoke my name."* If Caspian describes the raid and demands justice, Strahd asks, *"You seek the creatures responsible. What has persuaded you that I commanded them?"* If Caspian asks him to punish the attackers, he says, *"You ask for my judgment, then. Give me something upon which to judge."* Strahd has no prior knowledge of the specific raid, Ashcairn, its children, or Ravka. Though he knows Clan Venatricho exists and that Kiril pledged loyalty, he does not know Ivan belongs to the clan or is Kiril's brother, and has not linked the old raid to Ivan or Caspian. If Ivan is present, Strahd does not volunteer Kiril's name during this exchange; if Ivan raises Kiril, follow Ivan's separate address.
+>
+> <hr>
+>
+> **Ivan.** Strahd does not know Ivan is local at their introduction and uses the ordinary greeting. If Ivan reveals that he was born in Barovia or otherwise belongs to the valley, Strahd may acknowledge it, but does not identify him as Wolfir or name his clan. If Ivan later disrespects him, use the conditional Ivan-specific warning and ultimatum under [[#The Players Misbehave]].
+>
+> If Ivan identifies himself as Kiril's brother or says Kiril sought Strahd's alliance, Strahd confirms only the narrow fact he knows: *"Kiril pledged his loyalty. I accepted it."* He does not claim Kiril has proved useful or describe their dealings. If Ivan says Kiril threatened the pack in Strahd's name, Strahd answers evenly: *"I did not instruct him to threaten your people. I accepted his pledge; I did not give him leave to speak for my will in every private quarrel."* This is the first time Strahd hears of the threat. His attention has sharpened after his foretelling with Madam Eva, so he asks one focused follow-up: *"What, precisely, did he tell you I wanted?"*
+>
+> <hr>
+>
+> **Grim.** Strahd has no prior knowledge of Milo or the bargain; let her choose what to disclose. He notices the Living Shadow if it moves independently or appears where the lighting should not produce one, not automatically: *"Your shadow appears to have interests of its own. Has it accompanied you long?"* The shadow alone does not identify its source; her account of the bargain could make him suspect the Dark Powers. He studies her with curiosity rather than treating her as favored or immediately resenting her. The pouch is flesh, not human skin: no Ba'al Verzi association. If he sees the heart, hears its pulse, or is told about it, his own research makes him attentive, but he cannot identify its magic or locate Milo: *"It beats still. What have you been told sustains it?"* If she explains the bond: *"What did they ask in return?"* If she mentions her missing son, he asks his name and what happened, interested in her loss and determination rather than promising a rescue. He does not reveal his own Heart or experiments.
+>
+> <hr>
+>
+> **Sister Elga.** Strahd addresses her as Sister Elga, his gaze resting on the Urn longer than on anything else she carries: *"A lantern for lost things. I once knew a great many people who kept such lanterns."* He moves on. If she presses, he declines to explain. The remark hints at his past knowledge of the Ven without revealing the Urn's contents or claiming a connection to the Heart.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
 

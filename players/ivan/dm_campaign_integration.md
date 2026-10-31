@@ -28,7 +28,7 @@ Ivan learns the lore in pieces. The Reveal Ledger at the end of this document tr
 
 Ivan starts Suppressed and unable to shift, with no idea where his clan is. Rahadin's sniff in Arc B told him the castle noticed him. This stage gives him a direction, not answers.
 
-- **C2b, Strahd's greeting.** Strahd greets Ivan by what his spies reported and lets a flicker of surprise show: he had thought Ivan's line gone from the woods. This cuts against Ivan's belief that his clan survived because Strahd never cared. Do not say how Strahd knows them or what he thinks of them.
+- **C2b, Strahd's greeting.** Strahd does not recognize Ivan as a member of Clan Venatricho and must not use the superseded "your line survives" greeting. He greets Ivan from the party's introduction and what his spies observed. Strahd knows Kiril pledged loyalty and has received a brief report of his southern origin, but has had little contact with him. If Ivan identifies Kiril as his brother or raises the clan, Strahd can acknowledge only that limited report; he does not know Ivan or Skennis are members or relatives. He does not automatically detect Wolfir or lycanthropy. Use the Ivan-specific disrespect lines in Arc C only if Strahd has learned Ivan is local; otherwise use the standard outsider lines.
 - **C4b, Eva's epithet.** Give Ivan an epithet that is true but opaque, such as "the wolf who shut the door behind him."
 - **C4d, Van Richten's manuscript.** It describes only infected werewolves. Ivan can say what it leaves out without saying how he knows.
 - **C4f, the Tarokka.** The Five of Swords reads "a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night." Ivan hears Mother Night, not the Huntress, and can reasonably assume an infected pack that is not his own. Let him assume it.
@@ -71,7 +71,7 @@ By now Ivan knows the den exists, that his clan is in it, and that Kiril leads. 
 
 ### Arc O: Dinner with the Devil
 
-Ivan eats at Strahd's table while Emil lies in the cellar. Strahd's line about the pack ("with their excesses properly tamed, they have their uses") can be aimed at Ivan. If Strahd knows Emil is Ivan's brother, he lets Ivan see that he knows, once, and says nothing else.
+If Emil's later disposition places him in Castle Ravenloft before Dinner with the Devil, Strahd may refer to holding a werewolf prisoner. Do not assume Emil is there: he is not a Ravenloft prisoner at Session 8, and his later fate is undecided. Strahd does not know Emil is Ivan's brother unless that is established through a later report or reveal. Adapt the source line about the pack to Ivan's canon before using it.
 
 ### Arc P: Ravenloft Heist
 
@@ -137,7 +137,7 @@ If Strahd is defeated and the Fanes are restored, Ivan and Emil may help rebuild
 
 | Where | Ivan learns | Still withheld |
 | --- | --- | --- |
-| C2 | Strahd once knew his line and thought it gone | How, and how much he knows now |
+| C2 | Strahd has a brief report that Kiril pledged loyalty and came from Clan Venatricho; he does not recognize Ivan as a member | What Strahd learns after Eva's reading and as he pays more attention to the werewolves |
 | C4f | A den of wolves serving Mother Night lies by a mountain lake | Whose den |
 | C7a, C11 | Someone is making infected werewolves and teaching them clan craft | Who |
 | Arc E | Rumors point to a new alpha and increased aggression; if the optional Zsolt/Mathilda change is used, Ivan learns his clan is with the pack | Otherwise, clan location and Kiril's role remain unconfirmed |

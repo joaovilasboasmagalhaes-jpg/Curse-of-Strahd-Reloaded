@@ -48,22 +48,13 @@ The southern caves retain old First Folk wards tied to the Huntress. The wards d
 
 The wards are weakening because Strahd severed the old connection between the Huntress and the land. The clan has remained hidden for centuries, but its protection is no longer reliable.
 
-## 3. Strahd's Relationship to the Secret
+## 3. Strahd's Knowledge and Relationship to the Clans
 
-Strahd does not preserve the separation because he considers the clans a threat. He has no reason to fear Clan Venatricho:
+Before Kiril's pledge, Strahd's knowledge of the southern branch is old and incomplete; he may consider it extinct or unimportant. Kiril's offer changes that. Through a brief report relayed by Ludmilla, Strahd learns that Clan Venatricho exists, comes from the southern woods, and has distinct customs and inherited lycanthropy. He has not met Kiril personally and does not receive the clan's full Wolfir-Huntress history or family roster.
 
-- It is small and isolated.
-- It does not raid settlements.
-- It does not seek political influence.
-- It does not challenge his rule.
-- Its wards and secrecy make it difficult to find, but not strategically important.
-- The northern pack already fills the role of useful werewolf servants.
+At the Session 8 crossroads, Strahd has had little contact with Kiril and is occupied with punishing the village of Barovia, Osric, and other concerns. After his meeting with Madam Eva, he begins paying closer attention to the werewolves. He knows Kiril pledged loyalty, but has not yet established his usefulness through sustained service. Strahd does not know Ivan or Skennis by name as members of Clan Venatricho, nor that they are Kiril's family. He cannot identify Ivan as Wolfir by supernatural detection.
 
-Strahd may know that an older southern branch once existed, but his information is ancient and incomplete. He likely considers it extinct, harmless, or not worth investigating. He has no reason to expose the clan's existence to its own members.
-
-After Strahd awakens, his renewed demand for fealty is directed at the werewolves who already serve or are known to him. Kiril learns about that demand through his contact with the northern pack and through his private dealings with Baba Lysaga. Ivan never sees an emissary and does not know that this process is occurring.
-
-Kiril uses Strahd's name and reputation to threaten Ivan, but Ivan does not know whether Strahd personally knows about Clan Venatricho.
+Kiril uses Strahd's name and reputation to threaten Ivan. Strahd does not know about that private ultimatum unless Ivan reveals it. Strahd's later interest in the expanded pack and its capabilities can grow after Session 8; do not give him detailed knowledge before it is earned through reports or play.
 
 ## 4. Skennis's Knowledge and Plan
 
@@ -87,10 +78,11 @@ His greatest mistake was waiting too long to tell Ivan. He thought the truth wou
 - **Old Skennis Petrovich:** Former leader of Clan Venatricho. He preserved the hidden history and trained Ivan to succeed him.
 - **Martha Petrovich:** Ivan, Emil, and Kiril's deceased mother. Her deathbed promise remains Ivan's central moral obligation: protect his brothers and do not let the Mists divide them.
 - **Ivan Petrovich:** Eldest son and intended successor. His inherited lycanthropy is currently suppressed by starvation, trauma, and exile.
-- **Kiril Petrovich / Kiril Stoyanovich:** Middle son. He discovered the northern pack, accepted corrupted power, and forced Ivan into exile.
-- **Emil Petrovich / Emil Toranescu:** Youngest son. He was Ivan's closest confidant and later resisted Kiril after Ivan's departure.
+- **Kiril Petrovich:** Middle son. He discovered the northern pack, accepted corrupted power, and forced Ivan into exile.
+- **Emil Petrovich:** Youngest son. He was Ivan's closest confidant and later resisted Kiril after Ivan's departure.
 
-Kiril and Emil's alternate surnames are personal or social names, not evidence that they belong to different families.
+Petrovich is the fixed campaign surname for Ivan's brothers. Do not treat the source surnames Stoyanovich and Toranescu as their alternate identities unless the DM explicitly adopts that choice.
+The relationships, ages, and roles above follow Ivan's fixed backstory. Source-derived identities and histories for characters with the same names are not separate canon and apply only where adapted to this family.
 
 ## 6. The Huntress and the Fane Naming Problem
 
@@ -142,13 +134,13 @@ The southern clan is absorbed into the northern den:
 
 - Skennis is imprisoned and starved.
 - Emil resists Kiril and is defeated.
-- Emil is delivered to Castle Ravenloft.
+- As of Session 8, Emil has not been taken to Castle Ravenloft. Whether, when, and how Kiril transfers him there remains undecided until after the session.
 - Zuleika is imprisoned in Mother Night's shrine.
 - Some southern werewolves submit willingly; others obey from fear or confusion.
 
-By the time Ivan reaches Barovia, he does not know that his clan has moved north, that Skennis is alive, or that Emil has been taken to Castle Ravenloft.
+By the time Ivan reaches Barovia, he does not know that his clan has moved north or that Skennis is alive. Emil's present location and later fate are not yet known to Ivan or established as Ravenloft imprisonment.
 
-Weeks before any of this, while Emil Toranescu was still alpha and the pack still roamed freely beyond the Mists during Strahd's slumber, **Ravka Ashclaw** led one of the pack's routine raids beyond the valley and destroyed the shadar-kai village of Ashcairn — the home of Caspian, another player character. Ravka has no connection to Kiril at the time of the raid, but readily backs his coup once Strahd's awakening recalls the pack home. See [Caspian's DM Plans](../caspian/dm_plans.md) for the full detail; this is the DM's tie between Ivan's and Caspian's backstories, revealed together at Arc L.
+Weeks before any of this, while the northern pack still roamed freely beyond the Mists during Strahd's slumber, **Ravka Ashclaw** led one of its routine raids beyond the valley and destroyed the shadar-kai village of Ashcairn — the home of Caspian, another player character. The identity of the northern pack's leader at the time is not needed here. Ravka had no connection to Kiril's later coup, but backed it once Strahd's awakening recalled the pack home. See [Caspian's DM Plans](../caspian/dm_plans.md) for the full detail; this is the DM's tie between Ivan's and Caspian's backstories, revealed together at Arc L.
 
 ## 10. Canon Questions Still Open
 
@@ -161,8 +153,6 @@ These remain intentionally unresolved until they become useful in play:
 - Does the northern pack believe Kiril is their true leader, or merely Strahd's appointed intermediary?
 - Can the old wards be restored without fully reconsecrating the Forest Fane?
 
-## 11. Open Issue: Emil's Age/Timeline Conflict with Arc L
+## 11. Source Adaptation: Ivan's Backstory
 
-Merging Emil Petrovich (Ivan's 19-year-old youngest brother) with Emil Toranescu (Arc L's alpha, mated to Zuleika for 13 years, chosen as Skennis's heir 5 years ago) creates an unresolved age contradiction — Emil would have been 6 years old when he supposedly began mentoring Bianca and Kiril.
-
-**Deferred fix (not yet applied):** Trim Arc L's Bianca's Fall timeline so the numbers fit a younger Emil — e.g., "thirteen years ago" → roughly four years ago for Bianca/Kiril joining the pack, and "five years ago" → roughly one year ago for Skennis stepping down. Revisit when this becomes relevant to prep (before running Arc L).
+Ivan's fixed player-authored backstory is campaign canon. Emil Petrovich and Kiril Petrovich are Ivan's younger brothers. Source-derived Emil/Kiril ages, pack roles, relationships, and histories do not override those identities. Arc L and related history may retain compatible plot beats, but their timelines and character details must be adapted before they are run. In particular, do not treat Emil as the source pack's older alpha or change Ivan's backstory to resolve the conflict. Strahd does not recognize Ivan as a member of the southern clan at the Session 8 crossroads; he knows only the limited report about Kiril and the clan described above.

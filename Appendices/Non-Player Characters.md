@@ -2344,6 +2344,9 @@ When roleplaying the Martikov family, keep the following information in mind:
 
 ## Kiril Stoyanovich
 
+> [!warning]+ **Ivan's Backstory Takes Precedence**
+> In this campaign, Kiril is Kiril Petrovich, Ivan's younger brother. This source-derived stat block is a combat reference only; its biography, age, relationships, and pack history are not campaign canon unless adapted to Ivan's fixed backstory.
+
 
 <div class="statblock">
 <h2>Kiril, Werewolf Alpha</h2>

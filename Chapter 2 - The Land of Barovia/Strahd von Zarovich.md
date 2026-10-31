@@ -47,7 +47,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Village of Krezk.*** Strahd has little interest in Baron Dmitri Krezkov or the people of Krezk. He is, amused by the Abbot’s descent into madness and corruption. He intends to temporarily “play along” with the Abbot’s efforts to construct a **flesh golem** bride for him, but has no serious intention of accepting Vasilka when complete.
 
-***Werewolf Den.*** Strahd finds Kiril Stoyanovich to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
+***Werewolf Den.*** Kiril Petrovich has pledged loyalty to Strahd after bargaining with Baba Lysaga. As of the River Ivlis crossroads, Strahd has received only a brief report relayed through Ludmilla and has had little contact with him; Strahd remains preoccupied with punishing the village of Barovia, Osric, and other concerns. After his meeting with Madam Eva, he will pay closer attention to the werewolves. Emil Petrovich is Kiril and Ivan's younger brother. He has not been taken to Castle Ravenloft as of Session 8; his later disposition is undecided.
 
 ***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Soldav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
 

@@ -43,7 +43,7 @@ Agni's personal story progresses across the campaign in five distinct stages:
 ### Arc C: Into the Valley (next)
 
 #### Strahd's Greeting (about to play, crossroads)
-* [Arc C](../../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#L207) has Strahd greet each character with a personal comment. For Agni he may remark on his nature or his burgundy eyes, but he shows no knowledge of Osric, the Widow's Peak experiment or Milosh. He learns of the experiment only at the Arc O dinner, when Osric presents it.
+* Strahd has heard Osric's report after recalling him to Ravenloft. At the crossroads, he recognizes Agni by name as one of Osric's strongest candidates and is attentive to him as a possible result of the experiment. Strahd knows the cohort awakened in blood-hunger, but Osric left before learning whether Agni survived or what choices he made. Strahd does not yet know the experiment's full outcome, the deaths in Agni's home, or Agni's vow against feeding on living humanoid blood. Use the greeting to signal interest without explaining the entire report unless Agni invites the subject.
 
 #### Madam Eva's Aside to Agni (upcoming, Tser Pool or the crossroads)
 * In [Arc C](../../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#L438), Eva refuses to read the party at Tser Pool ("not yet") and tells them to come to the River Ivlis crossroads at midnight, where the Tarokka reading happens (C4f). Use the lines below only if Agni asks her about Vasili, Milosh or whoever marked his family, as with the Grim tie-in. Eva shares what she sees only with the asker:
@@ -85,7 +85,7 @@ Agni's personal story progresses across the campaign in five distinct stages:
 ### Arc O: Dinner with the Devil
 
 #### Meeting the Court
-* During the dinner at Castle Ravenloft ([Act III - The Broken Land/Arc O - Dinner with the Devil.md](Act III - The Broken Land/Arc O - Dinner with the Devil.md)), Strahd introduces his court. Among the consorts and advisors stands **Doctor Osric Valemont**, the Count's physician. Osric hid his experiments from Strahd (see [DM Plans](dm_plans.md)). He has chosen this dinner to present the Widow's Peak result to Strahd, and that is how Strahd learns of it. **DM-only warning: Elga's Urn glows (Strahd's court is undead); tell the player.**
+* During the dinner at Castle Ravenloft ([Act III - The Broken Land/Arc O - Dinner with the Devil.md](Act III - The Broken Land/Arc O - Dinner with the Devil.md)), Strahd introduces his court. Among the consorts and advisors stands **Doctor Osric Valemont**, the Count's physician. Strahd already knows about the experiment from Osric's report after the recall, but has not seen Agni or confirmed the result in person. Osric uses dinner to present Agni to the court and demonstrate what became of the Widow's Peak cohort; the reveal is for Agni and the party, not Strahd. **DM-only warning: Elga's Urn glows (Strahd's court is undead); tell the player.**
 * **Osric's Reaction to Agni:**
   * Osric is neither frightened nor remorseful. He looks at Agni with the cold pride of a scientist admiring a masterwork.
   * *"Remarkable,"* Osric observes calmly over wine. *"Most common minds would have rotted into mindless ghouls when the contagion matured that night. But your will, Agni... and the exquisite tragedy of your boy... the way your bloodline held the threshold without dying. You were the crowning proof of my work."*
@@ -93,7 +93,7 @@ Agni's personal story progresses across the campaign in five distinct stages:
   * If Agni resists successfully, record a **Defiance** mark. Osric recognizes the resistance as a personal insult, not merely a failed experiment, and becomes more likely to make a mistake later in the castle.
   * If Agni asks why the awakening happened when it did, Osric admits that he expected several more weeks of observation. Strahd's return sent the blood-pulse that activated the formula prematurely, destroying the clean trial and forcing Osric to improvise. Osric considers the resulting deaths unfortunate waste, while he considers Milosh and Agni proof that the unfinished process still worked.
   * If Agni asks how he reached Widow's Peak, Osric answers with a half-truth: he was born there, and the Mists once let him go home. He does not mention the heirloom unless pushed.
-* **Strahd's Amusement:** Strahd, who only now learns of the experiment, finds the exchange entertaining, noting that survival of the fittest is the law of Barovia: *"If you wish to settle a debt with my physician, master Vidar, prove your worth in my valley first. In Castle Ravenloft, we do not duel over appetizers."*
+* **Strahd's Amusement:** Strahd is interested to see Osric's leading candidate in person and watches how Agni responds to the physician's claim over him. He may still invoke survival of the fittest and refuse to let the dinner become a duel: *"If you wish to settle a debt with my physician, master Vidar, prove your worth in my valley first. In Castle Ravenloft, we do not duel over appetizers."*
 
 ---
 

@@ -11,6 +11,7 @@ Maintained by `timeline`. Filled by `campaign-state` after each session. Status:
 | 5 | Octyavr 28 (night) | Siege | inferred |
 | 6 | Octyavr 28 (night) to before dawn on Neyavr 1 | The log has them sleep and wake, and eat "before dawn" | inferred |
 | 7 | Neyavr 1 | Church, departure, crossroads. Tarokka is on Neyavr 1 per Arc C | confirmed |
+| 8 | Neyavr 1 (start after noon; end date pending) | DM-confirmed Session 8 prep | confirmed |
 
 ## Current date
 
