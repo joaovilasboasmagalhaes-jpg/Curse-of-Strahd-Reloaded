@@ -659,10 +659,10 @@
   },
   "items": [
     {
-      "_id": "VAqok2B9tvWHzib1",
+      "_id": "pAIXyZl9fRfZt5If",
       "name": "Close Quarters Fighter",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/weapons/swords/swords-short.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -671,8 +671,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -714,10 +714,10 @@
       }
     },
     {
-      "_id": "lZL4VUlkzioNcTaN",
+      "_id": "vDkCXZXnHzPZJ7Yc",
       "name": "Complex Casting",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/air/air-smoke-casting.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -726,8 +726,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -769,10 +769,10 @@
       }
     },
     {
-      "_id": "p02bBv78yCktS0em",
+      "_id": "Tb9dNwtxeK4rEfpu",
       "name": "Regeneration",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/life/heart-cross-strong-purple-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -781,8 +781,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -824,10 +824,10 @@
       }
     },
     {
-      "_id": "APq6knMTLG0cTNcU",
+      "_id": "6ice0lgAam0OMim0",
       "name": "Spider Climb",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -836,8 +836,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -879,10 +879,10 @@
       }
     },
     {
-      "_id": "xeJeosIGLZboV40Y",
+      "_id": "Ra1dm5jP2wgeu4fS",
       "name": "Sunlight Hypersensitivity",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/air/weather-clouds-sunlight.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -891,8 +891,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -934,10 +934,10 @@
       }
     },
     {
-      "_id": "m5DbGF64X17pKJef",
+      "_id": "zmLQqwjMlcljmZzd",
       "name": "Fast Grappler",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/feat/phb-grappler.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -946,8 +946,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -989,10 +989,10 @@
       }
     },
     {
-      "_id": "EMi9lqaW3PPbBrl5",
+      "_id": "9UwE2HDO0DZVCzL9",
       "name": "Innate Spellcasting",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/unholy/orb-smoking-green.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1001,8 +1001,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1026,12 +1026,12 @@
           "subtype": ""
         },
         "activities": {
-          "VEnNHzxQtNUuztUv": {
-            "_id": "VEnNHzxQtNUuztUv",
+          "xm3KIsb87krqEt1o": {
+            "_id": "xm3KIsb87krqEt1o",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-detect-thoughts.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1103,12 +1103,12 @@
               }
             }
           },
-          "OnC84YT03VTRIG1T": {
-            "_id": "OnC84YT03VTRIG1T",
+          "jXJtLbHCC3J8VS9J": {
+            "_id": "jXJtLbHCC3J8VS9J",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-animate-dead.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1180,12 +1180,12 @@
               }
             }
           },
-          "6vEbnAcVETr7tNn3": {
-            "_id": "6vEbnAcVETr7tNn3",
+          "PuaHOHNjZ5H5AtfK": {
+            "_id": "PuaHOHNjZ5H5AtfK",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-scrying.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1276,10 +1276,10 @@
       }
     },
     {
-      "_id": "AJZeBYmqub4gBDUv",
+      "_id": "K4Vimbwufok513eO",
       "name": "Multiattack",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1288,8 +1288,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1313,12 +1313,12 @@
           "subtype": ""
         },
         "activities": {
-          "3Y8wbJsylMkRJyL0": {
-            "_id": "3Y8wbJsylMkRJyL0",
+          "QsiOeQy2x4GwN910": {
+            "_id": "QsiOeQy2x4GwN910",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/strike-weapons-orange.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1396,10 +1396,10 @@
       }
     },
     {
-      "_id": "UyCiMIbOL6Wi4Yw5",
+      "_id": "B0LwZrfwKzsKMAem",
       "name": "Vampiric Touch",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-vampiric-touch.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1408,8 +1408,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1433,12 +1433,12 @@
           "subtype": ""
         },
         "activities": {
-          "kXA4NDI18Prfvf9D": {
-            "_id": "kXA4NDI18Prfvf9D",
+          "JDxLtLmgDsuM0eLL": {
+            "_id": "JDxLtLmgDsuM0eLL",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-vampiric-touch.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1524,10 +1524,10 @@
       }
     },
     {
-      "_id": "cyNp8IFN59t9QU5I",
+      "_id": "rWytFjcLTvsrpRcg",
       "name": "Telekinetic Grasp",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/xge-maximilians-earthen-grasp.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1536,8 +1536,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1561,12 +1561,12 @@
           "subtype": ""
         },
         "activities": {
-          "M3rBiDovmv3zU5qQ": {
-            "_id": "M3rBiDovmv3zU5qQ",
+          "O0ZJVVNzfzF8WiuH": {
+            "_id": "O0ZJVVNzfzF8WiuH",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/xge-maximilians-earthen-grasp.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1671,10 +1671,10 @@
       }
     },
     {
-      "_id": "akJDqBKxca8x4H4W",
+      "_id": "2SuDBJpZ4anBHx8y",
       "name": "Dispel Magic (3/Day)",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-dispel-magic.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1683,8 +1683,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1708,12 +1708,12 @@
           "subtype": ""
         },
         "activities": {
-          "Zf9zU9fKLLRhcUv0": {
-            "_id": "Zf9zU9fKLLRhcUv0",
+          "lekSmwLjGB0af8KS": {
+            "_id": "lekSmwLjGB0af8KS",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-dispel-magic.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1804,10 +1804,10 @@
       }
     },
     {
-      "_id": "4jrYFEm2ZWEtHK8Z",
+      "_id": "tZvb2EymYPiz9Bcd",
       "name": "Circle of Sickness",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-circle-of-death.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1816,8 +1816,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1841,12 +1841,12 @@
           "subtype": ""
         },
         "activities": {
-          "YLANvBSt8PqHvv75": {
-            "_id": "YLANvBSt8PqHvv75",
+          "rDjpmKj6WyQqi6N5": {
+            "_id": "rDjpmKj6WyQqi6N5",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-circle-of-death.webp",
             "activation": {
               "type": "bonus",
               "value": null,
@@ -1951,10 +1951,10 @@
       }
     },
     {
-      "_id": "d7Aat0qXMSJ4qw63",
+      "_id": "OUfbPVJaJrQwwQWF",
       "name": "Lightning Bolt",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-lightning-bolt.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1963,8 +1963,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2006,10 +2006,10 @@
       }
     },
     {
-      "_id": "LUJlZXozV9OASTWt",
+      "_id": "vxLvrgDckN2FaMIK",
       "name": "Multiple Reactions",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2018,8 +2018,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2061,10 +2061,10 @@
       }
     },
     {
-      "_id": "N3sYW9nSGDHGezz0",
+      "_id": "GYTSCHFc14iHj4zT",
       "name": "Indomitable",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2073,8 +2073,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2098,12 +2098,12 @@
           "subtype": ""
         },
         "activities": {
-          "KvGvTqpE1yx4DGyZ": {
-            "_id": "KvGvTqpE1yx4DGyZ",
+          "6ynuHMeY66wGjFRX": {
+            "_id": "6ynuHMeY66wGjFRX",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2181,10 +2181,10 @@
       }
     },
     {
-      "_id": "LqUh9VdxUOzJz0fy",
+      "_id": "LeSfcIdcaqSBhjr9",
       "name": "Misty Step",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-misty-step.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2193,8 +2193,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2218,12 +2218,12 @@
           "subtype": ""
         },
         "activities": {
-          "AQemJHLMbEfoE0uN": {
-            "_id": "AQemJHLMbEfoE0uN",
+          "uZJD19b9hpewPypN": {
+            "_id": "uZJD19b9hpewPypN",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-misty-step.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2301,10 +2301,10 @@
       }
     },
     {
-      "_id": "wDbwohrZ3aO269lx",
+      "_id": "FMsVxjoe8IiMUdlA",
       "name": "Blindness/Deafness",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-blindnessdeafness.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2313,8 +2313,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2338,12 +2338,12 @@
           "subtype": ""
         },
         "activities": {
-          "nHJVanAlHS1WvFxP": {
-            "_id": "nHJVanAlHS1WvFxP",
+          "TOJs5akEfigR5I38": {
+            "_id": "TOJs5akEfigR5I38",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-blindnessdeafness.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2449,10 +2449,10 @@
       }
     },
     {
-      "_id": "50rFHmNRSwGn4FQq",
+      "_id": "wBICzQr57sqDmgqT",
       "name": "Control Water (Swamp Fane)",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-control-water.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2461,8 +2461,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2504,10 +2504,10 @@
       }
     },
     {
-      "_id": "sL3Ypc94du2au4wL",
+      "_id": "vrmpn91eoQx5oUVE",
       "name": "Fog Cloud (Swamp Fane)",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-fog-cloud.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2516,8 +2516,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440647892,
-        "modifiedTime": 1793440647892,
+        "createdTime": 1793442996949,
+        "modifiedTime": 1793442996949,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2568,8 +2568,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793440647892,
-    "modifiedTime": 1793440647892,
+    "createdTime": 1793442996949,
+    "modifiedTime": 1793442996949,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

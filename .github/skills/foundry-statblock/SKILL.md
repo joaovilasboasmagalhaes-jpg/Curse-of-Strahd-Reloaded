@@ -23,7 +23,7 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 
 1. Get the numbers from the campaign (`Appendices/Bestiary.md`, `Appendices/Non-Player Characters.md`, arc files) or the original book via `combat`. Never invent stats; if a number is missing, ask the DM.
 2. If the monster is unchanged from its default source stat block, tell the DM its source and confirm whether they still want a Foundry actor before proceeding. Do not build the actor until they confirm.
-3. Images come from the `foundry-images` skill. Set `img` and `token` on the actor. Weapons and attack feats without an `img` get the icon Foundry already uses for that name (`foundry-images/item_icons.tsv`, e.g. Bite, Claw, Beak, Longsword); the builder warns when no match exists, so set `img` for those from `find_image.py attack <keywords>`. Set `img` for other feats and spells with `find_image.py`. List the chosen images in the answer.
+3. Images come from the `foundry-images` skill. Set `img` and `token` on the actor. Every embedded item uses an exact Foundry name icon from `foundry-images/item_icons.tsv` unless the spec provides an explicit `img`; the builder warns when an attack has no name match. Set an indexed, fitting `img` for every unmatched attack, feat, spell, equipment entry, or custom item. Give spell entries their own `img` when their cast activity should use spell-specific art. List the chosen images in the answer.
 4. Write a spec file in `output/<name>.spec.json` (format below).
 5. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/stat_blocks/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
 6. Check the JSON loads, every actor and embedded item has the intended image, no item is using a generic builder fallback, and every image path resolves through the image index. Audit all generated actions and attacks as well as passive and custom items; verify their owning Foundry item has the chosen image. Also compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
@@ -50,7 +50,7 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 - `legendary_resistances`, `legendary_actions`, `lair` (initiative count; omit if no lair actions), `slots` (`{"1": 4, "3": 3}`), `book`, `page`, `dr_bypasses` (`["mgc"]`; also `di_`/`dv_`).
 - Damage types, conditions and languages use Foundry keys (`slashing`, `fire`, `poisoned`, `common`).
 
-Items (`kind` defaults to `feat`). Every item requires its own `img`, including custom items and all action/attack entries:
+Items (`kind` defaults to `feat`). Every generated item must have fitting art: an explicit `img` takes priority, and otherwise the builder uses an exact named Foundry icon when available. Set `img` for every item with no exact match, including custom actions and attacks:
 
 | kind | Fields |
 |---|---|

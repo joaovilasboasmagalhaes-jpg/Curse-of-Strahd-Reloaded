@@ -648,10 +648,10 @@
   },
   "items": [
     {
-      "_id": "YqhMolucEuM8WEba",
+      "_id": "bcREhT3HU7C1Iald",
       "name": "Tail Spike Regrowth",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/commodities/bones/bones-stack-tan.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -660,8 +660,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440645445,
-        "modifiedTime": 1793440645445,
+        "createdTime": 1793442993301,
+        "modifiedTime": 1793442993301,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -703,10 +703,10 @@
       }
     },
     {
-      "_id": "HA8RrAy7WuTFiKQ6",
+      "_id": "8PizXox5nE2HW2Vf",
       "name": "Multiattack",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -715,8 +715,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440645445,
-        "modifiedTime": 1793440645445,
+        "createdTime": 1793442993301,
+        "modifiedTime": 1793442993301,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -740,12 +740,12 @@
           "subtype": ""
         },
         "activities": {
-          "m07ofphbKUQMPQBm": {
-            "_id": "m07ofphbKUQMPQBm",
+          "kFMtrUN9l4KyYnRa": {
+            "_id": "kFMtrUN9l4KyYnRa",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/strike-weapons-orange.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -823,10 +823,10 @@
       }
     },
     {
-      "_id": "cWvoF98qGIJVfVUY",
+      "_id": "LHDnaSP7NUYSI1mL",
       "name": "Bite",
       "type": "weapon",
-      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -835,8 +835,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440645445,
-        "modifiedTime": 1793440645445,
+        "createdTime": 1793442993301,
+        "modifiedTime": 1793442993301,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -916,12 +916,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "E5CKRng14YUpZ3vW": {
-            "_id": "E5CKRng14YUpZ3vW",
+          "8nab4zFR4mBoNc5s": {
+            "_id": "8nab4zFR4mBoNc5s",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1026,10 +1026,10 @@
       }
     },
     {
-      "_id": "wXnQulUoeLAO2oRi",
+      "_id": "mzZg6RcgffPwnFvX",
       "name": "Claw",
       "type": "weapon",
-      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1038,8 +1038,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440645445,
-        "modifiedTime": 1793440645445,
+        "createdTime": 1793442993301,
+        "modifiedTime": 1793442993301,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1119,12 +1119,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "TPllXEKCVIInLdLn": {
-            "_id": "TPllXEKCVIInLdLn",
+          "P11D6XQwSB7jcEIm": {
+            "_id": "P11D6XQwSB7jcEIm",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/skills/melee/blood-slash-foam-red.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1229,10 +1229,10 @@
       }
     },
     {
-      "_id": "o893Mq6hs4w8a2ly",
+      "_id": "fN2Jib5BRvh1ekSf",
       "name": "Tail Spike",
       "type": "weapon",
-      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "img": "icons/commodities/biological/tentacle-thorned-green.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1241,8 +1241,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440645445,
-        "modifiedTime": 1793440645445,
+        "createdTime": 1793442993301,
+        "modifiedTime": 1793442993301,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1322,12 +1322,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "Qn84JWxdpJKatanV": {
-            "_id": "Qn84JWxdpJKatanV",
+          "oZ4085he1mVWcbVH": {
+            "_id": "oZ4085he1mVWcbVH",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/commodities/biological/tentacle-thorned-green.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1441,8 +1441,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793440645445,
-    "modifiedTime": 1793440645445,
+    "createdTime": 1793442993301,
+    "modifiedTime": 1793442993301,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

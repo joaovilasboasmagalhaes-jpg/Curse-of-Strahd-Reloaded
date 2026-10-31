@@ -659,10 +659,10 @@
   },
   "items": [
     {
-      "_id": "GHLzVbIhh2EmQaZk",
+      "_id": "RTtlq49lR3P9meBM",
       "name": "Battlefield Awareness",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/feat/phb-alert.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -671,8 +671,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -714,10 +714,10 @@
       }
     },
     {
-      "_id": "zq2ZAO6CvISWVAFq",
+      "_id": "j1hJAxC8GaX1zQVs",
       "name": "Close Quarters Fighter",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/weapons/swords/swords-short.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -726,8 +726,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -769,10 +769,10 @@
       }
     },
     {
-      "_id": "baQWV9XJxYsHmfTp",
+      "_id": "edFk6TiZ03s00QZi",
       "name": "Regeneration",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/life/heart-cross-strong-purple-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -781,8 +781,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -824,10 +824,10 @@
       }
     },
     {
-      "_id": "YyMn4FlMVmXanEQf",
+      "_id": "vq7CfL74a1ZAEBgv",
       "name": "Spider Climb",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -836,8 +836,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -879,10 +879,10 @@
       }
     },
     {
-      "_id": "QqaVs4vQGFf1cNGm",
+      "_id": "W3YVEgaxnrIDyJ3I",
       "name": "Sunlight Hypersensitivity",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/air/weather-clouds-sunlight.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -891,8 +891,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -934,10 +934,10 @@
       }
     },
     {
-      "_id": "qJ7uj5x6GcCriXJq",
+      "_id": "s5ib0hZzKOSfHRFK",
       "name": "Fast Grappler",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/feat/phb-grappler.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -946,8 +946,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -989,10 +989,10 @@
       }
     },
     {
-      "_id": "WNhxRvM3Dn4umfy5",
+      "_id": "y8vkvaJRZDFIUTvP",
       "name": "Multiattack",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1001,8 +1001,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1026,12 +1026,12 @@
           "subtype": ""
         },
         "activities": {
-          "VnuMcSDiMJ3xm73R": {
-            "_id": "VnuMcSDiMJ3xm73R",
+          "9gTrfQjWgah8IDz0": {
+            "_id": "9gTrfQjWgah8IDz0",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/strike-weapons-orange.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1109,10 +1109,10 @@
       }
     },
     {
-      "_id": "ZaSX5ccgovAYrhzE",
+      "_id": "YhkymnY3CzJeEnqR",
       "name": "Longsword",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/weapons/swords/sword-guard-engraved.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1121,8 +1121,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1146,12 +1146,12 @@
           "subtype": ""
         },
         "activities": {
-          "CL5tVjGyCvW4bnKV": {
-            "_id": "CL5tVjGyCvW4bnKV",
+          "U90ut2lLVyckwcAB": {
+            "_id": "U90ut2lLVyckwcAB",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/weapons/swords/sword-guard-engraved.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1259,12 +1259,12 @@
               ]
             }
           },
-          "I87T4E3XPMf6Zr8z": {
-            "_id": "I87T4E3XPMf6Zr8z",
+          "bqtgwx604SEzjrOE": {
+            "_id": "bqtgwx604SEzjrOE",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/weapons/swords/sword-guard-engraved.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1352,10 +1352,10 @@
       }
     },
     {
-      "_id": "dohNxYnHubqMjKaZ",
+      "_id": "n9M3JRMDCIdPqjdp",
       "name": "Umbral Net",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/environment/traps/net.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1364,8 +1364,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1389,12 +1389,12 @@
           "subtype": ""
         },
         "activities": {
-          "Ccnjx9ZSLEfHe8Nh": {
-            "_id": "Ccnjx9ZSLEfHe8Nh",
+          "6SM5zMSBvxRGVbBd": {
+            "_id": "6SM5zMSBvxRGVbBd",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/environment/traps/net.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1505,10 +1505,10 @@
       }
     },
     {
-      "_id": "jQLsw8eB3cFj7gpa",
+      "_id": "ymhA0ORt9Yzvuj79",
       "name": "Thunderous Wave",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/air/air-wave-gust-blue.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1517,8 +1517,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1542,12 +1542,12 @@
           "subtype": ""
         },
         "activities": {
-          "orHATkKg7KYJejHd": {
-            "_id": "orHATkKg7KYJejHd",
+          "7QpXiqYHlF65eT5t": {
+            "_id": "7QpXiqYHlF65eT5t",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/magic/air/air-wave-gust-blue.webp",
             "activation": {
               "type": "bonus",
               "value": null,
@@ -1652,10 +1652,10 @@
       }
     },
     {
-      "_id": "Vu8qtmRIfPMk8jyZ",
+      "_id": "Uxs5a03L5VTmBF7r",
       "name": "Dark Volley",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/weapons/bows/shortbow-arrows-black.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1664,8 +1664,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1689,12 +1689,12 @@
           "subtype": ""
         },
         "activities": {
-          "ULSUFOGiLOOgP6Ww": {
-            "_id": "ULSUFOGiLOOgP6Ww",
+          "fAREuKQdgWL1UjMD": {
+            "_id": "fAREuKQdgWL1UjMD",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/weapons/bows/shortbow-arrows-black.webp",
             "activation": {
               "type": "bonus",
               "value": null,
@@ -1799,10 +1799,10 @@
       }
     },
     {
-      "_id": "p4dx0NxFKC5S2PxM",
+      "_id": "xoZU9Suqfv9Ohqfa",
       "name": "Multiple Reactions",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1811,8 +1811,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1854,10 +1854,10 @@
       }
     },
     {
-      "_id": "yDKKUpZ7jaVAX5Hi",
+      "_id": "WyXud0OOIUE0sQYZ",
       "name": "Indomitable",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1866,8 +1866,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1891,12 +1891,12 @@
           "subtype": ""
         },
         "activities": {
-          "fOMWMFLl8jylm0g9": {
-            "_id": "fOMWMFLl8jylm0g9",
+          "D3VL1G4DjlLTFyGP": {
+            "_id": "D3VL1G4DjlLTFyGP",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -1974,10 +1974,10 @@
       }
     },
     {
-      "_id": "EXwXoVXIOnTHjeon",
+      "_id": "jbixkg1fkHoj5Ouq",
       "name": "Commander's Retreat",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-expeditious-retreat.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -1986,8 +1986,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2011,12 +2011,12 @@
           "subtype": ""
         },
         "activities": {
-          "mHdQ336umRBaSimR": {
-            "_id": "mHdQ336umRBaSimR",
+          "3LgHi2uhxZJTe3jt": {
+            "_id": "3LgHi2uhxZJTe3jt",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "modules/plutonium/media/icon/spell/phb-expeditious-retreat.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2104,10 +2104,10 @@
       }
     },
     {
-      "_id": "otSUT5aU8ymwbW4Y",
+      "_id": "aw7Mlm5X4KyaFT7e",
       "name": "Vengeful Strike",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/skills/melee/hand-grip-sword-strike-orange.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2116,8 +2116,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2141,12 +2141,12 @@
           "subtype": ""
         },
         "activities": {
-          "ohqLQV1Yht0kXteH": {
-            "_id": "ohqLQV1Yht0kXteH",
+          "vSbJ8yaaGRbzeElz": {
+            "_id": "vSbJ8yaaGRbzeElz",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+            "img": "icons/skills/melee/hand-grip-sword-strike-orange.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2273,10 +2273,10 @@
       }
     },
     {
-      "_id": "MgHFP6Loo78BY3ai",
+      "_id": "BCtJX1zmp7794IRV",
       "name": "Plant Growth (Forest Fane)",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/phb-plant-growth.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2285,8 +2285,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2328,10 +2328,10 @@
       }
     },
     {
-      "_id": "WEkLsO060V6LSS4Q",
+      "_id": "jQqvAp44VKE6rIpf",
       "name": "Wrath of Nature (Forest Fane)",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "modules/plutonium/media/icon/spell/xge-wrath-of-nature.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -2340,8 +2340,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440649122,
-        "modifiedTime": 1793440649122,
+        "createdTime": 1793442998198,
+        "modifiedTime": 1793442998198,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2392,8 +2392,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793440649122,
-    "modifiedTime": 1793440649122,
+    "createdTime": 1793442998198,
+    "modifiedTime": 1793442998198,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

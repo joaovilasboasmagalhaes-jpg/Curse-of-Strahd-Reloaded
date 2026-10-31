@@ -36,13 +36,10 @@ ITEM_ICONS_FILE = os.path.join(SKILL_DIR, "..", "foundry-images", "item_icons.ts
 _ITEM_ICONS = None
 
 
-def attack_icon(kind, spec):
-    """For weapons and attack feats with no explicit img, reuse the icon Foundry already uses for that
-    item name (foundry-images/item_icons.tsv). Returns None if there is no match."""
+def named_item_icon(kind, spec):
+    """Reuse Foundry's existing icon for an exact item name when one is available."""
     global _ITEM_ICONS
     is_attack = kind == "weapon" or any(a.get("type") == "attack" for a in spec.get("activities", []))
-    if not is_attack:
-        return None
     if _ITEM_ICONS is None:
         _ITEM_ICONS = {}
         if os.path.exists(ITEM_ICONS_FILE):
@@ -55,8 +52,9 @@ def attack_icon(kind, spec):
     for cand in (base, base[:-1] if base.endswith("s") else base + "s"):
         if cand in _ITEM_ICONS:
             return _ITEM_ICONS[cand]
-    print(f"warning: no Foundry icon for attack '{spec['name']}'; set `img` from foundry-images "
-          f"(python find_image.py attack <keywords>)", file=sys.stderr)
+        if is_attack:
+          print(f"warning: no Foundry icon for attack '{spec['name']}'; set `img` from foundry-images "
+              f"(python find_image.py attack <keywords>)", file=sys.stderr)
     return None
 
 
@@ -164,7 +162,7 @@ def base_item(kind, spec):
     name = spec["name"]
     return {
         "_id": rid(), "name": name, "type": kind,
-        "img": spec.get("img") or attack_icon(kind, spec) or DEFAULT_ICON[kind], "effects": [], "folder": None, "sort": 0,
+        "img": spec.get("img") or named_item_icon(kind, spec) or DEFAULT_ICON[kind], "effects": [], "folder": None, "sort": 0,
         "flags": {}, "_stats": stats(),
         "system": {"description": {"value": p(spec.get("description", "")), "chat": ""},
                    "source": {"custom": "", "book": spec.get("book", ""), "page": "",

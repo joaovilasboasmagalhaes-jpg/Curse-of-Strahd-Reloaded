@@ -11,11 +11,11 @@
   "biography": "<p>Fly 50 ft. in raven and hybrid forms. Arc C, C3 starts her at 1 HP, her wings and torso pierced by silver barbs: she can't fly, regenerate or shapechange until a DC 15 Wisdom (Medicine) check removes them (failure reduces her to 0 HP). Set HP to 63 once the barbs are out. If reduced to 0 HP she falls unconscious and makes death saves like a PC.</p>",
   "items": [
     {"kind": "equipment", "name": "Leather Armor", "ac": 11, "base": "leather"},
-    {"name": "Silver Barbs (Arc C only)", "description": "Silver barbs pierce Muriel's wings and torso. Until a DC 15 Wisdom (Medicine) check removes them, she can't fly, regenerate or use Shapechange. Failing the check reduces her to 0 hit points. Once removed, Regeneration returns immediately."},
+    {"name": "Silver Barbs (Arc C only)", "img": "icons/weapons/polearms/spear-barbed-silver.webp", "description": "Silver barbs pierce Muriel's wings and torso. Until a DC 15 Wisdom (Medicine) check removes them, she can't fly, regenerate or use Shapechange. Failing the check reduces her to 0 hit points. Once removed, Regeneration returns immediately."},
     {"name": "Regeneration", "description": "Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.",
      "activities": [{"type": "heal", "activation": "none", "heal": {"formula": "10", "type": "healing"}}]},
-    {"name": "Mimic", "description": "Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check."},
-    {"name": "Plummet", "description": "If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.",
+    {"name": "Mimic", "img": "icons/skills/trades/music-singing-voice-blue.webp", "description": "Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check."},
+    {"name": "Plummet", "img": "icons/creatures/birds/raptor-hawk-flying.webp", "description": "If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.",
      "activities": [{"type": "damage", "damage": [{"n": 2, "d": 6, "type": "piercing"}]},
                     {"type": "save", "ability": "str", "dc": 12}]},
     {"name": "Multiattack", "description": "Muriel makes two weapon attacks, one of which can be with her hand crossbow.", "activities": [{"type": "utility"}]},
@@ -31,7 +31,7 @@
      "activities": [{"type": "save", "ability": "con", "dc": 10}]},
     {"name": "Shapechange", "activation": "bonus", "description": "Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.",
      "activities": [{"type": "utility"}]},
-    {"name": "Interpose", "activation": "reaction", "description": "When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.",
+    {"name": "Interpose", "img": "icons/skills/melee/shield-block-bash-blue.webp", "activation": "reaction", "description": "When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.",
      "activities": [{"type": "utility"}]}
   ]
 }

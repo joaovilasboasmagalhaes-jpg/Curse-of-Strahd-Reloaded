@@ -9,13 +9,13 @@ Owner of every image path that goes into Foundry JSON. Any agent building an act
 
 ## Find an image
 
-**Named items first** (attacks, weapons, natural attacks, feats): Foundry already has an icon for most names, so reuse it.
+**Named items first**: Foundry already has an icon for many item names, so reuse the exact match before selecting a substitute.
 
 ```powershell
 python .github\skills\foundry-images\find_image.py name Bite
 ```
 
-This reads `item_icons.tsv` (2,263 item names harvested from the world's actors, items and packs, and the dnd5e monster/item packs; most-used local icon per name, Curse of Strahd icons first, plus alternatives). Parentheses are ignored (`Beak (Raven Form Only)` = `Beak`) and plural/singular both match. `build_actor.py` does this automatically for weapons and attack feats that have no `img`, and warns on stderr when there is no match. For a warned attack, pick the closest icon with `python find_image.py attack <keywords>` and set `img` in the spec.
+This reads `item_icons.tsv` (2,263 item names harvested from the world's actors, items and packs, and the dnd5e monster/item packs; most-used local icon per name, Curse of Strahd icons first, plus alternatives). Parentheses are ignored (`Beak (Raven Form Only)` = `Beak`) and plural/singular both match. `build_actor.py` checks this map for every embedded item unless the spec provides an explicit `img`. It warns on stderr when an attack has no exact match; choose the closest icon with `python find_image.py attack <keywords>` and set `img` in the spec. For any other unmatched item, search the appropriate image category and set its `img` explicitly.
 
 **Everything else** (or when no named item exists):
 
@@ -26,6 +26,8 @@ python .github\skills\foundry-images\find_image.py <want> <keywords...> [-n 8]
 `want` = `spell | feat | item | weapon | attack | armor | token | portrait | avatar | class | species | any`. It searches `index.tsv` (9,400 images: path, kind, keywords from file and folder names), ranks by keyword match, source priority and aliases (vampire to undead, necrotic to death/unholy, ...), and prints Foundry-ready paths. Examples: `token vampire spawn`, `spell necrotic ray`, `weapon sword`, `item ring`.
 
 If the result is weak, try synonyms or a related word (`longsword` is matched as a compound; `sword` is safer), then `any`. The index is name-based, so confirm the top hit's name actually fits; do not pick a path that is not in the index.
+
+For a Foundry statblock, make sure every `spec.items[]` entry resolves to an appropriate image: weapons and natural attacks, spells and spellcasting features, traits, actions, reactions, legendary/lair actions, equipment, and custom items. Explicit `img` values take priority; otherwise `build_actor.py` uses an exact Foundry item-name match when available. Choose and set an indexed image for each unmatched item; never accept a generic builder fallback. Generated activities inherit their owning item's image; use an activity-level `img` or spell-entry `img` override when distinct art is appropriate, then verify every generated activity has an image.
 
 **Lookups need no live Foundry access**: `index.tsv` and `item_icons.tsv` are in the repo. Only rebuilding needs Foundry on this computer: `python build_index.py` (image files) and `python build_item_icons.py` (item-name map; copies the databases and reads them with Foundry's own Node, so Foundry can stay open). Rebuild after Foundry, systems or modules change or art is added. The generated files are ~0.9 MB and ~0.2 MB; watch the `git` skill's 1 MB guard.
 

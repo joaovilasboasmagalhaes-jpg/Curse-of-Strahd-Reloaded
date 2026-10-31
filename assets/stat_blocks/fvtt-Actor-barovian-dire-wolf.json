@@ -647,10 +647,10 @@
   },
   "items": [
     {
-      "_id": "vZ7BxqrP7eceb5Ha",
+      "_id": "QfLCfsYja3nPAaPd",
       "name": "Keen Hearing and Smell",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/commodities/biological/ear-grey-brown.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -659,8 +659,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440646672,
-        "modifiedTime": 1793440646672,
+        "createdTime": 1793442992067,
+        "modifiedTime": 1793442992067,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -702,10 +702,10 @@
       }
     },
     {
-      "_id": "E7CgBauKxj8o5lvA",
+      "_id": "SQzBRqld0O1f2jYM",
       "name": "Pack Tactics",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/environment/wilderness/statue-hound-horned.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -714,8 +714,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440646672,
-        "modifiedTime": 1793440646672,
+        "createdTime": 1793442992067,
+        "modifiedTime": 1793442992067,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -757,10 +757,10 @@
       }
     },
     {
-      "_id": "eO9CBMpLLZ51keZN",
+      "_id": "avY02LJpQgHPmFTd",
       "name": "Bite",
       "type": "weapon",
-      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -769,8 +769,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440646672,
-        "modifiedTime": 1793440646672,
+        "createdTime": 1793442992067,
+        "modifiedTime": 1793442992067,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -850,12 +850,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "yqyOaVtnHaqnIv1x": {
-            "_id": "yqyOaVtnHaqnIv1x",
+          "QNmR6stCTKphV73X": {
+            "_id": "QNmR6stCTKphV73X",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -947,12 +947,12 @@
               ]
             }
           },
-          "xroGOWVVv2tUWGdB": {
-            "_id": "xroGOWVVv2tUWGdB",
+          "9GBQUfS9JdV1GP3V": {
+            "_id": "9GBQUfS9JdV1GP3V",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1043,8 +1043,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793440646672,
-    "modifiedTime": 1793440646672,
+    "createdTime": 1793442992067,
+    "modifiedTime": 1793442992067,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

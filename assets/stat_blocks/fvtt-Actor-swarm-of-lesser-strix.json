@@ -659,10 +659,10 @@
   },
   "items": [
     {
-      "_id": "9yIgXlp5Wv5BUF4Z",
+      "_id": "vqx5miaMaAmkEPBU",
       "name": "Swarm",
       "type": "feat",
-      "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+      "img": "icons/magic/air/wind-swirl-pink-purple.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -671,8 +671,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440616722,
-        "modifiedTime": 1793440616722,
+        "createdTime": 1793442994512,
+        "modifiedTime": 1793442994512,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -714,10 +714,10 @@
       }
     },
     {
-      "_id": "2xpuQzGp54kUxrjK",
+      "_id": "6YmXljSeFflV1ru5",
       "name": "Beaks",
       "type": "weapon",
-      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "img": "icons/commodities/bones/beak-hooked-red.webp",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -726,8 +726,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793440616722,
-        "modifiedTime": 1793440616722,
+        "createdTime": 1793442994512,
+        "modifiedTime": 1793442994512,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -807,12 +807,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "qibD1Rkn9DcEkTYc": {
-            "_id": "qibD1Rkn9DcEkTYc",
+          "LYdsyfo0LC1ALSB6": {
+            "_id": "LYdsyfo0LC1ALSB6",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": "icons/weapons/swords/sword-guard-purple.webp",
+            "img": "icons/commodities/bones/beak-hooked-red.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -926,8 +926,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793440616722,
-    "modifiedTime": 1793440616722,
+    "createdTime": 1793442994512,
+    "modifiedTime": 1793442994512,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
