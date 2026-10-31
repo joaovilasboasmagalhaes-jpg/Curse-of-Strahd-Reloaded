@@ -1,7 +1,7 @@
 {
   "name": "Barovian Dire Wolf",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "assets/srd5e/img/bestiary/tokens/XMM/Dire Wolf.webp",
   "system": {
     "currency": {
       "pp": 0,
@@ -617,7 +617,7 @@
     "height": 1,
     "depth": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "assets/srd5e/img/bestiary/tokens/XMM/Dire Wolf.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "fit": "contain",

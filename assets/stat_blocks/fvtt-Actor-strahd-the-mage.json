@@ -1,7 +1,7 @@
 {
   "name": "Strahd, the Mage",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "worlds/curse-of-strahd/assets/creatures/Strahd introduction.webp",
   "system": {
     "currency": {
       "pp": 0,
@@ -629,7 +629,7 @@
     "height": 1,
     "depth": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "assets/srd5e/img/bestiary/tokens/CoS/Strahd von Zarovich.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "fit": "contain",

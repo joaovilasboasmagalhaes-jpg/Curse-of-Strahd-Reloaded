@@ -1,7 +1,7 @@
 {
   "name": "Muriel Vinshaw",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "worlds/curse-of-strahd/obsidian-assets/images/Muriel Vinshaw 1.png",
   "system": {
     "currency": {
       "pp": 0,
@@ -617,7 +617,7 @@
     "height": 1,
     "depth": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "worlds/curse-of-strahd/obsidian-assets/images/Muriel Vinshaw 1.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "fit": "contain",
