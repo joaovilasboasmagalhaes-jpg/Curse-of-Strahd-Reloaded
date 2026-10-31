@@ -54,4 +54,4 @@ Behind you, somewhere in the mist, you hear a carriage moving. Slow. Approaching
 
 [Ivan follows caravan]
 
-The caravan gets attacked by wolves. The party splits from the caravan. Wolves also split, the party is lead to Death House.
+The caravan gets attacked by wolves. The one vistana guiding the caravan with the party on it jumped to the other caravan and abandoned them. The party splits from the caravan. Wolves also split, the party is lead to Death House.
