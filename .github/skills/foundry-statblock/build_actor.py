@@ -9,6 +9,7 @@ so the script only writes dice, types and explicit overrides.
 import json
 import os
 import random
+import re
 import string
 import sys
 import time
@@ -29,6 +30,34 @@ DEFAULT_ICON = {"weapon": "icons/weapons/swords/sword-guard-purple.webp",
                 "spell": "icons/magic/symbols/star-solid-gold.webp",
                 "equipment": "icons/equipment/chest/breastplate-scale-grey.webp"}
 NOW = int(time.time() * 1000)
+
+
+ITEM_ICONS_FILE = os.path.join(SKILL_DIR, "..", "foundry-images", "item_icons.tsv")
+_ITEM_ICONS = None
+
+
+def attack_icon(kind, spec):
+    """For weapons and attack feats with no explicit img, reuse the icon Foundry already uses for that
+    item name (foundry-images/item_icons.tsv). Returns None if there is no match."""
+    global _ITEM_ICONS
+    is_attack = kind == "weapon" or any(a.get("type") == "attack" for a in spec.get("activities", []))
+    if not is_attack:
+        return None
+    if _ITEM_ICONS is None:
+        _ITEM_ICONS = {}
+        if os.path.exists(ITEM_ICONS_FILE):
+            with open(ITEM_ICONS_FILE, encoding="utf-8") as fh:
+                next(fh)
+                for line in fh:
+                    k, img = line.split("\t")[:2]
+                    _ITEM_ICONS[k] = img
+    base = " ".join(re.sub(r"\([^)]*\)", "", spec["name"].lower()).split())
+    for cand in (base, base[:-1] if base.endswith("s") else base + "s"):
+        if cand in _ITEM_ICONS:
+            return _ITEM_ICONS[cand]
+    print(f"warning: no Foundry icon for attack '{spec['name']}'; set `img` from foundry-images "
+          f"(python find_image.py attack <keywords>)", file=sys.stderr)
+    return None
 
 
 def rid():
@@ -135,7 +164,7 @@ def base_item(kind, spec):
     name = spec["name"]
     return {
         "_id": rid(), "name": name, "type": kind,
-        "img": spec.get("img", DEFAULT_ICON[kind]), "effects": [], "folder": None, "sort": 0,
+        "img": spec.get("img") or attack_icon(kind, spec) or DEFAULT_ICON[kind], "effects": [], "folder": None, "sort": 0,
         "flags": {}, "_stats": stats(),
         "system": {"description": {"value": p(spec.get("description", "")), "chat": ""},
                    "source": {"custom": "", "book": spec.get("book", ""), "page": "",

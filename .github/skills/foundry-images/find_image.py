@@ -1,5 +1,6 @@
 """Search index.tsv for the best Foundry image.
 
+python find_image.py name <item name>          exact icon Foundry already uses for that item (Bite, Beak, Longsword...)
 python find_image.py <want> <keywords...> [-n 8]
   want: spell | item | weapon | armor | feat | token | portrait | avatar | class | species | any
 Example: python find_image.py token vampire spawn
@@ -18,6 +19,7 @@ WANT = {
     "feat": ["feat-icon", "item-icon-magic", "item-icon", "spell-icon"],
     "item": ["item-icon-campaign", "item-icon", "item-icon-magic"],
     "weapon": ["item-icon-campaign", "item-icon"],
+    "attack": ["item-icon", "item-icon-magic"],
     "armor": ["item-icon-campaign", "item-icon"],
     "token": ["token-cos", "token-hero", "token-monster", "token-srd", "portrait-campaign", "item-icon"],
     "portrait": ["portrait-campaign", "token-cos", "token-hero", "token-monster", "token-srd"],
@@ -40,7 +42,8 @@ ALIASES = {
 }
 
 
-PATH_BONUS = {"weapon": "/weapons/", "armor": "/equipment/", "item": "/equipment/|/consumables/|/sundries/|/tools/|/containers/"}
+PATH_BONUS = {"attack": "/creatures/abilities/|/creatures/claws/|/skills/melee/|/weapons/",
+              "weapon": "/weapons/", "armor": "/equipment/", "item": "/equipment/|/consumables/|/sundries/|/tools/|/containers/"}
 
 
 def stem(w):
@@ -55,7 +58,31 @@ def load():
             yield p, k, kw.split()
 
 
+def lookup_item(name):
+    """Exact (then singular/plural) item-name match in item_icons.tsv -> (img, count, alternatives) or None."""
+    base = " ".join(re.sub(r"\([^)]*\)", "", name.lower()).split())
+    table = {}
+    with open(os.path.join(HERE, "item_icons.tsv"), encoding="utf-8") as fh:
+        next(fh)
+        for line in fh:
+            k, img, cnt, alts = (line.rstrip("\n").split("\t") + [""])[:4]
+            table[k] = (img, int(cnt), [a for a in alts.split("|") if a])
+    for cand in (base, base[:-1] if base.endswith("s") else base + "s"):
+        if cand in table:
+            return table[cand]
+    return None
+
+
 def main(argv):
+    if len(argv) >= 2 and argv[0] == "name":
+        hit = lookup_item(" ".join(argv[1:]))
+        if hit:
+            print(f"{hit[0]}   (used {hit[1]}x in Foundry)")
+            for a in hit[2]:
+                print(f"  alt: {a}")
+            return 0
+        print("no item with that name in Foundry; use `attack <keywords>` / `weapon <keywords>` to pick the closest icon")
+        return 2
     n = 8
     if "-n" in argv:
         i = argv.index("-n")
