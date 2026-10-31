@@ -648,7 +648,7 @@
   },
   "items": [
     {
-      "_id": "NlZV8QZjbmZSplFV",
+      "_id": "YqhMolucEuM8WEba",
       "name": "Tail Spike Regrowth",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -660,8 +660,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793265188771,
-        "modifiedTime": 1793265188771,
+        "createdTime": 1793440645445,
+        "modifiedTime": 1793440645445,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -703,7 +703,7 @@
       }
     },
     {
-      "_id": "ysoWpw48j9IilEKI",
+      "_id": "HA8RrAy7WuTFiKQ6",
       "name": "Multiattack",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -715,8 +715,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793265188771,
-        "modifiedTime": 1793265188771,
+        "createdTime": 1793440645445,
+        "modifiedTime": 1793440645445,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -740,12 +740,12 @@
           "subtype": ""
         },
         "activities": {
-          "0l0K641fy2HV6v6A": {
-            "_id": "0l0K641fy2HV6v6A",
+          "m07ofphbKUQMPQBm": {
+            "_id": "m07ofphbKUQMPQBm",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -823,7 +823,7 @@
       }
     },
     {
-      "_id": "xz1i7i4T2AqEjvQk",
+      "_id": "cWvoF98qGIJVfVUY",
       "name": "Bite",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -835,8 +835,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793265188771,
-        "modifiedTime": 1793265188771,
+        "createdTime": 1793440645445,
+        "modifiedTime": 1793440645445,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -916,12 +916,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "Q7DOONq2EARl1A9Y": {
-            "_id": "Q7DOONq2EARl1A9Y",
+          "E5CKRng14YUpZ3vW": {
+            "_id": "E5CKRng14YUpZ3vW",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1026,7 +1026,7 @@
       }
     },
     {
-      "_id": "oy6hbjWN2lSCMMJz",
+      "_id": "wXnQulUoeLAO2oRi",
       "name": "Claw",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -1038,8 +1038,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793265188771,
-        "modifiedTime": 1793265188771,
+        "createdTime": 1793440645445,
+        "modifiedTime": 1793440645445,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1119,12 +1119,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "yxE9omQzyrFh8X0g": {
-            "_id": "yxE9omQzyrFh8X0g",
+          "TPllXEKCVIInLdLn": {
+            "_id": "TPllXEKCVIInLdLn",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1229,7 +1229,7 @@
       }
     },
     {
-      "_id": "cRCT8QHsgdZaDaAa",
+      "_id": "o893Mq6hs4w8a2ly",
       "name": "Tail Spike",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -1241,8 +1241,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793265188771,
-        "modifiedTime": 1793265188771,
+        "createdTime": 1793440645445,
+        "modifiedTime": 1793440645445,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1322,12 +1322,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "0UvbWvaIHSl9SAuN": {
-            "_id": "0UvbWvaIHSl9SAuN",
+          "Qn84JWxdpJKatanV": {
+            "_id": "Qn84JWxdpJKatanV",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1441,8 +1441,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793265188771,
-    "modifiedTime": 1793265188771,
+    "createdTime": 1793440645445,
+    "modifiedTime": 1793440645445,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

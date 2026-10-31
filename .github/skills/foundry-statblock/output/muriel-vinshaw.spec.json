@@ -2,6 +2,8 @@
   "name": "Muriel Vinshaw", "cr": 2, "size": "med", "alignment": "chaotic good",
   "book": "Reloaded", "page": "Non-Player Characters",
   "type": {"value": "humanoid", "subtype": "human, shapechanger"},
+  "img": "worlds/curse-of-strahd/obsidian-assets/images/Muriel Vinshaw 1.png",
+  "token": "worlds/curse-of-strahd/obsidian-assets/images/Muriel Vinshaw 1.png",
   "abilities": {"str": 10, "dex": 16, "con": 11, "int": 13, "wis": 15, "cha": 14},
   "skills": {"ins": 1, "prc": 2},
   "ac": null, "hp": {"max": 63, "value": 1, "formula": "14d8"},

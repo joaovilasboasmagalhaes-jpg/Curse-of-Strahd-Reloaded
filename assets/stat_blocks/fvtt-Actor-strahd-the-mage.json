@@ -659,7 +659,7 @@
   },
   "items": [
     {
-      "_id": "aEWV1GwrP6uOgkgp",
+      "_id": "VAqok2B9tvWHzib1",
       "name": "Close Quarters Fighter",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -671,8 +671,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -714,7 +714,7 @@
       }
     },
     {
-      "_id": "ModOwljWKlkIrQKM",
+      "_id": "lZL4VUlkzioNcTaN",
       "name": "Complex Casting",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -726,8 +726,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -769,7 +769,7 @@
       }
     },
     {
-      "_id": "obNvCakDXcad9Y1Z",
+      "_id": "p02bBv78yCktS0em",
       "name": "Regeneration",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -781,8 +781,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -824,7 +824,7 @@
       }
     },
     {
-      "_id": "R01c4sfOaAtYTg6F",
+      "_id": "APq6knMTLG0cTNcU",
       "name": "Spider Climb",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -836,8 +836,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -879,7 +879,7 @@
       }
     },
     {
-      "_id": "BKkY37IxzuG6oKM3",
+      "_id": "xeJeosIGLZboV40Y",
       "name": "Sunlight Hypersensitivity",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -891,8 +891,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -934,7 +934,7 @@
       }
     },
     {
-      "_id": "mI0hU2d14p7irgmD",
+      "_id": "m5DbGF64X17pKJef",
       "name": "Fast Grappler",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -946,8 +946,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -989,7 +989,7 @@
       }
     },
     {
-      "_id": "8iWJiLU9baW0o5cn",
+      "_id": "EMi9lqaW3PPbBrl5",
       "name": "Innate Spellcasting",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1001,8 +1001,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1026,12 +1026,12 @@
           "subtype": ""
         },
         "activities": {
-          "tsUz0tkYI650dKGB": {
-            "_id": "tsUz0tkYI650dKGB",
+          "VEnNHzxQtNUuztUv": {
+            "_id": "VEnNHzxQtNUuztUv",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1103,12 +1103,12 @@
               }
             }
           },
-          "sEXhQcRKLaDJyKkw": {
-            "_id": "sEXhQcRKLaDJyKkw",
+          "OnC84YT03VTRIG1T": {
+            "_id": "OnC84YT03VTRIG1T",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1180,12 +1180,12 @@
               }
             }
           },
-          "nGg4NiZYKpdnkNdQ": {
-            "_id": "nGg4NiZYKpdnkNdQ",
+          "6vEbnAcVETr7tNn3": {
+            "_id": "6vEbnAcVETr7tNn3",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1276,7 +1276,7 @@
       }
     },
     {
-      "_id": "eabUBL3RXk3Mlkji",
+      "_id": "AJZeBYmqub4gBDUv",
       "name": "Multiattack",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1288,8 +1288,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1313,12 +1313,12 @@
           "subtype": ""
         },
         "activities": {
-          "M3HbSTkiWyxjOpLW": {
-            "_id": "M3HbSTkiWyxjOpLW",
+          "3Y8wbJsylMkRJyL0": {
+            "_id": "3Y8wbJsylMkRJyL0",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "_id": "RCg0KiqmTloUc0hU",
+      "_id": "UyCiMIbOL6Wi4Yw5",
       "name": "Vampiric Touch",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1408,8 +1408,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1433,12 +1433,12 @@
           "subtype": ""
         },
         "activities": {
-          "lEB9PQpN8lnJ9TMc": {
-            "_id": "lEB9PQpN8lnJ9TMc",
+          "kXA4NDI18Prfvf9D": {
+            "_id": "kXA4NDI18Prfvf9D",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1524,7 +1524,7 @@
       }
     },
     {
-      "_id": "hbAsdRt5UY1OV1hw",
+      "_id": "cyNp8IFN59t9QU5I",
       "name": "Telekinetic Grasp",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1536,8 +1536,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1561,12 +1561,12 @@
           "subtype": ""
         },
         "activities": {
-          "DxfyPsgzduphAAoS": {
-            "_id": "DxfyPsgzduphAAoS",
+          "M3rBiDovmv3zU5qQ": {
+            "_id": "M3rBiDovmv3zU5qQ",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1671,7 +1671,7 @@
       }
     },
     {
-      "_id": "Qiq9YsDRNBxzwshZ",
+      "_id": "akJDqBKxca8x4H4W",
       "name": "Dispel Magic (3/Day)",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1683,8 +1683,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1708,12 +1708,12 @@
           "subtype": ""
         },
         "activities": {
-          "AkPEfJK67KkBGX8b": {
-            "_id": "AkPEfJK67KkBGX8b",
+          "Zf9zU9fKLLRhcUv0": {
+            "_id": "Zf9zU9fKLLRhcUv0",
             "type": "cast",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1804,7 +1804,7 @@
       }
     },
     {
-      "_id": "4hBDHJoHkjQlmVSp",
+      "_id": "4jrYFEm2ZWEtHK8Z",
       "name": "Circle of Sickness",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1816,8 +1816,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1841,12 +1841,12 @@
           "subtype": ""
         },
         "activities": {
-          "TrMGRbNk5S5VDACz": {
-            "_id": "TrMGRbNk5S5VDACz",
+          "YLANvBSt8PqHvv75": {
+            "_id": "YLANvBSt8PqHvv75",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "bonus",
               "value": null,
@@ -1951,7 +1951,7 @@
       }
     },
     {
-      "_id": "dtTGdHo63YCHqjUK",
+      "_id": "d7Aat0qXMSJ4qw63",
       "name": "Lightning Bolt",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1963,8 +1963,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2006,7 +2006,7 @@
       }
     },
     {
-      "_id": "4gtSmmWpdTtwvzJP",
+      "_id": "LUJlZXozV9OASTWt",
       "name": "Multiple Reactions",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2018,8 +2018,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2061,7 +2061,7 @@
       }
     },
     {
-      "_id": "aLMCBDgmUF2OMDHD",
+      "_id": "N3sYW9nSGDHGezz0",
       "name": "Indomitable",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2073,8 +2073,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2098,12 +2098,12 @@
           "subtype": ""
         },
         "activities": {
-          "rLm0K36nVRMvZUNm": {
-            "_id": "rLm0K36nVRMvZUNm",
+          "KvGvTqpE1yx4DGyZ": {
+            "_id": "KvGvTqpE1yx4DGyZ",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2181,7 +2181,7 @@
       }
     },
     {
-      "_id": "upLjDxjm5UpfOFUe",
+      "_id": "LqUh9VdxUOzJz0fy",
       "name": "Misty Step",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2193,8 +2193,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2218,12 +2218,12 @@
           "subtype": ""
         },
         "activities": {
-          "NTte8McmCtf2PGFw": {
-            "_id": "NTte8McmCtf2PGFw",
+          "AQemJHLMbEfoE0uN": {
+            "_id": "AQemJHLMbEfoE0uN",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2301,7 +2301,7 @@
       }
     },
     {
-      "_id": "bb3W8HxApNGZYMOQ",
+      "_id": "wDbwohrZ3aO269lx",
       "name": "Blindness/Deafness",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2313,8 +2313,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2338,12 +2338,12 @@
           "subtype": ""
         },
         "activities": {
-          "YrEFHDCeYJpgaKQn": {
-            "_id": "YrEFHDCeYJpgaKQn",
+          "nHJVanAlHS1WvFxP": {
+            "_id": "nHJVanAlHS1WvFxP",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2449,7 +2449,7 @@
       }
     },
     {
-      "_id": "nD7dkEgYXUsSMC3O",
+      "_id": "50rFHmNRSwGn4FQq",
       "name": "Control Water (Swamp Fane)",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2461,8 +2461,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2504,7 +2504,7 @@
       }
     },
     {
-      "_id": "OTrP4L0unaWSp7Xx",
+      "_id": "sL3Ypc94du2au4wL",
       "name": "Fog Cloud (Swamp Fane)",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2516,8 +2516,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793297462049,
-        "modifiedTime": 1793297462049,
+        "createdTime": 1793440647892,
+        "modifiedTime": 1793440647892,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2568,8 +2568,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793297462049,
-    "modifiedTime": 1793297462049,
+    "createdTime": 1793440647892,
+    "modifiedTime": 1793440647892,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

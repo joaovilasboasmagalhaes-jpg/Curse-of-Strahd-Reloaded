@@ -647,7 +647,7 @@
   },
   "items": [
     {
-      "_id": "Hci8sXmY1WOcO6KX",
+      "_id": "vZ7BxqrP7eceb5Ha",
       "name": "Keen Hearing and Smell",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -659,8 +659,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793274259607,
-        "modifiedTime": 1793274259607,
+        "createdTime": 1793440646672,
+        "modifiedTime": 1793440646672,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -702,7 +702,7 @@
       }
     },
     {
-      "_id": "agLmiZX2JMAVBeTH",
+      "_id": "E7CgBauKxj8o5lvA",
       "name": "Pack Tactics",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -714,8 +714,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793274259607,
-        "modifiedTime": 1793274259607,
+        "createdTime": 1793440646672,
+        "modifiedTime": 1793440646672,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -757,7 +757,7 @@
       }
     },
     {
-      "_id": "IciBQrxlBKSZinQz",
+      "_id": "eO9CBMpLLZ51keZN",
       "name": "Bite",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -769,8 +769,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793274259607,
-        "modifiedTime": 1793274259607,
+        "createdTime": 1793440646672,
+        "modifiedTime": 1793440646672,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -850,12 +850,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "1ZUR0eAeKoGJ0Mon": {
-            "_id": "1ZUR0eAeKoGJ0Mon",
+          "yqyOaVtnHaqnIv1x": {
+            "_id": "yqyOaVtnHaqnIv1x",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -947,12 +947,12 @@
               ]
             }
           },
-          "XZtj0oM20Bluu2iC": {
-            "_id": "XZtj0oM20Bluu2iC",
+          "xroGOWVVv2tUWGdB": {
+            "_id": "xroGOWVVv2tUWGdB",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1043,8 +1043,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793274259607,
-    "modifiedTime": 1793274259607,
+    "createdTime": 1793440646672,
+    "modifiedTime": 1793440646672,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

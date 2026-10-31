@@ -6,6 +6,8 @@
   "book": "Curse of Strahd",
   "page": "35",
   "type": {"value": "beast"},
+  "img": "assets/srd5e/img/bestiary/tokens/XMM/Dire Wolf.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/XMM/Dire Wolf.webp",
   "abilities": {"str": 17, "dex": 15, "con": 15, "int": 3, "wis": 12, "cha": 7},
   "skills": {"prc": 1, "ste": 1},
   "ac": 14,

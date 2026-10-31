@@ -6,6 +6,8 @@
   "book": "Reloaded",
   "page": "Chapter 2, Strahd's Tactics",
   "type": {"value": "undead", "subtype": "shapechanger"},
+  "img": "worlds/curse-of-strahd/assets/creatures/Strahd introduction.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/CoS/Strahd von Zarovich.webp",
   "abilities": {"str": 20, "dex": 20, "con": 18, "int": 20, "wis": 15, "cha": 20},
   "saves": ["dex", "wis", "cha"],
   "skills": {"arc": 2, "ath": 1, "dec": 2, "ins": 1, "prc": 2, "rel": 1, "ste": 2},

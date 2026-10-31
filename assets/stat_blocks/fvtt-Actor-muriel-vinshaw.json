@@ -647,7 +647,7 @@
   },
   "items": [
     {
-      "_id": "6ghuueUVx5ke6PQo",
+      "_id": "JQty5VURO2YSMf93",
       "name": "Leather Armor",
       "type": "equipment",
       "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -659,8 +659,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -706,7 +706,7 @@
       }
     },
     {
-      "_id": "KrbJZvPKNbI3m1UG",
+      "_id": "p7JADQhvoERnwBie",
       "name": "Silver Barbs (Arc C only)",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -718,8 +718,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -761,7 +761,7 @@
       }
     },
     {
-      "_id": "pOQTUJh5KkVVFNwM",
+      "_id": "hgGtQoDhc659sH7x",
       "name": "Regeneration",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -773,8 +773,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -798,12 +798,12 @@
           "subtype": ""
         },
         "activities": {
-          "zCvev3N5MQ4KRcOW": {
-            "_id": "zCvev3N5MQ4KRcOW",
+          "UKxqYPIQZygUekUu": {
+            "_id": "UKxqYPIQZygUekUu",
             "type": "heal",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "",
               "value": null,
@@ -893,7 +893,7 @@
       }
     },
     {
-      "_id": "LFUIAHTrkbNeLSP4",
+      "_id": "Zrf7gUInzLJYVdPV",
       "name": "Mimic",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -905,8 +905,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -948,7 +948,7 @@
       }
     },
     {
-      "_id": "CeC9A9zUURcb7nb9",
+      "_id": "U40WzrUyVUXgwGQE",
       "name": "Plummet",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -960,8 +960,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -985,12 +985,12 @@
           "subtype": ""
         },
         "activities": {
-          "YY0V46cOS0uvtWg1": {
-            "_id": "YY0V46cOS0uvtWg1",
+          "3wYemEM5KF2RZH7y": {
+            "_id": "3wYemEM5KF2RZH7y",
             "type": "damage",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1068,12 +1068,12 @@
               ]
             }
           },
-          "W4od1LTxUrL9m4YR": {
-            "_id": "W4od1LTxUrL9m4YR",
+          "UdcA78PAMQJX6QjN": {
+            "_id": "UdcA78PAMQJX6QjN",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1161,7 +1161,7 @@
       }
     },
     {
-      "_id": "aCZu5G8zfWje6kRY",
+      "_id": "ryDkYUQX8Yz5RsYT",
       "name": "Multiattack",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1173,8 +1173,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1198,12 +1198,12 @@
           "subtype": ""
         },
         "activities": {
-          "hxKTrVpERxuWkhwC": {
-            "_id": "hxKTrVpERxuWkhwC",
+          "evXMQI9nCovMgD4Z": {
+            "_id": "evXMQI9nCovMgD4Z",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1281,7 +1281,7 @@
       }
     },
     {
-      "_id": "vdN8BRY4ziM6HHIo",
+      "_id": "u1YBzuD2bZK2o9Rn",
       "name": "Shortsword (Humanoid or Hybrid Form Only)",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -1293,8 +1293,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1383,12 +1383,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "Le74jnX6VGnVuld8": {
-            "_id": "Le74jnX6VGnVuld8",
+          "YaOJgH1ICji51Lo4": {
+            "_id": "YaOJgH1ICji51Lo4",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1476,7 +1476,7 @@
       }
     },
     {
-      "_id": "Px0EsKvbZvdibmYG",
+      "_id": "g3Y9zIMMt5iAor28",
       "name": "Hand Crossbow (Humanoid or Hybrid Form Only)",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -1488,8 +1488,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1579,12 +1579,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "zBHxKKx6yoyEdjFL": {
-            "_id": "zBHxKKx6yoyEdjFL",
+          "LMNO7uNIU2uSKMnY": {
+            "_id": "LMNO7uNIU2uSKMnY",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1672,7 +1672,7 @@
       }
     },
     {
-      "_id": "46AFNv2fyKbXiaul",
+      "_id": "NtFIYnQJM5PC71sI",
       "name": "Beak (Raven or Hybrid Form Only)",
       "type": "weapon",
       "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -1684,8 +1684,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1765,12 +1765,12 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "8XC6tqRYa0Siizcu": {
-            "_id": "8XC6tqRYa0Siizcu",
+          "idtL3Poj9AIi3ZBe": {
+            "_id": "idtL3Poj9AIi3ZBe",
             "type": "attack",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1862,12 +1862,12 @@
               ]
             }
           },
-          "LzhoPE8atOJbMglb": {
-            "_id": "LzhoPE8atOJbMglb",
+          "Ktjf1b7EheiJViz1": {
+            "_id": "Ktjf1b7EheiJViz1",
             "type": "save",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/weapons/swords/sword-guard-purple.webp",
             "activation": {
               "type": "action",
               "value": null,
@@ -1949,7 +1949,7 @@
       }
     },
     {
-      "_id": "MvB5BoO0RhlxyWWi",
+      "_id": "p2yMHiZfrYe1W1Ov",
       "name": "Shapechange",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -1961,8 +1961,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -1986,12 +1986,12 @@
           "subtype": ""
         },
         "activities": {
-          "LIE10leO1Rv40gsy": {
-            "_id": "LIE10leO1Rv40gsy",
+          "m0u4lnucgKnnSsR0": {
+            "_id": "m0u4lnucgKnnSsR0",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "bonus",
               "value": null,
@@ -2069,7 +2069,7 @@
       }
     },
     {
-      "_id": "H993NK2E8aqKaRX5",
+      "_id": "77rDPo6q5hNiLnBV",
       "name": "Interpose",
       "type": "feat",
       "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
@@ -2081,8 +2081,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1793224982086,
-        "modifiedTime": 1793224982086,
+        "createdTime": 1793440651578,
+        "modifiedTime": 1793440651578,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -2106,12 +2106,12 @@
           "subtype": ""
         },
         "activities": {
-          "Zk97lboqLiPxI4as": {
-            "_id": "Zk97lboqLiPxI4as",
+          "X7TNm2EVziciioac": {
+            "_id": "X7TNm2EVziciioac",
             "type": "utility",
             "name": "",
             "sort": 0,
-            "img": null,
+            "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
             "activation": {
               "type": "reaction",
               "value": null,
@@ -2198,8 +2198,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793224982086,
-    "modifiedTime": 1793224982086,
+    "createdTime": 1793440651578,
+    "modifiedTime": 1793440651578,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -2,6 +2,8 @@
   "name": "Swarm of Lesser Strix", "cr": 0.25, "size": "med", "alignment": "unaligned",
   "book": "Reloaded", "page": "Arc C, C3",
   "type": {"value": "construct", "swarm": "tiny"},
+  "img": "worlds/curse-of-strahd/obsidian-assets/images/Greater Strix.png",
+  "token": "worlds/curse-of-strahd/obsidian-assets/images/Greater Strix.png",
   "abilities": {"str": 6, "dex": 14, "con": 8, "int": 3, "wis": 12, "cha": 6},
   "skills": {"prc": 1},
   "ac": 12, "hp": {"max": 24, "formula": "7d8 - 7"},

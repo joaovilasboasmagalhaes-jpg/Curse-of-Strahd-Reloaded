@@ -2,6 +2,8 @@
   "name": "Greater Strix", "cr": 3, "size": "med", "alignment": "lawful evil",
   "book": "Reloaded", "page": "Arc C, C3",
   "type": {"value": "construct"},
+  "img": "worlds/curse-of-strahd/obsidian-assets/images/Greater Strix.png",
+  "token": "worlds/curse-of-strahd/obsidian-assets/images/Greater Strix.png",
   "abilities": {"str": 17, "dex": 16, "con": 17, "int": 7, "wis": 12, "cha": 8},
   "ac": 14, "hp": {"max": 68, "formula": "8d10 + 24"},
   "speed": {"walk": 30, "fly": 50}, "senses": {"darkvision": 60}, "languages": ["common"],
