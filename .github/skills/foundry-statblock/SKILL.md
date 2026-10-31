@@ -23,10 +23,11 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 
 1. Get the numbers from the campaign (`Appendices/Bestiary.md`, `Appendices/Non-Player Characters.md`, arc files) or the original book via `combat`. Never invent stats; if a number is missing, ask the DM.
 2. If the monster is unchanged from its default source stat block, tell the DM its source and confirm whether they still want a Foundry actor before proceeding. Do not build the actor until they confirm.
-3. Write a spec file in `output/<name>.spec.json` (format below).
-4. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/stat_blocks/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
-5. Check the JSON loads and compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
-6. Tell the DM the file path and what was approximated. Ask for the import result so the format can be corrected from errors.
+3. Get images from the `foundry-images` skill: `img` and `token` for the actor, and an `img` for every weapon, feat and spell item (`find_image.py`). Do not leave the defaults when a specific match exists; list the chosen images in the answer.
+4. Write a spec file in `output/<name>.spec.json` (format below).
+5. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/stat_blocks/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
+6. Check the JSON loads and compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
+7. Tell the DM the file path and what was approximated. Ask for the import result so the format can be corrected from errors.
 
 ## Spec format
 
