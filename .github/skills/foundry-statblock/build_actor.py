@@ -73,11 +73,12 @@ def consumption(a):
     return a.get("consumes", [])
 
 
-def activity(a, default_activation):
+def activity(a, default_activation, fallback_img=None):
     t = a["type"]
     aid = rid()
     act = {
-        "_id": aid, "type": t, "name": a.get("name", ""), "sort": 0, "img": None,
+        "_id": aid, "type": t, "name": a.get("name", ""), "sort": 0,
+        "img": a.get("img", fallback_img),
         "activation": {"type": ACTIVATION[a.get("activation", default_activation)],
                        "value": a.get("cost", 1) if a.get("activation") in ("legendary", "lair") else None,
                        "override": False, "condition": a.get("condition", "")},
@@ -148,7 +149,7 @@ def build_feat(spec):
     acts = {}
     for a in spec.get("activities", []):
         a = {"activation": spec.get("activation", "action"), "cost": spec.get("cost", 1), **a}
-        aid, act = activity(a, a["activation"])
+        aid, act = activity(a, a["activation"], it["img"])
         acts[aid] = act
     it["system"].update({
         "type": {"value": "monster", "subtype": ""}, "activities": acts,
@@ -180,7 +181,7 @@ def build_weapon(spec):
         main["range"] = spec["reach"]
     acts = {}
     for a in [main] + spec.get("activities", []):
-        aid, act = activity(a, "action")
+        aid, act = activity(a, "action", it["img"])
         acts[aid] = act
     base = {} if natural else spec.get("damage", [{"n": 1, "d": 6, "type": "slashing"}])[0]
     versatile = spec.get("versatile")
@@ -227,7 +228,7 @@ def build_spellcasting(spec):
     it = build_feat(spec)
     acts = {}
     for sp in spec["spells"]:
-        aid, act = activity({"type": "utility"}, "action")
+        aid, act = activity({"type": "utility", "img": sp.get("img", it["img"])}, "action", it["img"])
         act["type"] = "cast"
         act["name"] = ""
         act["spell"] = {"uuid": spell_uuid(sp), "spellbook": False, "properties": [],

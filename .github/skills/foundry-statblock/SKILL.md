@@ -23,10 +23,10 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 
 1. Get the numbers from the campaign (`Appendices/Bestiary.md`, `Appendices/Non-Player Characters.md`, arc files) or the original book via `combat`. Never invent stats; if a number is missing, ask the DM.
 2. If the monster is unchanged from its default source stat block, tell the DM its source and confirm whether they still want a Foundry actor before proceeding. Do not build the actor until they confirm.
-3. Get images from the `foundry-images` skill: `img` and `token` for the actor, and an `img` for every weapon, feat and spell item (`find_image.py`). Do not leave the defaults when a specific match exists; list the chosen images in the answer.
+3. Get images from the `foundry-images` skill: `img` and `token` for the actor, and an explicit `img` for every entry in `items`, including weapons, natural attacks, spells, armor/equipment, traits, actions, reactions, legendary/lair actions, and custom items. Set each `items[].img` in the spec; the builder's generic defaults are not acceptable. Choose art that fits each item's name or function, and list the selected images in the answer.
 4. Write a spec file in `output/<name>.spec.json` (format below).
 5. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/stat_blocks/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
-6. Check the JSON loads and compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
+6. Check the JSON loads, every actor and embedded item has the intended image, no item is using a generic builder fallback, and every image path resolves through the image index. Audit all generated actions and attacks as well as passive and custom items; verify their owning Foundry item has the chosen image. Also compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
 7. Tell the DM the file path and what was approximated. Ask for the import result so the format can be corrected from errors.
 
 ## Spec format
@@ -50,16 +50,16 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 - `legendary_resistances`, `legendary_actions`, `lair` (initiative count; omit if no lair actions), `slots` (`{"1": 4, "3": 3}`), `book`, `page`, `dr_bypasses` (`["mgc"]`; also `di_`/`dv_`).
 - Damage types, conditions and languages use Foundry keys (`slashing`, `fire`, `poisoned`, `common`).
 
-Items (`kind` defaults to `feat`):
+Items (`kind` defaults to `feat`). Every item requires its own `img`, including custom items and all action/attack entries:
 
 | kind | Fields |
 |---|---|
-| `feat` | `name`, `description` (plain text or HTML), `activation` (`action bonus reaction special legendary lair none`), `cost` (legendary), `uses` `{max, recover: day/lr/sr/recharge, formula}`, `activities` |
-| `weapon` | `name`, `base` (`scimitar`), `wtype` (`martialM`), `props` (`fin lgt`), `damage` `[{n,d,type}]`, `reach` or `ranged: true` + `range`/`long`, `attack_bonus`, `activities` for riders. `natural: true` (bite, claw, unarmed): type natural, dice in the activity, `ability` set, `@mod` added to the first part |
-| `spellcasting` | `name` ("Spellcasting" or "Innate Spellcasting"), `description`, `spells` `[{name, per_day?, uuid?}]`. One `cast` activity per spell, linked to the compendium spell |
-| `equipment` | `name`, `ac`, `armor_type`, `base`, `dex_cap` |
+| `feat` | `name`, `img`, `description` (plain text or HTML), `activation` (`action bonus reaction special legendary lair none`), `cost` (legendary), `uses` `{max, recover: day/lr/sr/recharge, formula}`, `activities` |
+| `weapon` | `name`, `img`, `base` (`scimitar`), `wtype` (`martialM`), `props` (`fin lgt`), `damage` `[{n,d,type}]`, `reach` or `ranged: true` + `range`/`long`, `attack_bonus`, `activities` for riders. `natural: true` (bite, claw, unarmed): type natural, dice in the activity, `ability` set, `@mod` added to the first part |
+| `spellcasting` | `name` ("Spellcasting" or "Innate Spellcasting"), `img`, `description`, `spells` `[{name, per_day?, uuid?, img?}]`. One `cast` activity per spell, linked to the compendium spell; optional spell `img` overrides the activity image |
+| `equipment` | `name`, `img`, `ac`, `armor_type`, `base`, `dex_cap` |
 
-Activities: `attack` (`kind`, `bonus`, `damage`), `save` (`ability`, `dc`, `on_save`: none/half, `damage`, `range`), `damage` (`damage`), `heal` (`heal`, e.g. `{"formula": "1", "type": "healing"}` or dice), `utility`. Legendary Resistance: activity `{"type": "utility", "activation": "special", "legres": true}` (spends `resources.legres`). Legendary actions: feat `activation: "legendary"`, and the cost is taken from `resources.legact`. Lair actions: `activation: "lair"`. Damage parts are `{n, d, type, bonus}`.
+Activities: `attack` (`kind`, `bonus`, `damage`), `save` (`ability`, `dc`, `on_save`: none/half, `damage`, `range`), `damage` (`damage`), `heal` (`heal`, e.g. `{"formula": "1", "type": "healing"}` or dice), `utility`. Activity images inherit the owning item's `img`; an activity-level `img` overrides it when distinct art is appropriate. Legendary Resistance: activity `{"type": "utility", "activation": "special", "legres": true}` (spends `resources.legres`). Legendary actions: feat `activation: "legendary"`, and the cost is taken from `resources.legact`. Lair actions: `activation: "lair"`. Damage parts are `{n, d, type, bonus}`.
 
 ## Rules for good output
 

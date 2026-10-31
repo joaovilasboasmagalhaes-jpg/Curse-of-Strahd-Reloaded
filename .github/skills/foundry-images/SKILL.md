@@ -5,7 +5,7 @@ description: Finds the best Foundry VTT image (icon, token, avatar, portrait, de
 
 # Foundry images
 
-Owner of every image path that goes into Foundry JSON. Any agent building an actor, spell or item must get its `img`/`token` from here instead of guessing a path.
+Owner of every image path that goes into Foundry JSON. Any agent building an actor, spell or item must get its `img`/`token` from here instead of guessing a path. For statblocks, this includes an image for every embedded item, not only the actor portrait and token.
 
 ## Find an image
 
@@ -16,6 +16,8 @@ python .github\skills\foundry-images\find_image.py <want> <keywords...> [-n 8]
 `want` = `spell | feat | item | weapon | armor | token | portrait | avatar | class | species | any`. It searches `index.tsv` (9,400 images: path, kind, keywords from file and folder names), ranks by keyword match, source priority and aliases (vampire to undead, necrotic to death/unholy, ...), and prints Foundry-ready paths. Examples: `token vampire spawn`, `spell necrotic ray`, `weapon sword`, `item ring`.
 
 If the result is weak, try synonyms or a related word (`longsword` is matched as a compound; `sword` is safer), then `any`. The index is name-based, so confirm the top hit's name actually fits; do not pick a path that is not in the index.
+
+For a Foundry statblock, search for and set an explicit `img` on every `spec.items[]` entry: weapons and natural attacks, spells and spellcasting features, traits, actions, reactions, legendary/lair actions, equipment, and custom items. Choose a fitting image for each entry; do not rely on `build_actor.py`'s generic item defaults. Actions and attacks represented as embedded items need images just like ordinary items. Generated activities inherit their owning item's image; use an activity-level `img` or spell-entry `img` override only when distinct art is appropriate, then verify every generated activity has an image.
 
 Rebuild after Foundry, systems or modules change or art is added: `python .github\skills\foundry-images\build_index.py`. (`index.tsv` is generated; ~0.9 MB, so watch the `git` skill's 1 MB guard.)
 
@@ -45,7 +47,7 @@ Full map of where images live: `paths.md`.
 
 - dnd5e defaults (set in `DND5E.defaultArtwork`, `systems/dnd5e/dnd5e.mjs`): `systems/dnd5e/icons/svg/actors/{npc,character,group,vehicle,encounter}.svg`, `systems/dnd5e/icons/svg/items/{spell,weapon,equipment,feature,consumable,loot,tool,...}.svg`.
 - Core fallbacks: `icons/svg/mystery-man.svg` (actor), `icons/svg/item-bag.svg` and the rest of `icons/svg/*`.
-- `build_actor.py` uses `DEFAULT_ICON` for weapon/feat/spell/equipment when a spec gives no `img`; override per item with `img` from this skill. Preferred: always set `img` and `token` in the spec.
+- `build_actor.py` uses `DEFAULT_ICON` for weapon/feat/spell/equipment when a spec gives no `img`; treat that fallback as a missing image, and set a curated `img` on every item in addition to actor `img` and `token`.
 - The DM can generate custom art with the Tokenizer module (`tokenizer/` output). Say so when no good match exists (for named NPCs, suggest it) and use the closest token as the placeholder.
 
 ## Rules
