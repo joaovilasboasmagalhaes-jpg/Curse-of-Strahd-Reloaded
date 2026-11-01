@@ -31,3 +31,17 @@ These questions are a chance to revisit Caspian and what you would like from his
 8. Resoluçao perfeita é mesmo ele conseguir ser parte do grupo que liberta barobvia da ameaça de strahd e la esta, voltar e reconstruir o seu sítio. Good ending fr
 
 9. Pá acho que se for criado misterio (como por exemplo a questao dos anos diferentes de cada um da party) tem de ser de facto revelada uma explicaçao e a historia do caspian tem de variar por aí, mas novamente n sei se mt vago
+
+## English Rendering (Draft for DM Review)
+
+This is a close English rendering of the player's answers, not yet approved by the player. Ambiguities are left open rather than filled in.
+
+1. He's already lost practically everything. I think the greatest thing he has left to protect is the dignity of his birthplace. He wants to reclaim it and make it safe again for the people who came from there.
+2. His strength is his willpower: his determination to shape his own destiny. His weakness is his lack of real-world experience; he's being tested hard right now without much practical experience to prepare him.
+3. I think he should be afraid of werewolves, given his backstory. If there's something deeper, perhaps he's afraid of not being up to what he has to do: kill Strahd and regain sovereignty over his "hometown." When that fear is tested, he has no shortage of willpower and is willing to put himself to the test, though that may not always be the best way to handle things.
+4. His main goal is to kill Strahd. He believes that if he succeeds, he will regain his people's trust, rebuild his home, and return to rule it, as he sees it, by right of birth.
+5. "I don't know what Ashcairn is; please clarify."
+6. Caspian is intelligent and listens to people with proven experience. In the group, he follows the opinions of those around him when they make sense to him and are explained. In life, he may need to suffer the consequences of his actions before reconsidering something. I'm not sure whether this answer is too vague.
+7. It would be fun to have a plot point connected to his backstory. I don't think we've connected the different dates for the party members from the early sessions, and I'm not sure how to coordinate that with his backstory, but perhaps it could connect through that.
+8. The ideal resolution is for him to be part of the group that frees Barovia from Strahd's threat, then return and rebuild his home. A genuinely good ending.
+9. If we introduce a mystery (such as the question of why each party member has different dates), there should eventually be an explanation, and Caspian's story should connect to it somehow. But again, I may be being vague.
