@@ -461,7 +461,43 @@ If Muriel is with the players in raven form, Madam Eva regards her with an emoti
 
 If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
 
-Any player character may request a personal reading from Madam Eva. If asked, she agrees to speak with that character privately; the content of each reading is prepared separately in the Session 8 notes. She does not share one character's reading with the others.
+Any player character may request a personal reading from Madam Eva. If asked, she agrees to speak with that character privately. She does not share one character's reading with the others.
+
+> [!info]+ **DM Only: Agni's Personal Reading**
+> If Agni requests a reading, Madam Eva turns the crystal ball toward him. A red thread coils through the cloudy glass, then separates into two fine strands.
+>
+> *“One hearth. Two cups. One lifted after the last breath; one filled while the candle still burned. Now one stands empty, though red stains its rim; the other brims beneath a seal no hand has yet broken. The same red passed both lips, yet the cups hold different fates.”*
+>
+> *“Do not pour from the living into the empty, Agni. What enters by choice may seal what grief left open.”*
+>
+> The red threads vanish. For a moment, a faint pulse sounds from somewhere beyond the glass.
+>
+> *“The little heart still answers. The mist lies between you, but death has not claimed your son.”*
+>
+> The crystal darkens. An old face drifts across it like a reflection disturbed by rain. Beneath it, a pale hand reaches toward a distant house of black stone.
+>
+> *“The borrowed face has fallen. The hand beneath it has gone home. Follow what that hand made, but do not mistake the first key for the whole door. Beneath the mountain, amber keeps another ember. And the final lock turns only when the lord of this valley no longer holds it.”*
+>
+> If Agni asks who Vasili was, Eva answers: *“The old face was only a veil. The hand beneath it went back to the black house when its master woke.”* If he presses for the name, she says: *“Osric. The name belongs to the hand, not the face.”*
+>
+> If Agni asks whether Milosh is alive, Eva answers: *“Listen past the mist. One small beat keeps time where your hands cannot follow.”* If he asks what the beat means, she says: *“It has not fallen silent.”*
+>
+> If Agni asks what the cure requires, Eva answers: *“Three locks on one door: a red debt, an ember sleeping in amber beneath the mountain, and the shadow that rules this valley. I can show you their shapes. I cannot turn them for you.”*
+
+> [!info]+ **DM Only: Caspian's Personal Reading**
+> If Caspian requests a reading, Madam Eva turns the crystal ball toward him. The cloudy glass clears. A house stands beneath an ash-gray sky, its roof broken open to the rain. Small footprints cross its threshold and vanish into the mist. A wolf's tracks follow them, then divide from a second trail.
+>
+> *“Your house is broken, but Ashcairn is not yet a tomb. The children passed beyond your sight; the glass will not tell me their fate.”*
+>
+> The two trails blur together. One fades into the black trees. The other bends away, then returns to the first.
+>
+> *“The pack is changing. Beware whom you name your enemy before you learn what they have chosen. A wolf's teeth reveal its hunger, not its allegiance.”*
+>
+> The image of the house returns, now lit by a small, steady flame in one dark window.
+>
+> *“Ashcairn is not beyond hope. What rises from its ashes will depend on what you choose to save.”*
+>
+> If Caspian asks whether the taken children are alive, Eva says: *“I see their tracks, not their faces. I will not call hope a certainty, nor grief a verdict.”*
 
 If the players ask for a shared reading or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
 
