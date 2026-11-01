@@ -6,8 +6,8 @@
   "book": "Reloaded",
   "page": "Arc C",
   "type": {"value": "humanoid", "subtype": "human"},
-  "img": "icons/creatures/humanoids/human-guard.webp",
-  "token": "icons/creatures/humanoids/human-guard.webp",
+  "img": "assets/srd5e/img/bestiary/tokens/CoS/Stanimir.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/CoS/Stanimir.webp",
   "abilities": {"str": 9, "dex": 14, "con": 13, "int": 16, "wis": 12, "cha": 15},
   "saves": ["int", "wis"],
   "skills": {"arc": 2, "ins": 2, "prc": 1, "per": 1},
@@ -15,7 +15,54 @@
   "hp": {"max": 41, "formula": "8d8 + 8"},
   "speed": {"walk": 30},
   "senses": {"darkvision": 30},
+  "spellcasting": "int",
+  "slots": {"1": 4, "2": 3, "3": 3, "4": 3, "5": 1},
   "languages": ["common", "vistani"],
   "biography": "<p>Stanimir is the welcoming Vistana host at Tser Pool. He is warm, skeptical of Strahd, and a practical guide to the camp rather than a combatant.</p>",
-  "items": []
+  "items": [
+    {
+      "name": "Friends",
+      "img": "modules/plutonium/media/icon/spell/phb-friends.webp",
+      "description": "At-will cantrip. Stanimir casts the 2014 friends spell; consult its text for the effect. This spell is not present in the local SRD compendium, so no linked spell activity can be created.",
+      "activities": [{"type": "utility"}]
+    },
+    {
+      "kind": "weapon",
+      "name": "Dagger",
+      "img": "icons/weapons/daggers/dagger-black.webp",
+      "base": "dagger",
+      "wtype": "simpleM",
+      "props": ["fin", "lgt", "thr"],
+      "ability": "dex",
+      "reach": 5,
+      "ranged": true,
+      "range": 20,
+      "long": 60,
+      "damage": [{"n": 1, "d": 4, "type": "piercing"}],
+      "description": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    {
+      "kind": "spellcasting",
+      "name": "Spellcasting",
+      "img": "modules/plutonium/media/icon/spell/phb-major-image.webp",
+      "description": "Stanimir is a 9th-level spellcaster. Intelligence is his spellcasting ability (spell save DC 14, +6 to hit with spell attacks). He has the following spells prepared: <strong>Cantrips (at will):</strong> friends, light, mage hand, prestidigitation; <strong>1st level (4 slots):</strong> charm person, mage armor, shield, sleep; <strong>2nd level (3 slots):</strong> misty step, suggestion; <strong>3rd level (3 slots):</strong> bestow curse, phantom steed, major image; <strong>4th level (3 slots):</strong> greater invisibility, stoneskin; <strong>5th level (1 slot):</strong> dominate person.",
+      "spells": [
+        {"name": "Light", "img": "modules/plutonium/media/icon/spell/phb-light.webp"},
+        {"name": "Mage Hand", "img": "modules/plutonium/media/icon/spell/phb-mage-hand.webp"},
+        {"name": "Prestidigitation", "img": "modules/plutonium/media/icon/spell/phb-prestidigitation.webp"},
+        {"name": "Charm Person", "img": "modules/plutonium/media/icon/spell/phb-charm-person.webp"},
+        {"name": "Mage Armor", "img": "modules/plutonium/media/icon/spell/phb-mage-armor.webp"},
+        {"name": "Shield", "img": "modules/plutonium/media/icon/spell/phb-shield.webp"},
+        {"name": "Sleep", "img": "modules/plutonium/media/icon/spell/phb-sleep.webp"},
+        {"name": "Misty Step", "img": "modules/plutonium/media/icon/spell/phb-misty-step.webp"},
+        {"name": "Suggestion", "img": "modules/plutonium/media/icon/spell/phb-suggestion.webp"},
+        {"name": "Bestow Curse", "img": "modules/plutonium/media/icon/spell/phb-bestow-curse.webp"},
+        {"name": "Phantom Steed", "img": "modules/plutonium/media/icon/spell/phb-phantom-steed.webp"},
+        {"name": "Major Image", "img": "modules/plutonium/media/icon/spell/phb-major-image.webp"},
+        {"name": "Greater Invisibility", "img": "modules/plutonium/media/icon/spell/phb-greater-invisibility.webp"},
+        {"name": "Stoneskin", "img": "modules/plutonium/media/icon/spell/phb-stoneskin.webp"},
+        {"name": "Dominate Person", "img": "modules/plutonium/media/icon/spell/phb-dominate-person.webp"}
+      ]
+    }
+  ]
 }

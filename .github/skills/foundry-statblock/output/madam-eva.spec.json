@@ -6,8 +6,8 @@
   "book": "Reloaded",
   "page": "Arc C",
   "type": {"value": "humanoid", "subtype": "human"},
-  "img": "icons/creatures/magical/eye-multi-spectral.webp",
-  "token": "icons/creatures/magical/eye-multi-spectral.webp",
+  "img": "assets/srd5e/img/bestiary/tokens/CoS/Madam Eva.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/CoS/Madam Eva.webp",
   "abilities": {"str": 8, "dex": 14, "con": 12, "int": 17, "wis": 16, "cha": 18},
   "saves": ["wis", "cha"],
   "skills": {"arc": 2, "ins": 2, "med": 2, "prc": 2, "per": 2},
@@ -15,7 +15,17 @@
   "hp": {"max": 45, "formula": "9d8 + 9"},
   "speed": {"walk": 30},
   "senses": {"darkvision": 30},
+  "spellcasting": "wis",
+  "slots": {"6": 1},
   "languages": ["common", "vistani"],
   "biography": "<p>Madam Eva is the Vistani seer and an avatar of the Seeker. She reads fortunes, sees a thread of fate through the Mists, and offers the party guidance without ever revealing more than she intends.</p>",
-  "items": []
+  "items": [
+    {
+      "kind": "spellcasting",
+      "name": "Harm",
+      "img": "modules/plutonium/media/icon/spell/phb-harm.webp",
+      "description": "Wisdom is Madam Eva's spellcasting ability (spell save DC 14). She can cast harm once, using her 6th-level spell slot.",
+      "spells": [{"name": "Harm", "img": "modules/plutonium/media/icon/spell/phb-harm.webp"}]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Madam Eva",
   "type": "npc",
-  "img": "icons/creatures/magical/eye-multi-spectral.webp",
+  "img": "assets/srd5e/img/bestiary/tokens/CoS/Madam Eva.webp",
   "system": {
     "currency": {
       "pp": 0,
@@ -414,7 +414,7 @@
         "override": null
       },
       "spell6": {
-        "value": 0,
+        "value": 1,
         "override": null
       },
       "spell7": {
@@ -478,7 +478,7 @@
         "units": "ft",
         "special": ""
       },
-      "spellcasting": "",
+      "spellcasting": "wis",
       "exhaustion": 0,
       "concentration": {
         "ability": "",
@@ -617,7 +617,7 @@
     "height": 1,
     "depth": 1,
     "texture": {
-      "src": "icons/creatures/magical/eye-multi-spectral.webp",
+      "src": "assets/srd5e/img/bestiary/tokens/CoS/Madam Eva.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "fit": "contain",
@@ -645,7 +645,136 @@
     "appendNumber": false,
     "prependAdjective": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "4xilu3lnWsJ3Tp34",
+      "name": "Harm",
+      "type": "feat",
+      "img": "modules/plutonium/media/icon/spell/phb-harm.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1793547941170,
+        "modifiedTime": 1793547941170,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>Wisdom is Madam Eva's spellcasting ability (spell save DC 14). She can cast harm once, using her 6th-level spell slot.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "harm",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "aFTcJxBTjCMtl0mI": {
+            "_id": "aFTcJxBTjCMtl0mI",
+            "type": "cast",
+            "name": "",
+            "sort": 0,
+            "img": "modules/plutonium/media/icon/spell/phb-harm.webp",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "roll": {
+              "prompt": false,
+              "visible": false
+            },
+            "spell": {
+              "uuid": "Compendium.dnd5e.spells.Item.tMH6Ivn4GmE1naMj",
+              "spellbook": false,
+              "properties": [],
+              "challenge": {
+                "override": false
+              }
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    }
+  ],
   "effects": [],
   "ownership": {
     "default": 0
@@ -655,8 +784,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1793546391416,
-    "modifiedTime": 1793546391416,
+    "createdTime": 1793547941170,
+    "modifiedTime": 1793547941170,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
