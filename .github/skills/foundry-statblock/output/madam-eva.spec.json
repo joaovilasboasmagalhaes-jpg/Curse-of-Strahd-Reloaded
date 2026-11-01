@@ -1,0 +1,21 @@
+{
+  "name": "Madam Eva",
+  "cr": 5,
+  "size": "med",
+  "alignment": "chaotic good",
+  "book": "Reloaded",
+  "page": "Arc C",
+  "type": {"value": "humanoid", "subtype": "human"},
+  "img": "icons/creatures/magical/eye-multi-spectral.webp",
+  "token": "icons/creatures/magical/eye-multi-spectral.webp",
+  "abilities": {"str": 8, "dex": 14, "con": 12, "int": 17, "wis": 16, "cha": 18},
+  "saves": ["wis", "cha"],
+  "skills": {"arc": 2, "ins": 2, "med": 2, "prc": 2, "per": 2},
+  "ac": 12,
+  "hp": {"max": 45, "formula": "9d8 + 9"},
+  "speed": {"walk": 30},
+  "senses": {"darkvision": 30},
+  "languages": ["common", "vistani"],
+  "biography": "<p>Madam Eva is the Vistani seer and an avatar of the Seeker. She reads fortunes, sees a thread of fate through the Mists, and offers the party guidance without ever revealing more than she intends.</p>",
+  "items": []
+}

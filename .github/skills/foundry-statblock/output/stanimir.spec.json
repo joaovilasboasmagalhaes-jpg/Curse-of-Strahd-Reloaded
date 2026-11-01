@@ -1,0 +1,21 @@
+{
+  "name": "Stanimir",
+  "cr": 5,
+  "size": "med",
+  "alignment": "neutral good",
+  "book": "Reloaded",
+  "page": "Arc C",
+  "type": {"value": "humanoid", "subtype": "human"},
+  "img": "icons/creatures/humanoids/human-guard.webp",
+  "token": "icons/creatures/humanoids/human-guard.webp",
+  "abilities": {"str": 9, "dex": 14, "con": 13, "int": 16, "wis": 12, "cha": 15},
+  "saves": ["int", "wis"],
+  "skills": {"arc": 2, "ins": 2, "prc": 1, "per": 1},
+  "ac": 12,
+  "hp": {"max": 41, "formula": "8d8 + 8"},
+  "speed": {"walk": 30},
+  "senses": {"darkvision": 30},
+  "languages": ["common", "vistani"],
+  "biography": "<p>Stanimir is the welcoming Vistana host at Tser Pool. He is warm, skeptical of Strahd, and a practical guide to the camp rather than a combatant.</p>",
+  "items": []
+}

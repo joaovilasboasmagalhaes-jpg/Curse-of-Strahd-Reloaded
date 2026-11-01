@@ -1,0 +1,42 @@
+{
+  "name": "Escher",
+  "cr": 5,
+  "size": "med",
+  "alignment": "neutral evil",
+  "book": "Reloaded",
+  "page": "Arc C / Court",
+  "type": {"value": "undead", "subtype": "vampire spawn"},
+  "img": "icons/creatures/universal/vampire.webp",
+  "token": "icons/creatures/universal/vampire.webp",
+  "abilities": {"str": 16, "dex": 16, "con": 16, "int": 11, "wis": 10, "cha": 12},
+  "saves": ["dex", "wis"],
+  "skills": {"ste": 2, "prc": 1, "per": 1},
+  "ac": 15,
+  "hp": {"max": 82, "formula": "11d8 + 33"},
+  "speed": {"walk": 30},
+  "senses": {"darkvision": 60},
+  "languages": ["common", "undercommon"],
+  "di": ["necrotic"],
+  "dv": ["poison"],
+  "biography": "<p>Escher is Strahd's vampiric coachman and cupbearer, a creature of wit, hunger, and guilt. He is a vampire spawn and a dangerous but not immortal foe at the crossroads.</p>",
+  "items": [
+    {
+      "kind": "weapon",
+      "name": "Claws",
+      "natural": true,
+      "ability": "dex",
+      "damage": [{"n": 1, "d": 6, "type": "slashing"}],
+      "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 3) slashing damage.",
+      "activities": []
+    },
+    {
+      "kind": "weapon",
+      "name": "Bite",
+      "natural": true,
+      "ability": "dex",
+      "damage": [{"n": 1, "d": 6, "type": "piercing"}, {"n": 1, "d": 6, "type": "necrotic"}],
+      "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 3) piercing damage plus 7 (1d6 + 3) necrotic damage.",
+      "activities": []
+    }
+  ]
+}
