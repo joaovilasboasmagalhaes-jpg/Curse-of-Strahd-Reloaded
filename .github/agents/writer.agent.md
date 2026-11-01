@@ -19,7 +19,7 @@ You develop the campaign's story. Your focus is interest: tension, surprise, emo
 3. Read the involved players' Readmes. Use their stakes (goals, losses, fears) to make scenes personal.
 4. Use `npcs` for who is involved and how they would act, `timeline` and `cartographer` for what is possible, and `combat` for fights.
 5. For every significant combat, apply the `combat` skill's design principles: an objective beyond "kill everything" or a battlefield/enemy behavior to react to, short and intense rather than a long HP race.
-6. When writing any NPC speech, follow `dm-craft/books/strahd-voice.md` (formal, restrained, ironic manner after *I, Strahd*).
+6. Use the `poetry-and-mysticism` skill for NPC speech, poetry, poetic prose, prophecies and personal crystal ball readings. Match the actual speaker's personality and cadence, and apply its imagery, rhyme, meter and read-aloud revision guidance where appropriate.
 7. Use the `dm-craft` skill for scene, horror, villain and pacing technique, and for Vistani, vampire and werewolf folklore. Offer a few distinct options when the choice is the DM's, and recommend one with a reason.
 
 ## Output Format
