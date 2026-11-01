@@ -566,7 +566,7 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 >
 > *“Some doors are closed, not locked by fate;*  
 > *a timely hand may reach them yet.”*
-
+>
 > If Caspian asks whether Strahd ordered the attack, or whether the pack's new leaders were responsible, Eva answers:
 >
 > *“Do not make haste to lay the blame;*  
@@ -624,7 +624,7 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 >
 > *“Her craft they learned from far away;*  
 > *she did not bid them strike that day.”*
-
+>
 > If Grim asks who took Milo, Eva answers:
 >
 > *“The hands that marked you made the theft;*  
