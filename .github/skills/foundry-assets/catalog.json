@@ -1,0 +1,4287 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-01T14:38:38.007Z",
+  "world": "curse-of-strahd",
+  "folder": "Player Handouts",
+  "source": "local-database-copy",
+  "caveats": [
+    "Best-effort disk snapshot; live unsaved changes and modules may differ. Refresh after permission changes.",
+    "Access is not proof of viewing. Temporary Show to Players events are not tracked.",
+    "Limited (1) is not observer (2); sidebar visibility requires journal level >= 2. Page access is reported separately.",
+    "Unreferenced files have unknown sharing outside the selected journal folder, not confirmed private."
+  ],
+  "journals": [
+    {
+      "id": "355Kkpy3ZV2NS4nr",
+      "name": "Adventurer Journal",
+      "folderId": "ck3qSNLX7M136IKG",
+      "ownership": {
+        "default": 2,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        }
+      ],
+      "pages": [
+        {
+          "id": "51470k8MK7Pt5IkC",
+          "name": "Cover",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/adventurer-cover-journal.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "QrDzQHUE7xnaTMKF",
+          "name": "Page 34",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/adventurer-open-journal.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "5HxTAJUfDysRErPO",
+      "name": "Barovia Village",
+      "folderId": "r2GPhyjNR7Lry6EB",
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        }
+      ],
+      "pages": [
+        {
+          "id": "43qRbxFbbgMuxj1G",
+          "name": "Bildrath and Parriwimple",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/creatures/Bildrath_And_Parriwimple_transparent.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "7QUXZfsBVlofsxQw",
+          "name": "Doru",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/creatures/Doru.jpg"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "8Nwlhpgdm45VBjDh",
+          "name": "Bildrath",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/creatures/Bildrath_transparent.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "EjmigUKwk7GnWuw1",
+          "name": "Ismark the Great",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/creatures/Ismark%20the%20Great.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "YtAUXUmxIgrHgRZO",
+          "name": "Strahd",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/creatures/Strahd%20introduction.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "C3SecP3t7OhRpMVz",
+      "name": "Bildrath's Mercantile",
+      "folderId": "uFAiNv5j8YiIMaJw",
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        }
+      ],
+      "pages": [
+        {
+          "id": "H7gFquRhdEBKIAGh",
+          "name": "Bildrath’s Mercantile",
+          "type": "text",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Item\nCost\nWeight\n\nAbacus\n10 gp\n2 lb.\n\nAcid (vial)\n125 gp\n1 lb.\n\nAlchemist's fire (flask)\n250 gp\n1 lb.\n\nAmmunition\n\n   Arrows (20)\n5 gp\n1 lb.\n\n   Blowgun needles (50)\n5 gp\n1 lb.\n\n   Crossbow bolts (20)\n5 gp\n1½ lb.\n\n   Sling bullets (20)\n2 sp\n1½ lb.\n\nAntitoxin (vial)\n250 gp\n—\n\nArcane Focus\n\n   Crystal\n50 gp\n1 lb.\n\n   Orb\n100 gp\n3 lb.\n\n   Rod\n50 gp\n2 lb.\n\n   Staff\n25 gp\n4 lb.\n\n   Wand\n50 gp\n1 lb.\n\nBackpack\n10 gp\n5 lb.\n\nBall bearings (bag of 1,000)\n5 gp\n2 lb.\n\nBarrel\n10 gp\n70 lb.\n\nBasket\n2 gp\n2 lb.\n\nBedroll\n5 gp\n7 lb.\n\nBell\n5 gp\n—\n\nBlanket\n2 gp 5 sp\n3 lb.\n\nBlock and tackle\n5 gp\n5 lb.\n\nBook\n125 gp\n5 lb.\n\nBottle, glass\n10 gp\n2 lb.\n\nBucket\n2 sp 5 cp\n2 lb.\n\nCaltrops (bag of 20)\n5 gp\n2 lb.\n\nCandle\n5 cp\n—\n\nCase, crossbow bolt\n5 gp\n1 lb.\n\nCase, map or scroll\n5 gp\n1 lb.\n\nChain (10 feet)\n25 gp\n10 lb.\n\nChalk (1 piece)\n5 cp\n—\n\nChest\n25 gp\n25 lb.\n\nClothes, common\n2 gp 5 sp\n3 lb.\n\nClothes, costume\n25 gp\n4 lb.\n\nClothes, fine\n75 gp\n6 lb.\n\nClothes, traveler's\n10 gp\n4 lb.\n\nComponent pouch\n125 gp\n2 lb.\n\nCrowbar\n10 gp\n5 lb.\n\nDruidic Focus\n\n   Sprig of mistletoe\n5 gp\n—\n\n   Totem\n5 gp\n—\n\n   Wooden staff\n25 gp\n4 lb.\n\n   Yew wand\n50 gp\n1 lb.\n\nFishing tackle\n5 gp\n4 lb.\n\nFlask or tankard\n10 cp\n1 lb.\n\nGrappling hook\n10 gp\n4 lb.\n\nHammer\n5 gp\n3 lb.\n\nHammer, sledge\n10 gp\n10 lb.\n\nHealer's Kit\n25 gp\n3 lb.\n\nHoly Symbol\n\n   Amulet\n25 gp\n1 lb.\n\n   Emblem\n25 gp\n—\n\n   Reliquary\n25 gp\n2 lb.\n\nHoly water (flask)\n125 gp\n1 lb.\n\nHourglass\n125 gp\n1 lb.\n\nHunting trap\n25 gp\n25 lb.\n\nInk (1-ounce bottle)\n50 gp\n—\n\nInk pen\n10 cp\n—\n\nJug or pitcher\n10 cp\n4 lb.\n\nKit, climber's\n125 gp\n12 lb.\n\nKit, disguise\n125 gp\n3 lb.\n\nKit, forgery\n75 gp\n5 lb.\n\nKit, herbalism\n25 gp\n3 lb.\n\nKit, healer's\n25 gp\n3 lb.\n\nKit, mess\n1 gp\n1 lb.\n\nKit, poisoner's\n250 gp\n2 lb.\n\nLadder (10-foot)\n5 sp\n25 lb.\n\nLamp\n2 gp 5 sp\n1 lb.\n\nLantern, bullseye\n50 gp\n2 lb.\n\nLantern, hooded\n25 gp\n2 lb.\n\nLock\n50 gp\n1 lb.\n\nMagnifying glass\n500 gp\n—\n\nManacles\n10 gp\n6 lb.\n\nMirror, steel\n25 gp\n½ lb.\n\nOil (flask)\n5 sp\n1 lb.\n\nPaper (one sheet)\n1 gp\n—\n\nParchment (one sheet)\n5 sp\n—\n\nPerfume (vial)\n25 gp\n—\n\nPick, miner's\n10 gp\n10 lb.\n\nPiton\n2 sp 5 cp\n¼ lb.\n\nPoison, basic (vial)\n500 gp\n—\n\nPole (10-foot)\n2 sp 5 cp\n7 lb.\n\nPot, iron\n10 gp\n10 lb.\n\nPotion of healing\n250 gp\n½ lb.\n\nPouch\n2 gp 5 sp\n1 lb.\n\nQuiver\n5 gp\n1 lb.\n\nRam, portable\n20 gp\n35 lb.\n\nRations (1 day)\n2 gp 5 sp\n2 lb.\n\nRobes\n5 gp\n4 lb.\n\nRope, hempen (50 feet)\n5 gp\n10 lb.\n\nRope, silk (50 feet)\n50 gp\n5 lb.\n\nSack\n5 cp\n½ lb.\n\nScale, merchant's\n25 gp\n3 lb.\n\nSealing wax\n2 gp 5 sp\n—\n\nShovel\n10 gp\n5 lb.\n\nSignal whistle\n2 sp 5 cp\n—\n\nSignet ring\n25 gp\n—\n\nSoap\n10 cp\n—\n\nSpellbook\n250 gp\n3 lb.\n\nSpikes, iron (10)\n5 gp\n5 lb.\n\nSpyglass\n5,000 gp\n1 lb.\n\nTent, two-person\n10 gp\n20 lb.\n\nTinderbox\n2 gp 5 sp\n1 lb.\n\nTorch\n5 cp\n1 lb.\n\nVial\n5 gp\n—\n\nWaterskin\n1 gp\n5 lb. (full)\n\nWhetstone\n5 cp\n1 lb.",
+          "html": "<table><thead><tr><th><p>Item</p></th><th><p>Cost</p></th><th><p>Weight</p></th></tr></thead><tbody><tr><td><p>Abacus</p></td><td><p>10 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Acid (vial)</p></td><td><p>125 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Alchemist's fire (flask)</p></td><td><p>250 gp</p></td><td><p>1 lb.</p></td></tr><tr><td colspan=\"3\"><p><strong>Ammunition</strong></p></td></tr><tr><td><p>   Arrows (20)</p></td><td><p>5 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>   Blowgun needles (50)</p></td><td><p>5 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>   Crossbow bolts (20)</p></td><td><p>5 gp</p></td><td><p>1½ lb.</p></td></tr><tr><td><p>   Sling bullets (20)</p></td><td><p>2 sp</p></td><td><p>1½ lb.</p></td></tr><tr><td><p>Antitoxin (vial)</p></td><td><p>250 gp</p></td><td><p>—</p></td></tr><tr><td colspan=\"3\"><p><strong>Arcane Focus</strong></p></td></tr><tr><td><p>   Crystal</p></td><td><p>50 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>   Orb</p></td><td><p>100 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>   Rod</p></td><td><p>50 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>   Staff</p></td><td><p>25 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>   Wand</p></td><td><p>50 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Backpack</p></td><td><p>10 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Ball bearings (bag of 1,000)</p></td><td><p>5 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Barrel</p></td><td><p>10 gp</p></td><td><p>70 lb.</p></td></tr><tr><td><p>Basket</p></td><td><p>2 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Bedroll</p></td><td><p>5 gp</p></td><td><p>7 lb.</p></td></tr><tr><td><p>Bell</p></td><td><p>5 gp</p></td><td><p>—</p></td></tr><tr><td><p>Blanket</p></td><td><p>2 gp 5 sp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Block and tackle</p></td><td><p>5 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Book</p></td><td><p>125 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Bottle, glass</p></td><td><p>10 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Bucket</p></td><td><p>2 sp 5 cp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Caltrops (bag of 20)</p></td><td><p>5 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Candle</p></td><td><p>5 cp</p></td><td><p>—</p></td></tr><tr><td><p>Case, crossbow bolt</p></td><td><p>5 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Case, map or scroll</p></td><td><p>5 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Chain (10 feet)</p></td><td><p>25 gp</p></td><td><p>10 lb.</p></td></tr><tr><td><p>Chalk (1 piece)</p></td><td><p>5 cp</p></td><td><p>—</p></td></tr><tr><td><p>Chest</p></td><td><p>25 gp</p></td><td><p>25 lb.</p></td></tr><tr><td><p>Clothes, common</p></td><td><p>2 gp 5 sp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Clothes, costume</p></td><td><p>25 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Clothes, fine</p></td><td><p>75 gp</p></td><td><p>6 lb.</p></td></tr><tr><td><p>Clothes, traveler's</p></td><td><p>10 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Component pouch</p></td><td><p>125 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Crowbar</p></td><td><p>10 gp</p></td><td><p>5 lb.</p></td></tr><tr><td colspan=\"3\"><p><strong>Druidic Focus</strong></p></td></tr><tr><td><p>   Sprig of mistletoe</p></td><td><p>5 gp</p></td><td><p>—</p></td></tr><tr><td><p>   Totem</p></td><td><p>5 gp</p></td><td><p>—</p></td></tr><tr><td><p>   Wooden staff</p></td><td><p>25 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>   Yew wand</p></td><td><p>50 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Fishing tackle</p></td><td><p>5 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Flask or tankard</p></td><td><p>10 cp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Grappling hook</p></td><td><p>10 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Hammer</p></td><td><p>5 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Hammer, sledge</p></td><td><p>10 gp</p></td><td><p>10 lb.</p></td></tr><tr><td><p>Healer's Kit</p></td><td><p>25 gp</p></td><td><p>3 lb.</p></td></tr><tr><td colspan=\"3\"><p><strong>Holy Symbol</strong></p></td></tr><tr><td><p>   Amulet</p></td><td><p>25 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>   Emblem</p></td><td><p>25 gp</p></td><td><p>—</p></td></tr><tr><td><p>   Reliquary</p></td><td><p>25 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Holy water (flask)</p></td><td><p>125 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Hourglass</p></td><td><p>125 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Hunting trap</p></td><td><p>25 gp</p></td><td><p>25 lb.</p></td></tr><tr><td><p>Ink (1-ounce bottle)</p></td><td><p>50 gp</p></td><td><p>—</p></td></tr><tr><td><p>Ink pen</p></td><td><p>10 cp</p></td><td><p>—</p></td></tr><tr><td><p>Jug or pitcher</p></td><td><p>10 cp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Kit, climber's</p></td><td><p>125 gp</p></td><td><p>12 lb.</p></td></tr><tr><td><p>Kit, disguise</p></td><td><p>125 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Kit, forgery</p></td><td><p>75 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Kit, herbalism</p></td><td><p>25 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Kit, healer's</p></td><td><p>25 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Kit, mess</p></td><td><p>1 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Kit, poisoner's</p></td><td><p>250 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Ladder (10-foot)</p></td><td><p>5 sp</p></td><td><p>25 lb.</p></td></tr><tr><td><p>Lamp</p></td><td><p>2 gp 5 sp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Lantern, bullseye</p></td><td><p>50 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Lantern, hooded</p></td><td><p>25 gp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Lock</p></td><td><p>50 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Magnifying glass</p></td><td><p>500 gp</p></td><td><p>—</p></td></tr><tr><td><p>Manacles</p></td><td><p>10 gp</p></td><td><p>6 lb.</p></td></tr><tr><td><p>Mirror, steel</p></td><td><p>25 gp</p></td><td><p>½ lb.</p></td></tr><tr><td><p>Oil (flask)</p></td><td><p>5 sp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Paper (one sheet)</p></td><td><p>1 gp</p></td><td><p>—</p></td></tr><tr><td><p>Parchment (one sheet)</p></td><td><p>5 sp</p></td><td><p>—</p></td></tr><tr><td><p>Perfume (vial)</p></td><td><p>25 gp</p></td><td><p>—</p></td></tr><tr><td><p>Pick, miner's</p></td><td><p>10 gp</p></td><td><p>10 lb.</p></td></tr><tr><td><p>Piton</p></td><td><p>2 sp 5 cp</p></td><td><p>¼ lb.</p></td></tr><tr><td><p>Poison, basic (vial)</p></td><td><p>500 gp</p></td><td><p>—</p></td></tr><tr><td><p>Pole (10-foot)</p></td><td><p>2 sp 5 cp</p></td><td><p>7 lb.</p></td></tr><tr><td><p>Pot, iron</p></td><td><p>10 gp</p></td><td><p>10 lb.</p></td></tr><tr><td><p>Potion of healing</p></td><td><p>250 gp</p></td><td><p>½ lb.</p></td></tr><tr><td><p>Pouch</p></td><td><p>2 gp 5 sp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Quiver</p></td><td><p>5 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Ram, portable</p></td><td><p>20 gp</p></td><td><p>35 lb.</p></td></tr><tr><td><p>Rations (1 day)</p></td><td><p>2 gp 5 sp</p></td><td><p>2 lb.</p></td></tr><tr><td><p>Robes</p></td><td><p>5 gp</p></td><td><p>4 lb.</p></td></tr><tr><td><p>Rope, hempen (50 feet)</p></td><td><p>5 gp</p></td><td><p>10 lb.</p></td></tr><tr><td><p>Rope, silk (50 feet)</p></td><td><p>50 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Sack</p></td><td><p>5 cp</p></td><td><p>½ lb.</p></td></tr><tr><td><p>Scale, merchant's</p></td><td><p>25 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Sealing wax</p></td><td><p>2 gp 5 sp</p></td><td><p>—</p></td></tr><tr><td><p>Shovel</p></td><td><p>10 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Signal whistle</p></td><td><p>2 sp 5 cp</p></td><td><p>—</p></td></tr><tr><td><p>Signet ring</p></td><td><p>25 gp</p></td><td><p>—</p></td></tr><tr><td><p>Soap</p></td><td><p>10 cp</p></td><td><p>—</p></td></tr><tr><td><p>Spellbook</p></td><td><p>250 gp</p></td><td><p>3 lb.</p></td></tr><tr><td><p>Spikes, iron (10)</p></td><td><p>5 gp</p></td><td><p>5 lb.</p></td></tr><tr><td><p>Spyglass</p></td><td><p>5,000 gp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Tent, two-person</p></td><td><p>10 gp</p></td><td><p>20 lb.</p></td></tr><tr><td><p>Tinderbox</p></td><td><p>2 gp 5 sp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Torch</p></td><td><p>5 cp</p></td><td><p>1 lb.</p></td></tr><tr><td><p>Vial</p></td><td><p>5 gp</p></td><td><p>—</p></td></tr><tr><td><p>Waterskin</p></td><td><p>1 gp</p></td><td><p>5 lb. (full)</p></td></tr><tr><td><p>Whetstone</p></td><td><p>5 cp</p></td><td><p>1 lb.</p></td></tr></tbody></table>",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "voNi6GpQUB6Gpp0D",
+      "name": "Cult Victims",
+      "folderId": "ck3qSNLX7M136IKG",
+      "ownership": {
+        "default": 2,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        }
+      ],
+      "pages": [
+        {
+          "id": "22fwwd7wNUuZMcso",
+          "name": "Page 2",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page2.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "GbiGdnnTBd72zxmK",
+          "name": "Page 1",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page1.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "SjiUBERtx5sclZTH",
+          "name": "Page 4",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page4.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "bd2oy2CuC6AFkp9N",
+          "name": "Page 3",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page3.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "MX47NnUwptKHKBl3",
+      "name": "Durst Invitation to Dinner",
+      "folderId": "HgY5ZLSHFYZ3NgH0",
+      "ownership": {
+        "default": 2,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        }
+      ],
+      "pages": [
+        {
+          "id": "lfpSjMOjxCSEVdWM",
+          "name": "Strahd's Invitation to Durst Family",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/death-house/durst-invitation.png"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "42xzfqzETGhL9bpW",
+      "name": "Record of Lost and Missing",
+      "folderId": "ck3qSNLX7M136IKG",
+      "ownership": {
+        "default": 2,
+        "neX3IKfOaAj3abkB": 3,
+        "XBOilRGnvMBe55e4": 2
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        }
+      ],
+      "pages": [
+        {
+          "id": "GVFBg4HYLzbBXjTT",
+          "name": "Record 3",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/handout-generator/record-3-009bbb.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "K5xlb3JJQR3MzfJX",
+          "name": "Record 1 - Text Only",
+          "type": "text",
+          "ownership": {
+            "default": 0,
+            "neX3IKfOaAj3abkB": 3,
+            "XBOilRGnvMBe55e4": 2
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\n\nDoru, son of Father Donavich; young man of the village, and Mary's daughter's betrothed\nstatus: missing; presumed dead\nlast seen: roughly three months before Night 1, departing in daylight from the eastern edge of the village for Castle Ravenloft. Departure witnessed by the burgomaster and many villagers.\nhow lost: Led a company of about two dozen villagers against the castle. None returned; no bodies were recovered and no word has been received.\n\nAlanik Ray, adult visiting scholar and lodger at the burgomaster's mansion\nstatus: missing; presumed dead\nlast seen: the same day as Doru, departing for Castle Ravenloft with Doru's company.\nhow lost: He had lodged at the mansion for several weeks to study Barovian history and ecology, and joined the march at Doru's urging. No one from the company returned.\n\nEscher, young adult village bard and Doru's oldest friend\nstatus: missing; presumed dead\nlast seen: departing with Doru's company for Castle Ravenloft, roughly three months before Night 1.\nhow lost: Helped Doru assemble the marchers and joined the company. None returned; no bodies were recovered and no word has been received.\n\nOther members of Doru's company, mostly young adults\nstatus: missing; presumed dead\nlast seen: departing with Doru and Alanik for Castle Ravenloft, roughly three months before Night 1.\nhow lost: None returned and no bodies were found. The company numbered about two dozen; the precise count is uncertain.",
+          "html": "Record of the lost and missing — Village of Barovia<br>Kept by Kolyan Indirovich<br><br>Dating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.<br><br><br><br>Doru, son of Father Donavich; young man of the village, and Mary's daughter's betrothed<br>status: missing; presumed dead<br>last seen: roughly three months before Night 1, departing in daylight from the eastern edge of the village for Castle Ravenloft. Departure witnessed by the burgomaster and many villagers.<br>how lost: Led a company of about two dozen villagers against the castle. None returned; no bodies were recovered and no word has been received.<br><br>Alanik Ray, adult visiting scholar and lodger at the burgomaster's mansion<br>status: missing; presumed dead<br>last seen: the same day as Doru, departing for Castle Ravenloft with Doru's company.<br>how lost: He had lodged at the mansion for several weeks to study Barovian history and ecology, and joined the march at Doru's urging. No one from the company returned.<br><br>Escher, young adult village bard and Doru's oldest friend<br>status: missing; presumed dead<br>last seen: departing with Doru's company for Castle Ravenloft, roughly three months before Night 1.<br>how lost: Helped Doru assemble the marchers and joined the company. None returned; no bodies were recovered and no word has been received.<br><br>Other members of Doru's company, mostly young adults<br>status: missing; presumed dead<br>last seen: departing with Doru and Alanik for Castle Ravenloft, roughly three months before Night 1.<br>how lost: None returned and no bodies were found. The company numbered about two dozen; the precise count is uncertain.<br><br>",
+          "markdown": ""
+        },
+        {
+          "id": "MtrGZdLo39TnWod4",
+          "name": "Record 3 - Text Only",
+          "type": "text",
+          "ownership": {
+            "default": 0,
+            "neX3IKfOaAj3abkB": 3,
+            "XBOilRGnvMBe55e4": 2
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Other members of Emeric's party, up to eighteen villagers of mixed ages\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: departing west along the Old Svalich Road with Emeric's party, after Rahadin's proclamation and roughly three months before Night 1.\nhow lost: No word received since departure. The party numbered no more than two dozen; six members are listed above. The exact total is approximate.",
+          "html": "Other members of Emeric's party, up to eighteen villagers of mixed ages<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: departing west along the Old Svalich Road with Emeric's party, after Rahadin's proclamation and roughly three months before Night 1.<br>how lost: No word received since departure. The party numbered no more than two dozen; six members are listed above. The exact total is approximate.",
+          "markdown": ""
+        },
+        {
+          "id": "XGeKTwFkDa5Ej8h6",
+          "name": "Record 1",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/handout-generator/record-1-0095b3.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "jm29ofDZNV6IxiER",
+          "name": "Record 4",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/handout-generator/record-4-009eb9.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "nKwQFiVUpIqZ1YlX",
+          "name": "Record 4 - Text Only",
+          "type": "text",
+          "ownership": {
+            "default": 0,
+            "neX3IKfOaAj3abkB": 3,
+            "XBOilRGnvMBe55e4": 2
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\nAnton Konstantinovich, Alenka Konstantinova's brother\nstatus: missing\nlast seen: at home before retiring on Night 4, according to Alenka.\nhow lost: Alenka reported him missing on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.\n\nDezdrelda Konstaninova, Anton's wife\nstatus: missing\nlast seen: at home with Anton before retiring on Night 4, according to Alenka.\nhow lost: Reported missing with her husband on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.\n\nMarta, adult sister of Bildrath Cantemir\nstatus: dead\nlast seen: at home with her husband and son on Night 4.\nhow lost: According to Bildrath, she chose to stay and defend her home. Killed during the Night 4 attacks.\n\nDragomir, adult husband of Marta; father of Parriwimple\nstatus: dead\nlast seen: at home with Marta and their son on Night 4.\nhow lost: Killed during the Night 4 attacks. Parriwimple survived and is in Bildrath's care.",
+          "html": "Record of the lost and missing — Village of Barovia<br>Kept by Kolyan Indirovich<br><br>Dating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.<br><br><br>Anton Konstantinovich, Alenka Konstantinova's brother<br>status: missing<br>last seen: at home before retiring on Night 4, according to Alenka.<br>how lost: Alenka reported him missing on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.<br><br>Dezdrelda Konstaninova, Anton's wife<br>status: missing<br>last seen: at home with Anton before retiring on Night 4, according to Alenka.<br>how lost: Reported missing with her husband on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.<br><br>Marta, adult sister of Bildrath Cantemir<br>status: dead<br>last seen: at home with her husband and son on Night 4.<br>how lost: According to Bildrath, she chose to stay and defend her home. Killed during the Night 4 attacks.<br><br>Dragomir, adult husband of Marta; father of Parriwimple<br>status: dead<br>last seen: at home with Marta and their son on Night 4.<br>how lost: Killed during the Night 4 attacks. Parriwimple survived and is in Bildrath's care.",
+          "markdown": ""
+        },
+        {
+          "id": "pYjVUKEw3md6o9Dt",
+          "name": "Record 2",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/handout-generator/record-2-0099g9.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "piP4uh5Oi5CePKkB",
+          "name": "Record 5 - Text Only",
+          "type": "text",
+          "ownership": {
+            "default": 0,
+            "neX3IKfOaAj3abkB": 3,
+            "XBOilRGnvMBe55e4": 2
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Record of the lost and missing — Village of Barovia\nKept by Ismark Indirovich\n\n\nKolyan Indirovich, older adult burgomaster of Barovia; father of Ismark Kolyanovich & Ireena Kolyanovich (adopted)\nstatus: dead\nlast seen alive: Night 7, at the mansion. Ireena heard him invite a visitor inside before her memory of the night failed.\nhow lost: Found dead in the first-floor parlor. Kolyan bore one long, clean cut across the chest. Ireena was found unconscious in the same room, alive, with two puncture wounds at her throat. Her account describes a tall, gaunt figure with a deep voice and red eyes. Cause of death: fatal chest wound. Perpetrator unidentified; Strahd is suspected, unconfirmed.\n\nOther villagers and defenders killed in the siege, mixed ages, dozens by rough count\nstatus: dead\nlast seen: at the barricades, in their homes, and in the streets over the course of the siege.\nhow lost: Killed in the attacks. Many bodies were visible when the western barricade fell. The exact total remains a rough count.\n\nThe undead withdrew after Kolyan's death. The siege ended on Night 7.\n\n\n\nGertruda, Mary's young adult daughter and Doru's betrothed\nstatus: missing\nlast seen: at home with her mother on Night 6, before they retired, according to Mary. Mary found her gone at dawn after Night 6; the family horse, Nori, was also missing from its stall.\nhow lost: Mary believed Gertruda had set out alone for Vallaki to seek aid from its burgomaster. Scouts sent to search the western road on the morning after Night 6. Recorded as missing.\n\nLansten family: two adults and three children (one girl and two boys)\nstatus: missing\nlast seen: during a zombie attack on Night 7; exact location not recorded.\nhow lost: Their disappearance was reported on the morning after Night 7. Their fate is unknown.",
+          "html": "Record of the lost and missing — Village of Barovia<br>Kept by Ismark Indirovich<br><br><br>Kolyan Indirovich, older adult burgomaster of Barovia; father of Ismark Kolyanovich &amp; Ireena Kolyanovich (adopted)<br>status: dead<br>last seen alive: Night 7, at the mansion. Ireena heard him invite a visitor inside before her memory of the night failed.<br>how lost: Found dead in the first-floor parlor. Kolyan bore one long, clean cut across the chest. Ireena was found unconscious in the same room, alive, with two puncture wounds at her throat. Her account describes a tall, gaunt figure with a deep voice and red eyes. Cause of death: fatal chest wound. Perpetrator unidentified; Strahd is suspected, unconfirmed.<br><br>Other villagers and defenders killed in the siege, mixed ages, dozens by rough count<br>status: dead<br>last seen: at the barricades, in their homes, and in the streets over the course of the siege.<br>how lost: Killed in the attacks. Many bodies were visible when the western barricade fell. The exact total remains a rough count.<br><br>The undead withdrew after Kolyan's death. The siege ended on Night 7.<br><br><br><br>Gertruda, Mary's young adult daughter and Doru's betrothed<br>status: missing<br>last seen: at home with her mother on Night 6, before they retired, according to Mary. Mary found her gone at dawn after Night 6; the family horse, Nori, was also missing from its stall.<br>how lost: Mary believed Gertruda had set out alone for Vallaki to seek aid from its burgomaster. Scouts sent to search the western road on the morning after Night 6. Recorded as missing.<br><br>Lansten family: two adults and three children (one girl and two boys)<br>status: missing<br>last seen: during a zombie attack on Night 7; exact location not recorded.<br>how lost: Their disappearance was reported on the morning after Night 7. Their fate is unknown.",
+          "markdown": ""
+        },
+        {
+          "id": "s4THoS6MT3APdhyQ",
+          "name": "Record 5",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/handout-generator/record-5-009g33.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        },
+        {
+          "id": "wDPSvSNOkGtFBTi7",
+          "name": "Record 2 - Text Only",
+          "type": "text",
+          "ownership": {
+            "default": 0,
+            "neX3IKfOaAj3abkB": 3,
+            "XBOilRGnvMBe55e4": 2
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 0,
+              "journalInSidebar": true,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [],
+          "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\nEmeric, an older adult villager with graying hair\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: after Rahadin's proclamation, roughly three months before Night 1, departing west along the Old Svalich Road with the first group bound for Vallaki. Departure witnessed by the burgomaster.\nhow lost: No word received since departure. It has not been established whether the two travelers later reported killed by wolves belonged to this party.\n\nMagda, a young adult villager\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Emeric's party, on the same road and day.\nhow lost: No word received since departure.\n\nFranz, an adult widower; wife Alana died of illness before his departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Emeric's party, traveling with his two children and his sister Nyanka.\nhow lost: No word received since departure. Alana's death preceded the departure and was unrelated to the siege.\n\nFyodor, Franz's son and a child at the time of departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with his father, sister Myrtle, and aunt Nyanka in Emeric's party.\nhow lost: No word received since departure.\n\nMyrtle, Franz's daughter and a child at the time of departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with her father, brother Fyodor, and aunt Nyanka in Emeric's party.\nhow lost: No word received since departure.\n\nNyanka, Franz's young adult sister\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Franz and his children in Emeric's party.\nhow lost: No word received since departure.",
+          "html": "Record of the lost and missing — Village of Barovia<br>Kept by Kolyan Indirovich<br><br>Dating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.<br><br><br>Emeric, an older adult villager with graying hair<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: after Rahadin's proclamation, roughly three months before Night 1, departing west along the Old Svalich Road with the first group bound for Vallaki. Departure witnessed by the burgomaster.<br>how lost: No word received since departure. It has not been established whether the two travelers later reported killed by wolves belonged to this party.<br><br>Magda, a young adult villager<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: with Emeric's party, on the same road and day.<br>how lost: No word received since departure.<br><br>Franz, an adult widower; wife Alana died of illness before his departure<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: with Emeric's party, traveling with his two children and his sister Nyanka.<br>how lost: No word received since departure. Alana's death preceded the departure and was unrelated to the siege.<br><br>Fyodor, Franz's son and a child at the time of departure<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: with his father, sister Myrtle, and aunt Nyanka in Emeric's party.<br>how lost: No word received since departure.<br><br>Myrtle, Franz's daughter and a child at the time of departure<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: with her father, brother Fyodor, and aunt Nyanka in Emeric's party.<br>how lost: No word received since departure.<br><br>Nyanka, Franz's young adult sister<br>status: departed for Vallaki; whereabouts unconfirmed<br>last seen: with Franz and his children in Emeric's party.<br>how lost: No word received since departure.<br>",
+          "markdown": ""
+        }
+      ]
+    },
+    {
+      "id": "1ozGva4ISjwvuTp3",
+      "name": "Torn page",
+      "folderId": "HgY5ZLSHFYZ3NgH0",
+      "ownership": {
+        "default": 2,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 2,
+          "pageLevel": 2,
+          "journalInSidebar": true,
+          "pageReadable": true,
+          "access": "observer"
+        }
+      ],
+      "pages": [
+        {
+          "id": "ZTR8aDDPE9MbjXBg",
+          "name": "Page",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/barovia-village/torn_page.webp"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "worlds/curse-of-strahd/assets/creatures/Bildrath_And_Parriwimple_transparent.png",
+      "name": "Bildrath_And_Parriwimple_transparent.png",
+      "state": "present",
+      "bytes": 11285736,
+      "sha256": "96b51172db3029bc4f63a180d0fe713618c2d4d5cec2be4de35bf3f2e129cd7e",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No in-world text: portrait of Bildrath and Parriwimple. Stylized artist signature at the bottom right; not fully legible.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "96b51172db3029bc4f63a180d0fe713618c2d4d5cec2be4de35bf3f2e129cd7e",
+        "checkedAt": "2026-11-01T14:36:39.893Z"
+      },
+      "references": [
+        {
+          "journalId": "5HxTAJUfDysRErPO",
+          "journalName": "Barovia Village",
+          "pageId": "43qRbxFbbgMuxj1G",
+          "pageName": "Bildrath and Parriwimple",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/creatures/Bildrath_transparent.png",
+      "name": "Bildrath_transparent.png",
+      "state": "present",
+      "bytes": 8429958,
+      "sha256": "d015b3fdcd35d07f592597619391e9c819071a369ed6b5f256e983bba693545e",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No readable text: full-length portrait of Bildrath in a fur-trimmed cloak.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "d015b3fdcd35d07f592597619391e9c819071a369ed6b5f256e983bba693545e",
+        "checkedAt": "2026-11-01T14:36:39.908Z"
+      },
+      "references": [
+        {
+          "journalId": "5HxTAJUfDysRErPO",
+          "journalName": "Barovia Village",
+          "pageId": "8Nwlhpgdm45VBjDh",
+          "pageName": "Bildrath",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/creatures/Doru.jpg",
+      "name": "Doru.jpg",
+      "state": "present",
+      "bytes": 1565018,
+      "sha256": "c65baac307d1acb6286b7820037aeea0eab08d7391dbbc87be87024f100b0266",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No in-world text: Doru crouching high in a wooden room. Stylized artist signature at the bottom right; not fully legible.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "c65baac307d1acb6286b7820037aeea0eab08d7391dbbc87be87024f100b0266",
+        "checkedAt": "2026-11-01T14:36:39.918Z"
+      },
+      "references": [
+        {
+          "journalId": "5HxTAJUfDysRErPO",
+          "journalName": "Barovia Village",
+          "pageId": "7QUXZfsBVlofsxQw",
+          "pageName": "Doru",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/creatures/Ismark the Great.png",
+      "name": "Ismark the Great.png",
+      "state": "present",
+      "bytes": 5365858,
+      "sha256": "49cfd1ee6d89a803973e738e2f9d481ac9f2a8e39a3609d9f0f5f59fe3e28b43",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No readable text: monochrome statue of Ismark the Great raising a sword, with candles at its base.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "49cfd1ee6d89a803973e738e2f9d481ac9f2a8e39a3609d9f0f5f59fe3e28b43",
+        "checkedAt": "2026-11-01T14:36:39.945Z"
+      },
+      "references": [
+        {
+          "journalId": "5HxTAJUfDysRErPO",
+          "journalName": "Barovia Village",
+          "pageId": "EjmigUKwk7GnWuw1",
+          "pageName": "Ismark the Great",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/creatures/Strahd introduction.webp",
+      "name": "Strahd introduction.webp",
+      "state": "present",
+      "bytes": 71210,
+      "sha256": "6f1de512d8b183ae5af26da3dda866a548f48db229bdc92ff45812292efe18d0",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No readable text: dark-haired Strahd portrait, with a red-lined cloak and fur collar.]\r\n",
+        "source": "Visually checked local PNG preview",
+        "sha256": "6f1de512d8b183ae5af26da3dda866a548f48db229bdc92ff45812292efe18d0",
+        "checkedAt": "2026-11-01T14:37:56.127Z"
+      },
+      "references": [
+        {
+          "journalId": "5HxTAJUfDysRErPO",
+          "journalName": "Barovia Village",
+          "pageId": "YtAUXUmxIgrHgRZO",
+          "pageName": "Strahd",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/Bildrath_And_Parriwimple_transparent.png",
+      "name": "Bildrath_And_Parriwimple_transparent.png",
+      "state": "present",
+      "bytes": 11285736,
+      "sha256": "96b51172db3029bc4f63a180d0fe713618c2d4d5cec2be4de35bf3f2e129cd7e",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No in-world text: portrait of Bildrath and Parriwimple. Stylized artist signature at the bottom right; not fully legible.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "96b51172db3029bc4f63a180d0fe713618c2d4d5cec2be4de35bf3f2e129cd7e",
+        "checkedAt": "2026-11-01T14:36:39.893Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/Bildrath_transparent.png",
+      "name": "Bildrath_transparent.png",
+      "state": "present",
+      "bytes": 8429958,
+      "sha256": "d015b3fdcd35d07f592597619391e9c819071a369ed6b5f256e983bba693545e",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No readable text: full-length portrait of Bildrath in a fur-trimmed cloak.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "d015b3fdcd35d07f592597619391e9c819071a369ed6b5f256e983bba693545e",
+        "checkedAt": "2026-11-01T14:36:39.908Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/Doru.jpg",
+      "name": "Doru.jpg",
+      "state": "present",
+      "bytes": 1565018,
+      "sha256": "c65baac307d1acb6286b7820037aeea0eab08d7391dbbc87be87024f100b0266",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No in-world text: Doru crouching high in a wooden room. Stylized artist signature at the bottom right; not fully legible.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "c65baac307d1acb6286b7820037aeea0eab08d7391dbbc87be87024f100b0266",
+        "checkedAt": "2026-11-01T14:36:39.918Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/Ireena.png",
+      "name": "Ireena.png",
+      "state": "present",
+      "bytes": 9846182,
+      "sha256": "965b2dc58d82b4799aefded1acc30512ce55789e912bd4ba095209e387806703",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No in-world text: red-haired Ireena in armor with two blades. Stylized artist signature at the bottom right; not fully legible.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "965b2dc58d82b4799aefded1acc30512ce55789e912bd4ba095209e387806703",
+        "checkedAt": "2026-11-01T14:36:39.934Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/Ismark the Great.png",
+      "name": "Ismark the Great.png",
+      "state": "present",
+      "bytes": 5365858,
+      "sha256": "49cfd1ee6d89a803973e738e2f9d481ac9f2a8e39a3609d9f0f5f59fe3e28b43",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "[No readable text: monochrome statue of Ismark the Great raising a sword, with candles at its base.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "49cfd1ee6d89a803973e738e2f9d481ac9f2a8e39a3609d9f0f5f59fe3e28b43",
+        "checkedAt": "2026-11-01T14:36:39.945Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/barovia-village/torn_page.webp",
+      "name": "torn_page.webp",
+      "state": "present",
+      "bytes": 499742,
+      "sha256": "75d2c5a27914098b0c348abdcce6b3909848802228d193542186e0a83531ed08",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.\n\nTheir bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn-ravenous creatures with a vampire's hunger for blood.\n\nThese creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of certain holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.\n\nIt is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will-a sign that the monster within is held at bay, if only while the vampire allows.\n\nTo create a new vampire, a vampire must fully drain the blood of its victim without killing it-a torturous and careful process that can often take multiple nights. For some vampires, this process is a practical means of creating fresh and powerful thralls; for others, it presents a sadistic opportunity to slowly break their victim's will. Some vampires in the latter camp may even appear as an intermittent predator in the night, haunting their target over days or weeks before finally ending their suffering.\n\n78",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "75d2c5a27914098b0c348abdcce6b3909848802228d193542186e0a83531ed08",
+        "checkedAt": "2026-11-01T14:36:39.877Z"
+      },
+      "references": [
+        {
+          "journalId": "1ozGva4ISjwvuTp3",
+          "journalName": "Torn page",
+          "pageId": "ZTR8aDDPE9MbjXBg",
+          "pageName": "Page",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/adventurer-cover-journal.png",
+      "name": "adventurer-cover-journal.png",
+      "state": "present",
+      "bytes": 951696,
+      "sha256": "ebd8071ca6a76fe531a0a90d88c2e6033b287b66bfe46e86aa48f27999b77500",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Personal Journal of\nBenjamen Troubant\n\nCon gratia de la illustrissima Signoria di Vinegia,\nche nessuno la possa imprimere, ne impressa\nvendere nel termino di dieci anni, Sotto le pene che\nin quella si contengono.\n\n[Partly obscured text at the upper left: \"Do Pr...\" and other illegible marks.]",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "ebd8071ca6a76fe531a0a90d88c2e6033b287b66bfe46e86aa48f27999b77500",
+        "checkedAt": "2026-11-01T14:36:39.822Z"
+      },
+      "references": [
+        {
+          "journalId": "355Kkpy3ZV2NS4nr",
+          "journalName": "Adventurer Journal",
+          "pageId": "51470k8MK7Pt5IkC",
+          "pageName": "Cover",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/adventurer-open-journal.png",
+      "name": "adventurer-open-journal.png",
+      "state": "present",
+      "bytes": 1379481,
+      "sha256": "22455a99e697ba20dd57e8beea358619fdbe924dd4fdf32d809d6c30b47d53b0",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "14 June 636\nWe have accepted a contract from Barovia. A nobleman named Strahd von Zarovich is said to be suffering from a corruption tied to the land itself. Our objective is to investigate and, if possible, cure him.\n\n16 June 636\nWe have entered Barovia.\nThe land is wrong. Distances do not remain consistent, and the road behind us is no longer reliable.\nLocals speak of Strahd with fear. Not as a man who can be reached easily, but as something absolute within this place.\n\n17 June 636\nThe mist does not lift. It does not behave like weather. It persists regardless of time or direction.\nWe attempted to chart the roads. The map becomes unreliable within hours. Paths do not match memory.\n\nWe are no longer certain how long we have been traveling.\nAttempts to leave result in returning to familiar ground. There is no clear boundary, only repetition.\nWe continue toward our objective.\n\n18 June 636\nA structure has been located deep within the forest.\n\nA large house stands alone where no settlement should exist. It is intact despite its surroundings.\n\nWe were seen before we approached.\n\nThe inhabitants appeared welcoming.\n\nThey invited us in for dinner.\n\nWe accepted.",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "22455a99e697ba20dd57e8beea358619fdbe924dd4fdf32d809d6c30b47d53b0",
+        "checkedAt": "2026-11-01T14:36:39.832Z"
+      },
+      "references": [
+        {
+          "journalId": "355Kkpy3ZV2NS4nr",
+          "journalName": "Adventurer Journal",
+          "pageId": "QrDzQHUE7xnaTMKF",
+          "pageName": "Page 34",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page1.webp",
+      "name": "page1.webp",
+      "state": "present",
+      "bytes": 149886,
+      "sha256": "63be827706a9890ad6e67354459737bd980a77b67027227f7457f459e6ebecb0",
+      "notes": "Handwritten five-column cult-victim ledger. English version; corresponds to page 5 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "english",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": [
+        {
+          "journalId": "voNi6GpQUB6Gpp0D",
+          "journalName": "Cult Victims",
+          "pageId": "GbiGdnnTBd72zxmK",
+          "pageName": "Page 1",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page2.webp",
+      "name": "page2.webp",
+      "state": "present",
+      "bytes": 133994,
+      "sha256": "12ff14f5ca2411c4590fab191d65fc68a364d24290fd12d97306d67590c8bbc2",
+      "notes": "Handwritten five-column cult-victim ledger. English version; corresponds to page 6 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "english",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": [
+        {
+          "journalId": "voNi6GpQUB6Gpp0D",
+          "journalName": "Cult Victims",
+          "pageId": "22fwwd7wNUuZMcso",
+          "pageName": "Page 2",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page3.webp",
+      "name": "page3.webp",
+      "state": "present",
+      "bytes": 146660,
+      "sha256": "605e4356f6f0e149c9e906b62dd61ce38af64232e0f3f44c9a8843122a0904db",
+      "notes": "Handwritten five-column cult-victim ledger. English version; corresponds to page 7 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing. Describes sexual violence, conflicting with Session 0's no-described-sexual-violence rule. Do not share unchanged.",
+      "tags": [
+        "cult-victims",
+        "english",
+        "transcription-pending",
+        "graphic-torture",
+        "session-0-content-boundary"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": [
+        {
+          "journalId": "voNi6GpQUB6Gpp0D",
+          "journalName": "Cult Victims",
+          "pageId": "bd2oy2CuC6AFkp9N",
+          "pageName": "Page 3",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page4.webp",
+      "name": "page4.webp",
+      "state": "present",
+      "bytes": 136494,
+      "sha256": "362220e392e892dcfe760e6be102d626c42d7bcce15d71fff5b495a4249aceb0",
+      "notes": "Handwritten five-column cult-victim ledger. English version; corresponds to page 8 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "english",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": [
+        {
+          "journalId": "voNi6GpQUB6Gpp0D",
+          "journalName": "Cult Victims",
+          "pageId": "SjiUBERtx5sclZTH",
+          "pageName": "Page 4",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page5.webp",
+      "name": "page5.webp",
+      "state": "present",
+      "bytes": 157042,
+      "sha256": "d129981ea69931b706ccbacdc6614b9c1143891b472dfcd8152bb283312df239",
+      "notes": "Handwritten five-column cult-victim ledger. German version; corresponds to page 1 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "german",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page6.webp",
+      "name": "page6.webp",
+      "state": "present",
+      "bytes": 143710,
+      "sha256": "16004bc0b2a09f4cf08638a5b860a413a023faa90907bae9d1194dba83e418a2",
+      "notes": "Handwritten five-column cult-victim ledger. German version; corresponds to page 2 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "german",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page7.webp",
+      "name": "page7.webp",
+      "state": "present",
+      "bytes": 158070,
+      "sha256": "9b4981f052ccc426e3f1246c523d554ffae80860a429495d012c63fda6c97d20",
+      "notes": "Handwritten five-column cult-victim ledger. German version; corresponds to page 3 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing. Describes sexual violence, conflicting with Session 0's no-described-sexual-violence rule. Do not share unchanged.",
+      "tags": [
+        "cult-victims",
+        "german",
+        "transcription-pending",
+        "graphic-torture",
+        "session-0-content-boundary"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/cult-victims/page8.webp",
+      "name": "page8.webp",
+      "state": "present",
+      "bytes": 151122,
+      "sha256": "7c9ddbaaf4533504086d240d6a08c115050fa0bf314b891a6d9a620bbde82635",
+      "notes": "Handwritten five-column cult-victim ledger. German version; corresponds to page 4 in the other language. Full table transcription not yet cached. Contains graphic torture/death descriptions; review before sharing.",
+      "tags": [
+        "cult-victims",
+        "german",
+        "transcription-pending",
+        "graphic-torture"
+      ],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/durst-invitation.png",
+      "name": "durst-invitation.png",
+      "state": "present",
+      "bytes": 2174844,
+      "sha256": "e8e8ec31ca49df07f42fcf06c6863a2278e3521826fa90fd7bdcc87168e493f0",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "You are cordially invited to join\nCOUNT STRAHD VON ZAROVICH\nto honor MR. GUSTAV & ELISABETH DURST\nat a formal reception. Castle Ravenloft\n6 o'clock p.m.\n13 September, 351\nDinner and refreshments to be served.",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "e8e8ec31ca49df07f42fcf06c6863a2278e3521826fa90fd7bdcc87168e493f0",
+        "checkedAt": "2026-11-01T14:36:39.843Z"
+      },
+      "references": [
+        {
+          "journalId": "MX47NnUwptKHKBl3",
+          "journalName": "Durst Invitation to Dinner",
+          "pageId": "lfpSjMOjxCSEVdWM",
+          "pageName": "Strahd's Invitation to Durst Family",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/death-house/durst-letter.png",
+      "name": "durst-letter.png",
+      "state": "present",
+      "bytes": 15665066,
+      "sha256": "0494e177ce37d2d96fca897d64f2558fd4048e37ef12d9afc2e293bdab2d3801",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "My most pathetic servant,\n\nI am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the ones who brought me to this beautiful land. You are but worms writhing in my earth.\n\nYou say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a stillborn son. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.\n\nYour dread lord and master,\nStrahd von Zarovich",
+        "source": "Visually checked local image/PNG preview; line breaks normalized; uncertainty marked in brackets",
+        "sha256": "0494e177ce37d2d96fca897d64f2558fd4048e37ef12d9afc2e293bdab2d3801",
+        "checkedAt": "2026-11-01T14:36:39.862Z"
+      },
+      "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/handout-generator/record-1-0095b3.webp",
+      "name": "record-1-0095b3.webp",
+      "state": "present",
+      "bytes": 652200,
+      "sha256": "27290f41ea2b44d59b316dea8848273eecbf2e78773eb1372a8101e1d50eb2b9",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\n\nDoru, son of Father Donavich; young man of the village, and Mary's daughter's betrothed\nstatus: missing; presumed dead\nlast seen: roughly three months before Night 1, departing in daylight from the eastern edge of the village for Castle Ravenloft. Departure witnessed by the burgomaster and many villagers.\nhow lost: Led a company of about two dozen villagers against the castle. None returned; no bodies were recovered and no word has been received.\n\nAlanik Ray, adult visiting scholar and lodger at the burgomaster's mansion\nstatus: missing; presumed dead\nlast seen: the same day as Doru, departing for Castle Ravenloft with Doru's company.\nhow lost: He had lodged at the mansion for several weeks to study Barovian history and ecology, and joined the march at Doru's urging. No one from the company returned.\n\nEscher, young adult village bard and Doru's oldest friend\nstatus: missing; presumed dead\nlast seen: departing with Doru's company for Castle Ravenloft, roughly three months before Night 1.\nhow lost: Helped Doru assemble the marchers and joined the company. None returned; no bodies were recovered and no word has been received.\n\nOther members of Doru's company, mostly young adults\nstatus: missing; presumed dead\nlast seen: departing with Doru and Alanik for Castle Ravenloft, roughly three months before Night 1.\nhow lost: None returned and no bodies were found. The company numbered about two dozen; the precise count is uncertain.",
+        "source": "Foundry JournalEntry.42xzfqzETGhL9bpW.JournalEntryPage.K5xlb3JJQR3MzfJX; compared with image; native-text punctuation and paragraph breaks retained",
+        "sha256": "27290f41ea2b44d59b316dea8848273eecbf2e78773eb1372a8101e1d50eb2b9",
+        "checkedAt": "2026-11-01T14:36:39.960Z"
+      },
+      "references": [
+        {
+          "journalId": "42xzfqzETGhL9bpW",
+          "journalName": "Record of Lost and Missing",
+          "pageId": "XGeKTwFkDa5Ej8h6",
+          "pageName": "Record 1",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/handout-generator/record-2-0099g9.webp",
+      "name": "record-2-0099g9.webp",
+      "state": "present",
+      "bytes": 711460,
+      "sha256": "7a213018dc2cc8121a3b84fe5291b72e29f7cb4135aaf40877d5ca09b3ba06b6",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\nEmeric, an older adult villager with graying hair\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: after Rahadin's proclamation, roughly three months before Night 1, departing west along the Old Svalich Road with the first group bound for Vallaki. Departure witnessed by the burgomaster.\nhow lost: No word received since departure. It has not been established whether the two travelers later reported killed by wolves belonged to this party.\n\nMagda, a young adult villager\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Emeric's party, on the same road and day.\nhow lost: No word received since departure.\n\nFranz, an adult widower; wife Alana died of illness before his departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Emeric's party, traveling with his two children and his sister Nyanka.\nhow lost: No word received since departure. Alana's death preceded the departure and was unrelated to the siege.\n\nFyodor, Franz's son and a child at the time of departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with his father, sister Myrtle, and aunt Nyanka in Emeric's party.\nhow lost: No word received since departure.\n\nMyrtle, Franz's daughter and a child at the time of departure\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with her father, brother Fyodor, and aunt Nyanka in Emeric's party.\nhow lost: No word received since departure.\n\nNyanka, Franz's young adult sister\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: with Franz and his children in Emeric's party.\nhow lost: No word received since departure.",
+        "source": "Foundry JournalEntry.42xzfqzETGhL9bpW.JournalEntryPage.wDPSvSNOkGtFBTi7; compared with image; native-text punctuation and paragraph breaks retained",
+        "sha256": "7a213018dc2cc8121a3b84fe5291b72e29f7cb4135aaf40877d5ca09b3ba06b6",
+        "checkedAt": "2026-11-01T14:36:39.973Z"
+      },
+      "references": [
+        {
+          "journalId": "42xzfqzETGhL9bpW",
+          "journalName": "Record of Lost and Missing",
+          "pageId": "pYjVUKEw3md6o9Dt",
+          "pageName": "Record 2",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/handout-generator/record-3-009bbb.webp",
+      "name": "record-3-009bbb.webp",
+      "state": "present",
+      "bytes": 435022,
+      "sha256": "07848a516dbee34da546e3db5dc1049b7b4842f48539270bf4db0150af77864f",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Other members of Emeric's party, up to eighteen villagers of mixed ages\nstatus: departed for Vallaki; whereabouts unconfirmed\nlast seen: departing west along the Old Svalich Road with Emeric's party, after Rahadin's proclamation and roughly three months before Night 1.\nhow lost: No word received since departure. The party numbered no more than two dozen; six members are listed above. The exact total is approximate.",
+        "source": "Foundry JournalEntry.42xzfqzETGhL9bpW.JournalEntryPage.MtrGZdLo39TnWod4; compared with image; native-text punctuation and paragraph breaks retained",
+        "sha256": "07848a516dbee34da546e3db5dc1049b7b4842f48539270bf4db0150af77864f",
+        "checkedAt": "2026-11-01T14:36:39.987Z"
+      },
+      "references": [
+        {
+          "journalId": "42xzfqzETGhL9bpW",
+          "journalName": "Record of Lost and Missing",
+          "pageId": "GVFBg4HYLzbBXjTT",
+          "pageName": "Record 3",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/handout-generator/record-4-009eb9.webp",
+      "name": "record-4-009eb9.webp",
+      "state": "present",
+      "bytes": 599090,
+      "sha256": "d378ac75fb0c8da83434dfcc23caccb06a91b083cd6d0f638cf133fd70587a9b",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Record of the lost and missing — Village of Barovia\nKept by Kolyan Indirovich\n\nDating convention: the first night of the siege is Night 1. Each night runs from dusk to the following dawn.\n\n\nAnton Konstantinovich, Alenka Konstantinova's brother\nstatus: missing\nlast seen: at home before retiring on Night 4, according to Alenka.\nhow lost: Alenka reported him missing on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.\n\nDezdrelda Konstaninova, Anton's wife\nstatus: missing\nlast seen: at home with Anton before retiring on Night 4, according to Alenka.\nhow lost: Reported missing with her husband on the morning after Night 4. The door was undisturbed; no blood, signs of struggle, or body were found. Cause and manner of disappearance unknown.\n\nMarta, adult sister of Bildrath Cantemir\nstatus: dead\nlast seen: at home with her husband and son on Night 4.\nhow lost: According to Bildrath, she chose to stay and defend her home. Killed during the Night 4 attacks.\n\nDragomir, adult husband of Marta; father of Parriwimple\nstatus: dead\nlast seen: at home with Marta and their son on Night 4.\nhow lost: Killed during the Night 4 attacks. Parriwimple survived and is in Bildrath's care.",
+        "source": "Foundry JournalEntry.42xzfqzETGhL9bpW.JournalEntryPage.nKwQFiVUpIqZ1YlX; compared with image; native-text punctuation and paragraph breaks retained",
+        "sha256": "d378ac75fb0c8da83434dfcc23caccb06a91b083cd6d0f638cf133fd70587a9b",
+        "checkedAt": "2026-11-01T14:36:40.000Z"
+      },
+      "references": [
+        {
+          "journalId": "42xzfqzETGhL9bpW",
+          "journalName": "Record of Lost and Missing",
+          "pageId": "jm29ofDZNV6IxiER",
+          "pageName": "Record 4",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worlds/curse-of-strahd/handout-generator/record-5-009g33.webp",
+      "name": "record-5-009g33.webp",
+      "state": "present",
+      "bytes": 702516,
+      "sha256": "16617000ae643db9fca55989a72c59df5065c61cce0447be46f3d7d4cef6a1ea",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "verified",
+        "text": "Record of the lost and missing — Village of Barovia\nKept by Ismark Indirovich\n\n\nKolyan Indirovich, older adult burgomaster of Barovia; father of Ismark Kolyanovich & Ireena Kolyanovich (adopted)\nstatus: dead\nlast seen alive: Night 7, at the mansion. Ireena heard him invite a visitor inside before her memory of the night failed.\nhow lost: Found dead in the first-floor parlor. Kolyan bore one long, clean cut across the chest. Ireena was found unconscious in the same room, alive, with two puncture wounds at her throat. Her account describes a tall, gaunt figure with a deep voice and red eyes. Cause of death: fatal chest wound. Perpetrator unidentified; Strahd is suspected, unconfirmed.\n\nOther villagers and defenders killed in the siege, mixed ages, dozens by rough count\nstatus: dead\nlast seen: at the barricades, in their homes, and in the streets over the course of the siege.\nhow lost: Killed in the attacks. Many bodies were visible when the western barricade fell. The exact total remains a rough count.\n\nThe undead withdrew after Kolyan's death. The siege ended on Night 7.\n\n\n\nGertruda, Mary's young adult daughter and Doru's betrothed\nstatus: missing\nlast seen: at home with her mother on Night 6, before they retired, according to Mary. Mary found her gone at dawn after Night 6; the family horse, Nori, was also missing from its stall.\nhow lost: Mary believed Gertruda had set out alone for Vallaki to seek aid from its burgomaster. Scouts sent to search the western road on the morning after Night 6. Recorded as missing.\n\nLansten family: two adults and three children (one girl and two boys)\nstatus: missing\nlast seen: during a zombie attack on Night 7; exact location not recorded.\nhow lost: Their disappearance was reported on the morning after Night 7. Their fate is unknown.",
+        "source": "Foundry JournalEntry.42xzfqzETGhL9bpW.JournalEntryPage.piP4uh5Oi5CePKkB; compared with image; native-text punctuation and paragraph breaks retained",
+        "sha256": "16617000ae643db9fca55989a72c59df5065c61cce0447be46f3d7d4cef6a1ea",
+        "checkedAt": "2026-11-01T14:36:40.016Z"
+      },
+      "references": [
+        {
+          "journalId": "42xzfqzETGhL9bpW",
+          "journalName": "Record of Lost and Missing",
+          "pageId": "s4THoS6MT3APdhyQ",
+          "pageName": "Record 5",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 2,
+              "pageLevel": 2,
+              "journalInSidebar": true,
+              "pageReadable": true,
+              "access": "observer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

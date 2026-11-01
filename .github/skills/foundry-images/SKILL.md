@@ -7,6 +7,8 @@ description: Finds the best Foundry VTT image (icon, token, avatar, portrait, de
 
 Owner of every image path that goes into Foundry JSON. Any agent building an actor, spell or item must get its `img`/`token` from here instead of guessing a path. For statblocks, this includes an image for every embedded item, not only the actor portrait and token.
 
+For player handouts, letters, asset transcriptions and journal visibility, use [foundry-assets](../foundry-assets/SKILL.md) instead. This skill selects artwork; it does not track whether a player can read a handout.
+
 ## Find an image
 
 **Named items first**: Foundry already has an icon for many item names, so reuse the exact match before selecting a substitute.
