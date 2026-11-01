@@ -99,6 +99,9 @@ This scene begins similarly to <span class="citation">River Ivlis Crossroads (p.
 ## C2a. Strahd’s Arrival
 The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
 
+![[Escher.webp]]
+<span class="credit">"Escher" by Dardwolf (<a href="https://www.patreon.com/calebisdrawing/">Patreon</a>).</span>
+
 > [!warning]+ **DM Only: Sister Elga's Urn**
 > Escher is undead. If Sister Elga is within 300 feet, her Urn of Soulcatching glows bright purple. Tell the player.
 
