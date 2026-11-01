@@ -1,7 +1,7 @@
 ---
 status: exploring
 player: grim
-updated: 2026-10-17
+updated: 2026-10-31
 ---
 # Concept: The Honest Price
 
@@ -271,4 +271,6 @@ Grim gains a fair lead: a baker with a cart, met on the road to Vallaki, is some
 
 ## Decision
 
-Pending formal choice (status stays `exploring`). Direction taken so far: Morgantha's coven as the culprit, the deal as the Mists', the hags unaware, the Mists wearing the shadow the hag left behind, the coven offering Milo to Lysaga as tribute, Sister Elga's arc kept in view, and Milo kept present throughout, with The Dreaming Boy as the preferred package. dm_plans.md has not been edited.
+**Partial decision (2026-10-31):** The DM considers Grim's story from the original loss through the end of Arc C definitive for this concept. The hags who marked Grim are Morgantha's coven; they took Milo and killed Will as revenge. The Mists offered Grim a separate, honest bargain and gave her the pouch and Living Shadow, without promising a reunion; the hags do not know about the bargain. The coven's arrangement with Baba Lysaga is also definitive: they intend Milo as tribute and seek her protection from Strahd's notice and her rites. Lysaga accepts, while Morgantha privately resents submitting to her. In Arc C, Eva can point Grim toward the woman with the baker's cart, and Morgantha recognizes Grim, stays composed, and tests what she knows without revealing Milo's location or the Mists' bargain.
+
+This fixes the story direction and the Arc C setup, not every later beat. Whether Milo has already been delivered to Lysaga, the precise time gap, and the extent of Morgantha's probing beyond the established Arc C encounter remain open. The overall concept stays `exploring`; later arc choices are not final, and campaign files have not been updated.
