@@ -4,7 +4,7 @@ description: The DM's step-by-step pipeline for preparing a session, and where p
 ---
 # Session prep
 
-The DM's pipeline is in [pipeline.md](./pipeline.md). Follow it in order and stop at the "lock" point (step 3) for redesign. Stop preparing when the final check is all ticked.
+The DM's pipeline is in [pipeline.md](./pipeline.md). **When prepping a session, strictly follow the structure established there:** work through steps 1-6 in order, do exactly what each step says, meet its `Done when` criteria before moving on, and do not skip, merge, reorder or invent steps. Stop at the "lock" point (step 3) for redesign. Stop preparing when the final check is all ticked.
 
 ## Working Across Turns
 
