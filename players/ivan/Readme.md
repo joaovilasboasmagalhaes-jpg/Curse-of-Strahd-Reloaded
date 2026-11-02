@@ -26,3 +26,7 @@ This DM-only document contains mutable plans for connecting Ivan's backstory to 
 
 - [Clan Lore](clan_lore_dm.md): Mutable DM canon for the two clans, their secrecy, Strahd's limited interest, Skennis's ward plan, family history, and Ivan's exile.
 - [Campaign Integration](dm_campaign_integration.md): Mutable campaign-facing consequences, arc hooks, revelations, and implementation notes.
+
+## DM-only
+
+- [Player Profile](player_profile.md): Session observations and tentative hypotheses; no player questionnaire response is available.

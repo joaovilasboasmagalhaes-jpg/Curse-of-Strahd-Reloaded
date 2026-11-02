@@ -12,7 +12,7 @@ Knowledge for making a character's story work **for the player at the table**. S
 | Need | Source |
 |---|---|
 | Who the character is | The player's Readme, then the fixed backstory and plot hook |
-| What the player wants and enjoys | `players/<name>/player_profile.md` (see [player-profile-template.md](./player-profile-template.md)). If it does not exist, say so and ask the DM instead of guessing |
+| What the player wants and enjoys | `players/<name>/player_profile.md` (see [player-profile-template.md](./player-profile-template.md)). Distinguish stated preferences from working hypotheses. If missing or inconclusive, use `player-profile` to assess available evidence, or ask the DM; do not invent preferences |
 | Past decisions and rejected ideas | `players/<name>/design_notes.md`, if present |
 | Current ideas | `players/<name>/concepts/*.md` (see [concept-template.md](./concept-template.md)) |
 | Decided plans | `players/<name>/dm_plans.md`, `dm_campaign_integration.md` |
@@ -50,11 +50,11 @@ Score it against the list above, including a comparison with every other player'
 Map the arc onto acts and arcs using `campaign-state`, `timeline` and `cartographer`. Space the beats across sessions, and note where the player's mechanics matter (`combat`) and which NPCs carry the story (`npcs`).
 
 **Check satisfaction after play**
-Compare what happened at the table with the plan. Note what the player responded to, and update the player's profile (with the DM's confirmation).
+Compare what happened at the table with the plan. Use the [player-profile](../player-profile/SKILL.md) skill to assess sourced actions and reactions. When a profile update is requested, record observations and labeled hypotheses without requiring confirmation of each entry; explicit player feedback or DM confirmation is required to treat an inference as a confirmed preference.
 
 ## Rules
 
-- **The player's satisfaction is the DM's call.** Propose, and ask the DM what the player said or showed. Do not invent a player's preferences.
+- **The player's satisfaction is the DM's call.** Propose, and ask the DM what the player said or showed when evidence is missing or ambiguous. Evidence-backed profile hypotheses may guide tentative options, but do not establish satisfaction or override stated preferences.
 - **Fixed backstory does not change.** Develop around it.
 - **Keep the story coherent.** A satisfying arc still has to make sense in the campaign. Use the specialist skills or the Continuity Reviewer for that.
 - **Never decide the character's choices.** Offer situations, not outcomes.

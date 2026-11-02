@@ -1,6 +1,6 @@
 # Player Profile: <Player / Character>
 
-DM-only. The DM fills this in. Agents read it to judge what will satisfy the player, and they will not guess what is missing.
+DM-only. Records explicit player feedback and DM input, plus sourced observations and labeled hypotheses maintained with the `player-profile` skill. Agents use it to judge what may satisfy the player; unknowns stay `Not established`, and hypotheses are not confirmed preferences.
 
 ## Player
 
@@ -20,3 +20,20 @@ DM-only. The DM fills this in. Agents read it to judge what will satisfy the pla
 ## Notes
 
 - Anything else about how this player experiences the story.
+
+## Assessment Coverage
+
+- **Sessions / sources assessed:** Not established.
+- **Gaps:** Not established.
+
+## Observed Play
+
+- Record concrete actions or explicit reactions with a relative source link and identifying scene. Separate character choices from player feedback; do not assume motives.
+
+## Working Hypotheses
+
+- **Hypothesis:** Not established.
+  - **Confidence:** Low / medium / high; unconfirmed.
+  - **Evidence:** Source links and specific observations.
+  - **Alternatives / counterevidence:** Other explanations or conflicting examples.
+  - **Preparation implication / check:** A small, optional way to test the hypothesis or a question for the DM.

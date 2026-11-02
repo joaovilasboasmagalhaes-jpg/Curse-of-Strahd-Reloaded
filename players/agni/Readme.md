@@ -24,3 +24,7 @@ These DM-only documents contain mutable plans for connecting Agni's backstory to
 
 - [DM Plans](dm_plans.md): Mutable DM canon for Doctor Osric Valemont, the Widow’s Peak experiment, the 3-tiered cure, and thematic NPC foils.
 - [Campaign Integration](dm_campaign_integration.md): Mutable campaign-facing consequences, act-by-act DM hooks, scene adjustments, inter-party alchemical collaboration with Sister Elga, and boss encounters.
+
+## DM-only
+
+- [Player Profile](player_profile.md): Stated preferences, session observations, and tentative hypotheses about the player.

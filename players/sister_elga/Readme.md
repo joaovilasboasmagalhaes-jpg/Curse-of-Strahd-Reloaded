@@ -25,3 +25,7 @@ These documents are intended to evolve as the campaign develops.
 - [DM Plans](dm_plans.md): Plans for incorporating the player's backstory into the campaign.
 - [Rahadin](rahadin.md): Notes on possible connections between Rahadin's history and powers, Sister Elga's abilities, and the church's history.
 - [The Silent Cloister](silent_cloister.md): The lost monastery in Barovia, including its history, layout, NPCs, and encounters.
+
+## DM-only
+
+- [Player Profile](player_profile.md): Stated preferences, session observations, and tentative hypotheses about the player.

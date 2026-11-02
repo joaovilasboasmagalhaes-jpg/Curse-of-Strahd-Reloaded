@@ -21,3 +21,7 @@ These player-accessible documents record Grim's established background, knowledg
 This DM-only document contains mutable plans for connecting Grim's backstory to Barovian lore.
 
 - [DM Plans](dm_plans.md): Mutable DM canon for the Mist Creature's bargain, the fate of Milo, the Living Shadow, and the hag coven's role.
+
+## DM-only
+
+- [Player Profile](player_profile.md): Stated preferences, session observations, and tentative hypotheses about the player.

@@ -22,3 +22,7 @@ These DM-only documents contain mutable plans for connecting Caspian's backstory
 
 - [DM Plans](dm_plans.md): Mutable DM canon for Ashcairn, the Order of the Blades academy, the Northern Pack raid that destroyed Caspian's home, and the raid's leader, Ravka Ashclaw.
 - [Campaign Integration](dm_campaign_integration.md): Mutable campaign-facing consequences, act-by-act DM hooks, the shared throughline with Ivan's Arc L/Arc Q, and Ravka's boss encounter.
+
+## DM-only
+
+- [Player Profile](player_profile.md): Stated preferences, session observations, and tentative hypotheses about the player.
