@@ -16,3 +16,4 @@
 
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
+- Get player map for what the party has already explored.
