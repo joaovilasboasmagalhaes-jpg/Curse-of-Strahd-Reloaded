@@ -6,10 +6,10 @@ Party: Agni (dhampir blood hunter), Caspian, Grim, Ivan, Sister Elga (priest of 
 
 ## Current position
 
-- **Last session covered:** Session 7.
-- **Act I, Arc C ("Into the Valley"), at C2a. Strahd's Arrival.** The party is at the River Ivlis Crossroads and has just met Strahd, who greeted them by name and title. Escher was driving his carriage, coming from the Vistani camp.
-- **Date:** Neyavr 1, 735 B.C. (inferred, unconfirmed). The logs state no dates, so this comes from the Act I timeline. The ledger is in the `timeline` skill (`date-ledger.md`).
-- **Likely next:** the rest of C2 (Strahd's conversation), then Tser Pool (C4) and the road to Vallaki.
+- **Last session covered:** Session 8.
+- **Act I, Arc C ("Into the Valley"), at C4d. The Dancing Fire.** The party is at the Tser Pool fire after meeting Eliza and Arturi. They have received private readings from Madam Eva; the shared reading is still to come at the River Ivlis Crossroads at midnight.
+- **Date:** Neyavr 1, 735 B.C. (confirmed). Session 8 began after noon and ended before the planned midnight meeting.
+- **Likely next:** Continue the Tser Pool visit, then return to the crossroads for Madam Eva's shared reading and the next Arc C beats.
 
 ## Sessions
 
@@ -27,10 +27,15 @@ Party: Agni (dhampir blood hunter), Caspian, Grim, Ivan, Sister Elga (priest of 
 
 **Session 7: Church, departure, crossroads.** They carried Kolyan to the church. Elga's urn reacted to a near-undead in the square. They learned Doru is a vampire spawn in the Undercroft. They put Doru to the blood test, with Agni first and then Grim. Doru resisted and passed, and he and Donavich reconciled. Ivan threatened Doru and made Donavich responsible for him, and told the party "this is the last time you make me do something like this." Doru mentioned only Strahd's heart. Donavich suggested the abbey of St. Markovia in Krezk. At Bildrath's Mercantile Parriwimple gave each a waterskin and Grim a daisy. Ismark gave Elga a copy of the Record of Lost and Missing. Ireena gave the party her silver bracelet. Beyond the bridge the party left the scouts alone and found Van Richten's cache. Elga freed the zombified Langsten family's souls into her urn. At the crossroads Strahd's carriage arrived and Strahd introduced himself.
 
+**Session 8: Strahd, the raven, and Tser Pool.** Ivan changed his appearance and introduced himself to Strahd as Boris; the party supported his cover story that he was a Barovian townsman. Strahd spoke with the party about Ireena, the village's punishment, Death House, and whether outsiders should be allowed to leave, then departed southwest. The DM designated Ivan as the Hanged One, showing his real face. Elga's urn glowed near Escher, and the DM confirms the player was told. On the road, they defeated the strix, protected the blue-tipped raven, removed its silver barbs, and healed it; Ivan invited it to his shoulder. At Tser Pool, Stanimir welcomed them and Madam Eva gave private readings. Caspian deferred his question; Elga's answer about the shadow included an improvised line; Agni asked about the cure; Ivan asked whether Strahd was responsible for what happened to him; and Grim asked where the drowned town was. The party then discussed their shared goal and personal reasons for being in Barovia. Ivan's answer is still awaiting the player. Eva will meet them at the crossroads at midnight for their shared reading. Eliza and Arturi met them at the fire; Arturi asked whether they had met Van Richten, and they said no. The session ended at the fire.
+
 ## Open threads
 
-- Ireena was asked to go to Vallaki with the party, and her possible transformation was discussed. The conditions for it had not been met.
+- Ireena is traveling with the party toward Vallaki; her possible transformation was discussed, but the conditions for it had not been met.
 - The scouts are searching for Gertruda and the Langsten family.
 - Grim's pouch with a heartbeat, and the Vistani path promised in her bargain.
 - Elga's urn holds the Langsten family's souls and memories.
 - Strahd's spies (bats, wolf, rats) have been watching the party.
+- Strahd may suspect the party's cover story for Ivan; he said he would investigate.
+- Madam Eva's shared reading is scheduled for midnight at the River Ivlis Crossroads. Caspian's personal question and Ivan's account of his reason for coming to Barovia remain unresolved.
+- Elga's improvised addition to Eva's answer about the shadow may need clarification; it is not established as an explanation.

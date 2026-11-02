@@ -1,13 +1,13 @@
 # NPC Roster State
 
-Maintained by `npcs`. Established by `sessions/` through Session 7. Logs win over this file. Statuses are as of the end of Session 7 (Neyavr 1, inferred).
+Maintained by `npcs`. Established by `sessions/` through Session 8. Logs win over this file. Statuses are as of the end of Session 8 (Neyavr 1, confirmed).
 
 ## Village of Barovia
 
 | NPC | Status and location | Notes from the logs |
 |---|---|---|
 | Ismark Kolyanovich | Alive, at the mansion | Fought alone against a plague spreader and nearly fell, and Elga healed him. Asked the party to take Ireena to Vallaki. Gave Elga a copy of the Record of Lost and Missing |
-| Ireena Kolyana | Alive, at the knoll, leaving with the party | Was unconscious after Kolyan's death. The party was unsure whether she would turn, though the conditions were not met. Gave the party a silver bracelet and says she knows nothing about it |
+| Ireena Kolyana | Alive, with the party at Tser Pool | Was unconscious after Kolyan's death. The party was unsure whether she would turn, though the conditions were not met. Gave the party a silver bracelet and says she knows nothing about it. At the crossroads, Strahd spoke fondly to her and explained his punishment of the village |
 | Kolyan Indirovich | Dead | Died on the night of the siege. The party cleaned the body and carried it to the church for burial. Had given the party a scroll |
 | Bildrath | Alive, injured | Nearly died from the plague spreader's miasma. Agni gave him a healing potion. Parriwimple carried him away. Antagonized by the party, especially Ivan |
 | Parriwimple | Alive, at the church and shop | Gave each party member a waterskin and Grim a daisy |
@@ -22,16 +22,25 @@ Maintained by `npcs`. Established by `sessions/` through Session 7. Logs win ove
 
 | NPC | Status | Notes from the logs |
 |---|---|---|
-| Strahd von Zarovich | At the River Ivlis Crossroads | Introduced himself to the party at the end of Session 7. His spies (bats, wolf, rats) watched the party at the tower, village and mansion |
+| Strahd von Zarovich | Departed southwest from the River Ivlis Crossroads | Spoke with the party and said he learned they existed from his foretelling, while his spies supplied the specific details. Ivan used the name Boris and claimed to be a Barovian townsman; the party supported the story. Strahd said he would investigate, and may suspect the lie |
 | Rahadin | After the siege | Appeared at the town square, raised the dead villagers and proclaimed. Congratulated Ismark. Sniffed Ivan and Agni. Spoke to Elga about her urn. Knew nothing of Grim's heart pouch |
 | Escher | Driving Strahd's carriage | Ireena was shocked to see him as the driver. He came from the Vistani camp |
+
+## Tser Pool Encampment
+
+| NPC | Status and location | Notes from the logs |
+|---|---|---|
+| Madam Eva | At Tser Pool; plans to meet the party at the crossroads at midnight | Gave the party private readings and said she would prepare their shared reading. The party had not received the shared reading by the end of the session |
+| Stanimir | Alive, at Tser Pool | Welcomed the party and invited them to Madam Eva's tent and the campfire |
+| Eliza | Alive, at Tser Pool | Met the party after Madam Eva's readings and joined them at the fire; no further exchange is logged |
+| Arturi Radanavich | Alive, at Tser Pool | Asked the party whether they had met Van Richten; they said no |
 
 ## Others
 
 | NPC | Status | Notes from the logs |
 |---|---|---|
-| Rudolph van Richten | Absent | The party read a torn page of his book and found his cache in the Svalich Woods. Agni recognized the name. Ivan and Elga knew him as an author and monster hunter |
-| Madam Eva | Not met | Ismark mentioned her as an advisor on Strahd |
+| Rudolph van Richten | Absent | The party read a torn page of his book and found his cache in the Svalich Woods. Agni recognized the name. Ivan and Elga knew him as an author and monster hunter. When Arturi asked whether they had met Van Richten, the party said no |
+| Blue-tipped raven (Muriel Vinshaw; identity unknown to the party) | Traveling with the party, perched on Ivan's shoulder | The party protected it during the strix attack, removed its silver barbs, and healed it |
 | Stranger with a pet monkey | Unknown | Arrived in the village days before the rebellion (from villagers' talk) |
 | Walter Durst (Flesh Mound) | Dead | Killed by the party. Elga believed it was Walter |
 | Rose and Thorn Durst | At rest | Elga carried their souls in the urn, then Ivan buried their remains and the souls left |
