@@ -24,6 +24,7 @@ The request says whether the content is a **concept** (status `exploring`) or a 
 7. Check the content against the Session 0 rules (`.github/skills/session-rules/SKILL.md`): content boundaries, PvP consent, difficulty, loot, resurrection and combat house rules. Report a violation as a campaign-text-level issue with the smallest fix.
 8. Check spoilers. DM-only plans must not appear as something the characters already know.
 9. Check Sister Elga's Urn (`players/sister_elga/soul_gathering.md`): it glows bright purple within 300 feet of any undead. If the content places Elga near undead, report it as an issue if the plan does not have the Urn glow and the player be told. If an undead is hidden or disguised, note that the Urn still glows.
+10. Check Agni's Blood Sense (`players/agni/vampire_details.md`), especially for ambushes and hidden or invisible creatures. Flag missing DM reminders for living creatures within 30 feet, even behind total cover. It is always active while Thirsty; Composed requires a bonus action for 1 minute, Sated an action for 10 minutes. Unknown stage/activation needs a conditional warning, not assumed detection. When active, it reveals exact locations, bloodied status and which living creature has the lowest current HP, not appearance or identity. Flag plans that mistake it for sight, use it to detect nonliving creatures such as undead, or automatically settle the whole party's surprise.
 
 ## Output Format
 A short list, most serious first. For each item give:

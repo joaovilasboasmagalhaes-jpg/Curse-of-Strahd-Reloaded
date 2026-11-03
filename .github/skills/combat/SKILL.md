@@ -7,6 +7,8 @@ description: Knows stat blocks, abilities and encounter design for the campaign 
 
 Provides numbers and mechanics. The identity and behavior of an NPC belong to `npcs`. This skill answers "what can it do, and how hard is this fight?"
 
+Use `dnd-rules` for verified book mechanics and a brief scan for fitting lesser-used options (for example chases, sidekicks, morale or object damage). Follow its local rulebook references when an NPC entry cites Tasha's sidekick rules. Suggestions do not replace the campaign's existing builds or adopt optional combat rules without the DM.
+
 ## Sources
 
 | Need | Source |
@@ -30,6 +32,7 @@ Provides numbers and mechanics. The identity and behavior of an NPC belong to `n
 - **Fixed history.** The logs say what happened in earlier fights. Do not retcon outcomes.
 - **Party, not average party.** There are five PCs (Agni, Caspian, Grim, Ivan, Sister Elga). Use their real mechanics, not a generic party.
 - **Elga's Urn warns of undead.** Her Urn glows bright purple within 300 feet of any undead, so an ambush by undead near her is never a surprise to her player. When building or judging an encounter with undead, say when the Urn starts glowing and remind the DM to tell the player.
+- **Agni's Blood Sense can expose an ambush.** Check `players/agni/vampire_details.md` whenever building or judging hiding, invisibility or an ambush involving Agni. Living creatures within 30 feet are detected even through total cover or invisibility while the sense is active. It is always active while Thirsty; Composed requires a bonus action for 1 minute, Sated an action for 10 minutes. Add "DM: Agni's Blood Sense: check thirst stage/activation; tell the player if active", with eligible creatures, distances and when they enter or leave range. Keep unknown activation conditional. It reveals exact locations, bloodied status and which living creature has the lowest current HP, not appearance or identity; it is not normal sight, does not detect nonliving creatures such as undead, and does not automatically settle the whole party's surprise. Check Predatory Focus and Blood Frenzy against his stage when relevant.
 - **Intended difficulty (Session 0).** The table chose: few easy fights, most fights hard, and TPK is a frequent, accepted risk. Do not balance encounters to guarantee survival. When judging a fight, a result of "easy" or "comfortably winnable" is a mismatch with the table's intent: say so and propose a harder or more dangerous version (stronger enemies, a clock, worse terrain, reinforcements). Pair danger with foreshadowing and a way to retreat or escape, since the DM promised a fair chance to avoid bad situations. Combat is infrequent (about every two or three sessions), so each fight should matter.
 - **Enemy behavior.** Enemies act like trained soldiers: they use cover, focus weak targets, retreat when losing and exploit weaknesses. Beasts and mindless creatures may be simpler, and commanders smarter.
 - **Session 0 combat rules.** Flanking +2 to attack rolls, critical hits double the dice, default 5e conditions, potions are an action (full) or a bonus action (rolled), death saves are secret. See the `session-rules` skill.

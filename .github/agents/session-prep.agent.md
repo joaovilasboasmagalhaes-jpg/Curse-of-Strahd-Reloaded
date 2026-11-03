@@ -21,6 +21,7 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 - DO NOT edit or contradict `sessions/*/log.md`.
 - DO NOT start a subagent without the DM's permission.
 - DO check every scene, fight, reward and NPC choice against the `session-rules` skill, and every scene for undead within 300 feet of Elga (Urn glow warning).
+- DO check scenes involving Agni, especially ambushes and hidden or invisible creatures, for living creatures within 30 feet, including behind total cover. Follow `players/agni/vampire_details.md` and the `session-prep` skill's Blood Sense warnings: always active while Thirsty, activation required in other stages, conditional if stage/activation is unknown. Remind the DM to tell the player what the active sense reveals, without equating it with sight or automatically ruling surprise for the party.
 - DO NOT over-prepare. Stop at what the session can reasonably reach.
 
 ## Approach

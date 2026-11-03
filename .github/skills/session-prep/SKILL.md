@@ -40,6 +40,8 @@ Scenes, NPCs, clues, branches. DM-only material is marked.
 Each significant fight: objective or what players react to, expected rounds.
 ### Urn glow warnings
 Per scene, undead within 300 feet of Elga, or "none".
+### Blood Sense warnings
+Per scene involving Agni, especially ambushes or hidden creatures: living creatures within 30 feet (even behind total cover or invisible), distances and when they enter or leave range, or "none". Mark "DM: Agni's Blood Sense: check thirst stage/activation; tell the player if active".
 ## 5. Table prep
 Foundry, maps, tokens, props, music.
 ## 6. Study and practice
@@ -50,6 +52,8 @@ Foundry, maps, tokens, props, music.
 ## Rules
 
 - Every scene, fight, reward and NPC choice is checked against the `session-rules` skill.
+- Check Agni's Blood Sense against `players/agni/vampire_details.md`: always active and unsuppressible while Thirsty; Composed activates it with a bonus action for 1 minute, Sated with an action for 10 minutes. If stage or activation is unknown, keep scene warnings conditional. Active Blood Sense reveals living creatures' exact locations, bloodied status and which has the lowest current HP, not appearance or identity. Do not equate it with sight, detect nonliving creatures such as undead, or automatically rule surprise for the whole party.
 - Steps 2-3 use `campaign-state`, `timeline`, `cartographer` and `npcs`; step 4 fights use `combat`.
+- Use `dnd-rules` within the existing steps: scan for fitting published mechanics in steps 2-3, resolve adoption questions before lock, include approved procedures and book citations with step 4 scenes, and study them in step 6. Suggest useful lesser-known rules without adding steps or reopening locked design merely to add an option.
 - Do not prepare more than the session can reasonably reach.
 - During prep, do not edit session logs. Record desired campaign-source changes in step 2; in step 3, apply relevant edits to campaign files once the DM agrees, and note the files and outcome in `prep.md`.
