@@ -75,13 +75,15 @@ After Grim left, the party discussed what their shared goal was outside the tent
 
 - Agni - he told the story of a vampire infecting him and his son and he followed him here through a ritual and now he wants a cure. Through the conversation he suspects it wasn’t Strahd himself who he saw
 - Caspian - he revealed his village was attacked by werewolves and the attackers spoke of the devil Strahd so he wants revenge. The player forgot to mention the kidnapped children.
-- Grim - she talked about the shadow who killed her husband and took her son and about the deal (i didn’t notice if she separated the two, but probably not). She also revealed the bag with the heart (which incidentally is stained from the , which intrigued Elga since her sign talked about a bag and of stains)
-- Ivan - don’t remember, asked player, waiting for reply
+- Grim - she talked about the shadow who killed her husband and took her son and about the deal (i didn’t notice if she separated the two, but probably not). She also revealed the bag with the heart (which incidentally is stained from the flesh, which intrigued Elga since her sign talked about a bag and of stains)
+- Ivan - he told the party that Strahd threatened his entire family if Ivan didn’t leave his clan. He also believes Strahd has an ability to manipulate or influence people’s minds (Ivan believes his brother cast him out because of this power of Strahd, but this part he didn't explain to the party)
 - Sister Elga - she explained how she is a priest of the Ven and what they defend. She talked about the monastery and about stepping on a rune. They also had an extensive conversation about her order and the exceptions to getting rid of undeath, and situations like Doru or Agni.
 
 Finally they came back into Madam Eva’s tent and she received the raven with a familiar smile and talked about her old pet raven. Then she told them she would prepare for their shared reading and would meet them in the river Ivlis crossroads at midnight. Before the party left, madam Eva warned them of a servant of Strahd approaching.
 
 They met Eliza and Arturi. Arturi asked them about Barovia and if they met Dr Rudolph Van Richten there. The party said no. They then all went to sit by the fire and the session ended.
+
+After the session ended, I gave inspiration to Caspian and Ivan for their roleplay. Ivan was scared of Strahd and played it well, showing genuine fear and concern for his family's safety. Caspian was able to hold his composure and act with determination despite the hatred and anger he felt towards Strahd.
 
 # Next session
 
