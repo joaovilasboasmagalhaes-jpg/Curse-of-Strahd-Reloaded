@@ -466,12 +466,12 @@ If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia
 
 Any player character may request a personal reading from Madam Eva. If asked, she agrees to speak with that character privately. She does not share one character's reading with the others.
 
-> [!info]+ **DM Only: Agni's Personal Reading**
-> If Agni requests a reading, Madam Eva turns the crystal ball toward him. Read:
->
-> A scarlet thread coils through the haze,  
-> then parts in two before your gaze.
->
+### Agni's Personal Reading
+If Agni requests a reading, Madam Eva turns the crystal ball toward him. Read:
+
+A scarlet thread coils through the haze,  
+then parts in two before your gaze.
+
 > *“One cup was drained beneath a living flame;*  
 > *no common hand can fill it quite the same.”*
 >
@@ -480,15 +480,15 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 >
 > *“Wild red may pass; the cup stays as before.*  
 > *One named heart’s red drains it; none can restore.”*
->
-> The red threads fade and disappear;  
-> beyond the glass, a heartbeat answers, small but clear.
->
-> The crystal clouds and dims the light;  
-> an old face drifts into the night.  
-> A pale hand reaches through the glass  
-> toward a black-stone house from ages past.
->
+
+The red threads fade and disappear;  
+beyond the glass, a heartbeat answers, small but clear.
+
+The crystal clouds and dims the light;  
+an old face drifts into the night.  
+A pale hand reaches through the glass  
+toward a black-stone house from ages past.
+
 > *“The borrowed face has fallen; the hand is home,*  
 > *returned to the keep where shadows roam.*  
 > *Follow the work it left behind;*  
@@ -497,25 +497,25 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *a banked ember in its folds.*  
 > *The last lock yields when he must fall,*  
 > *the valley’s lord, who rules it all.”*
->
-> If Agni asks who Vasili was, Eva answers:  
+
+If Agni asks who Vasili was, Eva answers:  
 > *“He came to you as Vasili;*  
 > *that borrowed name he bore so freely.*  
 > *His true name is Osric, hidden from your sight;*  
 > *his master woke and called him to heel that night.”*
->
-> If Agni asks whether Milosh is alive, Eva answers:  
+
+If Agni asks whether Milosh is alive, Eva answers:  
 > *“Beyond the Mists, beyond your sight,*  
 > *one little heart still beats tonight.”*  
-> If he asks what the beat means, she says:  
+If he asks what the beat means, she says:  
 > *“His heart has not gone still;*  
 > *death has not had its will.”*
->
-> If Agni asks what the cure requires, Eva answers:  
+
+If Agni asks what the cure requires, Eva answers:  
 > *“Three locks bind one door; their forms are clear;*  
 > *I show them, but cannot turn them here.*  
 > *His crystallized heart-blood, sealed in glass, is the first key;*  
-> *claim Osric’s vial, not his life, and set the bloodline free.*  
+> *claim Vasili’s vial, not his life, and set the bloodline free.*  
 > *Beneath the mountain, amber guards its ember deep;*  
 > *the second key lies sealed within, still fast asleep.*  
 > *When the valley’s lord is slain, the blood-chain breaks apart;*  
@@ -523,33 +523,33 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *I show where all three keys lie;*  
 > *the hand that turns them must be thine.”*
 
-> [!info]+ **DM Only: Caspian's Personal Reading**
-> If Caspian requests a reading, Madam Eva turns the crystal ball toward him. Read:
->
+### Caspian's Personal Reading
+If Caspian requests a reading, Madam Eva turns the crystal ball toward him. Read:
+
 > *“Cold rain falls through a roof torn wide;*  
 > *no hearth-fire warms the rooms inside.*
 >
 > *Small footprints cross the threshold stone;*  
 > *they fade before their trail is known.”*
->
-> The glass clouds; then comes silver light  
-> two paths emerge and fork from sight.
->
+
+ The glass clouds; then comes silver light  
+ two paths emerge and fork from sight.
+
 > *“Two wolf-tracks score the furrowed loam;*  
 > *one wanders wide, one circles home.*
 >
 > *A borrowed sign may stain the snow;*  
 > *who bade them hunt, no tracks can show.”*
->
-> Far-off lights wake beyond the rain;  
-> the fog folds in, then parts again.
->
+
+Far-off lights wake beyond the rain;  
+the fog folds in, then parts again.
+
 > *“Small hearts still beat beyond your sight;*  
 > *their lives may yet be drawn to light.”*
->
-> The far lights dim; the boughs draw near;
-> new shapes emerge, then disappear.
->
+	
+The far lights dim; the boughs draw near;
+new shapes emerge, then disappear.
+
 > *“The old voices fade; new leaders rise;*  
 > *the pack wears change before your eyes.*
 >
@@ -564,32 +564,32 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 >
 > *Your hearth lies cold; its stones remain;*  
 > *many hands may warm it again.”*
->
-> If Caspian asks whether the taken children can be saved, Eva answers:
->
+
+If Caspian asks whether the taken children can be saved, Eva answers:
+
 > *“Some doors are closed, not locked by fate;*  
 > *a timely hand may reach them yet.”*
->
-> If Caspian asks whether Strahd ordered the attack, or whether the pack's new leaders were responsible, Eva answers:
->
+
+If Caspian asks whether Strahd ordered the attack, or whether the pack's new leaders were responsible, Eva answers:
+
 > *“Do not make haste to lay the blame;*  
 > *first learn whose hand lit up the flame.”*
->
-> If Caspian asks whether he can restore his home and regain his people's trust, Eva answers:
->
+
+If Caspian asks whether he can restore his home and regain his people's trust, Eva answers:
+
 > *“First mend the roof against the rain;*  
 > *a people's trust is earned again.”*
 
-> [!info]+ **DM Only: Grim's Personal Reading**
-> If Grim requests a reading, Madam Eva turns the crystal ball toward her. As she does, the warmth leaves Eva's voice. It drops into a low, flat cadence, each phrase separated by the measured pauses of the hulking shadow. Read the quoted lines in the voice Grim remembers:
->
-> The glass grows dark; a marsh lies still,  
-> rain combs the reeds along the hill.  
-> A hag-mark clouds the water's face;  
-> two shadows cross, then leave no trace.  
-> One hand brought grief; one showed a way;  
-> their paths divide in rain and spray.  
->
+### Grim's Personal Reading
+If Grim requests a reading, Madam Eva turns the crystal ball toward her. As she does, the warmth leaves Eva's voice. It drops into a low, flat cadence, each phrase separated by the measured pauses of the hulking shadow. Read the quoted lines in the voice Grim remembers:
+
+The glass grows dark; a marsh lies still,  
+rain combs the reeds along the hill.  
+A hag-mark clouds the water's face;  
+two shadows cross, then leave no trace.  
+One hand brought grief; one showed a way;  
+their paths divide in rain and spray.  
+
 > *“The child lives.”* The heartbeat answers, clear;  
 > *“Beyond the Mists.”* The words draw near.  
 > *“You cannot reach him.”* The glass turns night;  
@@ -599,15 +599,16 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *“Follow the path.”* Where it ends, no glass can show.  
 > *“Do not turn away from him.”* The dark draws in;  
 > *“So long as you seek him, the bond remains.”*  
-> The red pulse threads through clouded veins.  
->
+
+The red pulse threads through clouded veins.  
+
 > *“Abandon him, and he will be lost to you.”*  
 > The glass falls still; no path comes through.  
 > *“Accept this, and the path opens.”*  
 > The mist parts once, then closes.
->
-> Madam Eva's voice warms again. In the crystal, the swamp gives way to a drowned town, its roofs sunk beneath black water. A small figure is carried toward a crooked hut above the floodline. Read:
->
+
+Madam Eva's voice warms again. In the crystal, the swamp gives way to a drowned town, its roofs sunk beneath black water. A small figure is carried toward a crooked hut above the floodline. Read:
+
 > *“The hands that marked you in the mire*  
 > *remembered flight, and fed their ire.*  
 > *They spared your breath to taste their spite;*  
@@ -623,44 +624,44 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *She would call him hers and keep him near;*  
 > *a stolen child can still be dear.”*
 >
-> If Grim asks how the swamp coven learned the mark's craft, Eva adds:
->
+If Grim asks how the swamp coven learned the mark's craft, Eva adds:
+
 > *“Her craft they learned from far away;*  
 > *she did not bid them strike that day.”*
->
-> If Grim asks who took Milo, Eva answers:
->
+
+If Grim asks who took Milo, Eva answers:
+
 > *“The hands that marked you made the theft;*  
 > *the swamp-coven left you bereft.*  
 > *They killed the smith, then bore your son*  
 > *to buy the crone's protection.”*
->
-> If Grim asks who made the bargain, Eva answers:
->
+
+If Grim asks who made the bargain, Eva answers:
+
 > *“The Mists wore the shadow the hag left behind;*  
 > *a different hand, with a different design.*  
 > *It offered a path, but no promise of home;*  
 > *the choice was yours; it left you to roam.”*
->
-> If Grim asks where the drowned town lies, Eva answers:
->
+
+If Grim asks where the drowned town lies, Eva answers:
+
 > *“The drowned roofs lie southeast, beneath the grey;*  
 > *where old river-waters took fields away.*  
 > *Seek the river-crossing; turn south from its stones;*  
 > *the hut above floodwater crowns the drowned homes.”*
 
-> [!info]+ **DM Only: Ivan's Personal Reading**
-> If Ivan requests a reading, Madam Eva turns the crystal ball toward him. Read:
->
-> Madam Eva cups the crystal ball. Its mist gathers into two pale trails beneath a dim moon.
->
+### Ivan's Personal Reading
+If Ivan requests a reading, Madam Eva turns the crystal ball toward him. Read:
+
+Madam Eva cups the crystal ball. Its mist gathers into two pale trails beneath a dim moon.
+
 > *Two trails divide beneath the moon;*  
 > *one hides where southern shadows loom.*  
 > *One bends beneath a lord's command,*  
 > *and hunts at heel through mist and land.*
->
-> One trail vanishes beneath roots and false tracks. The other reaches a stone marked by two branches, split apart.
->
+
+One trail vanishes beneath roots and false tracks. The other reaches a stone marked by two branches, split apart.
+
 > *From hand to hand, the charge was known;*  
 > *your hand was next to bear alone.*  
 > *One crossed the line the elders drew,*  
@@ -669,69 +670,69 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *he sought the witch to change his life.*  
 > *She lent him strength; she fed his might.*  
 > *He swore to serve the lord outright.*
->
-> The image shifts to a marsh. A hunched figure offers an ember; thorned lines curl around it. For an instant, a similar but not identical pattern glimmers on another traveler's skin, then fades.
->
+
+The image shifts to a marsh. A hunched figure offers an ember; thorned lines curl around it. For an instant, a similar but not identical pattern glimmers on another traveler's skin, then fades.
+
 > *He cast you out and called it good;*  
 > *then led them north through shadowed wood.*  
 > *Two branches joined beneath one track;*  
 > *one pack now runs, no turning back.*  
 > *Split kin may yet be gathered home;*  
 > *Yet each must choose if it will roam.*
->
-> The trails merge, but do not become one. A scarlet line crosses yours, then curls back beneath your reflection. For an instant, a second shadow stirs there, broader than your shape, yet bound to it. Dark roots creep across the glass.
->
+
+The trails merge, but do not become one. A scarlet line crosses yours, then curls back beneath your reflection. For an instant, a second shadow stirs there, broader than your shape, yet bound to it. Dark roots creep across the glass.
+
 > *An innocent, by choice, you kill;*  
 > *no fear nor hate may guide your will.*  
 > *Then feed upon the fallen's frame;*  
 > *the Beast wakes hungry at your name.*
->
-> The red line sinks into black water. Something stirs beneath it. Your reflection rises taller in the glass, while roots curl around its feet.
->
+
+The red line sinks into black water. Something stirs beneath it. Your reflection rises taller in the glass, while roots curl around its feet.
+
 > *The Beast may lend your limbs its might;*  
 > *its roots may stain your soul outright.*  
 > *The crystal dims; the threads release;*  
 > *your path is yours; no fate decrees.*
->
-> **DM note:** This is a possible temptation, not an established way to unlock Ivan's inherited Wolfir power. The existing infected-werewolf rule does not apply to him; do not grant a transformation or mechanical benefit from this reading alone.
->
-> Madam Eva answers one question only. Use the response to the single question Ivan chooses; these are alternatives, not a sequence.
->
-> If Ivan asks whether he was meant to lead the pack, Eva answers:
->
+
+**DM note:** This is a possible temptation, not an established way to unlock Ivan's inherited Wolfir power. The existing infected-werewolf rule does not apply to him; do not grant a transformation or mechanical benefit from this reading alone.
+
+Madam Eva answers one question only. Use the response to the single question Ivan chooses; these are alternatives, not a sequence.
+
+If Ivan asks whether he was meant to lead the pack, Eva answers:
+
 > *“The charge passed from hand to hand;*  
 > *your name was next to take command.”*
->
-> If Ivan asks what was found beyond the forbidden line, Eva answers:
->
+
+If Ivan asks what was found beyond the forbidden line, Eva answers:
+
 > *“Beyond the line your elders drew,*  
 > *one from the lost branch crossed your view.”*
->
-> If Ivan asks why he was cast out instead of killed, Eva answers:
->
+
+If Ivan asks why he was cast out instead of killed, Eva answers:
+
 > *“A dead heir's blood would stain his claim;*  
 > *your willing exile spared him blame.”*
->
-> If Ivan asks what the witch gave Kiril or what Kiril promised in return, Eva answers:
->
+
+If Ivan asks what the witch gave Kiril or what Kiril promised in return, Eva answers:
+
 > *“She lent him strength; he swore the oath;*  
 > *one lord now holds the branches both.”*
->
-> If Ivan asks whether he can reunite the branches, Eva answers:
->
+
+If Ivan asks whether he can reunite the branches, Eva answers:
+
 > *“You may call kin to share one flame;*  
 > *no hand can make them do the same.”*
->
-> If Ivan asks what the red path would cost him, Eva answers:
->
+
+If Ivan asks what the red path would cost him, Eva answers:
+
 > *“The Beast may lend your limbs its might;*  
 > *its roots will feed upon your light.”*
 
-> [!info]+ **DM Only: Sister Elga's Personal Reading**
-> If Sister Elga requests a reading, Madam Eva turns the crystal ball toward her. Read:
->
-> Rain stirs inside the glass. A cloister drifts through the storm, stone by stone. Beyond it, a feast glimmers beneath a crimson canopy. Eva gives the vision a small, rueful smile.
->
+### Sister Elga's Personal Reading
+If Sister Elga requests a reading, Madam Eva turns the crystal ball toward her. Read:
+
+Rain stirs inside the glass. A cloister drifts through the storm, stone by stone. Beyond it, a feast glimmers beneath a crimson canopy. Eva gives the vision a small, rueful smile.
+
 > *A prayer crossed the veil unseen,*  
 > *to call the shades from what had been.*  
 > *The worlds came loose; the storm broke through;*  
@@ -741,9 +742,9 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *your house was swept to another shore.*  
 > *The rite recoiled, its mercy undone;*  
 > *from blood and souls a red heart was spun.*
->
-> A campfire burns in the woods. Thin, discordant music curls between the trees, devilish in its distant cadence. Figures turn around the fire. Their voices rise as one, seeming to curse the Great Guide's name; smoke obscures their faces.
->
+
+A campfire burns in the woods. Thin, discordant music curls between the trees, devilish in its distant cadence. Figures turn around the fire. Their voices rise as one, seeming to curse the Great Guide's name; smoke obscures their faces.
+
 > *Bright scarves wheel around the flame;*  
 > *a lifting tune, a child's refrain.*  
 > *Hands meet; the circle turns in light;*  
@@ -753,36 +754,36 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *and sent your feet to silence song.*  
 > *The fire was theirs; the shade unknown;*  
 > *he sent you down a path alone.*
->
-> The clearing darkens. Lightning forks across the woods; rain lashes the cloister gate, as on the night the sister was sent after heretics. Thunder rolls close, then recedes. When the glass clears, an old keeper sits beside the fire, speaking with Eva. Between them rests a vessel, dark and empty. Beyond the tent, the Mists close over a distant road.
->
+
+The clearing darkens. Lightning forks across the woods; rain lashes the cloister gate, as on the night the sister was sent after heretics. Thunder rolls close, then recedes. When the glass clears, an old keeper sits beside the fire, speaking with Eva. Between them rests a vessel, dark and empty. Beyond the tent, the Mists close over a distant road.
+
 > *An elder came to ask the way*  
 > *for souls the fog would not convey.*  
 > *We spoke of vessels, vows, and sleep;*  
 > *of how to tend what one cannot keep.*  
 > *He sought to shelter those denied*  
 > *the road beyond the mist-bound tide.*
->
-> The crystal clouds. A lord in black crosses the cloister’s threshold.
->
+
+The crystal clouds. A lord in black crosses the cloister’s threshold.
+
 > *A lord in black came through the gate*  
 > *with pale ranks marching, still and straight.*  
 > *The halls were stripped, the keepers slain;*  
 > *one elder lived, bound fast in chain.*  
 > *His books were taken, rites undone;*  
 > *the stolen art was turned on one.*
->
-> A solitary figure stands beneath a distant tower. Pale faces gather in a silent ring around him.
->
+
+A solitary figure stands beneath a distant tower. Pale faces gather in a silent ring around him.
+
 > *The victims of his hand, once slain,*  
 > *were bound to him by stolen strain.*  
 > *Their voices hold his borrowed breath*  
 > *and haul him back from the edge of death.*  
 > *No stroke can end him while they cry;*  
 > *their bond must break before he dies.*
->
-> Elga’s vessel appears in the glass. Its light passes through the binding, gathering the voices one by one. Behind them, another vessel waits: a black, stitched sack, its mouth held open.
->
+
+Elga’s vessel appears in the glass. Its light passes through the binding, gathering the voices one by one. Behind them, another vessel waits: a black, stitched sack, its mouth held open.
+
 > *Your vessel can unfasten their chain;*  
 > *call every voice and wash the stain.*  
 > *Once freed, the steward’s borrowed breath*  
@@ -796,65 +797,65 @@ Any player character may request a personal reading from Madam Eva. If asked, sh
 > *a small heart beats beyond the fold.*  
 > *The hag leaves signs; the Mists make roads;*  
 > *two hands, two debts, two hidden loads.*
->
-> Rain returns. A lone sister stands beyond a cloister door, left in the storm. The years pass over her like turning pages. At last, the image settles on Elga’s reflection.
->
+
+Rain returns. A lone sister stands beyond a cloister door, left in the storm. The years pass over her like turning pages. At last, the image settles on Elga’s reflection.
+
 > *One sister left behind in rain*  
 > *shall reap what older hands have sown.*  
 > *Her path now crosses yours at last;*  
 > *but no card can choose what she holds fast.*
->
-> Madam Eva answers one question only. Use the response that best fits the question Elga chooses; these are alternatives, not a sequence.
->
-> If Elga asks whether the dancers were truly heretics, Eva answers:
->
+
+Madam Eva answers one question only. Use the response that best fits the question Elga chooses; these are alternatives, not a sequence.
+
+If Elga asks whether the dancers were truly heretics, Eva answers:
+
 > *“No rite lay beneath that fire;*  
 > *their laughter was no devil’s choir.*  
 > *The shadow stood beyond their ring;*  
 > *his fear confused the two things.”*
->
-> If Elga asks what the shadow was, Eva answers:
->
+
+If Elga asks what the shadow was, Eva answers:
+
 > *“I saw its shape, but not its face;*  
 > *the glass revealed no root or place.”*
->
-> If Elga asks where she might find her order's remaining witnesses, Eva answers:
->
+
+If Elga asks where she might find her order's remaining witnesses, Eva answers:
+
 > *“Seek first the knight where dragon banners sleep;*  
 > *beneath Ghakis, the old stones keep*  
 > *their silence still. The crags conceal*  
 > *what time has buried, not what time can heal.”*
->
-> If Elga asks whether the souls in her Urn can reach Kelemvor, Eva answers:
->
+
+If Elga asks whether the souls in her Urn can reach Kelemvor, Eva answers:
+
 > *“While Mists still wall this valley in,*  
 > *no soul may pass beyond their rim.*  
 > *The Passing soothes; it does not free;*  
 > *beyond that veil, I cannot see.”*
->
-> If Elga asks where the souls she has gathered are, Eva answers only:
->
+
+If Elga asks where the souls she has gathered are, Eva answers only:
+
 > *“Barovia keeps what it takes*  
 > *close to its heart.”*
->
-> This does not confirm that they are within the Heart of Sorrow.
->
-> If Elga asks how the silent steward can be slain, Eva answers:
->
+
+This does not confirm that they are within the Heart of Sorrow.
+
+If Elga asks how the silent steward can be slain, Eva answers:
+
 > *“His chorus is the lock he wears;*  
 > *unbind the voices bound in there.*  
 > *Your Urn can sever what was tied;*  
 > *then death may reach the one inside.”*
->
-> If Elga asks whether the hag and the distant heartbeat share one hand, Eva answers:
->
+
+If Elga asks whether the hag and the distant heartbeat share one hand, Eva answers:
+
 > *“A crooked mark was laid by hag;*  
 > *the mist-road winds another track.*  
 > *Two hands have crossed; they are not one;*  
 > *each keeps a debt not yet undone.”*
->
-> If Elga asks what Eva told the elder, she answers:
->
+
+If Elga asks what Eva told the elder, she answers:
+
 > *“His fortune was his own to keep;*  
 > *I will not wake it from its sleep.”*
 
