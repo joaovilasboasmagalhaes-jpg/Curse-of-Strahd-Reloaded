@@ -39,5 +39,6 @@ Pre-existing large tracked files under `assets/` (source book text and epubs) ar
 ## Other conventions
 
 - Use `git --no-pager`; never force-push or rewrite history unless asked.
+- In a shared persistent terminal, run commands sequentially rather than concurrently. Quote each path as a complete argument, especially when it contains spaces or apostrophes; use NUL-delimited path handling when parsing Git output.
 - Do not commit secrets or `.obsidian/*.json` (ignored).
 - Commit messages: short imperative summary; end with the trailer `Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>`.
