@@ -59,6 +59,15 @@ The deeper question is not whether Agni loves his son enough to sacrifice everyt
 
 **Risks:** It can sideline Milosh, become repetitive if Cassian's Pull fires too often, or dictate that the player's "growth" means accepting the curse. Treat it as a gameplay thread within Option A unless the player prefers a mechanics-forward personal arc.
 
+### DM Reminder: Make Osric's Connection Matter
+
+> [!important] Follow-up concept note - applied to DM Plans
+> Applied to the "The Soft Blood Connection" section of [DM Plans](../dm_plans.md). Campaign Integration has not yet been updated with this reminder.
+>
+> Keep Agni's connection to Osric (Vasili; "Cassian" above) felt throughout the campaign, not only when they finally meet. Begin with occasional recognizable disturbances, such as the taste of the wine, intrusive memories, dreams, or hunger spikes, and gradually make the connection a concrete problem with consequences. Use the existing limits of Osric's Pull rather than granting him unrestricted remote influence. The aim is to give Agni a personal reason to want the tether severed, beyond collecting ingredients for Milosh's cure; do not dictate his response or force him to feed, attack, or obey.
+>
+> Develop Osric's death as the payoff that permanently severs this personal tether, ending his Pull and the connection's intrusions and mutual sensing. Make that relief perceptible in play. Severing the tether is not a cure: Agni's underlying thirst and vampiric condition remain until their separate cure requirements are met. Preserve the distinction between freedom from Osric and freedom from the curse.
+
 ## Review of Current DM Plan
 
 The strongest existing pieces are the contrast with Doru, the staged cure, the soft blood connection, and Elga's alchemical collaboration. The main weakness is pacing: the plan gives Agni a strong Doru scene, then puts the next substantial personal beats in Vallaki and Ravenloft, with most metaphysical answers held for the Amber Temple and finale. Agni's hunger and decisions about the village's other victims can bridge that gap without relying on frequent contact with Milosh outside Barovia.

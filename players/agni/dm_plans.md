@@ -28,6 +28,11 @@
 * The connection is strongest near Osric, during extreme thirst, or when Osric has access to Agni's blood. It should appear at important story moments rather than constantly interrupting play.
 * Osric treats the connection as proof that Agni is his creation and property. Agni's refusal to obey is therefore a direct humiliation to Osric and a central part of their rivalry.
 
+> [!important] Make the connection felt throughout the campaign
+> Do not save this connection for Agni's final confrontation with Osric. Establish occasional recognizable disturbances early, then develop them into a concrete problem with consequences, giving Agni a personal reason to want the tether severed beyond finding Milosh's cure. Vary the manifestations and space them across the campaign rather than constantly interrupting play. Respect the triggers and limits of Osric's Pull below; escalation is not permission for unrestricted remote influence or forced feeding, attacks, or obedience. Agni chooses how to respond.
+>
+> Osric's death permanently severs this personal tether, ending his Pull and the connection's intrusions and mutual sensing. Make the relief perceptible in play. This is freedom from Osric, not a cure: Agni's underlying thirst and vampiric condition remain subject to the separate cure requirements in section 3.
+
 ### Osric's Pull: Table Mechanic
 * **Trigger:** Once per long rest, Osric can pull on the connection when he is within 120 feet of Agni, is handling Agni's blood, or is using an alchemical sample taken from Agni. The DM should describe the pull before asking for a decision: the taste of Widow's Peak wine, Mavis's blood on the floor, or Osric's voice inside the hunger.
 * **Resist:** Agni makes a Wisdom saving throw against his Blood Frenzy save DC. On a success, the connection breaks for the encounter and Agni senses Osric's direction for 1 minute. On a failure, Agni loses 1d6 Thirst Points. Osric does not learn Agni's location when Agni resists.
