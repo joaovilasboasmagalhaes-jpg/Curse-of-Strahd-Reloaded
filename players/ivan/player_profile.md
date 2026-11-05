@@ -11,7 +11,8 @@ DM-only. Session observations are character actions; no player-level preference 
 
 ## Character
 
-- **What the player has said they want from the story:** Ivan's player has not yet given a recorded account of why Ivan came to Barovia; the Session 8 log says the DM was awaiting a reply ([Session 8](../../sessions/Session%208/log.md), party discussion after Madam Eva's readings).
+- **Character goal:** Protect his family and clan; he also hopes to uncover what happened after his exile and free Kiril from Strahd's influence if he can ([Ivan's Readme](Readme.md)). Ivan lived in Barovia with his clan, hidden from outsiders, and left to protect them after Kiril's threat ([Backstory](backstory.md)).
+- **What the player has said they want from the story:** No explicit player-stated story goal is recorded. In Session 8, Ivan told the party that Strahd threatened his family if he did not leave his clan; he did not tell them that he or his clan are Wolfir, or explain his belief that Strahd influenced his brother ([Session 8](../../sessions/Session%208/log.md), party discussion after Madam Eva's readings).
 - **What the player has reacted to strongly at the table:** No explicit player reaction is documented.
 - **Things they asked about or followed up on:** No distinct player-level preference or recurring question is established by the logs reviewed.
 - **Hopes for the ending:** Not established.
@@ -24,7 +25,7 @@ Ivan joined before the campaign began, but no individual questionnaire response 
 ## Assessment Coverage
 
 - **Sessions / sources assessed:** Sessions 1–8 logs.
-- **Gaps:** No individual questionnaire response, explicit player feedback, or recorded account of Ivan's reason for coming to Barovia. The available evidence is character behavior.
+- **Gaps:** No individual questionnaire response or explicit player feedback. Ivan's established character goal comes from his backstory and DM-facing story snapshot, not an explicit player statement about preferred story content.
 
 ## Observed Play
 
@@ -32,6 +33,7 @@ Ivan joined before the campaign began, but no individual questionnaire response 
 - **Session 4, tavern:** Ivan initially antagonized Bildrath, then tried to de-escalate the situation when Mary arrived ([Session 4](../../sessions/Session%204/log.md), tavern conversation).
 - **Session 7, Doru:** Ivan stated he would not permit Doru to live, then threatened to kill him if there were future incidents and made Donavich responsible for him ([Session 7](../../sessions/Session%207/log.md), church and Undercroft).
 - **Session 8, Strahd at the crossroads:** Ivan changed his appearance, introduced himself under a false name, and the party supported his cover story ([Session 8](../../sessions/Session%208/log.md), Strahd encounter).
+- **Session 8, discussion after Madam Eva's readings:** Ivan told the party Strahd threatened his family if he did not leave his clan and that he believes Strahd can manipulate minds. He did not tell them that he or his clan are Wolfir, or explain his belief that this influence caused his brother to cast him out ([Session 8](../../sessions/Session%208/log.md), party discussion after Madam Eva's readings).
 
 ## Working Hypotheses
 
