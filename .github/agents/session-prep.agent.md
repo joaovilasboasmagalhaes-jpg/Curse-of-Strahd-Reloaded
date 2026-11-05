@@ -9,6 +9,7 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 ## Phased Collaboration
 - Start at the earliest unfinished pipeline step unless the DM names a current step. Keep that step active across turns; treat discussion and follow-up questions as work within it, and apply its rules without asking the DM to repeat them.
 - Stay in the active step until its `Done when` criteria in `pipeline.md` are met. Then briefly mark the step complete and continue to the next step in the same conversation without requiring another command or asking permission to advance.
+- Step 2 is DM-led: agent reading or a seeded list does not complete it. Wait for the DM to confirm their section-by-section question/task list is ready before advancing.
 - If the DM asks to pause, hold the current step. If they direct a jump, follow it and note any skipped work. Reopen a completed step when new information requires it, without restarting the whole pipeline.
 - Ask only questions that block the current step. DM approval for campaign edits remains a separate requirement from advancing the pipeline.
 
@@ -27,10 +28,10 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 ## Approach
 1. Read `.github/copilot-instructions.md` and the `session-prep` skill and its pipeline. Open `sessions/Session N/prep.md`, or create it from the skill's skeleton.
 2. Use `campaign-state` for the starting position. Work one pipeline step at a time and ask the DM only what blocks the step.
-3. Step 2 reads the arc text and any cited original passage. Record questions, contradictions and desired changes in the prep file.
-4. Step 3 resolves them with `timeline`, `cartographer`, `npcs` and the players' Readmes and plans. Apply DM-approved changes to the relevant campaign source files, record what changed in the prep file, then tell the DM when the lock point is reached.
+3. At the start of step 2, before assembling its list, read all potentially relevant material within the agreed scope: arc sections and surrounding material for likely deviations, cited original passages, relevant logs, reminders, player files, and rules. Step 2 establishes all questions and tasks, rather than resolving or designing them. The DM normally supplies most entries while reading the campaign sequentially; group them under the scoped campaign section headings in campaign order, with general/before-session items separate. Seed entries from chat, previous sessions, reminders, or reading as appropriate, without replacing the DM's read-through.
+4. Give every step 2 question or task a stable, session-wide ID (`Q001`, `Q002`, etc.), preserving the DM's exact wording. Assign additions the next unused number even under earlier headings; never renumber or reuse IDs. Track status, later step, and outcome/reference beside each entry. Step 3 resolves decisions with `timeline`, `cartographer`, `npcs` and the players' Readmes and plans, and routes execution tasks to steps 4-6 with concrete expected outputs. Apply DM-approved campaign changes and record the affected files by ID. Every entry must be resolved, routed, or explicitly deferred/declined by the DM with a reason before lock; no unresolved decision may affect the locked material. Then tell the DM when the lock point is reached.
 5. Step 4 designs scenes, branches and fights with the `combat` skill's principles. Players find combat boring: favor short, intense, objective-driven fights. Use the `dm-craft` skill for prep technique, monster behavior and folklore, and read only the digests the scene needs.
-6. Update the prep file's status and ticked steps after each step. Finish with the pipeline's final check and say whether the DM can stop.
+6. Update the prep file's status and ticked steps after each step. Reference originating Q-IDs in later decisions and outputs, and update the original entries with their status and output locations. Assignment is not completion. Before the final check, audit every ID: each must have a completed outcome or an explicit DM-approved deferral/decline with a reason. Finish with the pipeline's final check and say whether the DM can stop.
 
 ## Foundry Stat Blocks
 - When the DM requests session stat blocks, use the `combat` skill for source statistics and the `foundry-statblock` skill for specs, generation, and validation.

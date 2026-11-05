@@ -10,6 +10,16 @@ The DM's pipeline is in [pipeline.md](./pipeline.md). **When prepping a session,
 
 Treat prep as one continuous, phased collaboration. Stay on the current pipeline step across turns, using its rules and `Done when` criteria without asking the DM to repeat them. Once those criteria are met, mark the step complete, announce the transition, and continue to the next step without requiring another command or permission to advance. Pause when the DM asks; campaign-edit approval is still required independently. If new information reopens a completed step, address it without restarting the whole pipeline.
 
+## Step 2: DM-led Question and Task Register
+
+Before assembling the list, read all potentially relevant material within the agreed session scope, including surrounding campaign sections, cited original passages, relevant logs, reminders, player files, and rules. This reading belongs to step 2, not a new step. Step 2 establishes the questions and tasks; answers and execution belong later in the pipeline.
+
+The DM normally fills most of the list while reading the campaign sequentially. Organize it under the scoped campaign section headings in campaign order, with a separate general/before-session heading for cross-cutting items. The agent may seed entries from chat, previous sessions, reminders, or reading, but must wait for the DM to confirm the list is ready before completing step 2.
+
+Give every question or task a stable, session-wide ID (`Q001`, `Q002`, etc.). New entries always get the next unused number, even under an earlier heading; never renumber or reuse IDs. Preserve DM-authored wording verbatim and append IDs, status, and tracking metadata without rewriting it.
+
+In step 3, resolve decisions and route execution tasks to steps 4-6. Reference each ID in the later answer or output and record its location and status beside the original entry. Assigning a task is not completing it. Before lock, every ID must be resolved, routed, or explicitly deferred/declined by the DM with a reason, with no unresolved decision affecting the locked material. Before the final check, audit every ID for a completed outcome or an explicit DM-approved deferral/decline with a reason.
+
 ## Where things live
 
 | Item | Path | Fixed? |
@@ -33,9 +43,18 @@ Create it from this skeleton and tick the pipeline steps as they finish:
 
 ## 1. Scope
 ## 2. Open questions and desired changes
+### Reading coverage
+Material read within scope, including relevant surrounding material.
+### General / before-session
+- **Q001** [open] <question or task, preserving the DM's exact wording>
+  - Follow-through: <later step; outcome/reference; or DM-approved deferral/decline and reason>
+### <Scoped campaign section heading, repeated in campaign order>
+- **Q002** [open] <question or task, preserving the DM's exact wording>
+  - Follow-through: <later step; outcome/reference; or DM-approved deferral/decline and reason>
 ## 3. Resolved and adapted (lock)
+Decisions by Q-ID; route execution tasks to steps 4-6.
 ## 4. Session design
-Scenes, NPCs, clues, branches. DM-only material is marked.
+Scenes, NPCs, clues, branches, with originating Q-IDs where applicable. DM-only material is marked.
 ### Combats
 Each significant fight: objective or what players react to, expected rounds.
 ### Urn glow warnings
@@ -43,8 +62,9 @@ Per scene, undead within 300 feet of Elga, or "none".
 ### Blood Sense warnings
 Per scene involving Agni, especially ambushes or hidden creatures: living creatures within 30 feet (even behind total cover or invisible), distances and when they enter or leave range, or "none". Mark "DM: Agni's Blood Sense: check thirst stage/activation; tell the player if active".
 ## 5. Table prep
-Foundry, maps, tokens, props, music.
+Foundry, maps, tokens, props, music, with originating Q-IDs where applicable.
 ## 6. Study and practice
+Record practice outcomes by Q-ID; audit every step 2 entry before the final check.
 ## Final check
 - [ ] Story  - [ ] Players  - [ ] Play  - [ ] Combat  - [ ] Table  - [ ] Me
 ```
