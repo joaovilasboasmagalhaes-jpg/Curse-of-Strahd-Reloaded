@@ -921,6 +921,8 @@ If he hasn’t already, Arturi asks the players for news from Barovia, inquiring
 
 After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
 
+Stanimir adds, “If you hide a falsehood in your tale, make it one that matters to the story; being six instead of five changes little.”
+
 If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
 
 * **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)

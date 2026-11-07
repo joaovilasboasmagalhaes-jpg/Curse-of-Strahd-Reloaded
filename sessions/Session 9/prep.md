@@ -105,10 +105,14 @@
 6. There are 3 creature types missing from the Sinister Insight feature. Those 3 will use the following skills:
 	- History: Humanoids and Giants
 	- Investigation: Constructs
-7. 
+7. Deferred to the end...
+8. Already done in number 3.
 
 ### C4c. Vistany Hospitality
 
+9. It is written in the beginning of Dancing Fire.
+10. **Q010 — Arturi at Tser Pool:** During his current visits, Arturi returns to Madam Eva's camp by day for her hospitality, then leaves at dusk and spends the night among the boughs of the same tall tree two miles from the encampment. This uses the location in [[../../Act I - Into the Mists/Arc C - Into the Valley#Arturi Departs|C4d, Arturi Departs]] rather than adding a new site. The undead gather at the tree and vanish shortly before dawn; it is a hiding place, not a safe sanctuary.
+	The other Vistani know that Arturi is cursed and that undead pursue him, but need not know the full story of Van Richten and the Radanavich caravan. Treat him with wary compassion: they share food, fire, and company during the day, and do not shun him while he is there. At dusk, however, they insist that he leave—not because they blame him, but because they will not risk bringing the undead to the camp. Madam Eva's hospitality is personal and genuine, but it does not extend to letting him stay after dark. The text does not establish how he survives the night at the tree; that remains Q032 rather than an invented fact.
 11. She is a Mist Traveler who has been around Barovia many times, but doesn't have a defined home. She worships Strahd and most likely will head to Castle Ravenloft after this encounter. She is mentioned again after Arc Q as a possible new bride of Strahd.
 12. List of things in need of art:
 	- **NPC portraits:** Madam Eva, Stanimir, Eliza, Arturi Radanavich, and Ireena.
@@ -133,12 +137,26 @@
 
 14. He suggests in their own tents, but will accomodate if necessary.
 15. Deferred to step 5. 
+16. Ask the players to make a story about topics from their backstories:
+	- Agni: An old adventure from his adventuring days, or an adventure in Widow's Peek
+	- Caspian: An old adventure from your past of the academy or your village.
+	- Grim: An old adventure with your former crew.
+	- Ivan: A tale shared between your clan.
+	- Sister Elga: A story from your time in the convent or a tale of faith and devotion.
+17. Added a small line on the chapter in Arc C.
+18. Blocked...
+19. Deferred to Step 5.
+20. 
 
 ### Blocked questions
 
 2. 
 3. 
 4. 
+7. 
+13. Read "The Crucible of Dr. Rudolph van Richten" for a fuller narrative account of the Vistani story.
+16. Have to send the request for the players after getting their signs...
+18. Leave till after getting the player's understanding of his reading. If no path available, ignore this.
 
 ## 4. Session design
 
@@ -155,6 +173,7 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 ## 5. Table prep
 
 15. Get regular playing cards besides the real Tarokka deck to present to the players as Stanimir's tarokka deck, so they think this will be the deck we use.
+19. Make digital version in Foundry.
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - Get player map for what the party has already explored.
