@@ -107,6 +107,33 @@
 	- Investigation: Constructs
 7. 
 
+### C4c. Vistany Hospitality
+
+11. She is a Mist Traveler who has been around Barovia many times, but doesn't have a defined home. She worships Strahd and most likely will head to Castle Ravenloft after this encounter. She is mentioned again after Arc Q as a possible new bride of Strahd.
+12. List of things in need of art:
+	- **NPC portraits:** Madam Eva, Stanimir, Eliza, Arturi Radanavich, and Ireena.
+	- **Tser Pool camp and fire:** the tents, wagons, horses, lakeshore, bonfire, and Vistani gathered there.
+	- **Game of Stories:** the meal and gathering around the fire, plus one illustration for each tale:
+		- Stanimir's Vistani tale, with the figures conjured in the dancing flames.
+		- Eliza's tale of Lugdana, Chernovog, and the Holy Symbol of Ravenkind.
+		- Arturi's animal fable of the Fox, Sparrows, Wolf, and Rats.
+		- Ireena's childhood dream of the lake, dire wolf, and mist wolf.
+	- **Arturi's wager:** his two-page handwritten Van Richten manuscript, "A Study of the Werewolf's Curse."
+	- **Arturi Departs (conditional):** Arturi in the tree and the undead that gather below it (zombies, ghouls, ghasts, and wights), if the party investigates.
+	- **C4e, Return to the River Ivlis Crossroads:** the midnight road through the misty woods; the crossroads cemetery and gallows; and the March of the Dead.
+	- **C4f, The Tarokka Reading:** Madam Eva's candlelit reading in the graveyard, with the cards, velvet pouch, and animated shadows.
+	- **C4e chase branches (conditional):** Eliza fleeing through the woods, the will-o'-wisp, and possible chase complications (biting-midge swarm, elk stampede, giant spider).
+	- **C4g, Departing Tser Pool (if reached):** breakfast around the cold fire.
+	- **C5, The Skeletal Rider:** the skeletal rider and skeletal horse.
+	- **C6, The Watchtower:** the roadside approach, ruined tower, two graves, and slain wolf.
+13. Guide to the Vistani should have the story, but not in great detail.
+	- A fuller narrative account is “The Crucible of Dr. Rudolph van Richten,” a short story by David Wise in the 1994 anthology *Tales of Ravenloft*.
+
+### C4d. The Dancing Fire
+
+14. He suggests in their own tents, but will accomodate if necessary.
+15. Deferred to step 5. 
+
 ### Blocked questions
 
 2. 
@@ -127,6 +154,7 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 
 ## 5. Table prep
 
+15. Get regular playing cards besides the real Tarokka deck to present to the players as Stanimir's tarokka deck, so they think this will be the deck we use.
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - Get player map for what the party has already explored.
