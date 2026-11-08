@@ -16,9 +16,9 @@ Before assembling the list, read all potentially relevant material within the ag
 
 The DM normally fills most of the list while reading the campaign sequentially. Organize it under the scoped campaign section headings in campaign order, with a separate general/before-session heading for cross-cutting items. The agent may seed entries from chat, previous sessions, reminders, or reading, but must wait for the DM to confirm the list is ready before completing step 2.
 
-Give every question or task a stable, session-wide ID (`Q001`, `Q002`, etc.). New entries always get the next unused number, even under an earlier heading; never renumber or reuse IDs. Preserve DM-authored wording verbatim and append IDs, status, and tracking metadata without rewriting it.
+**Section 2 is only the question/task register.** Put each question or task there once, with its stable session-wide ID (`Q001`, `Q002`, etc.) and the DM's wording preserved verbatim. New entries always get the next unused number, even under an earlier heading; never renumber or reuse IDs. Do not put answers, decisions, resolutions, deferrals, execution notes, or follow-through metadata in Section 2. Do not later annotate or update its entries with outcomes.
 
-In step 3, resolve decisions and route execution tasks to steps 4-6. Reference each ID in the later answer or output and record its location and status beside the original entry. Assigning a task is not completing it. Before lock, every ID must be resolved, routed, or explicitly deferred/declined by the DM with a reason, with no unresolved decision affecting the locked material. Before the final check, audit every ID for a completed outcome or an explicit DM-approved deferral/decline with a reason.
+Put answers and decisions in Section 3, and execution plans or outcomes in the relevant later section (4, 5, or 6). Reference the originating ID there; record a deferral or decline in Section 3. Assigning a task is not completing it. Before lock, every ID must be resolved, routed, or explicitly deferred/declined by the DM with a reason, with no unresolved decision affecting the locked material. Before the final check, audit every ID against its outcome in Sections 3-6; never move that outcome back into Section 2.
 
 ## Where things live
 
@@ -46,13 +46,11 @@ Create it from this skeleton and tick the pipeline steps as they finish:
 ### Reading coverage
 Material read within scope, including relevant surrounding material.
 ### General / before-session
-- **Q001** [open] <question or task, preserving the DM's exact wording>
-  - Follow-through: <later step; outcome/reference; or DM-approved deferral/decline and reason>
+- **Q001** <question or task, preserving the DM's exact wording>
 ### <Scoped campaign section heading, repeated in campaign order>
-- **Q002** [open] <question or task, preserving the DM's exact wording>
-  - Follow-through: <later step; outcome/reference; or DM-approved deferral/decline and reason>
+- **Q002** <question or task, preserving the DM's exact wording>
 ## 3. Resolved and adapted (lock)
-Decisions by Q-ID; route execution tasks to steps 4-6.
+Answers, decisions, deferrals, and declined items by Q-ID; route execution tasks to steps 4-6.
 ## 4. Session design
 Scenes, NPCs, clues, branches, with originating Q-IDs where applicable. DM-only material is marked.
 ### Combats

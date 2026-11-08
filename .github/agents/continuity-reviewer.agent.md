@@ -15,7 +15,7 @@ You check proposed campaign content against established facts and report problem
 The request says whether the content is a **concept** (status `exploring`) or a **commit** (about to become campaign canon). In a concept, report contradictions with the logs as blocking, and report everything else as advisory notes, since the idea is not final. In a commit, treat every contradiction as blocking. If it does not say, assume commit.
 
 ## Approach
-1. Read the content under review and `.github/copilot-instructions.md`.
+1. Read the content under review and `.github/copilot-instructions.md`. If a non-session backlog task is under review, check `_other/backlog.md` for its origin and current priority; do not treat its origin as session work.
 2. Read `.github/skills/barovia-rules-reference/SKILL.md` for the domain's special rules and their continuity implications.
 3. Load the skills that apply by reading their `SKILL.md` and linked files: `campaign-state` (what already happened), `timeline` (dates, durations, moons), `cartographer` (places, routes, travel time), `npcs` (status, knowledge, personality), `combat` (stats, difficulty).
 4. Check each claim in the content against those sources, in this order of authority: session logs, then campaign files, then the original book only where the guide cites it, then mutable player plans. The quick reference is an index to campaign rulings, not a higher authority than their source sections.

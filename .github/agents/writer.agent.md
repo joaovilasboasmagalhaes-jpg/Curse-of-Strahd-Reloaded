@@ -17,7 +17,7 @@ You develop the campaign's story. Your focus is interest: tension, surprise, emo
 - For other writing tasks, write only in the files the user names.
 
 ## Approach
-1. Read `.github/copilot-instructions.md`. Use the `campaign-state` skill to learn where the party is and what has happened. For a campaign-level concept, use the relevant campaign chapters and session logs to ground the idea.
+1. Read `.github/copilot-instructions.md`. Use the `campaign-state` skill to learn where the party is and what has happened. For a campaign-level concept, use the relevant campaign chapters and session logs to ground the idea. Use `_other/backlog.md` only for non-session tasks the DM directs or approves for it; keep story concepts in `_other/story_concepts/`.
 2. Read the relevant arc file and, where the guide cites the original book, the cited passage in `assets/Curse of Strahd.md`.
 3. Read the involved players' Readmes. Use their stakes (goals, losses, fears) to make scenes personal.
 4. Use `npcs` for who is involved and how they would act, `timeline` and `cartographer` for what is possible, and `combat` for fights.

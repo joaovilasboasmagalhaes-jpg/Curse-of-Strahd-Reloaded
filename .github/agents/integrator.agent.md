@@ -20,7 +20,7 @@ If you cannot tell which mode applies, use dry run.
 - Say which file each proposed edit belongs to, and keep edits small.
 
 ## Approach
-1. Read `.github/copilot-instructions.md`. For a player concept, also read `players/player_strategy.md` (the reusable integration method).
+1. Read `.github/copilot-instructions.md`. For a player concept, also read `players/player_strategy.md` (the reusable integration method). Use `_other/backlog.md` only for non-session tasks the DM directs or approves for it; keep concepts in their concept files.
 2. For a player concept, read the player's Readme, then only the files it points to that you need. For a campaign-level concept, read the relevant campaign and session material.
 3. Load the `campaign-state` skill to find the current position and what is fixed. Use `timeline`, `cartographer`, `npcs` and `combat` as the integration needs them.
 4. For a player concept, compare with the other players' arcs and follow the method in `player_strategy.md` to find a campaign anchor, timeline placement, location, and NPC or faction connections. For a campaign-level concept, compare with existing mysteries and arcs, then identify its anchor, timeline placement, location, and NPC or faction connections. In either case, resolve duplication and conflicts without changing fixed history.
