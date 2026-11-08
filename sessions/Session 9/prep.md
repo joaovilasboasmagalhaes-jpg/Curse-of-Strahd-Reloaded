@@ -112,8 +112,8 @@
 ### C4c. Vistany Hospitality
 
 9. It is written in the beginning of Dancing Fire.
-10. **Q010 — Arturi at Tser Pool:** During his current visits, Arturi returns to Madam Eva's camp by day for her hospitality, then leaves at dusk and spends the night among the boughs of the same tall tree two miles from the encampment. This uses the location in [[../../Act I - Into the Mists/Arc C - Into the Valley#Arturi Departs|C4d, Arturi Departs]] rather than adding a new site. The undead gather at the tree and vanish shortly before dawn; it is a hiding place, not a safe sanctuary.
-	The other Vistani know that Arturi is cursed and that undead pursue him, but need not know the full story of Van Richten and the Radanavich caravan. Treat him with wary compassion: they share food, fire, and company during the day, and do not shun him while he is there. At dusk, however, they insist that he leave—not because they blame him, but because they will not risk bringing the undead to the camp. Madam Eva's hospitality is personal and genuine, but it does not extend to letting him stay after dark. The text does not establish how he survives the night at the tree; that remains Q033 rather than an invented fact.
+10. **Q010 — Arturi at Tser Pool:** During his current visits, Arturi returns to Madam Eva's camp by day for her hospitality, then leaves at dusk for the same area two miles from the encampment. This uses the location in [[../../Act I - Into the Mists/Arc C - Into the Valley#Arturi Departs|C4d, Arturi Departs]] rather than adding a new site. The undead gather at his decoy in the tree and vanish shortly before dawn; Arturi hides and sleeps elsewhere in the forest.
+	The other Vistani know that Arturi is cursed and that undead pursue him, but need not know the full story of Van Richten and the Radanavich caravan. Treat him with wary compassion: they share food, fire, and company during the day, and do not shun him while he is there. At dusk, however, they insist that he leave—not because they blame him, but because they will not risk bringing the undead to the camp. Madam Eva's hospitality is personal and genuine, but it does not extend to letting him stay after dark. Arturi uses the tree as a decoy, then slips into the forest and sleeps elsewhere; see Q033.
 11. She is a Mist Traveler who has been around Barovia many times, but doesn't have a defined home. She worships Strahd and most likely will head to Castle Ravenloft after this encounter. She is mentioned again after Arc Q as a possible new bride of Strahd.
 12. List of things in need of art:
 	- **NPC portraits:** Madam Eva, Stanimir, Eliza, Arturi Radanavich, and Ireena.
@@ -139,7 +139,7 @@
 14. He suggests in their own tents, but will accomodate if necessary.
 15. Deferred to step 5. 
 16. Ask the players to make a story about topics from their backstories:
-	- Agni: An old adventure from his adventuring days, or an adventure in Widow's Peek
+	- Agni: An old adventure from your adventuring days, or an adventure in Widow's Peek
 	- Caspian: An old adventure from your past of the academy or your village.
 	- Grim: An old adventure with your former crew.
 	- Ivan: A tale shared between your clan.
@@ -154,7 +154,30 @@
 24. Created new skill for spell incantations and applied it to Stanimi's major image.
 25. **Q025 — Deferred to backlog.** See [[../../_other/backlog#b001|B001]].
 26. Left for later...
-27. 
+27. **Q027 — Lugdana's history:**
+	- **Around 603 B.C. — Castle Ravenloft:** Lugdana, Ismark Antonovich, and Livius recover the *Sigil of the Sun* from the castle's crypts. Livius steals it while Lugdana and Ismark distract the guards. The three then use it against vampire nests across Barovia.
+	- **Around 604 B.C. — Barovia:** Inspired by their adventures, Livius founds the Keepers of the Feather. The founding location is unspecified.
+	- **Around 628 B.C. — Yester Hill:** Baba Zelenna forms the Cult of Chernovog at the Forest Fane, seeking to summon the demon prince and overthrow Strahd.
+	- **Around 629 B.C. — Yester Hill:** Lugdana and Livius fight Chernovog. Ismark has already died defending his village. Lugdana defeats the demon but dies of her wounds; the *Holy Symbol of Ravenkind* is lost in the aftermath.
+	- **After the battle — location unknown:** Eliza's tale suggests a raven angel reclaimed the Symbol, but its fate and current location remain unknown in the campaign history.
+	- Dates are approximate year-only entries; no exact days are given. Sources: [[../../Chapter 2 - The Land of Barovia/History of Barovia|History of Barovia]] and [[../../assets/curse-of-strahd.timeline|campaign timeline]].
+28. **Q028 — What the Vistani know about Eliza's tale:**
+	- **What the tale and Eliza establish the Vistani know:** The story names Lugdana, the Morninglord, Chernovog (the Green God / demon lord), Yester Hill, and the *Holy Symbol of Ravenkind*. It presents Lugdana as a champion who fought Chernovog at Yester Hill, wielded the Symbol, defeated him, and died of her wound. The song says a raven angel reclaimed the Symbol. After the tale, Eliza says it is half-true: Lugdana was a paladin of the Morninglord and bore the Symbol; according to legend, an angel in raven form gave it to her. Eliza says no one knows what happened to the Symbol after Lugdana fell or where it is now. Treat the angel's gift and reclamation as legend, not verified events; Eliza's follow-up leaves its fate unknown.
+	- **If asked about people, events, or places:** Vistani answers can repeat the tale and Eliza's clarification above. They can identify Chernovog as the Green God / demon lord in the story and Yester Hill as the battle's location, but the campaign does not establish additional Vistani knowledge about them. The story does not name Livius, Ismark, Baba Zelenna, the Forest Fane, Castle Ravenloft, or the *Sigil of the Sun*; do not assume the Vistani know these names or details.
+	- **Established history (DM-only; not established as Vistani knowledge):** The *Sigil of the Sun* was stolen from Castle Ravenloft by Livius while Lugdana and Ismark distracted the guards. Ismark later attributed it to a raven angel to conceal its origin. Baba Zelenna's cult summoned Chernovog at the Forest Fane on Yester Hill; Lugdana and Livius fought him, Lugdana defeated him and died of her wound, and the Symbol was lost in the aftermath. The history does not say an angel reclaimed it or identify its current location. Source: [[../../Chapter 2 - The Land of Barovia/History of Barovia|History of Barovia]]; compare [[../../Act I - Into the Mists/Arc C - Into the Valley#Eliza’s Tale|Eliza's Tale]].
+29. It should be encouraged. Added a small line on the explanation of the game in Arc C.
+30. Maybe some visuals can help. Deferred to section 5.
+31. Deferred to section 5.
+32. The source does not give a headcount for the unnamed Vistani; use eight unnamed Vistani as the working camp count. Two of them take background turns in the Game of Stories, but their stories are not narrated or played out. For continuity, the first unnamed teller's story is true and the second's is false; use DC 15 for these background stories. For the detailed, canonical stories in Arc C, players make their own truth judgments first; if they ask for an Insight check, use DC 20 to determine whether they notice a material falsehood, without revealing the story's exact truth category or the false detail. This is a hard check and should provide only limited help, not replace the players' judgment.
+33. **Q033 —** Arturi prepares a convincing decoy in the tree, then disappears into the forest and sleeps somewhere else. The undead gather at the decoy rather than finding him; he survives through preparation and experience, not because the tree protects him.
+
+### C4e. Return to the River Ivlis Crossroads
+
+34. It is a new moon. The text is correct.
+35. It's believed to be the time when demons and other malevolent entities are most active.
+36. Deferred to section 4.
+37. Deferred to section 4.
+38. 
 
 ### Blocked questions
 
@@ -174,7 +197,8 @@ Pending the step 3 lock.
 
 ### Combats
 
-Pending the step 3 lock. For each significant fight, record its objective or what the players can react to, and expected rounds.
+36. Prepare maps and hazards for the chase. 
+37. Prepare the chase for Agni's Blood Sense which will most likely be active.
 
 ### Urn glow warnings
 
@@ -184,6 +208,8 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 
 15. Get regular playing cards besides the real Tarokka deck to present to the players as Stanimir's tarokka deck, so they think this will be the deck we use.
 19. Make digital version of Arturi's manuscript in Foundry.
+30. Make sure Eliza's tale is understandable and has visuals to support it.
+31. Prepare visuals for all tales.
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - Get player map for what the party has already explored.
@@ -200,6 +226,14 @@ Instructions for handling the deck:
 ## 6. Study and practice
 
 Pending.
+
+### Expected from players
+
+- **Agni:** Already have his interpretation; waiting for backstory text (Q16), has already acknowledged it.
+- **Caspian:** Waiting for interpretation; have to provide him a question for his reading; waiting for backstory text (Q16).
+- **Grim:** Waiting for interpretation; waiting for backstory text (Q16).
+- **Ivan:** Waiting for written interpretation; checking silver effects on him (Q2); waiting for backstory text (Q16).
+- **Sister Elga:** Waiting for interpretation; waiting for backstory text (Q16).
 
 ## Final check
 

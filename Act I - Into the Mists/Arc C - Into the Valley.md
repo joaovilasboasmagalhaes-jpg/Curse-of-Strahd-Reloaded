@@ -921,7 +921,13 @@ If he hasn’t already, Arturi asks the players for news from Barovia, inquiring
 
 After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
 
+There are eight unnamed Vistani at the camp; two of them also participate in the game, one telling a true story and the other a false story. These are background turns: do not tell or play out their stories. Resolve them with a DC 15 Wisdom (Insight) check.
+
+For the detailed stories told in this scene, let the players make their own guesses first. If a player asks to assess a teller's truthfulness, call for a DC 20 Wisdom (Insight) check. On a success, indicate only whether the story contains a material falsehood; do not reveal its exact truth category or the false detail.
+
 Stanimir adds, “If you hide a falsehood in your tale, make it one that matters to the story; being six instead of five changes little.”
+
+When a tale is half-true, encourage its teller to explain what part was false, but do not press them if they decline.
 
 If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
 
@@ -1025,7 +1031,7 @@ When the game ends, Arturi bids the players farewell and departs from the camp. 
 
 A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
 
-Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
+Arturi refuses any offers to defend him and slips away into the night. Two miles from the encampment, he prepares a convincing decoy among the boughs of a tall tree, then disappears into the forest and sleeps elsewhere. The undead gather at the decoy, not Arturi; he survives by preparation and experience, not because the tree protects him. They emerge as follows:
 
 * Thirty minutes after Arturi arrives, twelve **zombies** arrive to mill about the base of the tree. 
 * Two hours later, five **ghouls** arrive to claw and howl at the trunk of the tree. 
