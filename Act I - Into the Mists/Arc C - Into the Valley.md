@@ -949,7 +949,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 ><hr>
 >
-> Werewolves are among the most fearsome lycanthropes, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
+> Among the many forms of lycanthropy: wereravens, werebears, wererats, and other, the werewolf is among the most fearsome, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
 >
 > In its humanoid form, a werewolf retains many of the characteristics of its original identity, save for certain nuances such as heightened senses, an explosive temper, and an odd preference for rare meats. Over time, subtle features that hint at their animalistic nature begin to manifest. Nevertheless, it is in their wolf and hybrid forms that the true horror of the curse is revealed. A werewolf's hybrid form is particularly terrifying, with a muscular humanoid body crowned by the head of a ravenous wolf. It is capable of wielding weapons, though its favored means of attack are its devastating claws and powerful bite.
 >
@@ -967,7 +967,18 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
 ### Stanimir’s Tale
-Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+
+> **DM:** Throughout the tale, Stanimir uses *major image* to create the shapes in the flames. The players can notice him shaping the illusion.
+
+<div class="description">
+<p>**Stanimir** murmurs “Torja Imago” in a low, measured cadence. Then he fills his mouth with wine and spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.</p>
+<p>"We come from an ancient land whose name is long forgotten—a land of kings. Our enemies forced us from our homes, and now we wander the lost roads."</p>
+<p>The dark shape in the fire takes the form of a man being knocked from his horse, a spear piercing his side.</p>
+<p>**Stanimir** continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."</p>
+<p>Deep in the bonfire, you see the dark figure standing with sword drawn, fighting off a host of shadowy shapes.</p>
+<p>"This man of royal blood fought to protect us, as we protected him. We bore him safely to his home, and he thanked us. He said, 'I owe you my life. Stay as long as you wish, leave when you choose, and know that you will always be safe here.'"</p>
+<p>The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.</p>
+</div>
 
 When his tale has ended and all participants have made their guesses—Ireena, Eliza, and Arturi going last, with Ireena voting "True", Eliza voting “True”, and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale

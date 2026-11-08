@@ -146,7 +146,14 @@
 17. Added a small line on the chapter in Arc C.
 18. Blocked...
 19. Deferred to Step 5.
-20. 
+20. Check in the books...
+21. Altered Arturi's Manuscript in Arc C.
+22. Copied from Curse of Strahd to Arc C notes.
+23. It was Grim. During the session try to see her reaction.
+24. Created new skill for spell incantations and applied it to Stanimi's major image.
+25. **Q025 — Deferred to backlog.** See [[../../_other/backlog#b001|B001]].
+26. Left for later...
+27. 
 
 ### Blocked questions
 
@@ -157,6 +164,8 @@
 13. Read "The Crucible of Dr. Rudolph van Richten" for a fuller narrative account of the Vistani story.
 16. Have to send the request for the players after getting their signs...
 18. Leave till after getting the player's understanding of his reading. If no path available, ignore this.
+20. 
+26. 
 
 ## 4. Session design
 
@@ -173,7 +182,7 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 ## 5. Table prep
 
 15. Get regular playing cards besides the real Tarokka deck to present to the players as Stanimir's tarokka deck, so they think this will be the deck we use.
-19. Make digital version in Foundry.
+19. Make digital version of Arturi's manuscript in Foundry.
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - Get player map for what the party has already explored.
