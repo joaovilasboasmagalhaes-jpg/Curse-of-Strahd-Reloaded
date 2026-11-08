@@ -47,50 +47,51 @@
 25. Try to find literature of the story between Strahd and the Vistani, something more descriptive or poetic that provides additional context or background for their relationship.
 26. Give ivan a general know of the lay of the land, through the map. Especially locations tied to the Huntress that might've been passed down in his clan.
 27. Analyze Eliza's Tale and Lugdana's history.
-28. Decide if the teller of the tale must identify the falsehood, in cases where their story was false or half-true. They should, but Arturi will keep his truth close to him.
-29. Find a better way to tell Eliza's Tale, it's not very clear due to the writing style.
-30. Use visuals and audio cues to enhance the storytelling for all tales and make it more engaging for the players.
-31. Do the other Vistani not participate in the game? The ones that were already here.
-32. Am I meant to do anything with "Arturi Departs"? It mentions the monsters, so is it telling me the players can go there if they want? And the monsters who try to kill Arturi could easily do it, so it makes no sense that he survives that night.
+28. What do the Vistani know about the tale Eliza told? What questions can the players make regarding each person, event and location mentioned in the tale?
+29. Decide if the teller of the tale must identify the falsehood, in cases where their story was false or half-true. They should, but Arturi will keep his truth close to him.
+30. Find a better way to tell Eliza's Tale, it's not very clear due to the writing style.
+31. Use visuals and audio cues to enhance the storytelling for all tales and make it more engaging for the players.
+32. Do the other Vistani not participate in the game? The ones that were already here.
+33. Am I meant to do anything with "Arturi Departs"? It mentions the monsters, so is it telling me the players can go there if they want? And the monsters who try to kill Arturi could easily do it, so it makes no sense that he survives that night.
 
 ### C4e. Return to the River Ivlis Crossroads
 
-33. What is the phase of the moon this night? The text says "moonless sky".
-34. Why is it called the witching hour?
-35. Plan maps and hazards for the chase.
-36. Prepare the chase for Agni's Blood Sense which will most likely be active.
-37. Define the will-o'-whisp encounter.
-38. What if the players don't remember what madam Eva told them before they departed her tent? Wouldn't Madam Eva always knows the player's identities regardless of their answer?
-39. Describe the crossroads better, since last session the players didn't get a full scope of what it looked like.
-40. What is the behavior for Sister Elga's urn? Do the ghosts activate it? If so, when?
-41. Madam Eva said the phrase "The Fates are fickle" many times, and that the player's wills define their own fates. Work that into her explanation on March of the Dead.
-42. Change Madam Eva's speech to not give them a choice between a personal reading or a shared one, since they already had their personal readings.
+34. What is the phase of the moon this night? The text says "moonless sky".
+35. Why is it called the witching hour?
+36. Plan maps and hazards for the chase.
+37. Prepare the chase for Agni's Blood Sense which will most likely be active.
+38. Define the will-o'-whisp encounter.
+39. What if the players don't remember what madam Eva told them before they departed her tent? Wouldn't Madam Eva always knows the player's identities regardless of their answer?
+40. Describe the crossroads better, since last session the players didn't get a full scope of what it looked like.
+41. What is the behavior for Sister Elga's urn? Do the ghosts activate it? If so, when?
+42. Madam Eva said the phrase "The Fates are fickle" many times, and that the player's wills define their own fates. Work that into her explanation on March of the Dead.
+43. Change Madam Eva's speech to not give them a choice between a personal reading or a shared one, since they already had their personal readings.
 
 #### C4f. The Tarokka Reading
 
-43. Research tarokka readings online. See how other DMs did it.
-44. **Arabelle's errand:** C4f only explicitly starts the reading if the party accepts Eva's toy-delivery task, but does not state what happens if they decline. Should Eva withhold the reading, or honor the earlier invitation regardless?
-45. Include the calendar date of Arabelle's nameday.
-46. Improve on the tarokka reading by including proper descriptions instead of references.
-47. Split party leveling into parts to allow the players a feeling of progression even if not by an entire level.
+44. Research tarokka readings online. See how other DMs did it.
+45. **Arabelle's errand:** C4f only explicitly starts the reading if the party accepts Eva's toy-delivery task, but does not state what happens if they decline. Should Eva withhold the reading, or honor the earlier invitation regardless?
+46. Include the calendar date of Arabelle's nameday.
+47. Improve on the tarokka reading by including proper descriptions instead of references.
+48. Split party leveling into parts to allow the players a feeling of progression even if not by an entire level.
 
 ### C4g. Departing Tser Pool
 
-48. What if the players wait for Madam Eva to wake up?
+49. What if the players wait for Madam Eva to wake up?
 
 ### C5. The Skeletal Rider
 
-49. Develop this more, give him a better purpose.
-50. Re-read the information on Dalvan Olensky
+50. Develop this more, give him a better purpose.
+51. Re-read the information on Dalvan Olensky
 
 ### C6. The Watchtower
 
-51. Describe the terrain in detail. Give the players a sense of scale and danger.
-52. Map the area out clearly. The terrain is treachourous but a carriage should be able to pass by here.
-53. Include the description in the text of the tower instead of the reference.
-54. If the players climb the tower, this should unlock a bit more of the map around them.
-55. How did the corpse not get eaten or carried away?
-56. Consider finding a way to identify the graves of the villagers. Reminder that Sister Elga has access to the list of lost villagers.
+52. Describe the terrain in detail. Give the players a sense of scale and danger.
+53. Map the area out clearly. The terrain is treachourous but a carriage should be able to pass by here.
+54. Include the description in the text of the tower instead of the reference.
+55. If the players climb the tower, this should unlock a bit more of the map around them.
+56. How did the corpse not get eaten or carried away?
+57. Consider finding a way to identify the graves of the villagers. Reminder that Sister Elga has access to the list of lost villagers.
 
 ## 3. Resolved and adapted (lock)
 
@@ -112,7 +113,7 @@
 
 9. It is written in the beginning of Dancing Fire.
 10. **Q010 — Arturi at Tser Pool:** During his current visits, Arturi returns to Madam Eva's camp by day for her hospitality, then leaves at dusk and spends the night among the boughs of the same tall tree two miles from the encampment. This uses the location in [[../../Act I - Into the Mists/Arc C - Into the Valley#Arturi Departs|C4d, Arturi Departs]] rather than adding a new site. The undead gather at the tree and vanish shortly before dawn; it is a hiding place, not a safe sanctuary.
-	The other Vistani know that Arturi is cursed and that undead pursue him, but need not know the full story of Van Richten and the Radanavich caravan. Treat him with wary compassion: they share food, fire, and company during the day, and do not shun him while he is there. At dusk, however, they insist that he leave—not because they blame him, but because they will not risk bringing the undead to the camp. Madam Eva's hospitality is personal and genuine, but it does not extend to letting him stay after dark. The text does not establish how he survives the night at the tree; that remains Q032 rather than an invented fact.
+	The other Vistani know that Arturi is cursed and that undead pursue him, but need not know the full story of Van Richten and the Radanavich caravan. Treat him with wary compassion: they share food, fire, and company during the day, and do not shun him while he is there. At dusk, however, they insist that he leave—not because they blame him, but because they will not risk bringing the undead to the camp. Madam Eva's hospitality is personal and genuine, but it does not extend to letting him stay after dark. The text does not establish how he survives the night at the tree; that remains Q033 rather than an invented fact.
 11. She is a Mist Traveler who has been around Barovia many times, but doesn't have a defined home. She worships Strahd and most likely will head to Castle Ravenloft after this encounter. She is mentioned again after Arc Q as a possible new bride of Strahd.
 12. List of things in need of art:
 	- **NPC portraits:** Madam Eva, Stanimir, Eliza, Arturi Radanavich, and Ireena.
