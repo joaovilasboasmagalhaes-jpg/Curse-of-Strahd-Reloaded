@@ -921,9 +921,9 @@ If he hasn’t already, Arturi asks the players for news from Barovia, inquiring
 
 After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
 
-There are eight unnamed Vistani at the camp; two of them also participate in the game, one telling a true story and the other a false story. These are background turns: do not tell or play out their stories. Resolve them with a DC 15 Wisdom (Insight) check.
+There are eight unnamed Vistani at the camp; two of them also participate in the game, one telling a true story and the other a false story. They tell the brief stories below. Let the players make their own guesses first; if a player asks to assess either teller's truthfulness, call for a DC 15 Wisdom (Insight) check. On a success, indicate only whether the story contains a material falsehood.
 
-For the detailed stories told in this scene, let the players make their own guesses first. If a player asks to assess a teller's truthfulness, call for a DC 20 Wisdom (Insight) check. On a success, indicate only whether the story contains a material falsehood; do not reveal its exact truth category or the false detail.
+For the other stories told in this scene, let the players make their own guesses first. If a player asks to assess a teller's truthfulness, call for a DC 20 Wisdom (Insight) check. On a success, indicate only whether the story contains a material falsehood; do not reveal its exact truth category or the false detail.
 
 Stanimir adds, “If you hide a falsehood in your tale, make it one that matters to the story; being six instead of five changes little.”
 
@@ -972,6 +972,25 @@ Give the players a few minutes away from the table to plan out their stories bef
 > Beyond this mark, however, these creatures bear an extraordinary resilience. Conventional methods of harm prove ineffective in permanently subduing a werewolf. Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest.
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
+### The Two Vistani's Tales
+The two unnamed Vistani tell their stories at suitable moments during the game.
+
+The first Vistana says:
+
+> "I saw a rider in the mist once. Horse and rider were all bones, and he held a broken lantern before him, as though lighting his way. I stood aside and let him pass. Some say he guides the lost."
+
+The second Vistana challenges them: "Those are rumors. How do you know he doesn't lead them astray?"
+
+The first answers: "I didn't follow him. Did you?"
+
+After the players guess, the first Vistana confirms that the encounter is true. Whether the rider guides the lost or leads them astray remains a matter of rumor.
+
+The second Vistana tells their own story:
+
+> "At my cousin's wedding, a pig escaped its pen and charged through the feast. It took the wedding cake with it. We found it beneath a wagon, asleep with icing on its snout."
+
+After the players guess, the Vistana reveals that the story is false: "It was a lie! The wedding was a lie! The pig was a lie! And the cake was a lie."
+
 ### Stanimir’s Tale
 
 > **DM:** Throughout the tale, Stanimir uses *major image* to create the shapes in the flames. The players can notice him shaping the illusion.
@@ -1076,12 +1095,12 @@ Eliza hopes to travel with the players openly to their destination. If refused, 
 
 While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
 
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
+**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Near the crossroads, an unexplained, dreamlike disturbance replaces the will-o'-wisp encounter: rustling leaves, multiplying wolf eyes, and growls suggest that a pack is surrounding them. If they run, an enormous wolf pursues them toward the crossroads; if they stand and fight, it emerges and lunges at them. End the vision abruptly when they escape or its decisive attack resolves, before applying phantom damage or conditions. Their actual movement and resources spent persist; do not teleport them to the crossroads if they stopped elsewhere. There is no actual will-o'-wisp, tower, chest, or zombie encounter here. The cause remains unknown; an association with the Mists is possible, not established. This encounter does not decide whether Eliza follows them successfully. Run at most one chase on this return journey: the wolf pursuit or the chase after Eliza, not both.
 ### The March of the Dead
 When the players arrive at the River Ivlis Crossroads, read:
 
 <div class="description">
-<p>The well-worn path returns to the crossroad, dark under the moonless sky. Across the road, the mist-shrouded headstones seem to hunker down in the gloom beside the old wooden gallows, whose frayed rope dangles lifelessly in the still air.</p>
+<p>The well-worn road brings you back to the crossroads, a small clearing dark beneath the moonless sky. The road divides here: east toward Barovia Village, northwest down into the trees toward Tser Pool, and southwest up the slope toward Vallaki and Castle Ravenloft. Opposite the old wooden gallows, a weather-beaten signpost points down each fork. Nearby, a low stone wall, crumbling in places, encloses a small graveyard; its mist-shrouded headstones hunker in the gloom. The gallows' frayed rope hangs motionless in the still air.</p>
 <p>A squat, cloaked silhouette stands beside the gallows—waiting.</p>
 </div>
 
@@ -1099,7 +1118,14 @@ The silhouette is Madam Eva. She does not answer if called out to, and waits for
 > 
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
 
-If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
+If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter. Read:
+
+<div class="description">
+<p>Within the graveyard, a wan green glow gathers among the headstones. Shapes form in its light: armored veterans, bowmen with weather-worn gear, a broad dwarf carrying an axe, and robed spellcasters dressed in fashions long out of date. Their faces blur in the fog, and their ghostly forms waver with every step. More figures join them until a silent procession spills past the gallows and onto the southwest road. None looks toward you or Madam Eva. They continue their climb toward Castle Ravenloft, unhurried and unheeding, until the mist swallows them from sight.</p>
+</div>
+
+> [!warning]+ **DM Only: Sister Elga's Urn**
+> When the March of the Dead begins, undead spirits are within 300 feet of Sister Elga. Her Urn glows bright purple; tell the player.
 
 Once the March has begun, Madam Eva informs the players: "Each spirit in this march shares a common trait. Can you suppose what that might be?" If the players answer correctly, she then asks, "Where do you suppose they might be headed?"
 
@@ -1107,7 +1133,7 @@ Regardless of the players' answer, Madam Eva then shares the information about t
 
 "This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you *must* do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, glory, or love. Do you understand?"
 
-Regardless of the players' answer, Madam Eva fixates them with a steady gaze. "If you wish to put aside this mission, no soul could blame you. There is no shame in flight from a foe that no others have defeated. If you wish me to read your futures, I can read your palms, or gaze into my crystal ball. I can tell you the face of your true love, the path to good health in your elder years, or the success you might find in a trade of profession." She pauses, then adds, her voice nearly a whisper: "Or I can read the cards—and set you upon a path that ends only when your foe is vanquished—or you are. The choice is yours."
+Regardless of the players' answer, Madam Eva fixes them with a steady gaze. "Your signs have been read, each in its own turn. What I offer now is for all of you. If you would leave this struggle, no soul could blame you. But if you mean to face the lord of this valley together, I will lay the cards. They promise no victory; they may show what could aid you. Will you hear them?"
 
 If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well," she says. "Then let us begin." 
 ## C4f. The Tarokka Reading
@@ -1124,7 +1150,7 @@ Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth,
 
 As she shuffles the deck, the players notice a velvet pouch upon the ground beside her that wasn't present a moment before. Madam Eva meets their eyes, then cackles quietly. "The task you seek of me is no small boon," she murmurs. "In exchange, I would ask a boon of my own."
 
-If the players accept Madam Eva's request or inquire further, she informs them that the pouch contains ten gold pieces. "My great-grand-niece, Arabelle, will celebrate her tenth nameday in two days' time," she says. "For this momentous occasion, I wish to provide her a gift—but in my old age, I am quite unable to make the journey myself."
+If the players accept Madam Eva's request or inquire further, she informs them that the pouch contains ten gold pieces. "My great-grand-niece, Arabelle, will celebrate her tenth nameday in two days' time, on Neyavr 4," she says. "For this momentous occasion, I wish to provide her a gift—but in my old age, I am quite unable to make the journey myself."
 
 Madam Eva asks the players to use the funds in the pouch to purchase a toy for Arabelle at Blinsky Toys in Vallaki—Blinsky’s, she notes fondly, are Arabelle’s favorites—and deliver the toy to the Vistani encampment to the southwest of Vallaki by noon on Arabelle’s nameday. She adds that the players are welcome to keep any change as payment for their efforts.
 
@@ -1176,11 +1202,14 @@ Madam Eva declines to return with the players, preferring instead to linger at t
 
 **_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 500 XP.
 ## C4g. Departing Tser Pool
-When the players awaken at Tser Pool the following morning, Stanimir invites them to break their fast with him around the cold fire. Breakfast, which Arturi attends if able, includes cornmeal polenta, stuffed cabbage rolls, and fried bread. (If her treachery was not revealed the previous night, Eliza cheerfully joins the players for breakfast as well.)
+When the players awaken at Tser Pool the following morning, they remember dreaming throughout the night—more than they ever have before—but cannot recall any of the dreams. Stanimir invites them to break their fast with him around the cold fire. Breakfast, which Arturi attends if able, includes cornmeal polenta, stuffed cabbage rolls, and fried bread. (If her treachery was not revealed the previous night, Eliza cheerfully joins the players for breakfast as well.)
 
 If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
+
+> [!warning]+ **DM Only: Sister Elga's Urn**
+> When the skeletal rider or horse comes within 300 feet of Sister Elga, her Urn glows bright purple. Tell the player as soon as it happens.
 
 <div class="description"><p>
 Through the mist comes a skeletal horse and rider. The skeletal rider's muddy leather armor is torn and raked. The horse has bit and bridle, but no saddle nor saddlebags. The rider holds forth a hand outstretched, clutching a broken lantern as if to light the way.

@@ -6,7 +6,7 @@
 ## 1. Scope
 
 - Resume where Session 8 ended, with the party at the fire after meeting Eliza and Arturi. In four hours, the reasonable scope is the rest of C4d, the midnight return to the River Ivlis Crossroads (C4e), and Madam Eva's shared reading (C4f).
-- A good place to stop is with the players' long rest. If not, try to stop after Skeletal Rider. Final stopping place is the Watchtower.
+- If time permits, continue through C4g, Departing Tser Pool, and C5, The Skeletal Rider. The recommended stopping place remains C4g; the hard maximum is after the Skeletal Rider. C6, The Watchtower, is out of scope and its questions have been moved to Session 10 prep.
 - At the opening recap, ask the player what they chose to buy from Bildrath's Mercantile in Session 7. The log records agate moss and a religious symbol, but leaves the rest of the shopping undefined.
 
 ## 2. Read the Material
@@ -53,6 +53,9 @@
 31. Use visuals and audio cues to enhance the storytelling for all tales and make it more engaging for the players.
 32. Do the other Vistani not participate in the game? The ones that were already here.
 33. Am I meant to do anything with "Arturi Departs"? It mentions the monsters, so is it telling me the players can go there if they want? And the monsters who try to kill Arturi could easily do it, so it makes no sense that he survives that night.
+- **Q060** then i would suggest we use the 2 unnamed vistani to tell this story. one of them tells a true story and the other tells a false. which should tell the story of the rider?
+  after, we must also make a small story for the other.
+  these two should be small and brief, not to take up too much time.
 
 ### C4e. Return to the River Ivlis Crossroads
 
@@ -64,34 +67,28 @@
 39. What if the players don't remember what madam Eva told them before they departed her tent? Wouldn't Madam Eva always knows the player's identities regardless of their answer?
 40. Describe the crossroads better, since last session the players didn't get a full scope of what it looked like.
 41. What is the behavior for Sister Elga's urn? Do the ghosts activate it? If so, when?
-42. Madam Eva said the phrase "The Fates are fickle" many times, and that the player's wills define their own fates. Work that into her explanation on March of the Dead.
-43. Change Madam Eva's speech to not give them a choice between a personal reading or a shared one, since they already had their personal readings.
+42. can you replace the text in Arc C with the description from curse of strahd? Though I don't really like how it's worded, So change it to fit the environment and theme surrounding the scene in Arc C
+43. Madam Eva said the phrase "The Fates are fickle" many times, and that the player's wills define their own fates. Work that into her explanation on March of the Dead.
+44. Change Madam Eva's speech to not give them a choice between a personal reading or a shared one, since they already had their personal readings.
+
 
 #### C4f. The Tarokka Reading
 
-44. Research tarokka readings online. See how other DMs did it.
-45. **Arabelle's errand:** C4f only explicitly starts the reading if the party accepts Eva's toy-delivery task, but does not state what happens if they decline. Should Eva withhold the reading, or honor the earlier invitation regardless?
-46. Include the calendar date of Arabelle's nameday.
-47. Improve on the tarokka reading by including proper descriptions instead of references.
-48. Split party leveling into parts to allow the players a feeling of progression even if not by an entire level.
+45. Research tarokka readings online. See how other DMs did it.
+46. **Arabelle's errand:** C4f only explicitly starts the reading if the party accepts Eva's toy-delivery task, but does not state what happens if they decline. Should Eva withhold the reading, or honor the earlier invitation regardless?
+47. Include the calendar date of Arabelle's nameday.
+48. Improve on the tarokka reading by including proper descriptions instead of references.
+49. Split party leveling into parts to allow the players a feeling of progression even if not by an entire level.
 
 ### C4g. Departing Tser Pool
 
-49. What if the players wait for Madam Eva to wake up?
+50. Make the players have a dream after the tarokka reading.
+51. What if the players wait for Madam Eva to wake up?
 
 ### C5. The Skeletal Rider
 
-50. Develop this more, give him a better purpose.
-51. Re-read the information on Dalvan Olensky
-
-### C6. The Watchtower
-
-52. Describe the terrain in detail. Give the players a sense of scale and danger.
-53. Map the area out clearly. The terrain is treachourous but a carriage should be able to pass by here.
-54. Include the description in the text of the tower instead of the reference.
-55. If the players climb the tower, this should unlock a bit more of the map around them.
-56. How did the corpse not get eaten or carried away?
-57. Consider finding a way to identify the graves of the villagers. Reminder that Sister Elga has access to the list of lost villagers.
+52. Develop this more, give him a better purpose.
+53. Re-read the information on Dalvan Olensky
 
 ## 3. Resolved and adapted (lock)
 
@@ -127,10 +124,9 @@
 	- **Arturi Departs (conditional):** Arturi in the tree and the undead that gather below it (zombies, ghouls, ghasts, and wights), if the party investigates.
 	- **C4e, Return to the River Ivlis Crossroads:** the midnight road through the misty woods; the crossroads cemetery and gallows; and the March of the Dead.
 	- **C4f, The Tarokka Reading:** Madam Eva's candlelit reading in the graveyard, with the cards, velvet pouch, and animated shadows.
-	- **C4e chase branches (conditional):** Eliza fleeing through the woods, the will-o'-wisp, and possible chase complications (biting-midge swarm, elk stampede, giant spider).
+	- **C4e chase branches (conditional):** Eliza fleeing through the woods and her possible chase complications (biting-midge swarm, elk stampede, giant spider); alternatively, Q38's unexplained wolf-pack vision and enormous pursuing wolf. No will-o'-wisp art or token is needed for Q38.
 	- **C4g, Departing Tser Pool (if reached):** breakfast around the cold fire.
 	- **C5, The Skeletal Rider:** the skeletal rider and skeletal horse.
-	- **C6, The Watchtower:** the roadside approach, ruined tower, two graves, and slain wolf.
 13. Guide to the Vistani should have the story, but not in great detail.
 	- A fuller narrative account is “The Crucible of Dr. Rudolph van Richten,” a short story by David Wise in the 1994 anthology *Tales of Ravenloft*.
 
@@ -168,7 +164,7 @@
 29. It should be encouraged. Added a small line on the explanation of the game in Arc C.
 30. Maybe some visuals can help. Deferred to section 5.
 31. Deferred to section 5.
-32. The source does not give a headcount for the unnamed Vistani; use eight unnamed Vistani as the working camp count. Two of them take background turns in the Game of Stories, but their stories are not narrated or played out. For continuity, the first unnamed teller's story is true and the second's is false; use DC 15 for these background stories. For the detailed, canonical stories in Arc C, players make their own truth judgments first; if they ask for an Insight check, use DC 20 to determine whether they notice a material falsehood, without revealing the story's exact truth category or the false detail. This is a hard check and should provide only limited help, not replace the players' judgment.
+32. **Q032 / Q060 —** Eight unnamed Vistani are at the camp. Two tell brief stories during the game: the first's encounter with the skeletal rider is true, while the second's wedding-cake story is false. Their exchange treats the rider's purpose as rumor; Dalvan's broader concept remains exploring. Added the stories to [[../../Act I - Into the Mists/Arc C - Into the Valley#The Two Vistani's Tales|Arc C, C4d]]. Players guess first; on request, a DC 15 Insight check can indicate whether either story contains a material falsehood. Other stories retain the DC 20 check and its limited information.
 33. **Q033 —** Arturi prepares a convincing decoy in the tree, then disappears into the forest and sleeps somewhere else. The undead gather at the decoy rather than finding him; he survives through preparation and experience, not because the tree protects him.
 
 ### C4e. Return to the River Ivlis Crossroads
@@ -177,7 +173,38 @@
 35. It's believed to be the time when demons and other malevolent entities are most active.
 36. Deferred to section 4.
 37. Deferred to section 4.
-38. 
+38. **Q38 - Unexplained wolf-pack vision replaces the will-o'-wisp encounter.** Approved in discussion. Keep the existing off-road trigger and concealment checks, but remove the will-o'-wisp, its guiding light, ruined tower, chest, zombies, and the proposed landslide. The disturbance may be associated with the Mists or something unknown; its cause is deliberately unspecified, not an adopted new power of the Mists or a mystery that must be solved before this session.
+	- Escalation: rustling leaves from several directions, multiplying wolf eyes in the darkness, growls, and the realization that the party is being surrounded. The DM improvises the descriptions. If they run, use the close chase below; if they stand and fight, an enormous wolf emerges and makes one overwhelming attack.
+	- Preserve the dream's abrupt ending without actual damage from phantom creatures. Real movement, resources spent, and consequences of real obstacles persist. No forced flight, automatic hit, or teleportation to the crossroads.
+	- The wolf chase and pursuit of Eliza remain alternatives: run at most one chase during this return journey. The vision does not decide whether Eliza successfully follows them.
+	- **Campaign source updated:** [[../../Act I - Into the Mists/Arc C - Into the Valley#C4e. Return to the River Ivlis Crossroads|Arc C, C4e]] now replaces the cited will-o'-wisp encounter with this unexplained vision. Detailed mechanics are recorded in Section 4; outstanding design, Foundry/map, and rehearsal tasks are in Sections 4-6 under Q38. Recording these tasks does not complete them or lock the session.
+39. She simply reminds them. She knows who they are.
+40. **Q040 —** The return-at-midnight read-aloud now gives the full layout from the initial crossroads description: the three roads and their destinations, the signpost, and the walled graveyard opposite the gallows. The existing silhouette reveal remains intact. Added the required DM-only Urn warning for when the March of the Dead begins. Updated [[../../Act I - Into the Mists/Arc C - Into the Valley#C4e. Return to the River Ivlis Crossroads|Arc C, C4e]]; the session log is unchanged.
+41. Before the March begins. The ghosts aren't there physically; they only manifest once the March has started.
+42. Added an Arc C read-aloud for the procession, adapting the source's spectral adventurers to the moonless crossroads, gallows, graveyard, and mist. The existing source citation and Elga Urn warning remain in place.
+43. No need.
+44. Changed the text.
+
+### C4f. The Tarokka Reading
+
+45. 
+46. She should decline. It's a small task she's asking - if the players refuse, then they get no reading.
+47. It takes place on Neyavr 4.
+48. Deferred to section 6.
+49. **Q049 — Party progression from 3rd to 4th level (per character):** Award and track the Act I milestone XP incrementally so the players see progress between levels. 3rd level begins at 900 XP and 4th level begins at 2,700 XP, requiring 1,800 XP to advance.
+	- **Earned:** Departing Barovia with Ireena, 400 XP; Doru passing his test of will, 100 XP. That is 500 XP earned since reaching 3rd level, for a current total of 1,400 XP per character.
+	- **Upcoming:** Receiving the Tarokka reading and departing the crossroads, 500 XP; escorting Ireena to Vallaki, 250 XP; finding lodging in Vallaki, 1,000 XP.
+	- These remaining milestones total 1,750 XP. The first 1,300 XP brings each character to 4th level; the remaining 450 XP carries over. The 200 XP for discovering Death House's secret staircase and 400 XP for escaping it were earned before 3rd level and are not part of this progression.
+
+### C4g. Departing Tser Pool
+
+50. Describe them having a dream but not remembering it.
+51. She'll say she's tired form the reading and can't help them anymore for a while.
+
+### C5. The Skeletal Rider
+
+52. Added an introduction to him on the Game of Stories.
+53. Done.
 
 ### Blocked questions
 
@@ -190,10 +217,67 @@
 18. Leave till after getting the player's understanding of his reading. If no path available, ignore this.
 20. 
 26. 
+38. Review
+45. Check how other DM's did tarokka reading
 
 ## 4. Session design
 
 Pending the step 3 lock.
+
+### Q38 - Off-road wolf-pack vision (DM-only)
+
+**Approved working mechanics; preparation tasks remain open.** This is a shared supernatural perception, not actual wolves, a conventional monster fight, or an established will-o'-wisp ability. The objective is escape or a decisive response to the apparent attack, not killing the pack.
+
+**Trigger and branches**
+
+- **Q38:** Use the existing off-road attempt to conceal tracks: DC 11 Dexterity (Stealth), followed by DC 11 Wisdom (Survival). Resolve whether Eliza follows normally; the vision does not erase her or reunite a split party.
+- **Q38:** Introduce the vision along a real, passable course 180 feet from the crossroads. Surrounding eyes and growls provide pressure; only one enormous wolf is a mechanical pursuer. Leave a traversable escape route rather than creating a mechanically inescapable ring.
+- **Q38:** If they flee, begin the chase. If they stand and fight, resolve initiative and their actions normally, then the wolf's attack. If they pursue Eliza first, do not subsequently run the wolf chase; use the brief attack/vision branch if this encounter occurs.
+
+**Close chase**
+
+Sources: [Dungeon Master's Guide, Chases](../../assets/Dungeon%20Master's%20Guide.md#chases), especially Beginning a Chase, Running the Chase, Ending a Chase, and Mapping the Chase. Starting distances, route length, and applying these rules to a phantom pursuer are this scene's adaptations.
+
+| Element | Q38 setup |
+| --- | --- |
+| Route | 180 feet of real, passable terrain to the crossroads |
+| Starting separation | Wolf 60 feet behind the rearmost character; preserve everyone's relative positions |
+| Wolf | Speed 50 feet; 100 feet with Dash; initiative +0; passive Perception 14 |
+| Turns | Roll initiative normally; track each character and companion separately |
+| Behavior | Pursue the nearest straggler; Dash when necessary; no extra turns for the background pack |
+| Intended length | Roughly 2-3 rounds, depending on initiative, movement, obstacles, and player interference; not a guaranteed duration |
+
+- **Q38:** A speed-30 character covers 60 feet with Dash while the wolf can cover 100: across a full unobstructed round it closes 40 feet. From 60 feet behind it threatens contact during round two, while the crossroads takes three Dashes. Faster movement, spells, assistance, and clever choices genuinely change this; do not accelerate the wolf to negate them.
+- **Q38:** Use one mapped brush obstacle instead of the random complications table. On crossing it, DC 10 Strength (Athletics) or Dexterity (Acrobatics), character's choice; failure makes the brush count as 5 feet of difficult terrain, following Wilderness Chase Complications result 1. Apply the same terrain to the wolf if it follows through the brush.
+- **Q38:** Normal actions and movement apply. Attacking or casting may cost the action otherwise used to Dash. Chase participants do not normally make opportunity attacks against one another.
+- **Q38:** Contact does not grant a free bite. If the wolf Dashes to reach a character, its action is spent. Resolve the attack branch only when it can reach within 10 feet with its action available.
+- **Q38:** At the end of each round, each quarry can attempt Dexterity (Stealth) to escape; a character never out of the lead pursuer's sight automatically fails. Otherwise the check must exceed passive Perception 14. Apply the DMG's escape factors, including cancelling advantage/disadvantage where applicable; entering woods does not automatically grant escape.
+- **Q38:** Each participant can Dash freely 3 + its Constitution modifier times. Further Dashes require a DC 10 Constitution check at the end of its turn or one level of exhaustion. The wolf proxy has Constitution +4, so seven free Dashes. Do not invent early exhaustion checks to manufacture tension.
+- **Q38:** Reaching the crossroads ends pursuit of that character. Escaping, stopping, or splitting up remains possible; track actual locations and continue for remaining participants as needed. End the shared vision when everyone is clear or otherwise no longer participating, or on resolution of the wolf's decisive attack.
+
+**If they fight / the wolf can attack**
+
+Source: [Monster Manual, Tyrannosaurus Rex](../../assets/Monster%20Manual.md#tyrannosaurus-rex). Use this as a clearly labeled proxy for the enormous wolf, not a claim that a normal wolf has these abilities. Use its chassis and Bite, but omit Tail and Multiattack.
+
+| Element | Q38 proxy |
+| --- | --- |
+| Size; AC; HP | Huge; AC 13; 136 HP if needed to resolve player attacks, not as an HP-race objective |
+| Movement; initiative | 50 feet; +0 |
+| Bite | +10 to hit; reach 10 feet; one target |
+| Published hit | 4d12 + 7 piercing (average 33); Medium or smaller target grappled and restrained, escape DC 17 |
+| Dream adaptation | Resolve the attack roll and defensive reactions, then cut before applying its damage or conditions |
+
+- **Q38:** Target the character confronting the wolf or an isolated straggler. Do not automatically select the lowest-HP PC. Telegraph the threat; no automatic surprise or forced hit.
+- **Q38:** Honor player actions, defensive reactions, and the actual outcome. Do not reroll a miss, override a successful defense, or announce blanket immunity to preserve the scene.
+- **Q38:** The attack is a single decisive beat, not a multi-round HP battle. End the dream on its resolution whether it hits or misses. No phantom damage, grapple, restraint, or wounds remain. Real resources spent remain spent; do not ask players to subtract damage and later secretly restore it.
+- **Q38:** If they reach the crossroads, cut abruptly to the real road, gallows, cemetery, and waiting Eva. If they stop or fight earlier, end the vision where their real movement left them; do not teleport them to the crossroads.
+
+**Outstanding session-design tasks**
+
+- [ ] **Q38 (with Q36):** Finalize the chase layout: starting formation and companions, 180-foot exit, exact brush position/extent, usable sight breaks, and side routes. Output: a keyed route that allows distance, cover, escape checks, and split movement to be run consistently.
+- [ ] **Q38:** Prepare the single-attack combat procedure and adjudication notes for likely attacks, control spells, and attempts to expose or end the phenomenon. Preserve successful counters; unknown origin is not automatic immunity. Output: a short combat/reference card, including an early-end response if the party defeats or exposes the apparition before its bite.
+- [ ] **Q38 (with Q37):** Establish actual companion and possible Eliza positions relative to Agni; record when each enters/leaves 30 feet and who is bloodied/lowest HP if his sense is active. Output: a conditional sense-tracking note, not a preset false report.
+- [ ] **Q38:** Prepare a brief non-chase resolution if Eliza is exposed after the wolf chase, preserving player choices and consequences without running a second chase. Output: a runnable branch for confronting or attempting to pursue her.
 
 ### Combats
 
@@ -204,6 +288,12 @@ Pending the step 3 lock.
 
 Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or record "none."
 
+- **Q38 - Wolf vision:** No actual undead are introduced. The phantom wolves and the unexplained phenomenon do not themselves trigger the Urn; there is no real will-o'-wisp. Check other actual undead within 300 feet as the party approaches the crossroads. **Elga's Urn glows: tell the player** if any are present; do not force the glow off to preserve the vision.
+
+### Blood Sense warnings
+
+- **Q38 (with Q37) - DM: Agni's Blood Sense: check thirst stage/activation; tell the player if active.** Thirsty: always active and unsuppressible; Composed: bonus action for 1 minute; Sated: action for 10 minutes. If unknown, keep the warning conditional. Phantom wolves, including the enormous attacker, are not living creatures and do not register, even inside 30 feet. Report actual living companions and Eliza if she is really within 30 feet, including behind total cover, with exact locations, bloodied status, and which has the lowest current HP. Track entry/exit as they move; do not suppress a clue or equate the sense with sight or automatic party-wide surprise.
+
 ## 5. Table prep
 
 15. Get regular playing cards besides the real Tarokka deck to present to the players as Stanimir's tarokka deck, so they think this will be the deck we use.
@@ -213,6 +303,13 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - Get player map for what the party has already explored.
+
+### Q38 - Wolf vision assets
+
+- [ ] **Q38:** Create the enormous wolf's Foundry stat block using the tyrannosaurus rex proxy in Section 4: Huge, speed 50 feet, AC 13, HP 136, initiative +0, passive Perception 14, and Bite only; no Tail or Multiattack. Keep a DM-only warning that the vision ends before bite damage/conditions apply. Output: validated importable actor JSON, imported and tested in Foundry; no automatic damage or grapple/restrained application during this scene.
+- [ ] **Q38:** Select suitable enormous-wolf token art and prepare background pack eyes/sound without adding combat turns or live-creature detections. No will-o'-wisp actor, token, light, tower, chest, or zombies are required. Output: ready tokens/art and DM-controlled visibility.
+- [ ] **Q38 (with Q36):** Build/import the keyed chase map from Section 4, with measured 180-foot route, 60-foot rear starting separation, brush hazard, usable sight breaks, and a crossroads exit. Use it for the brief stand-and-fight branch too; no separate arena is needed. Output: playable Foundry scene with correct scale, token movement, and unrevealed background elements.
+- [ ] **Q38:** Prepare the abrupt transition to the crossroads, plus the same-location ending if someone stops/fights early or the party splits. Optional rustling/growl audio must be stoppable instantly. Output: tested scene/visibility/audio controls that do not move PCs contrary to their actions.
 
 ### Tarokka Deck
 
@@ -225,7 +322,16 @@ Instructions for handling the deck:
 
 ## 6. Study and practice
 
-Pending.
+Pending
+
+### Q38 - Chase and attack rehearsal
+
+- [ ] **Q38:** Rehearse the DMG chase procedure with the prepared map and actual party movement: both initiative orders, speed-30 Dashing, faster PCs, a failed brush check, hiding after a sight break, and splitting up. Verify that pressure is close without guaranteed capture and that a Dashing wolf cannot also Bite. Record results and any necessary adjustments.
+- [ ] **Q38:** Test the Foundry actor's attack and defensive-reaction workflow without applying real phantom damage or conditions. Practice the cut on both a hit and a miss, and after a successful player counter.
+- [ ] **Q38 (with Q37):** Rehearse the Urn/Blood Sense reports with no wisp, real companions, and Eliza both inside and outside 30 feet. Check the transition to any actual undead near the crossroads separately.
+- [ ] **Q38:** Before the final check, verify the Section 4 design outputs and Section 5 assets actually exist and work. An unchecked assignment is not completion; keep the overall prep status unchanged until the pipeline criteria are met.
+
+### Q48 - Practice Tarokka Reading
 
 ### Expected from players
 
