@@ -1,0 +1,188 @@
+{
+  "folder": "lSB1m3K8ahLUm28a",
+  "name": "Urn of Soul Catching",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qpFPveJ7laJVgM1o",
+      "name": "Natural 1",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>Roll on the Liturgy of Ruin Table</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781909578705,
+        "modifiedTime": 1782074380182,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        8
+      ],
+      "_id": "FGBBYd4fVSVwkJ1g",
+      "name": "",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>The ritual fails</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1782074360523,
+        "modifiedTime": 1782074426142,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        12
+      ],
+      "_id": "HKCrCAsObiHCVpPr",
+      "name": "",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>You learn the soul’s alignment</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1782074404868,
+        "modifiedTime": 1782074412240,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        16
+      ],
+      "_id": "GNvt1h37u547QGwQ",
+      "name": "",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>You learn the soul’s name and alignment</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1782074413723,
+        "modifiedTime": 1782074422293,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        20
+      ],
+      "_id": "NP99uC62BoWPYpaO",
+      "name": "",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>You learn a relevant memory, name, and alignment</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1782074428186,
+        "modifiedTime": 1782074444256,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "M7hMIwxpYTL3giTh",
+      "name": "Natural 20",
+      "img": "systems/dnd5e/icons/svg/dice/d20.svg",
+      "description": "<p>Roll on the Liturgy of Grace and gain all information</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1782074445378,
+        "modifiedTime": 1782074465258,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "documentUuid": null
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1781909573916,
+    "modifiedTime": 1782074595242,
+    "lastModifiedBy": "neX3IKfOaAj3abkB",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "curse-of-strahd",
+      "uuid": "RollTable.FvwRFlpCvP1RiRdB",
+      "coreVersion": "14.368",
+      "systemId": "dnd5e",
+      "systemVersion": "6.0.3"
+    }
+  },
+  "formula": "1d20 + Wisdom (Religion)"
+}

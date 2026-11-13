@@ -1,0 +1,589 @@
+{
+  "name": "Nighttime Random Encounters in Barovia",
+  "formula": "d12 + d8",
+  "description": "<div class=\"ve-muted\"><i>Encounter</i></div>",
+  "results": [
+    {
+      "type": "text",
+      "name": "",
+      "description": "1 @creature[ghost]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "2-2"
+        }
+      },
+      "_id": "zEYEiNQZt7j2XPQp",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Hunting trap",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "3-3"
+        }
+      },
+      "_id": "ytnuiyoQ3J5hqXh2",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Grave",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "4-4"
+        }
+      },
+      "_id": "nFcYdngRgX89rSIv",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Trinket",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "5-5"
+        }
+      },
+      "_id": "YM7z7FTMQXlbmEab",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Corpse",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "6-6"
+        }
+      },
+      "_id": "7Q7HiuZZoWRXZK3F",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Hidden bundle",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "7-7"
+        }
+      },
+      "_id": "IyjmjhoMQk7tY2km",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "Skeletal rider",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "8-8"
+        }
+      },
+      "_id": "RGf92pXuXIKtyVSc",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d8]] @creature[swarm of bats]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "9-9"
+        }
+      },
+      "_id": "SrVgLrMC2LibgsNA",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d6]] @creature[Dire Wolf||dire wolves]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "10-10"
+        }
+      },
+      "_id": "jGtNaa1uIEDW9nCS",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 3d6]] @creature[Wolf||wolves]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "11-11"
+        }
+      },
+      "_id": "LhnfjrpyH1c8Bkbb",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d4]] @creature[Berserker||berserkers]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "12-12"
+        }
+      },
+      "_id": "p6EG3PcvVRT7wfDF",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "1 @creature[druid] and [[/r 2d6]] @creature[Twig Blight||twig blights]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "13-13"
+        }
+      },
+      "_id": "9eY2O3i3CyyqG8HR",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 2d4]] @creature[Needle Blight||needle blights]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "14-14"
+        }
+      },
+      "_id": "e37ZR7mC3XJNTCW2",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d6]] @creature[Werewolf||werewolves] in wolf form",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "15-15"
+        }
+      },
+      "_id": "MWp3fwnkf7zAoW9w",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 3d6]] @creature[Zombie||zombies]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "16-16"
+        }
+      },
+      "_id": "bz6lgB3yzQZzgPQz",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d6]] @creature[Scarecrow||scarecrows]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "17-17"
+        }
+      },
+      "_id": "K9YhErgEr1hR7G70",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "[[/r 1d8]] @creature[Strahd Zombie|CoS|Strahd zombies] (see appendix D)",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "18-18"
+        }
+      },
+      "_id": "gczAR9cQ9TMHdCc4",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "1 @creature[will-o'-wisp]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "19-19"
+        }
+      },
+      "_id": "ygbw7QnNYfmzwvmN",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "type": "text",
+      "name": "",
+      "description": "1 @creature[revenant]",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "20-20"
+        }
+      },
+      "_id": "22zrsNzZGhGICcWM",
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1781201272621,
+        "modifiedTime": 1781201272621,
+        "lastModifiedBy": "neX3IKfOaAj3abkB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "img": "modules/plutonium/media/icon/hamburger-menu.svg",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "plutonium": {
+      "page": "tables.html",
+      "source": "CoS",
+      "hash": "nighttime%20random%20encounters%20in%20barovia_cos"
+    }
+  },
+  "folder": "7zlyqOrH9AXHsR9H",
+  "_stats": {
+    "systemVersion": "5.3.3",
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "createdTime": 1781201272621,
+    "modifiedTime": 1781201272622,
+    "lastModifiedBy": "neX3IKfOaAj3abkB",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "curse-of-strahd",
+      "uuid": "RollTable.7qWQ39iTOdPen72X",
+      "coreVersion": "14.368",
+      "systemId": "dnd5e",
+      "systemVersion": "6.0.3"
+    }
+  }
+}
