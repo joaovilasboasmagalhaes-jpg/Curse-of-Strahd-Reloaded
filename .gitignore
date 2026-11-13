@@ -6,3 +6,4 @@ barovia-map/tiles/
 barovia-map/zootlocker-3d/
 barovia-map/stl-viewer-3d/
 __pycache__/
+*.code-workspace
