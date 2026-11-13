@@ -1,0 +1,70 @@
+{
+  "name": "Enormous Phantom Wolf",
+  "cr": 8,
+  "size": "huge",
+  "alignment": "unaligned",
+  "book": "Monster Manual",
+  "page": "80",
+  "type": {
+    "value": "beast"
+  },
+  "img": "assets/srd5e/img/bestiary/tokens/XMM/Wolf.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/XMM/Wolf.webp",
+  "token_size": 3,
+  "abilities": {
+    "str": 25,
+    "dex": 10,
+    "con": 19,
+    "int": 2,
+    "wis": 12,
+    "cha": 9
+  },
+  "skills": {
+    "prc": 1,
+    "ste": 1
+  },
+  "ci": [
+    "charmed",
+    "frightened"
+  ],
+  "ac": 13,
+  "hp": {
+    "max": 136,
+    "formula": "13d12 + 52"
+  },
+  "speed": {
+    "walk": 50
+  },
+  "senses": {
+    "darkvision": 120
+  },
+  "languages": [],
+  "biography": "<p>DM-only: This is the enormous wolf in the Q38 dreamlike vision. It keeps the established Q38 chase statistics, Huge size, and decisive Bite profile, with Barovian dire wolf senses and traits. It is immune to the charmed and frightened conditions. It has only the Bite attack; omit Tail and Multiattack. The vision ends after the attack roll and defensive reactions resolve, before damage or conditions are applied. The surrounding pack is visual and auditory only and does not count as an ally for Pack Tactics.</p>",
+  "items": [
+    {
+      "name": "Superior Darkvision",
+      "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+      "description": "The wolf can see in dim light within 120 feet of itself as if it were bright light, and in darkness as if it were dim light. It can't discern color in darkness, only shades of gray."
+    },
+    {
+      "name": "Keen Hearing and Smell",
+      "img": "icons/creatures/abilities/wolf-howl-moon-white.webp",
+      "description": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
+    {
+      "name": "Pack Tactics",
+      "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
+      "description": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated. Q38: The dreamlike background pack is visual and auditory only, not a mechanical ally."
+    },
+    {
+      "kind": "weapon",
+      "natural": true,
+      "name": "Bite",
+      "img": "icons/creatures/abilities/fangs-teeth-bite.webp",
+      "ability": "str",
+      "reach": 10,
+      "description": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. A Medium or smaller target is grappled (escape DC 17) and restrained while grappled. DM-only Q38 adaptation: resolve the attack and defensive reactions, then end the vision before applying damage or any conditions. This Foundry attack rolls to hit only.",
+      "activities": []
+    }
+  ]
+}

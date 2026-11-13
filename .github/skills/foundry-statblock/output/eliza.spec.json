@@ -1,0 +1,118 @@
+{
+  "name": "Eliza",
+  "cr": 1,
+  "size": "med",
+  "alignment": "any alignment",
+  "book": "Monster Manual",
+  "page": "349",
+  "type": {
+    "value": "humanoid",
+    "subtype": "Vistana"
+  },
+  "img": "assets/srd5e/img/bestiary/tokens/CoS/Vistana Spy.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/CoS/Vistana Spy.webp",
+  "abilities": {
+    "str": 10,
+    "dex": 15,
+    "con": 10,
+    "int": 12,
+    "wis": 14,
+    "cha": 16
+  },
+  "skills": {
+    "dec": 1,
+    "ins": 1,
+    "inv": 1,
+    "prc": 2,
+    "per": 1,
+    "slt": 1,
+    "ste": 1
+  },
+  "ac": 12,
+  "hp": {
+    "max": 27,
+    "formula": "6d8"
+  },
+  "speed": {
+    "walk": 30
+  },
+  "languages": [],
+  "languages_custom": "Any two languages (not specified)",
+  "biography": "<p>Eliza is the Vistani spy in Strahd's service at Tser Pool. She is cheery and excitable, and her loyalty to Strahd is fervent. If attacked, she tries to flee; if threatened, she immediately surrenders.</p>",
+  "items": [
+    {
+      "name": "Cunning Action",
+      "img": "icons/skills/movement/figure-running-gray.webp",
+      "activation": "bonus",
+      "description": "On each of its turns, Eliza can use a bonus action to take the Dash, Disengage, or Hide action."
+    },
+    {
+      "name": "Sneak Attack",
+      "img": "icons/skills/melee/strike-sword-stabbed-brown.webp",
+      "activation": "special",
+      "description": "Once per turn, Eliza deals an extra 7 (2d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Eliza that isn't incapacitated and Eliza doesn't have disadvantage on the attack roll.",
+      "activities": [
+        {
+          "type": "damage",
+          "damage": [
+            {
+              "n": 2,
+              "d": 6,
+              "type": "piercing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Multiattack",
+      "img": "icons/skills/melee/strikes-sword-triple-gray.webp",
+      "description": "Eliza makes two melee attacks."
+    },
+    {
+      "kind": "weapon",
+      "name": "Shortsword",
+      "img": "icons/weapons/swords/shortsword-simple.webp",
+      "base": "shortsword",
+      "wtype": "martialM",
+      "props": [
+        "fin",
+        "lgt"
+      ],
+      "ability": "dex",
+      "reach": 5,
+      "damage": [
+        {
+          "n": 1,
+          "d": 6,
+          "type": "piercing"
+        }
+      ],
+      "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    {
+      "kind": "weapon",
+      "name": "Hand Crossbow",
+      "img": "icons/weapons/crossbows/handcrossbow-black.webp",
+      "base": "handcrossbow",
+      "wtype": "martialR",
+      "props": [
+        "amm",
+        "lgt",
+        "lod"
+      ],
+      "ability": "dex",
+      "ranged": true,
+      "range": 30,
+      "long": 120,
+      "damage": [
+        {
+          "n": 1,
+          "d": 6,
+          "type": "piercing"
+        }
+      ],
+      "description": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    }
+  ]
+}

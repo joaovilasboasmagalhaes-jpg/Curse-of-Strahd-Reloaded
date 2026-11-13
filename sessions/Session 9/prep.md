@@ -302,11 +302,36 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 31. Prepare visuals for all tales.
 - Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
-- Get player map for what the party has already explored.
+- [x] Get player map for what the party has already explored. DM confirmed complete: Barovia player-map scene prepared in Foundry with Simple Fog.
+
+### Q012 - Character art needed
+
+Checked against the Foundry handout catalog and world assets on 2026-11-11; only Ireena has existing art.
+
+**Core NPCs (needed for C4d-C4f):**
+- [x] Madam Eva — official CoS art: `assets/srd5e/img/bestiary/tokens/CoS/Madam Eva.webp` (hooded, grinning crone by firelight; fits both the fire and the reading).
+- [x] Stanimir — art task canceled by DM.
+- [x] Eliza — art task canceled by DM.
+- [x] Arturi Radanavich — art task canceled by DM.
+- [x] Unnamed Vistani — art task canceled by DM.
+- [x] Ireena — already exists: `worlds/curse-of-strahd/assets/handouts/barovia-village/Ireena.png`.
+
+**Conditional creatures (only if the branch triggers):**
+- [ ] Enormous wolf (Q38 vision) — token art already tasked under "Q38 - Wolf vision assets" above; do not duplicate.
+- [ ] Arturi Departs undead — zombie, ghoul, ghast, and wight art/tokens, only if the party follows Arturi at dusk.
+- [ ] Eliza chase complications — swarm of biting midges, elk (stampede), giant spider tokens, only if her chase runs.
+- [ ] March of the Dead — spectral procession of adventurers at the crossroads (scene-level art; no individual tokens needed).
+
+**If the session reaches C5:**
+- [ ] Skeletal Rider (Dalvan Olensky) and skeletal horse — portrait or token art.
 
 ### Q38 - Wolf vision assets
 
-- [ ] **Q38:** Create the enormous wolf's Foundry stat block using the tyrannosaurus rex proxy in Section 4: Huge, speed 50 feet, AC 13, HP 136, initiative +0, passive Perception 14, and Bite only; no Tail or Multiattack. Keep a DM-only warning that the vision ends before bite damage/conditions apply. Output: validated importable actor JSON, imported and tested in Foundry; no automatic damage or grapple/restrained application during this scene.
+- [x] **Q38:** Create the enormous wolf's Foundry stat block using the tyrannosaurus rex proxy in Section 4: Huge, speed 50 feet, AC 13, HP 136, initiative +0, passive Perception 14, and Bite only; no Tail or Multiattack. Keep a DM-only warning that the vision ends before bite damage/conditions apply. Output: validated importable actor JSON, imported and tested in Foundry; no automatic damage or grapple/restrained application during this scene. DM confirmed the combat actors are prepared in Foundry on 2026-11-13.
+- [x] Eliza — Spy stat block.
+- [x] Biting-midge swarm — Swarm of Wasps stat block, reskinned.
+- [x] Elk — standard Elk stat block, for the stampede complication.
+- [x] Giant spider — standard Giant Spider stat block, for the wilderness complication.
 - [ ] **Q38:** Select suitable enormous-wolf token art and prepare background pack eyes/sound without adding combat turns or live-creature detections. No will-o'-wisp actor, token, light, tower, chest, or zombies are required. Output: ready tokens/art and DM-controlled visibility.
 - [ ] **Q38 (with Q36):** Build/import the keyed chase map from Section 4, with measured 180-foot route, 60-foot rear starting separation, brush hazard, usable sight breaks, and a crossroads exit. Use it for the brief stand-and-fight branch too; no separate arena is needed. Output: playable Foundry scene with correct scale, token movement, and unrevealed background elements.
 - [ ] **Q38:** Prepare the abrupt transition to the crossroads, plus the same-location ending if someone stops/fights early or the party splits. Optional rustling/growl audio must be stoppable instantly. Output: tested scene/visibility/audio controls that do not move PCs contrary to their actions.

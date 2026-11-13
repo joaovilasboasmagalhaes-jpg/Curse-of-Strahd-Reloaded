@@ -1,0 +1,180 @@
+{
+  "name": "Eliza Chase Complications",
+  "description": "<p>Arc C woodland chase; DMG (2014), Chases. Roll at each turn's end for the <strong>next participant</strong>; either may spend inspiration to cancel. Resolve effects manually.</p><p><strong>DM:</strong> Agni's Blood Sense: check thirst stage/activation; tell the player if active when Eliza, midges, elk or the spider enter/leave 30 feet. Undead within 300 feet of Elga: <strong>Elga's Urn glows: tell the player</strong> (PCs excluded).</p>",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d20",
+  "results": [
+    {
+      "_id": "PZkgJwAleD8avIzd",
+      "type": "text",
+      "name": "Roots like grasping fingers",
+      "description": "<p><em>Crooked roots and bare branches crowd the gap between two ancient trees, catching at boots and sleeves.</em></p><p>Choose a <strong>DC 10 Strength (Athletics)</strong> or <strong>Dexterity (Acrobatics)</strong> check to force through or slip between them. Failure: treat a 5-foot section as difficult terrain.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "dVJ8Zu6LqQ1fjkJP",
+      "type": "text",
+      "name": "Black mud beneath dead leaves",
+      "description": "<p><em>The carpet of dead leaves gives way underfoot. Black mud sucks at your boots, hiding uneven stones and hollows.</em></p><p>Make a <strong>DC 10 Dexterity (Acrobatics)</strong> check to keep moving over the treacherous ground. Failure: a 10-foot section counts as difficult terrain.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "ylklx1vpo0QxyO9D",
+      "type": "text",
+      "name": "A black cloud of biting midges",
+      "description": "<p><em>A thin whine rises from a stagnant hollow. Biting midges boil up around your face and work beneath your collar.</em></p><p>Use <strong>swarm of wasps</strong> statistics. The swarm makes an opportunity attack: <strong>+3 to hit</strong> ([[/r 1d20 + 3]]), dealing <strong>4d4 piercing damage</strong> ([[/r 4d4]]) on a hit.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "B8LquYOStl5u2YHi",
+      "type": "text",
+      "name": "A fallen tree over dark water",
+      "description": "<p><em>A fallen beech lies across a narrow runoff channel. Water murmurs beneath it, and its wet bark shines through the mist.</em></p><p>Choose a <strong>DC 10 Strength (Athletics)</strong> or <strong>Dexterity (Acrobatics)</strong> check to scramble over the trunk or balance across it. Failure: a 10-foot section of the crossing counts as difficult terrain.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "AhrHtmYmxuZQsjoZ",
+      "type": "text",
+      "name": "Rot-dust in your eyes",
+      "description": "<p><em>A dead branch crumbles as you pass, showering your face with dry, bitter-smelling wood dust.</em></p><p>Make a <strong>DC 10 Constitution saving throw</strong>. Failure: you are <strong>blinded until the end of your turn</strong>, and your speed is halved for that duration. The dust is ordinary debris, not poison or a magical effect.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "iALe5uTjuPFrmAx0",
+      "type": "text",
+      "name": "The bank gives way",
+      "description": "<p><em>Leaves conceal the edge of an eroded gully. The lip crumbles beneath your next step, exposing a steep drop into the dark.</em></p><p>Make a <strong>DC 10 Dexterity saving throw</strong> to catch yourself. Failure: fall <strong>1d4 x 5 feet</strong> ([[/r 1d4 * 5]]) and land <strong>prone</strong>. Determine the distance first, then apply <strong>1d6 bludgeoning damage per full 10 feet fallen</strong> under the normal falling rules.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "GK4bnQAXtROZfbfd",
+      "type": "text",
+      "name": "The poacher's forgotten net",
+      "description": "<p><em>A cord pulls taut beneath the leaves. Somewhere beside the trail, a bent sapling snaps upright and draws a concealed net across your path.</em></p><p>Make a <strong>DC 15 Dexterity saving throw</strong> to evade the snare. Failure: the net catches you and you are <strong>restrained</strong>; it does not inflict damage or lift you to an additional falling hazard.</p><p><strong>Net reference (Player's Handbook, Equipment):</strong> An action and a successful <strong>DC 10 Strength check</strong> frees you or another creature within reach. Alternatively, dealing <strong>5 slashing damage</strong> to the net (<strong>AC 10</strong>) destroys it without injuring its captive. Nets do not affect formless creatures or creatures of Huge size or larger.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "NJq8mahfApM4RPxh",
+      "type": "text",
+      "name": "Hooves in the mist",
+      "description": "<p><em>Hoofbeats break the stillness. A herd of startled elk crashes across your route, branches snapping around their antlers.</em></p><p>Make a <strong>DC 10 Dexterity saving throw</strong> to avoid the stampede. Failure: take <strong>1d4 bludgeoning damage</strong> ([[/r 1d4]]) and <strong>1d4 piercing damage</strong> ([[/r 1d4]]).</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "Y294u8Sh5xgWY5UA",
+      "type": "text",
+      "name": "Hooked blackthorn",
+      "description": "<p><em>A tangle of blackthorn bars the gap between the trunks. Long hooked thorns rake across the narrow opening.</em></p><p>Choose: spend <strong>10 feet of movement</strong> to skirt the thicket, or attempt a <strong>DC 15 Dexterity saving throw</strong> to slip through. A failed save deals <strong>1d10 slashing damage</strong> ([[/r 1d10]]).</p><p><strong>DM:</strong> This is the razorvine result reskinned as woodland brambles, with unchanged mechanics.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "FPvbOc0I8Xo631SH",
+      "type": "text",
+      "name": "Something moves above the trail",
+      "description": "<p><em>A strand of silk brushes your face. Above the trail, branches tremble under a heavy body; long, jointed legs unfold against the bark.</em></p><p>A <strong>giant spider</strong> begins pursuing the affected participant. Use giant spider statistics and adjudicate its pursuit. Roll initiative for this new arrival under the DMG chase guidance. This result does not itself grant an immediate attack, automatic surprise or the restrained condition.</p><p><strong>DM-only:</strong> Agni's Blood Sense: check thirst stage/activation; tell the player if active when the living spider is within 30 feet, even if branches conceal it. Measure the actual separation and announce when it enters or leaves range.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    },
+    {
+      "_id": "Q52cXIgLvUtZQ1fg",
+      "type": "text",
+      "name": "No complication",
+      "description": "<p><em>For a few strides, the trees open. Only pounding feet, ragged breathing and the drip of water from the branches break the silence.</em></p><p>No additional obstacle affects the next participant from this roll. Continue the chase; the uneasy atmosphere adds no mechanical penalty.</p>",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 10,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "documentUuid": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
