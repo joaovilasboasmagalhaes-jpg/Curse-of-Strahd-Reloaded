@@ -1,0 +1,12 @@
+{
+  "name": "Example discoveries",
+  "description": "<p>A demonstration table, not campaign content.</p>",
+  "results": [
+    "Nothing unusual",
+    {
+      "name": "Discovery",
+      "description": "<p>A small discovery.</p>",
+      "weight": 2
+    }
+  ]
+}
