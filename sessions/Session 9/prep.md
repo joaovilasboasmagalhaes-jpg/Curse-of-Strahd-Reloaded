@@ -332,8 +332,8 @@ Checked against the Foundry handout catalog and world assets on 2026-11-11; only
 - [x] Biting-midge swarm — Swarm of Wasps stat block, reskinned.
 - [x] Elk — standard Elk stat block, for the stampede complication.
 - [x] Giant spider — standard Giant Spider stat block, for the wilderness complication.
-- [ ] **Q38:** Select suitable enormous-wolf token art and prepare background pack eyes/sound without adding combat turns or live-creature detections. No will-o'-wisp actor, token, light, tower, chest, or zombies are required. Output: ready tokens/art and DM-controlled visibility.
-- [ ] **Q38 (with Q36):** Build/import the keyed chase map from Section 4, with measured 180-foot route, 60-foot rear starting separation, brush hazard, usable sight breaks, and a crossroads exit. Use it for the brief stand-and-fight branch too; no separate arena is needed. Output: playable Foundry scene with correct scale, token movement, and unrevealed background elements.
+- [x] **Q38:** Select suitable enormous-wolf token art and prepare background pack eyes/sound without adding combat turns or live-creature detections. No will-o'-wisp actor, token, light, tower, chest, or zombies are required. Output: ready tokens/art and DM-controlled visibility. DM confirmed the tokens are prepared.
+- [x] **Q38 (with Q36):** Build/import the keyed chase map from Section 4, with measured 180-foot route, 60-foot rear starting separation, brush hazard, usable sight breaks, and a crossroads exit. Use it for the brief stand-and-fight branch too; no separate arena is needed. Output: playable Foundry scene with correct scale, token movement, and unrevealed background elements. DM confirmed the chase map is done.
 - [ ] **Q38:** Prepare the abrupt transition to the crossroads, plus the same-location ending if someone stops/fights early or the party splits. Optional rustling/growl audio must be stoppable instantly. Output: tested scene/visibility/audio controls that do not move PCs contrary to their actions.
 
 ### Tarokka Deck
