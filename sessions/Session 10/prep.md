@@ -13,6 +13,10 @@ TBD.
 
 Pending.
 
+### General / before-session
+
+- **Q007** analyze the players interpretations and check how right or wrong they are from reality. optionally also make a plan on how to correct the players or develop their backstories with their interpretations in mind
+
 ### C6. The Watchtower
 
 - **Q001** Describe the terrain in detail. Give the players a sense of scale and danger.
