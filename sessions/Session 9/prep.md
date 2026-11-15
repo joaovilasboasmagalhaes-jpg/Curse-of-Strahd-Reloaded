@@ -95,10 +95,10 @@
 ### Before session 9
 
 1. The reading rolls to Neyavr 2 at midnight.
-2. Asked the player what they wanted to do. Waiting for reply...
-3. Sent each player their reading. Waiting on their interpretations... Caspian will be allowed a question after submitting his interpretation.
+2. Moved to Session 10; the question remains in Section 2 here and is copied to [[../Session 10/prep|Session 10 prep]] as Q008.
+3. All players have sent their interpretations, and Caspian's response is ready.
 	- **Agni's understanding (confirmed in conversation):** He thinks he needs all three keys to save Milosh, which is correct; he has not yet distinguished what is required for Milosh versus for himself. The wording also led him to think killing Vasili would free the bloodline. From the initial reading he interprets it as speaking about his family. The player also identifies that Vasili might be a false identity and one of the suspects is Strahd. Preserve this as his interpretation of the reading.
-4. Waiting for Sister Elga's interpretation of the reading...
+4. No follow-up is needed: the player seems to have understood that the black figure was Strahd.
 5. This was a mistake. Already fixed in the session log.
 6. There are 3 creature types missing from the Sinister Insight feature. Those 3 will use the following skills:
 	- History: Humanoids and Giants
@@ -137,19 +137,19 @@
 16. Ask the players to make a story about topics from their backstories:
 	- Agni: An old adventure from your adventuring days, or an adventure in Widow's Peek
 	- Caspian: An old adventure from your past of the academy or your village.
-	- Grim: An old adventure with your former crew.
-	- Ivan: A tale shared between your clan.
-	- Sister Elga: A story from your time in the convent or a tale of faith and devotion.
+	- Grim (done & saved): An old adventure with your former crew.
+	- Ivan (done & not yet saved): A tale shared between your clan.
+	- Sister Elga (done & saved): A story from your time in the convent or a tale of faith and devotion.
 17. Added a small line on the chapter in Arc C.
-18. Blocked...
+18. Done: the player's interpretations indicate a strong understanding of what happened, so no further follow-up is needed.
 19. Deferred to Step 5.
-20. Check in the books...
+20. *Van Richten's Guide to the Vistani* (David Wise, TSR, 1995; introductory account, pp. 4–6) explains the horde's origin: as Van Richten pursued the Radanaviches, Azalin took control of wandering zombies, warded Van Richten against undead, then animated the dead Vistana and sent him to lead Van Richten to the caravan. The horde followed, unable to harm Van Richten while the ward held. At the caravan, Van Richten released the zombies in grief and fury. So Van Richten did not control them; Azalin supplied the control and protection, and Van Richten unleashed them. This is a useful possible explanation, not established campaign canon: current Arc C says only that Van Richten returned surrounded by undead and released the horde. The source does not require the dead Vistana to be named Radu as in Arc C. [Source scan/OCR](https://archive.org/stream/tsr09496addravenloftrr12vanrichtensguidetovistani/tsr09496%20-%20AD%26D%20-%20Ravenloft%20-%20RR12%20-%20Van%20Richten%27s%20Guide%20to%20vistani%20_djvu.txt).
 21. Altered Arturi's Manuscript in Arc C.
 22. Copied from Curse of Strahd to Arc C notes.
 23. It was Grim. During the session try to see her reaction.
 24. Created new skill for spell incantations and applied it to Stanimi's major image.
 25. **Q025 — Deferred to backlog.** See [[../../_other/backlog#b001|B001]].
-26. Left for later...
+26. Done: Ivan has already been told where his clan is on the map. In Session 10, show him a portion of that map.
 27. **Q027 — Lugdana's history:**
 	- **Around 603 B.C. — Castle Ravenloft:** Lugdana, Ismark Antonovich, and Livius recover the *Sigil of the Sun* from the castle's crypts. Livius steals it while Lugdana and Ismark distract the guards. The three then use it against vampire nests across Barovia.
 	- **Around 604 B.C. — Barovia:** Inspired by their adventures, Livius founds the Keepers of the Feather. The founding location is unspecified.
@@ -173,11 +173,11 @@
 35. It's believed to be the time when demons and other malevolent entities are most active.
 36. Deferred to section 4.
 37. Deferred to section 4.
-38. **Q38 - Unexplained wolf-pack vision replaces the will-o'-wisp encounter.** Approved in discussion. Keep the existing off-road trigger and concealment checks, but remove the will-o'-wisp, its guiding light, ruined tower, chest, zombies, and the proposed landslide. The disturbance may be associated with the Mists or something unknown; its cause is deliberately unspecified, not an adopted new power of the Mists or a mystery that must be solved before this session.
+38. **Q38 - Unexplained wolf-pack vision replaces the will-o'-wisp encounter.** Resolved in Step 3. Keep the existing off-road trigger and concealment checks, but remove the will-o'-wisp, its guiding light, ruined tower, chest, zombies, and the proposed landslide. The disturbance may be associated with the Mists or something unknown; its cause is deliberately unspecified, not an adopted new power of the Mists or a mystery that must be solved before this session.
 	- Escalation: rustling leaves from several directions, multiplying wolf eyes in the darkness, growls, and the realization that the party is being surrounded. The DM improvises the descriptions. If they run, use the close chase below; if they stand and fight, an enormous wolf emerges and makes one overwhelming attack.
 	- Preserve the dream's abrupt ending without actual damage from phantom creatures. Real movement, resources spent, and consequences of real obstacles persist. No forced flight, automatic hit, or teleportation to the crossroads.
 	- The wolf chase and pursuit of Eliza remain alternatives: run at most one chase during this return journey. The vision does not decide whether Eliza successfully follows them.
-	- **Campaign source updated:** [[../../Act I - Into the Mists/Arc C - Into the Valley#C4e. Return to the River Ivlis Crossroads|Arc C, C4e]] now replaces the cited will-o'-wisp encounter with this unexplained vision. Detailed mechanics are recorded in Section 4; outstanding design, Foundry/map, and rehearsal tasks are in Sections 4-6 under Q38. Recording these tasks does not complete them or lock the session.
+	- **Campaign source updated:** [[../../Act I - Into the Mists/Arc C - Into the Valley#C4e. Return to the River Ivlis Crossroads|Arc C, C4e]] now replaces the cited will-o'-wisp encounter with this unexplained vision. Detailed mechanics are recorded in Section 4; design, Foundry/map, and rehearsal tasks remain open in Sections 4-6 under Q38.
 39. She simply reminds them. She knows who they are.
 40. **Q040 —** The return-at-midnight read-aloud now gives the full layout from the initial crossroads description: the three roads and their destinations, the signpost, and the walled graveyard opposite the gallows. The existing silhouette reveal remains intact. Added the required DM-only Urn warning for when the March of the Dead begins. Updated [[../../Act I - Into the Mists/Arc C - Into the Valley#C4e. Return to the River Ivlis Crossroads|Arc C, C4e]]; the session log is unchanged.
 41. Before the March begins. The ghosts aren't there physically; they only manifest once the March has started.
@@ -187,7 +187,7 @@
 
 ### C4f. The Tarokka Reading
 
-45. 
+45. **Q045 - Done:** Researched and recorded no-cost, in-person staging notes in [[#Q45 - Immersive Tarokka reading|Q45 - Immersive Tarokka reading]] (step 5). Research is complete; setup and rehearsal are not marked complete.
 46. She should decline. It's a small task she's asking - if the players refuse, then they get no reading.
 47. It takes place on Neyavr 4.
 48. Deferred to section 6.
@@ -208,17 +208,7 @@
 
 ### Blocked questions
 
-2. 
-3. 
-4. 
 7. 
-13. Read "The Crucible of Dr. Rudolph van Richten" for a fuller narrative account of the Vistani story.
-16. Have to send the request for the players after getting their signs...
-18. Leave till after getting the player's understanding of his reading. If no path available, ignore this.
-20. 
-26. 
-38. Review
-45. Check how other DM's did tarokka reading
 
 ## 4. Session design
 
@@ -336,12 +326,108 @@ Checked against the Foundry handout catalog and world assets on 2026-11-11; only
 - [x] **Q38 (with Q36):** Build/import the keyed chase map from Section 4, with measured 180-foot route, 60-foot rear starting separation, brush hazard, usable sight breaks, and a crossroads exit. Use it for the brief stand-and-fight branch too; no separate arena is needed. Output: playable Foundry scene with correct scale, token movement, and unrevealed background elements. DM confirmed the chase map is done.
 - [ ] **Q38:** Prepare the abrupt transition to the crossroads, plus the same-location ending if someone stops/fights early or the party splits. Optional rustling/growl audio must be stoppable instantly. Output: tested scene/visibility/audio controls that do not move PCs contrary to their actions.
 
+### Q45 - Immersive Tarokka reading
+
+**Aim:** The personal readings created intimacy through isolation; the shared reading creates intimacy through shared stillness. Everyone watches the same hands and waits for the same card. No new purchases. These are presentation notes, not changes to the prophecies or campaign mechanics.
+
+**Core setup:** A small table, three safe lights, the real Tarokka cards, a transition into silence, distinct delivery for each card, and a quiet return to ordinary sounds.
+
+#### Transition away from the computers
+
+- Take a short break immediately before C4f and have the small table ready when the players gather.
+- Put screens to sleep and silence/put aside phones, except devices needed for accessibility.
+- Clear the table except for the deck, three candles or existing alternative lights, discreet paper notes, and an optional existing pouch.
+- Seat everyone close enough to see the cards and hear a quiet voice, without uncomfortable crowding. Face the players, not the computer.
+- Wait for chairs and chatter to settle. Begin handling the deck without immediately filling the silence. Moving to a different place is itself the signal that this scene matters.
+
+#### Sound and silence
+
+- Before the supernatural reading, optionally play very quiet woodland/river ambience through one existing device. Avoid lyrics, recognisable melodies, and dramatic trailer music.
+- Keep ordinary ambience during Eva's pouch request, giving the scene a human beginning.
+- When Eva closes her eyes and the outside world fades, fade the ambience to silence. Let breathing, shuffling, cards touching the table, and Eva's voice become the audible focus.
+- Restore the same woodland/river ambience after the final prophecy and Eva's recovery. The reading feels enclosed in a separate moment.
+- If audio controls would distract the DM, skip the audio entirely. Actual silence is better than constant soundtrack management.
+
+#### Light and visual focus
+
+- Use three candles only with safe holders, well away from cards, sleeves, hair, and cloth. Existing LED candles or a shaded lamp are suitable alternatives.
+- Keep enough light for everyone to see the cards and for the DM to read notes comfortably. Check players' lighting and sound needs.
+- Do not physically reproduce changing flame colours, sudden darkness, or a brilliant flash. Describe those supernatural effects; use posture and delivery for the emotional changes.
+- Keep players' eyes open: unlike the personal readings, the shared focus is the cards and Eva's expression.
+
+| Card | Delivery |
+|---|---|
+| Nine of Glyphs - the Traitor | Tilt the head as though listening; measured and searching. |
+| Five of Swords - the Myrmidon | Let warmth and reassurance enter the voice. |
+| Eight of Glyphs - the Bishop | Sit straighter; suddenly clear, firm, and purposeful. |
+| The Mists | Lean toward the group; quieter and contemplative. |
+| The Marionette | Stop the hand before touching the card. Hesitate, then use the lowest clearly audible voice of the reading. |
+
+#### Touch and the reveal rhythm
+
+- Optional invitation: everyone may rest a hand on the table before Eva begins. No compulsory touching, hand-holding, or closed eyes.
+- An existing small pouch with ordinary coins can represent Eva's gift money. Let a player receive its weight during the request, then set it aside before the reading. No sleight-of-hand trick is needed.
+- For each card: place a hand over it, pause as though receiving something, give its introductory meaning, turn it over, let everyone see the image, deliver the prophecy, then leave a short silence.
+- Vary the pauses rather than stretching all of them equally. Reserve the longest hesitation for the Marionette.
+
+#### Smell and taste
+
+- All senses are prompts, not a mandatory checklist. Sight, sound, touch, and the seating change are enough.
+- Avoid incense, sprays, and improvised smoke: they add irritation/allergy risks and production work. This reading is outdoors in a cemetery, not Eva's tent. Describe damp earth and nearby river water instead.
+- Optional: offer an already available, familiar drink during the break or before the reading. Set cups aside when the reading begins. Otherwise skip taste.
+
+#### Preparation and ending
+
+- Memorise the sequence and emotional changes first, not necessarily every word: the opening, card order, exact prophecy clues, and ending.
+- Keep a large-print paper script beside the spread. A deliberate downward glance can fit Eva receiving an unseen message; do not sacrifice clue accuracy to avoid notes.
+- Rehearse once with the actual deck, lighting, and any audio. Check visibility, audibility, note readability, and whether handling the cards interrupts delivery. Record practice under [[#Q48 - Practice Tarokka Reading]]; rehearsal remains open.
+- After the Marionette, perform Eva's recoil and recovery without a jump scare. Restore ordinary ambience, relax the shoulders, and regard the players silently for a few seconds.
+- Let players react before announcing XP, explaining anything out of character, or asking for feedback. Keep Eva's dismissal in character, then return to ordinary table business.
+- Give players the five prophecies in writing afterward, without DM explanations. Session 8 showed that players struggled to retain the personal readings; immersion should not require remembering every clue on first hearing.
+
+#### References
+
+- [DM discussion: preparing Madam Eva's reading](https://www.reddit.com/r/CurseofStrahd/comments/7r6jfz/how_did_you_all_prepare_for_madame_evas_reading/): search-visible anecdotes describe short cue sheets and player card handling rather than memorising everything. These are reported experiences, not guaranteed techniques; the thread could not be read directly.
+- [Ritual at the Table](https://talesandtankards.com/dms-corner/dm-resources/ritual-at-the-table/): physical objects, lighting, and silence as transitions from ordinary conversation into play.
+- [[../../assets/Van Richten's Guide to Ravenloft#Horror Atmosphere|Van Richten's Guide to Ravenloft - Horror Atmosphere]]: published staging guidance supports reducing screen distractions, rearranging furniture, subtle audio, and restrained props, with accessibility taking precedence. Guidance only; no new mechanics or source-book lore are adopted.
+
 ### Tarokka Deck
+
+Chosen cards, in deal and reveal order:
+
+| Order | Card | Deck | Position | Foretelling |
+|---|---|---|---|---|
+| 1 | Nine of Glyphs - the Traitor | Common | Left | Tome of Strahd |
+| 2 | Five of Swords - the Myrmidon | Common | Top | Holy Symbol of Ravenkind |
+| 3 | Eight of Glyphs - the Bishop | Common | Right | Sunsword |
+| 4 | The Mists | High | Bottom | Ally against Strahd |
+| 5 | The Marionette | High | Center | Strahd's location for the final confrontation |
+
+**DM-only campaign meanings - not explanations to give the players during the reading:**
+
+1. **The Traitor:** The "ancient foe" is **Leo Dilisnya**, whose spirit dominates the **gallows speaker** carrying the *Tome of Strahd*. The "old and noble house" is **House Wachter**; the "lost soul" is **Stella Wachter**, whose rescue brings the party into conflict with Leo in the Ethereal Plane. The Tome is recovered when the gallows speaker is defeated, not from Lady Wachter's locked chest. See [[../../Act II - The Shadowed Town/Arc H - The Lost Soul|Arc H - The Lost Soul]].
+2. **The Myrmidon:** The *Holy Symbol of Ravenkind* hangs around the statue of **Mother Night** in **Z7, the Shrine of Mother Night**, inside the werewolf den. **Zuleika Toranescu**, Mother Night's priestess, can authorise its removal; the party must deal with her rather than simply steal it from the cursed hoard. See [[../../Act III - The Broken Land/Arc L - The Den of Wolves|Arc L - The Den of Wolves]].
+3. **The Bishop:** The "amber prison" is the **Amber Temple**, specifically **the Vampyr's prison**, where **Patrina Velikovna** concealed the *Sunsword* hilt in a secret demiplane. The "house of the fallen dragon" is **Argynvostholt**, the ruined home of the silver dragon **Argynvost** and the Order of the Silver Dragon, which provides the lead toward the temple. See [[../../Act III - The Broken Land/Arc M - The Dragon's Manor|Arc M - The Dragon's Manor]] and [[../../Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Arc S - A Sword of Sunlight]].
+4. **The Mists:** The foretold ally is **Ezmerelda d'Avenir**, the Vistani monster hunter searching for her mentor, **Dr. Rudolph van Richten**. The reading directs the party to **the Abbey of Saint Markovia near Krezk**, where they can meet and recruit her. See [[../../Act III - The Broken Land/Arc K - The Fallen Abbey|Arc K - The Fallen Abbey]] and the ally reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Enemy|Curse of Strahd - Strahd's Enemy]].
+5. **The Marionette:** This card refers to **Strahd himself and the location of the final confrontation**, not Pidlwick II or another potential ally. The "beating heart of the castle" is the **Heart of Sorrow**; the foretold meeting place is **K60, the North Tower Peak of Castle Ravenloft**, nearby. See the location reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Location in the Castle|Curse of Strahd - Strahd's Location in the Castle]].
+
+**DM-only symbolic associations:**
+
+These explain how the cards' symbolism fits the campaign. The identities and destinations above are established by the reading; the symbolic connections below are interpretations, not a claim that the guide explicitly states why its author chose every card. A treasure card can describe an object or its story rather than label every nearby NPC.
+
+- **The Traitor - Leo Dilisnya:** Leo was a guard of Ravenloft who ordered the guards to turn on Strahd after Strahd murdered Sergei and pursued Tatyana. From Strahd's perspective, his own trusted guard betrayed him; from Leo's perspective, he was defending Tatyana and avenging Sergei. The betrayal also runs the other way: Leo's sister, **Lovina Wachter**, helped Strahd slaughter the guards and later imprison Leo. The card therefore fits the broken loyalties behind Leo's hatred of House Wachter. It does **not** mean Stella is a traitor.
+- **The Myrmidon - the Symbol's heroic purpose:** This is a warrior card associated with great heroes and an underdog overcoming a greater enemy. Its strongest connection is to **Lugdana**, the paladin who once wielded the *Holy Symbol of Ravenkind*, and to the party's prospect of using it against Strahd. **Zuleika** is associated with the reading because she controls access to the relic at Mother Night's shrine, not because the prophecy explicitly names her as the Myrmidon.
+- **The Bishop - Patrina's schemes and the sacred weapon:** The Bishop can signify steadfast belief as well as plotting and scheming. **Patrina** fits the latter: she betrayed her teacher Exethanter, seized control of the Amber Temple, and concealed her soul in the *Sunsword* as part of her attempt to become a lich. The holy figure depicted on the card also contrasts with the sacred weapon trapped in that corrupt scheme. This is a thematic fit, not a statement that Patrina is literally a bishop or priest; **Argynvost** is the dragon identified by the route clue, not the Bishop's personal identity.
+- **The Mists - Ezmerelda d'Avenir:** The card evokes a mysterious journey that tests the spirit. **Ezmerelda** crossed the Mists to follow her missing mentor, travels without a caravan, and is searching an unfamiliar, dangerous Barovia for answers. Both the wandering Vistana and the quest for **Van Richten** match that imagery; he is the object of her search, not the ally named by this card.
+- **The Marionette - Strahd:** The card's crowned ruler with puppet limbs makes the apparent master of Barovia look like someone else's instrument. **Strahd** commands the valley but remains confined by the **Dark Powers**, whose prison he is trying to escape. The image fits the contrast between his sovereignty and his lack of ultimate freedom; it does not imply that they directly dictate every action he takes. His escape scheme also centres on the **Heart of Sorrow**, reinforcing the foretold location near the castle's beating heart. See [[../../Chapter 2 - The Land of Barovia/Strahd von Zarovich|Strahd von Zarovich]].
+
+Symbol reference: [[../../assets/Curse of Strahd#High Deck|Curse of Strahd - High Deck]] and [[../../assets/Curse of Strahd#Common Deck|Common Deck]]. Campaign connections are supported by the arc references above.
 
 Instructions for handling the deck:
 1. Take out the 14-card high deck and set it aside.
 2. Keep the remaining 40-card common deck separate. Shuffle it; the text’s “twice, three times, four” doesn’t give a clear number.
 3. Shuffle the 14-card deck too. The reading later refers to two decks, though this step isn’t explicit in the Reloaded text.
+   - Preserve the chosen draw order with a rehearsed false shuffle, or arrange the chosen cards on top after shuffling: Traitor, Myrmidon, Bishop in the common deck; Mists, Marionette in the high deck. These are fixed selections, not random draws.
 4. From the 40-card deck, deal three cards face down: first on the left, second above the middle, third on the right.
 5. From the 14-card deck, deal two cards face down: fourth below the first three, fifth in the center.
 
@@ -361,10 +447,10 @@ Pending
 ### Expected from players
 
 - **Agni:** Already have his interpretation; waiting for backstory text (Q16), has already acknowledged it.
-- **Caspian:** Waiting for interpretation; have to provide him a question for his reading; waiting for backstory text (Q16).
-- **Grim:** Waiting for interpretation; waiting for backstory text (Q16).
-- **Ivan:** Waiting for written interpretation; checking silver effects on him (Q2); waiting for backstory text (Q16).
-- **Sister Elga:** Waiting for interpretation; waiting for backstory text (Q16).
+- **Caspian:** Interpretation received; his response is ready; waiting for backstory text (Q16).
+- **Grim:** Interpretation received; waiting for backstory text (Q16).
+- **Ivan:** Interpretation received; waiting for backstory text (Q16).
+- **Sister Elga:** Interpretation received; waiting for backstory text (Q16).
 
 ## Final check
 
