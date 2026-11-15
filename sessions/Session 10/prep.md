@@ -16,6 +16,8 @@ Pending.
 ### General / before-session
 
 - **Q007** analyze the players interpretations and check how right or wrong they are from reality. optionally also make a plan on how to correct the players or develop their backstories with their interpretations in mind
+- **Q008** Decide what Ivan’s effects with silver are. Ask Ivan's player whether silver has any personal or mechanical effect. Record the decision before preparing any silver-related encounter; until then, do not assume a silver weakness or suppression of regeneration.
+- Add caspian's interpretation of the answer to his question rgarding the reading
 
 ### C6. The Watchtower
 

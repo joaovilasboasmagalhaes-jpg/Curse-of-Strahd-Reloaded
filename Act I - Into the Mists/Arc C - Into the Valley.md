@@ -575,6 +575,15 @@ If Caspian asks whether Strahd ordered the attack, or whether the pack's new lea
 > *“Do not make haste to lay the blame;*  
 > *first learn whose hand lit up the flame.”*
 
+If Caspian asks how he can see what his eyes cannot reveal and keep anger from choosing his path or foe, Eva answers:
+
+> *“The heart sees blood and names its foe;*  
+> *the mind asks what the tracks don’t show.*  
+> *Recall the lessons, blade and lore;*  
+> *old learning may reveal still more.*  
+> *When fox and sparrow share the fire,*  
+> *watch what grief and wrath conspire.”*
+
 If Caspian asks whether he can restore his home and regain his people's trust, Eva answers:
 
 > *“First mend the roof against the rain;*  
