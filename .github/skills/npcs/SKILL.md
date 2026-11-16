@@ -16,13 +16,14 @@ Covers an NPC's **facts** (identity, status, relationships, knowledge) and **beh
 | Strahd | `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`: his three modes (Gentleman, Tyrant, Monster), relationships and goals |
 | Original book NPCs | `assets/Curse of Strahd.md`: the area chapters (3-15), Appendix D, Chapter 1 ("Roleplaying Strahd", "When Strahd Attacks"). Use an entry only where the guide references it. If the guide does not mention an original NPC, assume the NPC does not exist. The Reloaded text wins on conflicts |
 | What happened to them at the table | `sessions/Session N/log.md` (fixed), summarized in [roster-state.md](./roster-state.md) |
+| DM-accepted lore not in campaign files | Relevant `sessions/Session N/prep.md`, especially Section 3 (Resolved and adapted) |
 | NPCs added or changed by planning | `players/*/dm_plans.md`, `dm_campaign_integration.md`, `clan_lore_dm.md`, and edits in the campaign files. Campaign-file edits count as canon |
 | Backstory NPCs | The player's Readme and fixed backstory |
 | Portraying villains and folklore-based NPCs (optional inspiration, never canon) | `dm-craft/books/villain-guide.md` (Strahd, his court), `vampires.md`, `werebeasts.md`, `vistani.md`. The guide wins on conflicts |
 
 ## Rules
 
-- **Layers of truth.** Separate (1) what the logs fixed, (2) the campaign text, (3) mutable plans. When they conflict, logs win, then campaign files, then plans.
+- **Layers of truth.** For campaign lore, use this priority: session logs > campaign files (including arc notes) > lore explicitly marked as DM-accepted in relevant session prep. Accepted prep lore is established even if not copied into campaign files. Questions, speculation, source context, unapproved ideas, and planned scenes or future outcomes that have not played out are not established facts. Preserve the protections for fixed player backstories in `.github/copilot-instructions.md`; mutable plans remain plans unless revealed in play.
 - **Knowledge is a fact too.** Record what an NPC could know. Example: Rahadin knew nothing about Grim's heart pouch, so he cannot act as if he did. Do not give an NPC knowledge unless a source or a plausible channel (spies, Strahd's network, a conversation) supplies it.
 - **Strahd's spies** (bats, wolves, rats, ravens) mean Strahd may know what happened in the open, but not what was said in private. See "Strahd's Spies" in `Chapter 3 - Running the Game/Running the Adventure.md`.
 - **Spoilers.** DM-only plans are not known to the characters. Label them when reporting.

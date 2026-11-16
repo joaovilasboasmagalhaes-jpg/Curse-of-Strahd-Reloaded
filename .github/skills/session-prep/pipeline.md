@@ -39,6 +39,7 @@
 **Do:**
 
 - Review every step 2 ID with the DM. Resolve questions and campaign/design decisions here; assign execution tasks to steps 4, 5, or 6 with a concrete expected output.
+- Clearly mark any DM-approved campaign-lore decision as accepted lore. Keep unresolved questions, speculation, source context, and planned scenes or future outcomes that have not played out distinct from established facts.
 - Reference the originating ID in each answer, decision, scene, table-prep item, or practice task in its appropriate section. Keep Section 2 unchanged after the question/task list is established. Multiple IDs may share an output.
 - If an item is deferred or declined, record the DM's explicit decision and reason in step 3 beside its ID. Do not count an assigned task as finished.
 - Make desired changes to the source material.

@@ -13,17 +13,19 @@ Answers "where are we?" and "what has already happened?" from the session logs. 
 |---|---|---|
 | `sessions/Session N/log.md` | Events that already happened | No. Fixed history. The DM may add forgotten details, so re-check the logs when precision matters. |
 | Act/arc files, chapters, appendices | The campaign, including our edits | Yes. Edited freely to integrate new events. |
+| `sessions/Session N/prep.md` | Lore explicitly marked as DM-accepted (especially in Section 3, Resolved and adapted) | Accepted lore is established even if absent from campaign files, but subordinate to logs and campaign files. Other prep is planning, not established fact. |
 | `assets/Curse of Strahd.md` | The original book, used only where the arc files cite it (citations like `(p. 43)`; find `**[p. 43]**` or the area heading such as `### E2.`) | Reference. The Reloaded text overrides it where they differ. |
 | `players/*/Readme.md` | Says which player files are fixed and which are mutable | Follow it per player. |
 
-If a logged event is vague, there is room to interpret it. If it is explicit, it cannot be changed. When a plan conflicts with a log, flag the conflict and offer a workaround that keeps the logged facts.
+For campaign-lore contradictions, use this priority: session logs > campaign files (including arc notes) > lore explicitly accepted in session prep. Read relevant prep for accepted lore even when campaign files do not repeat it. Questions, speculation, source context, unapproved ideas, and planned scenes or future outcomes that have not played out are not established facts. Preserve the protections for fixed player backstories in `.github/copilot-instructions.md`. If a logged event is vague, there is room to interpret it; if explicit, it cannot be changed.
 
 ## Procedure: locate the current position
 
 1. List `sessions/` and read the `log.md` in the highest-numbered folder. Skim earlier logs if the last one is short, since logs vary in length.
 2. Check whether the digest's "last session covered" matches the newest log. If a newer log exists, read it and update the digest.
 3. Find the matching sections in the campaign files. Arc files use headed sections such as `C2a. Strahd's Arrival`. Search headings with grep for the locations and NPCs named in the log.
-4. Report:
+4. For relevant campaign lore, check prep files for explicitly accepted lore, especially in Section 3. Do not use prep questions, speculation, source context, or unplayed scene plans as established facts.
+5. Report:
    - **Act / Arc / section** where the last session ended.
    - **Next likely sections**, from the arc's own flow. Read the arc file to confirm.
    - **In-world date.** Fill it in from the act summary's Timeline section and the arc text, record it in the `timeline` skill's `date-ledger.md`, and label it `inferred` unless the DM has confirmed it. `timeline` validates the date against the calendar. Remember that every month has 28 days.

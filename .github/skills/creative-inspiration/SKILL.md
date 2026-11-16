@@ -31,7 +31,7 @@ Start with the [source catalog](references/source-catalog.md). It points to mate
 
 ## Constraints
 
-- Never let an outside source override campaign files, fixed session history, player backstories, or Session 0 rules.
+- Never let an outside source override campaign files, explicitly DM-accepted lore in session prep, fixed session history, player backstories, or Session 0 rules. For campaign-lore contradictions, session logs > campaign files (including arc notes) > accepted session-prep lore.
 - Do not imitate a living author's distinctive style or closely paraphrase protected expression. Do not reproduce substantial copyrighted passages, even when the user provides the source text.
 - Do not copy a source's distinctive characters, names, exact plot sequence, dialogue, or signature scenes as a package. A high-level premise or broad folkloric motif is not a license to reproduce its expression.
 - Keep attribution clear: identify the work and creator, link or cite the consulted edition when possible, and distinguish source material from the new adaptation.

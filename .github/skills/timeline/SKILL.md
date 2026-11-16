@@ -20,12 +20,15 @@ Holds time knowledge: what happened when, how long things take, and what is sche
 | Calendar, moon, sunrise and sunset | [calendar.md](./calendar.md), which summarizes `Chapter 2 - The Land of Barovia/Lore of Barovia.md` |
 | History before the campaign | `Chapter 2 - The Land of Barovia/History of Barovia.md` and `assets/curse-of-strahd.timeline` |
 | Dates of campaign events | The `# Timeline` section of each `Act * Summary.md`, then the arc files |
+| DM-accepted event dates not in campaign files | Relevant `sessions/Session N/prep.md`, especially Section 3 (Resolved and adapted) |
 | Original book timing | `assets/Curse of Strahd.md`: "The Vampire's History" (Chapter 1), the "Special Events" sections of each area chapter, and the Epilogue. Use it where the arc files cite it. The Reloaded text wins on conflicts |
 | What already happened | `sessions/Session N/log.md` (fixed) |
 | Backstory chronology | The player's Readme, then their `backstory.md` (fixed) and mutable plans such as `players/ivan/clan_lore_dm.md` |
 | Rules for backstory placement | `players/player_strategy.md`, section 3 |
 
 `assets/curse-of-strahd.timeline` is a large JSON file for the Timelines app. It has year resolution only. Search it by `"title"` instead of reading it whole. Treat any entry you add as part of the campaign. Do not rewrite eras without the DM asking.
+
+For campaign-lore/date contradictions, use this priority: session logs > campaign files (including arc notes) > dates explicitly accepted in session prep. Questions, speculation, source context, unapproved ideas, and planned scenes or future outcomes that have not played out are not established facts. Preserve the protections for fixed player backstories.
 
 ## Procedures
 

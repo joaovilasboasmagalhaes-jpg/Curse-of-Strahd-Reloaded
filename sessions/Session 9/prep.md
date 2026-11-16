@@ -129,6 +129,7 @@
 	- **C5, The Skeletal Rider:** the skeletal rider and skeletal horse.
 13. Guide to the Vistani should have the story, but not in great detail.
 	- A fuller narrative account is “The Crucible of Dr. Rudolph van Richten,” a short story by David Wise in the 1994 anthology *Tales of Ravenloft*.
+	- **Q013 / Q020 — Accepted campaign lore (DM-only):** Azalin, Lord of Darkon, supplied the undead for Van Richten to use against the Radanaviches because he disliked the Vistani. Azalin may have passed control to Van Richten when they crossed into Barovia, but the timing and mechanics of any handoff remain uncertain. See Q020 for the source account and its differences from Arc C.
 
 ### C4d. The Dancing Fire
 
@@ -143,7 +144,8 @@
 17. Added a small line on the chapter in Arc C.
 18. Done: the player's interpretations indicate a strong understanding of what happened, so no further follow-up is needed.
 19. Deferred to Step 5.
-20. *Van Richten's Guide to the Vistani* (David Wise, TSR, 1995; introductory account, pp. 4–6) explains the horde's origin: as Van Richten pursued the Radanaviches, Azalin took control of wandering zombies, warded Van Richten against undead, then animated the dead Vistana and sent him to lead Van Richten to the caravan. The horde followed, unable to harm Van Richten while the ward held. At the caravan, Van Richten released the zombies in grief and fury. So Van Richten did not control them; Azalin supplied the control and protection, and Van Richten unleashed them. This is a useful possible explanation, not established campaign canon: current Arc C says only that Van Richten returned surrounded by undead and released the horde. The source does not require the dead Vistana to be named Radu as in Arc C. [Source scan/OCR](https://archive.org/stream/tsr09496addravenloftrr12vanrichtensguidetovistani/tsr09496%20-%20AD%26D%20-%20Ravenloft%20-%20RR12%20-%20Van%20Richten%27s%20Guide%20to%20vistani%20_djvu.txt).
+20. **Q020 — Accepted campaign lore:** Azalin supplied the horde and protected Van Richten; Van Richten released it upon the Radanaviches. Whether Azalin passed control to Van Richten at Barovia's border remains uncertain. Arc C establishes the release but does not explain the horde's origin; this decision supplements it without changing the arc.
+	- **Source context, not a replacement for Arc C:** *Van Richten's Guide to the Vistani* (David Wise, TSR, 1995; introductory account, pp. 4–6) describes Azalin taking control of wandering zombies, warding Van Richten against undead, and animating a dead Vistana to lead him to the caravan. The horde followed, unable to harm Van Richten while the ward held, and Van Richten released it at the caravan. This source account does not establish a border handoff and does not require the dead Vistana to be named Radu as in Arc C. [Source scan/OCR](https://archive.org/stream/tsr09496addravenloftrr12vanrichtensguidetovistani/tsr09496%20-%20AD%26D%20-%20Ravenloft%20-%20RR12%20-%20Van%20Richten%27s%20Guide%20to%20vistani%20_djvu.txt).
 21. Altered Arturi's Manuscript in Arc C.
 22. Copied from Curse of Strahd to Arc C notes.
 23. It was Grim. During the session try to see her reaction.

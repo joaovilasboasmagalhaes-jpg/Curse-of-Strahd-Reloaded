@@ -25,11 +25,13 @@ Put answers and decisions in Section 3, and execution plans or outcomes in the r
 | Item | Path | Fixed? |
 |---|---|---|
 | Session log (what happened) | `sessions/Session N/log.md` | Yes, history |
-| Session prep (the plan) | `sessions/Session N/prep.md` | No, mutable until played |
+| Session prep (the plan and accepted decisions) | `sessions/Session N/prep.md` | Explicitly DM-accepted lore, especially in Section 3, is established; other material is a mutable plan |
 
 For prep technique and running advice, see `dm-craft/books/lazy-dm.md` and `gameplay-guide.md`. Where they conflict with the pipeline, the pipeline wins.
 
 Prep files start at Session 8. Sessions 1-7 have logs only. Once a session is played, its prep is a historical plan. The log wins on any conflict.
+
+For campaign-lore contradictions, use this priority: session logs > campaign files (including arc notes) > lore explicitly accepted in session prep. Read relevant prep for accepted lore even when campaign files do not repeat it. Questions, speculation, source context, unapproved ideas, and planned scenes or future outcomes that have not played out are not established facts. Preserve the existing protections for fixed player backstories.
 
 ## prep.md format
 

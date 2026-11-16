@@ -9,9 +9,9 @@ Paraphrased digests of the books listed in [external-book.md](../../../assets/ex
 
 ## Rules
 
-- **This guide wins.** The campaign files, session logs and Session 0 rules (`session-rules` skill) override any book. Each digest has a Cautions section listing known conflicts.
+- **This guide is advice, not campaign authority.** For campaign lore, session logs > campaign files (including arc notes) > lore explicitly accepted in session prep. These sources and Session 0 rules (`session-rules` skill) override any book. Each digest has a Cautions section listing known conflicts.
 - The two Van Richten books (Vistani, Werebeasts) are AD&D 2e and **lore-only**. Do not import their mechanics.
-- Digests are advice, not canon. Never present a book's lore as established campaign fact until the DM adopts it into a campaign file.
+- Digests are advice, not canon. Never present a book's lore as established campaign fact until the DM adopts it into a campaign file or explicitly accepts it in session prep.
 - Combat design follows the `combat` skill. The monsters digest only supplies behavior.
 
 ## Which digest to read
