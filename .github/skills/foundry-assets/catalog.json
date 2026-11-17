@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T20:04:10.922Z",
+  "checkedAt": "2026-11-17T13:56:39.888Z",
   "world": "curse-of-strahd",
   "folder": "Player Handouts",
   "source": "local-database-copy",
@@ -2456,6 +2456,162 @@
           "markdown": ""
         }
       ]
+    },
+    {
+      "id": "gPk4clvLMfuWu9lo",
+      "name": "Tser Pool",
+      "folderId": "r2GPhyjNR7Lry6EB",
+      "ownership": {
+        "default": 0,
+        "neX3IKfOaAj3abkB": 3
+      },
+      "players": [
+        {
+          "userId": "50H0xVWBSQAb6f88",
+          "userName": "Zuka",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "VwuLHLQflaKQchs2",
+          "userName": "Rui",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "XBOilRGnvMBe55e4",
+          "userName": "GM Player",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kTgyXIZZTxn23K4o",
+          "userName": "Meias",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "kj2ThkqVWdY2zUjx",
+          "userName": "57",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "tFmPXkMh7xDMqmDb",
+          "userName": "GMTV",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        },
+        {
+          "userId": "wVLy79Qsz6o1uTeu",
+          "userName": "08",
+          "journalLevel": 0,
+          "pageLevel": 0,
+          "journalInSidebar": false,
+          "pageReadable": false,
+          "access": "none"
+        }
+      ],
+      "pages": [
+        {
+          "id": "ujMF6tGxrYVXZKG6",
+          "name": "Tarokka Reading",
+          "type": "image",
+          "ownership": {
+            "default": -1,
+            "neX3IKfOaAj3abkB": 3
+          },
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ],
+          "sources": [
+            "worlds/curse-of-strahd/assets/handouts/tser-pool/madam_eva.jpeg"
+          ],
+          "text": "",
+          "html": "",
+          "markdown": ""
+        }
+      ]
     }
   ],
   "assets": [
@@ -3832,6 +3988,95 @@
         "checkedAt": "2026-11-01T14:36:39.862Z"
       },
       "references": []
+    },
+    {
+      "id": "worlds/curse-of-strahd/assets/handouts/tser-pool/madam_eva.jpeg",
+      "name": "madam_eva.jpeg",
+      "state": "present",
+      "bytes": 377856,
+      "sha256": "e0e459bfb46ba2be47a64fc8523fde2386516cce0750b7791a9ac2152d914d1d",
+      "notes": "",
+      "tags": [],
+      "transcription": {
+        "status": "pending",
+        "text": "",
+        "source": null,
+        "sha256": null
+      },
+      "references": [
+        {
+          "journalId": "gPk4clvLMfuWu9lo",
+          "journalName": "Tser Pool",
+          "pageId": "ujMF6tGxrYVXZKG6",
+          "pageName": "Tarokka Reading",
+          "pageType": "image",
+          "players": [
+            {
+              "userId": "50H0xVWBSQAb6f88",
+              "userName": "Zuka",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "VwuLHLQflaKQchs2",
+              "userName": "Rui",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "XBOilRGnvMBe55e4",
+              "userName": "GM Player",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kTgyXIZZTxn23K4o",
+              "userName": "Meias",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "kj2ThkqVWdY2zUjx",
+              "userName": "57",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "tFmPXkMh7xDMqmDb",
+              "userName": "GMTV",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            },
+            {
+              "userId": "wVLy79Qsz6o1uTeu",
+              "userName": "08",
+              "journalLevel": 0,
+              "pageLevel": 0,
+              "journalInSidebar": false,
+              "pageReadable": false,
+              "access": "none"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "worlds/curse-of-strahd/handout-generator/record-1-0095b3.webp",
