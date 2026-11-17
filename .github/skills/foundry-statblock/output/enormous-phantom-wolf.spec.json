@@ -1,6 +1,6 @@
 {
   "name": "Enormous Phantom Wolf",
-  "cr": 8,
+  "cr": 12,
   "size": "huge",
   "alignment": "unaligned",
   "book": "Monster Manual",
@@ -27,6 +27,7 @@
     "charmed",
     "frightened"
   ],
+  "legendary_resistances": 3,
   "ac": 13,
   "hp": {
     "max": 136,
@@ -39,7 +40,7 @@
     "darkvision": 120
   },
   "languages": [],
-  "biography": "<p>DM-only: This is the enormous wolf in the Q38 dreamlike vision. It keeps the established Q38 chase statistics, Huge size, and decisive Bite profile, with Barovian dire wolf senses and traits. It is immune to the charmed and frightened conditions. It has only the Bite attack; omit Tail and Multiattack. The vision ends after the attack roll and defensive reactions resolve, before damage or conditions are applied. The surrounding pack is visual and auditory only and does not count as an ally for Pack Tactics.</p>",
+  "biography": "<p>A massive phantom wolf with keen senses and a powerful bite.</p>",
   "items": [
     {
       "name": "Superior Darkvision",
@@ -54,7 +55,35 @@
     {
       "name": "Pack Tactics",
       "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
-      "description": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated. Q38: The dreamlike background pack is visual and auditory only, not a mechanical ally."
+      "description": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    {
+      "name": "Magic Resistance",
+      "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+      "description": "The wolf has advantage on saving throws against spells and other magical effects."
+    },
+    {
+      "name": "Regeneration",
+      "img": "icons/magic/unholy/strike-body-life-soul-green.webp",
+      "description": "The wolf regains 10 hit points at the start of its turn if it has at least 1 hit point."
+    },
+    {
+      "name": "Legendary Resistance (3/Day)",
+      "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
+      "activation": "special",
+      "description": "If the wolf fails a saving throw, it can choose to succeed instead.",
+      "activities": [
+        {
+          "type": "utility",
+          "activation": "special",
+          "legres": true
+        }
+      ]
+    },
+    {
+      "name": "Multiattack",
+      "img": "icons/skills/melee/strike-blade-claw-red.webp",
+      "description": "The wolf makes two Bite attacks."
     },
     {
       "kind": "weapon",
@@ -63,7 +92,14 @@
       "img": "icons/creatures/abilities/fangs-teeth-bite.webp",
       "ability": "str",
       "reach": 10,
-      "description": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. A Medium or smaller target is grappled (escape DC 17) and restrained while grappled. DM-only Q38 adaptation: resolve the attack and defensive reactions, then end the vision before applying damage or any conditions. This Foundry attack rolls to hit only.",
+      "damage": [
+        {
+          "n": 4,
+          "d": 12,
+          "type": "piercing"
+        }
+      ],
+      "description": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. A Medium or smaller target is grappled (escape DC 17) and restrained while grappled.",
       "activities": []
     }
   ]

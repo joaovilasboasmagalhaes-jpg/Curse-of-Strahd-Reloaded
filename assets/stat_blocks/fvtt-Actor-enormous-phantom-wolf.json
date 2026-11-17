@@ -183,6 +183,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -195,6 +196,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -207,6 +209,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -219,6 +222,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -231,6 +235,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -243,6 +248,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -255,6 +261,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -267,6 +274,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -279,6 +287,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -291,6 +300,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -303,6 +313,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -315,6 +326,7 @@
         },
         "value": 1,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -327,6 +339,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -339,6 +352,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -351,6 +365,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -363,6 +378,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -375,6 +391,7 @@
         },
         "value": 1,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       },
@@ -387,6 +404,7 @@
         },
         "value": 0,
         "bonuses": {
+          "check": "",
           "passive": ""
         }
       }
@@ -520,7 +538,7 @@
     },
     "details": {
       "biography": {
-        "value": "<p>DM-only: This is the enormous wolf in the Q38 dreamlike vision. It keeps the established Q38 chase statistics, Huge size, and decisive Bite profile, with Barovian dire wolf senses and traits. It is immune to the charmed and frightened conditions. It has only the Bite attack; omit Tail and Multiattack. The vision ends after the attack roll and defensive reactions resolve, before damage or conditions are applied. The surrounding pack is visual and auditory only and does not count as an ally for Pack Tactics.</p>",
+        "value": "<p>A massive phantom wolf with keen senses and a powerful bite.</p>",
         "public": ""
       },
       "alignment": "unaligned",
@@ -538,7 +556,7 @@
         "value": [],
         "custom": ""
       },
-      "cr": 8,
+      "cr": 12,
       "treasure": {
         "value": []
       }
@@ -549,7 +567,7 @@
         "spent": 0
       },
       "legres": {
-        "max": 0,
+        "max": 3,
         "spent": 0
       },
       "lair": {
@@ -647,7 +665,7 @@
   },
   "items": [
     {
-      "_id": "fbci4OJqqhkwRHZI",
+      "_id": "AL3rV0H1xiihvwPE",
       "name": "Superior Darkvision",
       "type": "feat",
       "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
@@ -659,8 +677,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1794569994993,
-        "modifiedTime": 1794569994993,
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -702,7 +720,7 @@
       }
     },
     {
-      "_id": "ZV9GQuddojjBWRcy",
+      "_id": "MOgK2tKb9AQjYYGF",
       "name": "Keen Hearing and Smell",
       "type": "feat",
       "img": "icons/creatures/abilities/wolf-howl-moon-white.webp",
@@ -714,8 +732,8 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1794569994993,
-        "modifiedTime": 1794569994993,
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
@@ -757,7 +775,7 @@
       }
     },
     {
-      "_id": "7Nv2wXRI4XklipN9",
+      "_id": "KT7YETBlxEh8LJy0",
       "name": "Pack Tactics",
       "type": "feat",
       "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
@@ -769,15 +787,15 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1794569994993,
-        "modifiedTime": 1794569994993,
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
       "system": {
         "description": {
-          "value": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated. Q38: The dreamlike background pack is visual and auditory only, not a mechanical ally.</p>",
+          "value": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
           "chat": ""
         },
         "source": {
@@ -812,7 +830,299 @@
       }
     },
     {
-      "_id": "JqOkZVobHZVwayQY",
+      "_id": "ZF0w3KQn7vcoINzH",
+      "name": "Magic Resistance",
+      "type": "feat",
+      "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>The wolf has advantage on saving throws against spells and other magical effects.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "magic-resistance",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "BPY8hzSZe0eLnVK8",
+      "name": "Regeneration",
+      "type": "feat",
+      "img": "icons/magic/unholy/strike-body-life-soul-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>The wolf regains 10 hit points at the start of its turn if it has at least 1 hit point.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "regeneration",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "dm48F5UsHdE0O4gz",
+      "name": "Legendary Resistance (3/Day)",
+      "type": "feat",
+      "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>If the wolf fails a saving throw, it can choose to succeed instead.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "legendary-resistance-(3/day)",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {
+          "YIkZqsy0vASVf4Hb": {
+            "_id": "YIkZqsy0vASVf4Hb",
+            "type": "utility",
+            "name": "",
+            "sort": 0,
+            "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
+            "activation": {
+              "type": "special",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "attribute",
+                  "target": "resources.legres.value",
+                  "value": "1",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "range": {
+              "units": "self",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "effects": [],
+            "flags": {},
+            "behaviors": [],
+            "roll": {
+              "prompt": false,
+              "visible": false
+            }
+          }
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "2q1gIjeBH80HlUyA",
+      "name": "Multiattack",
+      "type": "feat",
+      "img": "icons/skills/melee/strike-blade-claw-red.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "value": "<p>The wolf makes two Bite attacks.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "",
+          "page": "",
+          "license": "",
+          "rules": "2014",
+          "revision": 1
+        },
+        "identifier": "multiattack",
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activities": {},
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "advancement": {},
+        "prerequisites": {
+          "items": [],
+          "repeatable": false,
+          "level": null
+        },
+        "properties": [],
+        "requirements": "",
+        "enchant": {},
+        "crewed": false
+      }
+    },
+    {
+      "_id": "poz5CtVW0P2OKOOo",
       "name": "Bite",
       "type": "weapon",
       "img": "icons/creatures/abilities/fangs-teeth-bite.webp",
@@ -824,15 +1134,15 @@
         "coreVersion": "14.368",
         "systemId": "dnd5e",
         "systemVersion": "6.0.3",
-        "createdTime": 1794569994993,
-        "modifiedTime": 1794569994993,
+        "createdTime": 1794933597801,
+        "modifiedTime": 1794933597801,
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
       "system": {
         "description": {
-          "value": "<p>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. A Medium or smaller target is grappled (escape DC 17) and restrained while grappled. DM-only Q38 adaptation: resolve the attack and defensive reactions, then end the vision before applying damage or any conditions. This Foundry attack rolls to hit only.</p>",
+          "value": "<p>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. A Medium or smaller target is grappled (escape DC 17) and restrained while grappled.</p>",
           "chat": ""
         },
         "source": {
@@ -905,8 +1215,8 @@
         "magicalBonus": null,
         "mastery": "",
         "activities": {
-          "OoFNtKiNEqnC4PrJ": {
-            "_id": "OoFNtKiNEqnC4PrJ",
+          "bovzUNjCblYg4pAY": {
+            "_id": "bovzUNjCblYg4pAY",
             "type": "attack",
             "name": "",
             "sort": 0,
@@ -982,7 +1292,24 @@
                 "bonus": ""
               },
               "includeBase": false,
-              "parts": []
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 4,
+                  "denomination": 12,
+                  "bonus": "@mod",
+                  "types": [
+                    "piercing"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
             }
           }
         },
@@ -1007,8 +1334,8 @@
     "coreVersion": "14.368",
     "systemId": "dnd5e",
     "systemVersion": "6.0.3",
-    "createdTime": 1794569994993,
-    "modifiedTime": 1794569994993,
+    "createdTime": 1794933597801,
+    "modifiedTime": 1794933597801,
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
