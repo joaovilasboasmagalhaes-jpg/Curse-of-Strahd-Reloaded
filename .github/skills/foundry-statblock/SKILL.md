@@ -46,6 +46,7 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 ```
 
 - `size`: `tiny sm med lg huge grg`. `skills`: 1 proficient, 2 expertise (keys `acr ani arc ath dec his ins itm inv med nat prc prf per rel slt ste sur`).
+- `skill_bonuses` adds a fixed check bonus on top of ability and proficiency, e.g. `{"ath": "+1"}`.
 - `ac`: `null` derives AC from an equipped `equipment` item; a number sets natural AC (`calcs: ["natural"]`, `flat`), as in the CoS import.
 - `legendary_resistances`, `legendary_actions`, `lair` (initiative count; omit if no lair actions), `slots` (`{"1": 4, "3": 3}`), `book`, `page`, `dr_bypasses` (`["mgc"]`; also `di_`/`dv_`).
 - Damage types, conditions and languages use Foundry keys (`slashing`, `fire`, `poisoned`, `common`).
@@ -55,7 +56,7 @@ Items (`kind` defaults to `feat`). Every generated item must have fitting art: a
 | kind | Fields |
 |---|---|
 | `feat` | `name`, `img`, `description` (plain text or HTML), `activation` (`action bonus reaction special legendary lair none`), `cost` (legendary), `uses` `{max, recover: day/lr/sr/recharge, formula}`, `activities` |
-| `weapon` | `name`, `img`, `base` (`scimitar`), `wtype` (`martialM`), `props` (`fin lgt`), `damage` `[{n,d,type}]`, `reach` or `ranged: true` + `range`/`long`, `attack_bonus`, `activities` for riders. `natural: true` (bite, claw, unarmed): type natural, dice in the activity, `ability` set, `@mod` added to the first part |
+| `weapon` | `name`, `img`, `base` (`scimitar`), `wtype` (`martialM`), `props` (`fin lgt`), `damage` `[{n,d,type}]`, `reach` or `ranged: true` + `range`/`long`, optional `quantity`, `attack_bonus`, `activities` for riders. `natural: true` (bite, claw, unarmed): type natural, dice in the activity, `ability` set, `@mod` added to the first part |
 | `spellcasting` | `name` ("Spellcasting" or "Innate Spellcasting"), `img`, `description`, `spells` `[{name, per_day?, uuid?, img?}]`. One `cast` activity per spell, linked to the compendium spell; optional spell `img` overrides the activity image |
 | `equipment` | `name`, `img`, `ac`, `armor_type`, `base`, `dex_cap` |
 

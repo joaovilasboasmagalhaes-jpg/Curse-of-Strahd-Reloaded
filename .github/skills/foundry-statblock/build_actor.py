@@ -213,7 +213,7 @@ def build_weapon(spec):
     base = {} if natural else spec.get("damage", [{"n": 1, "d": 6, "type": "slashing"}])[0]
     versatile = spec.get("versatile")
     it["system"].update({
-        "quantity": 1, "weight": {"value": spec.get("weight", 0), "units": "lb"},
+        "quantity": spec.get("quantity", 1), "weight": {"value": spec.get("weight", 0), "units": "lb"},
         "price": {"value": spec.get("price", 0), "denomination": "gp"},
         "attunement": "", "equipped": True, "identified": True, "cover": None,
         "uses": {"max": "", "spent": 0, "recovery": []},
@@ -289,7 +289,8 @@ def build(spec):
                  "max": None, "check": {"roll": roll_mode()}, "save": {"roll": roll_mode()},
                  "attack": {"roll": roll_mode()}}
     skills = {k: {"ability": v, "roll": roll_mode(), "value": spec.get("skills", {}).get(k, 0),
-                  "bonuses": {"passive": ""}} for k, v in SKILLS.items()}
+                  "bonuses": {"check": spec.get("skill_bonuses", {}).get(k, ""), "passive": ""}}
+              for k, v in SKILLS.items()}
     speeds = {k: "" for k in ("walk", "burrow", "climb", "fly", "swim")}
     speeds.update({k: str(v) for k, v in spec.get("speed", {"walk": 30}).items()})
     senses = {k: spec.get("senses", {}).get(k) for k in ("blindsight", "darkvision", "tremorsense", "truesight")}

@@ -1,0 +1,101 @@
+{
+  "name": "Arturi Radanavich",
+  "cr": 2,
+  "size": "med",
+  "type": {
+    "value": "humanoid",
+    "subtype": "human"
+  },
+  "alignment": "neutral good",
+  "abilities": {
+    "str": 12,
+    "dex": 16,
+    "con": 14,
+    "int": 13,
+    "wis": 14,
+    "cha": 14
+  },
+  "skills": {
+    "ath": 1
+  },
+  "skill_bonuses": {
+    "ath": "+1"
+  },
+  "ac": null,
+  "hp": {
+    "max": 52,
+    "formula": "8d8 + 16"
+  },
+  "speed": {
+    "walk": 30
+  },
+  "languages": [
+    "common"
+  ],
+  "book": "Reloaded",
+  "page": "Arc T",
+  "img": "assets/srd5e/img/bestiary/tokens/CoS/Vistana Bandit.webp",
+  "token": "assets/srd5e/img/bestiary/tokens/CoS/Vistana Bandit.webp",
+  "biography": "<p>A quiet, soft-spoken Vistana in his late thirties with a distant, almost absent-minded countenance and a near-painful sincerity. He carries five daggers and wears studded leather armor.</p><p><strong>Beacon of Protection:</strong> While Argynvost's beacon shines, Arturi opposes Strahd, and he remains in Barovia, he gains +1 AC and saving throws. Apply this bonus manually.</p>",
+  "items": [
+    {
+      "kind": "equipment",
+      "name": "Studded Leather Armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded.webp",
+      "ac": 12,
+      "armor_type": "light",
+      "base": "studded-leather"
+    },
+    {
+      "kind": "weapon",
+      "name": "Dagger",
+      "img": "icons/weapons/daggers/dagger-black.webp",
+      "base": "dagger",
+      "wtype": "simpleM",
+      "props": [
+        "fin",
+        "lgt",
+        "thr"
+      ],
+      "ability": "dex",
+      "ranged": true,
+      "range": 20,
+      "long": 60,
+      "quantity": 5,
+      "damage": [
+        {
+          "n": 1,
+          "d": 4,
+          "type": "piercing"
+        }
+      ],
+      "activities": [
+        {
+          "type": "attack",
+          "kind": "melee",
+          "ability": "dex",
+          "range": 5,
+          "include_base": true
+        }
+      ],
+      "description": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4 + 3) piercing damage."
+    },
+    {
+      "name": "Multiattack",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
+      "description": "Arturi makes two attacks with his dagger.",
+      "activation": "action"
+    },
+    {
+      "name": "Parry",
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "description": "When Arturi is hit by a melee attack while wielding a weapon, he adds 2 to his AC against that attack, potentially causing it to miss. Apply this bonus manually.",
+      "activation": "reaction",
+      "activities": [
+        {
+          "type": "utility"
+        }
+      ]
+    }
+  ]
+}
