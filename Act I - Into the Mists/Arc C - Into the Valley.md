@@ -934,6 +934,8 @@ There are eight unnamed Vistani at the camp; two of them also participate in the
 
 For the other stories told in this scene, let the players make their own guesses first. If a player asks to assess a teller's truthfulness, call for a DC 20 Wisdom (Insight) check. On a success, indicate only whether the story contains a material falsehood; do not reveal its exact truth category or the false detail.
 
+For each Wisdom (Insight) check a player requests during the game, add 1 to that player's applicable base DC for every such check they have requested, including the current check. Track each player's requests separately; one player's checks do not affect another's DC. A player's first requested check is DC 16 for either unnamed teller or DC 21 for another story, with each later request increasing that player's DC by 1.
+
 Stanimir adds, “If you hide a falsehood in your tale, make it one that matters to the story; being six instead of five changes little.”
 
 When a tale is half-true, encourage its teller to explain what part was false, but do not press them if they decline.
@@ -944,6 +946,8 @@ If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#
 * **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
 * **Arturi** wagers a short manuscript on werewolves authored by Dr. Rudolph van Richten.
 * **Ireena** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
+* **First unnamed Vistana** wagers a brass pocket mirror etched with a winding road and stars.
+* **Second unnamed Vistana** wagers a little wooden bird with mismatched painted wings, balanced on a fingertip.
 
 Give the players a few minutes away from the table to plan out their stories before the game begins.
 
@@ -1091,7 +1095,11 @@ The rustling bush hides the Vistani **bandit** Eliza. If the players disregard h
 
 Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 15 Charisma (Intimidation) check, however, Eliza returns to Tser Pool and remains there for the night.
 
-**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
+**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani.
+
+<div class="description">
+<p>"He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."</p>
+</div>
 
 > [!lore]+ **Eliza's Fanaticism**
 > Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
