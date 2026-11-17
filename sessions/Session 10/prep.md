@@ -20,6 +20,7 @@ Pending.
 - Add caspian's interpretation of the answer to his question rgarding the reading
 - **Q009** maybe to allow the players to enjoy and understand these easter eggs, it could be a good idea to introduce them to these references somehow. Context: The Reloaded additions in [[../../Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight#West Barracks|Amber Temple West Barracks]] are "Azalin was here"; "Viktra + Elise" (with a heart); the Vladeska Drakov classroom pun; "ANKHTEPOT SMELLS"; "Harkon ate my homework"; and failed *unseen servant* runes meant to do homework. The names point to Azalin Rex of Darkon, Viktra Mordenheim and Elise of Lamordia, Vladeska Drakov of Falkovnia, Ankhtepot of Har'Akir, and Harkon Lukas of Kartakass (see [[../../assets/Van Richten's Guide to Ravenloft|Van Richten's Guide to Ravenloft]]). Consider how to provide enough setting context for players to recognize and enjoy the references.
 - **Q010** Ask the players what they bought in Bildrath's Mercantile.
+- **Q011** "add a task to design this for session 10." (The design is the move of the *Holy Symbol of Ravenkind* to the Forest Folk at Yester Hill, including how they came by it, when and how the party can recover it, and what changes to make to the werewolf-den reward and oath.)
 
 ### C6. The Watchtower
 

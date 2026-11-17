@@ -122,7 +122,7 @@ Answers to the section 2 questions, decisions, and the changes made to campaign 
 
 **Get cards for Tarokka reading.**
 
-> **Deferred to Session 9, Section 5: Table prep.** The C4f Tarokka reading is next session, not this one. Get/check the deck then; it needs the five fixed cards: Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette. The personal readings this session use Eva's crystal ball, not cards. The task is recorded in [[../Session 9/prep#5. Table prep|Session 9 Table prep]].
+> **Deferred to Session 9, Section 5: Table prep.** The C4f Tarokka reading is next session, not this one. Get/check the deck then; it needs the five fixed cards: Nine of Glyphs (the Traitor), Five of Glyphs (the Druid), Eight of Stars (the Necromancer), the Mists, and the Marionette. The personal readings this session use Eva's crystal ball, not cards. The task is recorded in [[../Session 9/prep#5. Table prep|Session 9 Table prep]].
 
 #### Strahd's Arrival
 

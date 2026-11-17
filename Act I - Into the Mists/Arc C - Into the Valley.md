@@ -1117,7 +1117,7 @@ While fleeing through the woods, Eliza has half cover from any player at least 3
 When the players arrive at the River Ivlis Crossroads, read:
 
 <div class="description">
-<p>The well-worn road brings you back to the crossroads, a small clearing dark beneath the moonless sky. The road divides here: east toward Barovia Village, northwest down into the trees toward Tser Pool, and southwest up the slope toward Vallaki and Castle Ravenloft. Opposite the old wooden gallows, a weather-beaten signpost points down each fork. Nearby, a low stone wall, crumbling in places, encloses a small graveyard; its mist-shrouded headstones hunker in the gloom. The gallows' frayed rope hangs motionless in the still air.</p>
+<p>The well-worn road brings you back to the crossroads, a small clearing dark beneath the moonless sky. The road divides here: east toward Barovia Village, northwest down into the trees toward Tser Pool, and southwest up the slope toward Vallaki and Castle Ravenloft. On the old wooden gallows, a weather-beaten signpost points down each fork. Nearby, a low stone wall, crumbling in places, encloses a small graveyard; its mist-shrouded headstones hunker in the gloom. The gallows' frayed rope hangs motionless in the still air.</p>
 <p>A squat, cloaked silhouette stands beside the gallows—waiting.</p>
 </div>
 
@@ -1148,7 +1148,7 @@ Once the March has begun, Madam Eva informs the players: "Each spirit in this ma
 
 Regardless of the players' answer, Madam Eva then shares the information about the March provided in <span class="citation">March of the Dead (p. 48)</span>, either in response to the players' questions or of her own initiative once the March has fully departed the graveyard.
 
-"This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you *must* do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, glory, or love. Do you understand?"
+"This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you *must* do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, redemption, or love. Do you understand?"
 
 Regardless of the players' answer, Madam Eva fixes them with a steady gaze. "Your signs have been read, each in its own turn. What I offer now is for all of you. If you would leave this struggle, no soul could blame you. But if you mean to face the lord of this valley together, I will lay the cards. They promise no victory; they may show what could aid you. Will you hear them?"
 
@@ -1159,11 +1159,7 @@ If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well
 >
 > The tarokka reading has been modified in places from the original module. Substitute the RAW readings with those below where noted.
 
-Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth, reaching into her cloak, and removing three old candles, which she stakes into the ground and lights with a wave of her hand. She then removes a deck of Tarokka cards, which she sets upon the ground between the candles. Read:
-
-<div class="description">
-<p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
-</div>
+**At the table:** Keep the five selected Tarokka cards ready, face down, in the order below. Madam Eva sits on the cemetery earth, separates the high deck from the common deck, and shuffles them with a false shuffle to preserve the fixed order. She deals three common cards face down—left, top, right—then two high cards—bottom, center. Show each card to the players as she turns it over; do not describe its artwork.
 
 As she shuffles the deck, the players notice a velvet pouch upon the ground beside her that wasn't present a moment before. Madam Eva meets their eyes, then cackles quietly. "The task you seek of me is no small boon," she murmurs. "In exchange, I would ask a boon of my own."
 
@@ -1173,35 +1169,57 @@ Madam Eva asks the players to use the funds in the pouch to purchase a toy for A
 
 Eva adds, with a cryptic smile, that the players may enjoy speaking with Arabelle, as she is “a most interesting child”—and that the players may find befriending her family a gift in itself. (If the players ask, Eva shares only that Arabelle's father, Luvash, is the leader of the Vallakian Vistani encampment, and his brother Arrigal a "perceptive and intelligent man.")
 
-If the players accept Madam Eva's task, she nods approvingly. She then begins the Tarokka reading. Read:
+If the players accept Madam Eva's task, she nods approvingly and begins the reading.
 
-<div class="description">
-<p>Madam Eva sets both decks upon the earth before her. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sound of the rustling trees begins to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
-<p>Slowly, reverently, the crone draws three cards from the top of the deck, laying them face down separately on the ground, with the second laid between and above its partners. She then moves to the smaller deck, drawing two more cards. The first, she places below the first three, forming a cross. The second, she places in the center.</p>
-<p>The shadows of the headstones around her sway like silhouettes, leaning in toward the cards like anxious watchers—yet the air in the cemetery is perfectly still. No light intrudes besides the light of the three candles; no voice rings out in the silence. Shadows and mist swirl beyond the graves, where the darkness of deepest night dwells—but here, at its center, light yet reigns.</p>
-<p>The crone then moves her wrinkled hand to the left-most card—the first. She closes her eyes and tilts her head, as if listening to an unspoken word. The arcane lights swirl and then shift, their colors changing to a deep, piercing blue.</p>
-<p>"This card tells of history. Knowledge of the ancient will help you better understand your enemy."</p>
-<p>She flips the card.</p>
-<p>The candlelight shifts to cerulean and dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him." (See <a href="obsidian://open?vault=Curse-of-Strahd-Reloaded&file=Act%20II%20-%20The%20Shadowed%20Town%2FArc%20H%20-%20The%20Lost%20Soul">Arc H- The Lost Soul</a>, for more information on this card’s foretelling.)</p>
-<p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
-<p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</p>
-<p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
-<p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
-<p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
-<p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
-<p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
-<p>She flips the card.</p>
-<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See <span class="citation">Strahd’s Enemy, p. 15</span>, for this card’s foretelling.)</p>
-<p>Finally, she moves her hand to the fifth card—and nearly recoils, her brow furrowing until the wrinkles split her forehead like a trench. Behind her, shadows encircle the candlelight until the light is very nearly swallowed by the creeping dark. When next she speaks, Madam Eva's rasping voice is scarce above a whisper.</p>
-<p>"Your enemy is a creature of darkness, whose powers are beyond mortality. When the hour of judgment arrives, this card will lead you to him!"</p>
-<p>Her hand trembles above the card for a silent moment—and then deft, ancient fingers reveal its opposite side.</p>
-<p>In the darkness, the fifth and final illustration is only barely visible through the smoke and unnatural murk. Upon the card's surface dwells a depiction of a crowned, grinning emperor clad in royal finery and reaching for a goblet of wine—though his limbs are wooden puppet’s limbs, lashed to corded strings that disappear into the darkness overhead.</p>
-<p>Madam Eva slowly exhales. "The Marionette." (See <span class="citation">Strahd’s Location in the Castle, p. 17</span>, for this card’s foretelling.)</p>
-<p>As the last syllable passes her lips, the old woman freezes—and then rocks backwards, her eyes rolling until their whites gleam like pearls in the darkness—and then she snaps back, the candlelight burning down to its ordinary crimson glow.</p>
-<p>The sound of the natural world returns—the whispering of the wind through the trees, the distant hooting of an owl, and the faraway lapping of the Ivlis River against its banks. The dim glow of flickering candlelight returns to the cemetery, and you feel yourselves breathe for the first time since the reading began.</p>
-<p>Madam Eva says nothing. She only regards you silently with dark, heavy eyes.</p></div>
+**1. Left — Nine of Glyphs, the Traitor (Tome of Strahd).** Madam Eva rests her fingers on the face-down card.
+
+> "The first speaks of history and knowledge. What the ancients left behind may yet help you defeat him."
+
+She turns it over.
+
+> "Nine of Glyphs—the Traitor. A noble house has lost one of its own. Find her, and she will guide you to the ancient foe."
+
+See [[../../Act II - The Shadowed Town/Arc H - The Lost Soul|Arc H - The Lost Soul]] for the campaign meaning of this clue.
+
+**2. Top — Five of Glyphs, the Druid (Holy Symbol of Ravenkind).** Madam Eva touches the second face-down card.
+
+> "The second speaks of the wild: what shelters the living may feed upon the dead."
+
+She turns it over.
+
+> "Five of Glyphs—the Druid. On an old hill where the dead sleep beneath the roots, the Forest Folk keep the sun's token. Let the ravens guide you there."
+
+This adapts the card's original location clue; see <span class="citation">Glyphs (Clubs), p. 12</span>.
+
+**3. Right — Eight of Stars, the Necromancer (Sunsword).** She lays her hand on the third card.
+
+> "The third speaks of what should be laid to rest—and of the will that refuses to let it lie."
+
+She turns it over.
+
+> "Eight of Stars—the Necromancer. The hilt of a sun-bright blade lies within an amber prison, beyond the Devil's reach. The ruined house of the dragon will lead you to it."
+
+**4. Bottom — The Mists (Ezmerelda d'Avenir, the foretold ally).** Madam Eva draws her hand to the fourth card.
+
+> "The fourth points to one who may help you in your fight against the darkness."
+
+She turns it over.
+
+> "The Mists. A traveler of the Mists has crossed this valley alone, following the trail of her absent teacher. Find her where prayers echo unanswered above a village that bars its gates. She may choose to join your fight."
+
+This adapts the ally clue in <span class="citation">Strahd's Enemy, p. 15</span>.
+
+**5. Center — The Marionette (Strahd's location for the final confrontation).** Madam Eva pauses, with her hand above the final card.
+
+> "The last speaks of your enemy: a creature of darkness, with power beyond mortal measure. It will show where you must face him."
+
+She turns it over.
+
+> "The Marionette. When you seek the lord, climb to the castle's highest reaches. Its crimson heart will guide you to the place he waits."
+
+This adapts the location clue in <span class="citation">Strahd's Location in the Castle, p. 17</span>.
+
+Madam Eva leaves the cards face up and waits for the players to speak. Give them a moment to discuss what they heard. When she has finished, she gathers the cards and sits in silence.
 
 Madam Eva refuses to elaborate on the players’ readings or provide any additional information or assistance. If asked to, she says only, “The threads of Fate cannot be beckoned like a servant or conjured like a magician’s trick. I see only what the cards show me, and no more.” 
 

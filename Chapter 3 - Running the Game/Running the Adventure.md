@@ -82,9 +82,9 @@ When choosing which card(s) to use for which part of the reading, select the fol
 ### The Tome of Strahd
 The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
-Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
+Place the *Holy Symbol of Ravenkind* with the Forest Folk at Yester Hill (***Five of Glyphs—Druid***).
 ### The Sunsword
-Place the *Sunsword* in the Vampyr's sarcophagus in the Amber Temple (***Eight of Glyphs—Bishop***).
+Place the *Sunsword* in the Vampyr's sarcophagus in the Amber Temple (***Eight of Stars—Necromancer***).
 ### Strahd's Enemy
 Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades***).
 ### Strahd's Location
@@ -97,7 +97,7 @@ The *Tome* has been intentionally placed in Vallaki to ensure that the players f
 
 ***The Holy Symbol of Ravenkind.*** The statistics of the *Holy Symbol* have been revised in order to ensure that its utility is not overshadowed by the *Sunsword* once the latter is obtained and to replace its nonstrategic *Hold Vampires* and *Turn Undead* features with tactical, engaging abilities. Its class restrictions for attunement have been removed to ensure that any party can use it—with or without a cleric or paladin.
 
-The *Holy Symbol* has been intentionally placed in the Werewolf Den to ensure that the players find it after they have already confronted Strahd's brides (in Vallaki and at Yester Hill), but before they invade any truly dangerous locations (e.g., Castle Ravenloft, the Amber Temple, or the ruins of Berez). 
+The *Holy Symbol* is now intended to be with the Forest Folk at Yester Hill. Session 10 prep will establish how the druids came by it, when the party can recover it relative to their confrontation with Ludmilla there, and what replaces the werewolf-den reward tied to it. Preserve the original aim of making it available after the party has confronted Strahd's brides and before the party enters truly dangerous locations (e.g., Castle Ravenloft, the Amber Temple, or the ruins of Berez), unless that design explicitly changes it.
 
 The four foretellings leading to Krezk—the scarecrow in the garden of the Abbey of Saint Markovia (***Two of Glyphs—Missionary***), the main hall of the Abbey (***One of Glyphs—Monk***), the nursery of the Abbey (***Two of Coins—Philanthropist***), and the gazebo in the Shrine of the White Sun (***Three of Glyphs—Healer***)—have been removed to ensure that the players do not fulfill two of their Tarokka readings (i.e., both the *Holy Symbol* and Strahd's Enemy) while within the same relative area.
 

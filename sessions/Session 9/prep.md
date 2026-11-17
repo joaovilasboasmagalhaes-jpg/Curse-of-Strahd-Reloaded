@@ -292,7 +292,7 @@ Pending the step 3 lock. Check each scene for undead within 300 feet of Elga, or
 19. Make digital version of Arturi's manuscript in Foundry.
 30. Make sure Eliza's tale is understandable and has visuals to support it.
 31. Prepare visuals for all tales.
-- Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Swords (the Myrmidon), Eight of Glyphs (the Bishop), the Mists, and the Marionette.
+- Get/check the Tarokka deck before C4f. The reading uses Nine of Glyphs (the Traitor), Five of Glyphs (the Druid), Eight of Stars (the Necromancer), the Mists, and the Marionette.
 - After the player confirms their Session 7 purchases, check them against Arc B's stock and update Foundry inventory.
 - [x] Get player map for what the party has already explored. DM confirmed complete: Barovia player-map scene prepared in Foundry with Simple Fog.
 
@@ -360,8 +360,8 @@ Checked against the Foundry handout catalog and world assets on 2026-11-11; only
 | Card | Delivery |
 |---|---|
 | Nine of Glyphs - the Traitor | Tilt the head as though listening; measured and searching. |
-| Five of Swords - the Myrmidon | Let warmth and reassurance enter the voice. |
-| Eight of Glyphs - the Bishop | Sit straighter; suddenly clear, firm, and purposeful. |
+| Five of Glyphs - the Druid | Let the voice become wary, with reverence for the wild's beauty and knowledge of its cruelty. |
+| Eight of Stars - the Necromancer | Lower the voice; let the words about death and obsession carry a quiet certainty. |
 | The Mists | Lean toward the group; quieter and contemplative. |
 | The Marionette | Stop the hand before touching the card. Hesitate, then use the lowest clearly audible voice of the reading. |
 
@@ -400,16 +400,16 @@ Chosen cards, in deal and reveal order:
 | Order | Card | Deck | Position | Foretelling |
 |---|---|---|---|---|
 | 1 | Nine of Glyphs - the Traitor | Common | Left | Tome of Strahd |
-| 2 | Five of Swords - the Myrmidon | Common | Top | Holy Symbol of Ravenkind |
-| 3 | Eight of Glyphs - the Bishop | Common | Right | Sunsword |
+| 2 | Five of Glyphs - the Druid | Common | Top | Holy Symbol of Ravenkind |
+| 3 | Eight of Stars - the Necromancer | Common | Right | Sunsword |
 | 4 | The Mists | High | Bottom | Ally against Strahd |
 | 5 | The Marionette | High | Center | Strahd's location for the final confrontation |
 
 **DM-only campaign meanings - not explanations to give the players during the reading:**
 
 1. **The Traitor:** The "ancient foe" is **Leo Dilisnya**, whose spirit dominates the **gallows speaker** carrying the *Tome of Strahd*. The "old and noble house" is **House Wachter**; the "lost soul" is **Stella Wachter**, whose rescue brings the party into conflict with Leo in the Ethereal Plane. The Tome is recovered when the gallows speaker is defeated, not from Lady Wachter's locked chest. See [[../../Act II - The Shadowed Town/Arc H - The Lost Soul|Arc H - The Lost Soul]].
-2. **The Myrmidon:** The *Holy Symbol of Ravenkind* hangs around the statue of **Mother Night** in **Z7, the Shrine of Mother Night**, inside the werewolf den. **Zuleika Toranescu**, Mother Night's priestess, can authorise its removal; the party must deal with her rather than simply steal it from the cursed hoard. See [[../../Act III - The Broken Land/Arc L - The Den of Wolves|Arc L - The Den of Wolves]].
-3. **The Bishop:** The "amber prison" is the **Amber Temple**, specifically **the Vampyr's prison**, where **Patrina Velikovna** concealed the *Sunsword* hilt in a secret demiplane. The "house of the fallen dragon" is **Argynvostholt**, the ruined home of the silver dragon **Argynvost** and the Order of the Silver Dragon, which provides the lead toward the temple. See [[../../Act III - The Broken Land/Arc M - The Dragon's Manor|Arc M - The Dragon's Manor]] and [[../../Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Arc S - A Sword of Sunlight]].
+2. **The Druid:** The foretelling points to the Forest Folk at Yester Hill, where the *Holy Symbol of Ravenkind* is intended to be. Its exact custody, how the druids came by it, and when the party can recover it relative to confronting Ludmilla there remain for Session 10 design, along with revising the werewolf-den reward. Lugdana's history as the Symbol's former wielder remains unchanged.
+3. **The Necromancer:** The foretelling still leads to the *Sunsword* hilt in the **Amber Temple**, specifically the **Vampyr's prison**, where **Patrina Velikovna** concealed it in a secret demiplane. The "house of the fallen dragon" is **Argynvostholt**, which provides the lead toward the temple. The card now reflects Patrina's destructive obsession with lichdom and the unnatural persistence of death; this campaign's amber-prison clue replaces the Necromancer's original printed treasure clue. See [[../../Act III - The Broken Land/Arc M - The Dragon's Manor|Arc M - The Dragon's Manor]] and [[../../Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Arc S - A Sword of Sunlight]].
 4. **The Mists:** The foretold ally is **Ezmerelda d'Avenir**, the Vistani monster hunter searching for her mentor, **Dr. Rudolph van Richten**. The reading directs the party to **the Abbey of Saint Markovia near Krezk**, where they can meet and recruit her. See [[../../Act III - The Broken Land/Arc K - The Fallen Abbey|Arc K - The Fallen Abbey]] and the ally reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Enemy|Curse of Strahd - Strahd's Enemy]].
 5. **The Marionette:** This card refers to **Strahd himself and the location of the final confrontation**, not Pidlwick II or another potential ally. The "beating heart of the castle" is the **Heart of Sorrow**; the foretold meeting place is **K60, the North Tower Peak of Castle Ravenloft**, nearby. See the location reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Location in the Castle|Curse of Strahd - Strahd's Location in the Castle]].
 
@@ -418,8 +418,8 @@ Chosen cards, in deal and reveal order:
 These explain how the cards' symbolism fits the campaign. The identities and destinations above are established by the reading; the symbolic connections below are interpretations, not a claim that the guide explicitly states why its author chose every card. A treasure card can describe an object or its story rather than label every nearby NPC.
 
 - **The Traitor - Leo Dilisnya:** Leo was a guard of Ravenloft who ordered the guards to turn on Strahd after Strahd murdered Sergei and pursued Tatyana. From Strahd's perspective, his own trusted guard betrayed him; from Leo's perspective, he was defending Tatyana and avenging Sergei. The betrayal also runs the other way: Leo's sister, **Lovina Wachter**, helped Strahd slaughter the guards and later imprison Leo. The card therefore fits the broken loyalties behind Leo's hatred of House Wachter. It does **not** mean Stella is a traitor.
-- **The Myrmidon - the Symbol's heroic purpose:** This is a warrior card associated with great heroes and an underdog overcoming a greater enemy. Its strongest connection is to **Lugdana**, the paladin who once wielded the *Holy Symbol of Ravenkind*, and to the party's prospect of using it against Strahd. **Zuleika** is associated with the reading because she controls access to the relic at Mother Night's shrine, not because the prophecy explicitly names her as the Myrmidon.
-- **The Bishop - Patrina's schemes and the sacred weapon:** The Bishop can signify steadfast belief as well as plotting and scheming. **Patrina** fits the latter: she betrayed her teacher Exethanter, seized control of the Amber Temple, and concealed her soul in the *Sunsword* as part of her attempt to become a lich. The holy figure depicted on the card also contrasts with the sacred weapon trapped in that corrupt scheme. This is a thematic fit, not a statement that Patrina is literally a bishop or priest; **Argynvost** is the dragon identified by the route clue, not the Bishop's personal identity.
+- **The Druid - the Symbol at Yester Hill:** The card evokes nature's ambivalence and cruelty, fitting the Forest Folk's service to Strahd. Its clue points toward an unnatural tree and ancient graves at Yester Hill, where the *Holy Symbol* is intended to be. This changes its foretold keeper, not Lugdana's history as its former wielder; custody and recovery details, including timing around Ludmilla, are deferred to Session 10 design.
+- **The Necromancer - Patrina's obsession and the sacred weapon:** The card signifies unnatural events, unhealthy obsessions, and destructive paths. **Patrina** fits through her destructive pursuit of lichdom and her attempt to make the *Sunsword* hilt her phylactery. The card's symbolism points to her death-bound ambition; the amber-prison and fallen-dragon clues still lead to the *Sunsword* hilt in the Amber Temple. This does not mean Patrina succeeded in becoming a lich or that the weapon itself is necromantic.
 - **The Mists - Ezmerelda d'Avenir:** The card evokes a mysterious journey that tests the spirit. **Ezmerelda** crossed the Mists to follow her missing mentor, travels without a caravan, and is searching an unfamiliar, dangerous Barovia for answers. Both the wandering Vistana and the quest for **Van Richten** match that imagery; he is the object of her search, not the ally named by this card.
 - **The Marionette - Strahd:** The card's crowned ruler with puppet limbs makes the apparent master of Barovia look like someone else's instrument. **Strahd** commands the valley but remains confined by the **Dark Powers**, whose prison he is trying to escape. The image fits the contrast between his sovereignty and his lack of ultimate freedom; it does not imply that they directly dictate every action he takes. His escape scheme also centres on the **Heart of Sorrow**, reinforcing the foretold location near the castle's beating heart. See [[../../Chapter 2 - The Land of Barovia/Strahd von Zarovich|Strahd von Zarovich]].
 
@@ -429,7 +429,7 @@ Instructions for handling the deck:
 1. Take out the 14-card high deck and set it aside.
 2. Keep the remaining 40-card common deck separate. Shuffle it; the text’s “twice, three times, four” doesn’t give a clear number.
 3. Shuffle the 14-card deck too. The reading later refers to two decks, though this step isn’t explicit in the Reloaded text.
-   - Preserve the chosen draw order with a rehearsed false shuffle, or arrange the chosen cards on top after shuffling: Traitor, Myrmidon, Bishop in the common deck; Mists, Marionette in the high deck. These are fixed selections, not random draws.
+   - Preserve the chosen draw order with a rehearsed false shuffle, or arrange the chosen cards on top after shuffling: Traitor, Druid, Necromancer in the common deck; Mists, Marionette in the high deck. These are fixed selections, not random draws.
 4. From the 40-card deck, deal three cards face down: first on the left, second above the middle, third on the right.
 5. From the 14-card deck, deal two cards face down: fourth below the first three, fifth in the center.
 
