@@ -5,7 +5,7 @@ description: Distilled notes from the DM's external books on running games, sess
 
 # DM craft
 
-Paraphrased digests of the books listed in [external-book.md](../../../assets/external-book.md). Read only the digest that fits the task, not the books. For deeper detail, use the chapter pointers inside a digest to open the source epub or pdf in the Books folder.
+Paraphrased digests of the books listed in [external-book.md](../../../assets/references/external-book.md). Read only the digest that fits the task, not the books. For deeper detail, use the chapter pointers inside a digest to open the source epub or pdf in the Books folder.
 
 ## Rules
 

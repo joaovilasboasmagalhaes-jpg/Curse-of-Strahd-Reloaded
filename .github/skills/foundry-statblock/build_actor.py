@@ -1,7 +1,7 @@
 """Build a Foundry VTT dnd5e NPC actor JSON from a compact spec.
 
 Usage: python build_actor.py spec.json [out.json]
-Without out.json the actor is written to assets/stat_blocks/fvtt-Actor-<name>.json.
+Without out.json the actor is written to assets/foundry/actors/fvtt-Actor-<name>.json.
 Target: Foundry v14, dnd5e system 6.0.x, rules 2014. See SKILL.md for the spec format.
 Foundry computes attack bonuses, save DCs for spells and ability-mod damage by itself,
 so the script only writes dice, types and explicit overrides.
@@ -23,7 +23,7 @@ SKILLS = {
 ACTIVATION = {"action": "action", "bonus": "bonus", "reaction": "reaction", "special": "special",
               "legendary": "legendary", "lair": "lair", "none": ""}
 SKILL_DIR = os.path.dirname(os.path.abspath(__file__))
-STAT_BLOCKS_DIR = os.path.normpath(os.path.join(SKILL_DIR, "..", "..", "..", "assets", "stat_blocks"))
+STAT_BLOCKS_DIR = os.path.normpath(os.path.join(SKILL_DIR, "..", "..", "..", "assets", "foundry", "actors"))
 SPELLS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "srd_spells_2014.json")
 DEFAULT_ICON = {"weapon": "icons/weapons/swords/sword-guard-purple.webp",
                 "feat": "icons/magic/symbols/rune-sigil-black-pink.webp",

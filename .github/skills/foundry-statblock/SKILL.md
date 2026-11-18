@@ -16,8 +16,8 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 | `examples/` | Real Foundry exports used as format reference (learning). Add every new example the DM provides |
 | `data/srd_spells_2014.json` | Spell name to Foundry `_id` for the dnd5e SRD 2014 spell pack (329 spells, release 5.3.3). Used to link spells |
 | `output/` | The `.spec.json` inputs of the stat blocks created by this skill |
-| `assets/stat_blocks/` (workspace root) | The importable `fvtt-Actor-<name>.json` files the builder generates |
-| `build_actor.py` | Builder: `python build_actor.py <spec.json> [out.json]`. Default output is `assets/stat_blocks/fvtt-Actor-<name>.json` |
+| `assets/foundry/actors/` (workspace root) | The importable `fvtt-Actor-<name>.json` files the builder generates |
+| `build_actor.py` | Builder: `python build_actor.py <spec.json> [out.json]`. Default output is `assets/foundry/actors/fvtt-Actor-<name>.json` |
 
 ## Procedure
 
@@ -25,7 +25,7 @@ Turns a stat block into a Foundry actor JSON the DM can import (right-click Acto
 2. If the monster is unchanged from its default source stat block, tell the DM its source and confirm whether they still want a Foundry actor before proceeding. Do not build the actor until they confirm.
 3. Images come from the `foundry-images` skill. Set `img` and `token` on the actor. Every embedded item uses an exact Foundry name icon from `foundry-images/item_icons.tsv` unless the spec provides an explicit `img`; the builder warns when an attack has no name match. Set an indexed, fitting `img` for every unmatched attack, feat, spell, equipment entry, or custom item. Give spell entries their own `img` when their cast activity should use spell-specific art. List the chosen images in the answer.
 4. Write a spec file in `output/<name>.spec.json` (format below).
-5. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/stat_blocks/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
+5. Run `python build_actor.py output/<name>.spec.json` (the actor goes to `assets/foundry/actors/`; the file name comes from the actor's name, so pass an explicit second argument to control it).
 6. Check the JSON loads, every actor and embedded item has the intended image, no item is using a generic builder fallback, and every image path resolves through the image index. Audit all generated actions and attacks as well as passive and custom items; verify their owning Foundry item has the chosen image. Also compare totals with the source block (AC, HP, CR, attack bonus, DCs). Foundry computes the attack bonus (ability mod + proficiency from CR) and save DCs for spells itself, so confirm that the spec's abilities give the source's numbers. Where they do not (for example a fixed DC), set `bonus` or an explicit `dc`.
 7. Tell the DM the file path and what was approximated. Ask for the import result so the format can be corrected from errors.
 

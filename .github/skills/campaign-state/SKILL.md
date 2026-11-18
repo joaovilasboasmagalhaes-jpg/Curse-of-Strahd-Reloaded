@@ -14,7 +14,7 @@ Answers "where are we?" and "what has already happened?" from the session logs. 
 | `sessions/Session N/log.md` | Events that already happened | No. Fixed history. The DM may add forgotten details, so re-check the logs when precision matters. |
 | Act/arc files, chapters, appendices | The campaign, including our edits | Yes. Edited freely to integrate new events. |
 | `sessions/Session N/prep.md` | Lore explicitly marked as DM-accepted (especially in Section 3, Resolved and adapted) | Accepted lore is established even if absent from campaign files, but subordinate to logs and campaign files. Other prep is planning, not established fact. |
-| `assets/Curse of Strahd.md` | The original book, used only where the arc files cite it (citations like `(p. 43)`; find `**[p. 43]**` or the area heading such as `### E2.`) | Reference. The Reloaded text overrides it where they differ. |
+| `assets/references/campaign/Curse of Strahd.md` | The original book, used only where the arc files cite it (citations like `(p. 43)`; find `**[p. 43]**` or the area heading such as `### E2.`) | Reference. The Reloaded text overrides it where they differ. |
 | `players/*/Readme.md` | Says which player files are fixed and which are mutable | Follow it per player. |
 
 For campaign-lore contradictions, use this priority: session logs > campaign files (including arc notes) > lore explicitly accepted in session prep. Read relevant prep for accepted lore even when campaign files do not repeat it. Questions, speculation, source context, unapproved ideas, and planned scenes or future outcomes that have not played out are not established facts. Preserve the protections for fixed player backstories in `.github/copilot-instructions.md`. If a logged event is vague, there is room to interpret it; if explicit, it cannot be changed.
@@ -31,7 +31,7 @@ For campaign-lore contradictions, use this priority: session logs > campaign fil
    - **In-world date.** Fill it in from the act summary's Timeline section and the arc text, record it in the `timeline` skill's `date-ledger.md`, and label it `inferred` unless the DM has confirmed it. `timeline` validates the date against the calendar. Remember that every month has 28 days.
    - **Divergences**: where the table departed from the arc text (skipped content, changed outcomes).
 
-The campaign files may have been edited, so read them rather than relying on memory of the published module. When an arc section cites the original book for its content, open that passage in `assets/Curse of Strahd.md` to know what the section covers and what comes next.
+The campaign files may have been edited, so read them rather than relying on memory of the published module. When an arc section cites the original book for its content, open that passage in `assets/references/campaign/Curse of Strahd.md` to know what the section covers and what comes next.
 
 ## Procedure: recall past events
 

@@ -23,7 +23,7 @@ Real-world and Ravenloft folklore digests live in `dm-craft/books/` (`vampires.m
 - The accelerated lunar cycle gives Barovia a full moon every 14 days. The party's first full moon is Neyavr 8; check the timeline skill for campaign dates.
 - Effects that actually produce sunlight, such as the *Sunsword*, still affect vampires through fog. Fog does not extinguish or dim a source of light. The 5e *daylight* spell does not count as sunlight.
 - Check daylight-dependent plans, travel, lycanthropy, and sunlight vulnerabilities against these rules. Distinguish Barovian daylight, ordinary bright light, and effects that produce sunlight.
-- Sources: `assets/Curse of Strahd.md`, **Sunlight in Barovia**; `Act II - The Shadowed Town/Arc D - St. Andral's Feast.md`, vampire daylight ruling; `Chapter 2 - The Land of Barovia/Lore of Barovia.md`, **Weather** and **Lycanthropy in Barovia**; `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`, combat traits and **Fog Bank**.
+- Sources: `assets/references/campaign/Curse of Strahd.md`, **Sunlight in Barovia**; `Act II - The Shadowed Town/Arc D - St. Andral's Feast.md`, vampire daylight ruling; `Chapter 2 - The Land of Barovia/Lore of Barovia.md`, **Weather** and **Lycanthropy in Barovia**; `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`, combat traits and **Fog Bank**.
 
 ## Magic and Divine Influence
 

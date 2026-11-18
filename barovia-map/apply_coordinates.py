@@ -9,7 +9,7 @@ import barovia_map_tileserver
 payload = json.loads(barovia_map_tileserver.pins_payload().decode("utf-8"))
 pin_dict = {p["name"]: [p["latitude"], p["longitude"]] for p in payload["pins"]}
 
-timeline_path = Path(__file__).parent.parent / "assets" / "curse-of-strahd.timeline"
+timeline_path = Path(__file__).parent.parent / "assets" / "campaign" / "timelines" / "curse-of-strahd.timeline"
 
 with open(timeline_path, "r", encoding="utf-8") as f:
     tl = json.load(f)

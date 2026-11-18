@@ -7,9 +7,9 @@ This is a growing, curated index, not a requirement to consult a source on every
 | Work | Local source | Useful for | Notes |
 |---|---|---|---|
 | *The Legend of Sleepy Hollow*, Washington Irving | [Source note](legend-of-sleepy-hollow.md); public-domain text at [Project Gutenberg, ebook 41](https://www.gutenberg.org/ebooks/41) | Local legends, unreliable accounts, haunted routes, folkloric ambiguity | The source note extracts broad narrative mechanisms; it is not a plot template. |
-| *I, Strahd: Memoirs of a Vampire*, P. N. Elrod and Christie Golden | `assets/I, Strahd Memoirs of a Vampire (P.N. Elrod, Christie Golden).epub` | Gothic narration, Barovian themes | Use the local book only if accessible; do not copy its prose. |
-| *I, Strahd: The War Against Azalin*, P. N. Elrod | `assets/I, Strahd The War Against Azalin (P.N. Elrod).epub` | Rivalry, conflict, gothic fantasy | Consult only where relevant; it does not override campaign canon. |
-| *Vampire of the Mists*, Christie Golden | `assets/Vampire of the Mists (Golden Christie).epub` | Vampire perspective, outsiderhood, gothic horror | Consult only where relevant; do not copy its prose. |
+| *I, Strahd: Memoirs of a Vampire*, P. N. Elrod and Christie Golden | `assets/references/fiction/I, Strahd Memoirs of a Vampire (P.N. Elrod, Christie Golden).epub` | Gothic narration, Barovian themes | Use the local book only if accessible; do not copy its prose. |
+| *I, Strahd: The War Against Azalin*, P. N. Elrod | `assets/references/fiction/I, Strahd The War Against Azalin (P.N. Elrod).epub` | Rivalry, conflict, gothic fantasy | Consult only where relevant; it does not override campaign canon. |
+| *Vampire of the Mists*, Christie Golden | `assets/references/fiction/Vampire of the Mists (Golden Christie).epub` | Vampire perspective, outsiderhood, gothic horror | Consult only where relevant; do not copy its prose. |
 
 ## Online starter sources
 
@@ -26,8 +26,8 @@ This is a growing, curated index, not a requirement to consult a source on every
 
 ## Workspace references
 
-- `assets/Curse of Strahd.md` is a source reference whose use is controlled by `.github/copilot-instructions.md` and the campaign guide's citations.
-- `assets/external-book.md` indexes additional books. Its listed book directory may not be accessible in this environment. Local digests in `.github/skills/dm-craft/books/` can be used when relevant; the `dm-craft` skill explains their scope and cautions.
+- `assets/references/campaign/Curse of Strahd.md` is a source reference whose use is controlled by `.github/copilot-instructions.md` and the campaign guide's citations.
+- `assets/references/external-book.md` indexes additional books. Its listed book directory may not be accessible in this environment. Local digests in `.github/skills/dm-craft/books/` can be used when relevant; the `dm-craft` skill explains their scope and cautions.
 - Other works can be added when a real task benefits from them. Prefer reliable public-domain or openly licensed editions for reusable notes, and record the edition, source link, rights status, useful narrative mechanisms, and cautions.
 
 ## Adding a source

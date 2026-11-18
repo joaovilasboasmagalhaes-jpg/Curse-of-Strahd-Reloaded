@@ -57,7 +57,7 @@ python .github/skills/dungeondraft-maps/ddmap.py fix-arrays "<map>" "<new map>"
 
 - Size the map from movement. Eliza (spy, 30 ft, Cunning Action Dash) covers 60-90 ft per turn. A chase of about 8-10 rounds needs about 800 ft of route, for example 160 squares. A wide map such as 120 × 160 leaves room for flanking and loops.
 - Reaching the map edge is not automatically an escape. Escape uses the DMG Stealth check against the pursuers' passive Perception, while out of sight.
-- A mapped obstacle or shortcut should give a choice (risk versus speed). Do not add mandatory fixed checks on top of the random complications table. That table lives at `assets/rollable_tables/fvtt-RollTable-eliza-chase-complications.json` (see `foundry-rolltable`).
+- A mapped obstacle or shortcut should give a choice (risk versus speed). Do not add mandatory fixed checks on top of the random complications table. That table lives at `assets/foundry/roll-tables/fvtt-RollTable-eliza-chase-complications.json` (see `foundry-rolltable`).
 - For rules details, use `dnd-rules` (DMG "Chases", PHB Dash and difficult terrain).
 
 ## Foundry walls and difficult terrain
@@ -65,10 +65,10 @@ python .github/skills/dungeondraft-maps/ddmap.py fix-arrays "<map>" "<new map>"
 [foundry_scene.py](foundry_scene.py) turns a map into an importable Foundry v14 scene (dnd5e), using the same grid as the image the DM exports from Dungeondraft. It needs `shapely` (`pip install shapely`).
 
 ```powershell
-python .github/skills/dungeondraft-maps/foundry_scene.py "<map>" assets/scenes/<base scene>.json assets/scenes/fvtt-Scene-<name>.json --ppi 70 --name "<Scene name>" --background "worlds/curse-of-strahd/assets/maps/<image>.webp" --preview <session files>/check.png --preview-image "<local copy of the exported image>"
+python .github/skills/dungeondraft-maps/foundry_scene.py "<map>" assets/foundry/scenes/<base scene>.json assets/foundry/scenes/fvtt-Scene-<name>.json --ppi 70 --name "<Scene name>" --background "worlds/curse-of-strahd/assets/maps/<image>.webp" --preview <session files>/check.png --preview-image "<local copy of the exported image>"
 ```
 
-- **The base scene is a Foundry export with one sample wall and one region with the dnd5e difficult-terrain behavior** (currently `assets/scenes/fvtt-Scene-scene-NYNlrBcYUXgqaUzp.json`). Copy their schema instead of guessing it; v14 added `levels` to walls and regions. Region polygons are `{"type": "polygon", "points": [x0, y0, x1, y1, ...], "hole": false, "origin": null}`: flat pixel pairs, the ring not closed by repeating the first point, `hole: true` subtracting from the region.
+- **The base scene must be a Foundry export with one sample wall and one region with the dnd5e difficult-terrain behavior.** No reusable base export is currently checked into the repository; export or copy a suitable scene into `assets/foundry/scenes/` and pass its actual filename as `<base scene>`. Do not rely on the previously documented `fvtt-Scene-scene-NYNlrBcYUXgqaUzp.json`, which is not present. Copy the schema instead of guessing it; v14 added `levels` to walls and regions. Region polygons are `{"type": "polygon", "points": [x0, y0, x1, y1, ...], "hole": false, "origin": null}`: flat pixel pairs, the ring not closed by repeating the first point, `hole: true` subtracting from the region.
 - **What the DM chose:**
   - Trees become **trunk walls**: an octagon of radius `clamp(0.25 × crown, 0.35, 0.65)` squares, about one 5 ft square across for a typical tree (`--trunk-scale` adjusts it). The first version, at 0.18-0.35 squares, was too small. Trunks block movement, sight and light but not sound. Tokens still pass under canopy rims and between trunks, and players can break line of sight in the woods. Shrubs get no wall.
   - **Difficult terrain follows the shape of the trees**: the union of canopy circles, smoothed into polygons (`plants`). The painted swamp is traced into polygons the same way (`mud`). `CANOPY_FACTOR` 1.2 × the `ddmap` crown estimate was checked against the exported image: it covers the dark outer rim of the drawn canopy while keeping the lanes between clusters open.

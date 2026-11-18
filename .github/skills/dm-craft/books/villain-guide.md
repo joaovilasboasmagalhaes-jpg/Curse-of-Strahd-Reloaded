@@ -1,6 +1,6 @@
 # Digest: The Ultimate RPG Villain Backstory Guide
 
-- **Source:** `The Ultimate RPG Villain Backstory Guide … (James D'Amato, Dillin Apelyan).epub` (Adams Media, 2026). See [external-book.md](../../../../assets/external-book.md).
+- **Source:** `The Ultimate RPG Villain Backstory Guide … (James D'Amato, Dillin Apelyan).epub` (Adams Media, 2026). See [external-book.md](../../../../assets/references/external-book.md).
 - **What it is:** A workbook of prompts, pick lists, tables and mini games for building villains, for GMs (NPCs) and for players (villainous PCs).
 - **Relevance:** Strahd, his court, Vistani and hags, any new antagonist, and "villain presence" reviews. The Supernatural chapter fits Strahd best, with Leaders and the Opulent as secondary lenses.
 - **Digest status:** Based on the introduction, chapters 1-2, the full chapter structure, and chapter 7 in detail. Chapters 3-6 were skimmed (archetype definitions, activity list, style guide samples). Paraphrased; no long quotes.

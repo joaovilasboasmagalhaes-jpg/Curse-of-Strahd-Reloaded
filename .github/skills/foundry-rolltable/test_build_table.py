@@ -37,7 +37,7 @@ class TableTests(unittest.TestCase):
             "fvtt-RollTable-urn-of-soul-catching-FvwRFlpCvP1RiRdB.json",
         )
         for filename in references:
-            path = ROOT / "assets" / "rollable_tables" / filename
+            path = ROOT / "assets" / "foundry" / "roll-tables" / filename
             with self.subTest(path=path.name):
                 source = json.loads(path.read_text(encoding="utf-8"))
                 spec = {

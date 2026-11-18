@@ -9,7 +9,7 @@ Use [build_table.py](build_table.py) to turn a compact JSON spec into a Foundry 
 
 ## References and scope
 
-- Format references: the DM's [exported tables](../../../assets/rollable_tables/), exported from Foundry 14.368 / dnd5e 6.0.3. These are examples, not templates to mutate.
+- Format references: the DM's [exported tables](../../../assets/foundry/roll-tables/), exported from Foundry 14.368 / dnd5e 6.0.3. These are examples, not templates to mutate.
 - Uses the exported v14 result fields: `type: "text"`, `name`, `description`, `range`, `weight`, `drawn`, and `documentUuid: null`.
 - Generates fresh 16-character result IDs; omits export provenance, timestamps, world folder IDs and module flags. Tables default to GM-only ownership, replacement enabled and roll display enabled.
 - Text results only. Native `@UUID[...]{label}` links and `[[/r 1d6]]` inline rolls can be written in descriptions; the builder preserves text/HTML verbatim. It does not resolve or verify linked documents. Plutonium `@creature[...]` tags require that module; prefer plain names or verified native UUID links.
@@ -27,7 +27,7 @@ Use [build_table.py](build_table.py) to turn a compact JSON spec into a Foundry 
    python .github\skills\foundry-rolltable\build_table.py .github\skills\foundry-rolltable\output\<name>.spec.json
    ```
 
-   Output defaults to `assets/rollable_tables/fvtt-RollTable-<name>.json`. An optional second positional path selects another output. Existing files are refused unless `--force` is supplied; never overwrite the DM's reference exports.
+   Output defaults to `assets/foundry/roll-tables/fvtt-RollTable-<name>.json`. An optional second positional path selects another output. Existing files are refused unless `--force` is supplied; never overwrite the DM's reference exports.
 6. Compare the output against the source: formula, every outcome/range, replacement and visibility. Report the generated file and any limitations.
 7. In Foundry's **Roll Tables** directory, create a new table, right-click it, choose **Import Data**, select the generated JSON, then import. Check the formula and perform a test draw. Actual in-app import remains unverified until the DM tests it; do not claim otherwise.
 

@@ -156,7 +156,7 @@ def main():
         spec = json.loads(args.spec.read_text(encoding="utf-8-sig"))
         table = build_table(spec)
         slug = re.sub(r"[^a-z0-9]+", "-", table["name"].lower()).strip("-") or "table"
-        output = args.output or ROOT / "assets" / "rollable_tables" / f"fvtt-RollTable-{slug}.json"
+        output = args.output or ROOT / "assets" / "foundry" / "roll-tables" / f"fvtt-RollTable-{slug}.json"
         if output.resolve() == args.spec.resolve():
             raise ValueError("output must not overwrite the input spec")
         output.parent.mkdir(parents=True, exist_ok=True)

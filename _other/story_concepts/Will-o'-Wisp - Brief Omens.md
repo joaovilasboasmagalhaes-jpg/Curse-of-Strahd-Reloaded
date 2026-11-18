@@ -138,7 +138,7 @@ The wisp appears along the existing off-road route, at a proposed distance of ro
 >
 > The first stones strike the ground behind you. The rumble follows.
 
-If the party chooses to flee, use [Dungeon Master's Guide, Chases](../../assets/Dungeon%20Master's%20Guide.md#chases), with these **proposed adaptations** for an illusory environmental pursuer:
+If the party chooses to flee, use [Dungeon Master's Guide, Chases](../../assets/references/rules/Dungeon%20Master's%20Guide.md#chases), with these **proposed adaptations** for an illusory environmental pursuer:
 
 - The moving wall begins 60 feet behind the nearest character. Roll initiative for participants and for the pursuing wall; track the distances. The wall is an apparent hazard, not a creature or a normal published chase participant. As a simple DM-controlled proxy, it advances 60 feet on each of its turns; it makes no attacks. If it reaches a character, the appearance ends for the group before impact. An attack or spell that could stop or expose the apparent threat is adjudicated on its actual terms; do not make the wall automatically immune just to preserve the chase.
 - Use a couple of **real** features of the actual course, such as a low branch and muddy brush, as mapped obstacles. Apply an appropriate published Wilderness Chase Complications result to an obstacle if appropriate, rather than silently pretending an illusory obstruction caused a physical injury. If using the random table instead, each participant rolls at the end of their turn, and the result affects the next participant in initiative order.

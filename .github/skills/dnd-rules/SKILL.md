@@ -15,13 +15,13 @@ Use the local books, not memory, web summaries, or 2024 rules:
 
 | Book | Local source | Start here for |
 |---|---|---|
-| Player's Handbook (PHB) | [Player's Handbook](../../../assets/Player's%20Handbook.md) | Core checks, actions, exploration, equipment, classes, spells and conditions |
-| Dungeon Master's Guide (DMG) | [Dungeon Master's Guide](../../../assets/Dungeon%20Master's%20Guide.md) | Adjudication, chases, social interaction, objects, hazards, rewards and optional rules |
-| Monster Manual (MM) | [Monster Manual](../../../assets/Monster%20Manual.md) | Stat-block conventions, creature traits and monster-specific mechanics |
-| Tasha's Cauldron of Everything (TCE) | [Tasha's Cauldron of Everything](../../../assets/Tasha's%20Cauldron%20of%20Everything.md) | Sidekicks, group patrons, parley, supernatural environments and natural hazards |
-| Van Richten's Guide to Ravenloft (VRGtR) | [Van Richten's Guide to Ravenloft](../../../assets/Van%20Richten's%20Guide%20to%20Ravenloft.md) | Curses, fear and stress, haunted traps, survivors and horror-specific options |
+| Player's Handbook (PHB) | [Player's Handbook](../../../assets/references/rules/Player's%20Handbook.md) | Core checks, actions, exploration, equipment, classes, spells and conditions |
+| Dungeon Master's Guide (DMG) | [Dungeon Master's Guide](../../../assets/references/rules/Dungeon%20Master's%20Guide.md) | Adjudication, chases, social interaction, objects, hazards, rewards and optional rules |
+| Monster Manual (MM) | [Monster Manual](../../../assets/references/rules/Monster%20Manual.md) | Stat-block conventions, creature traits and monster-specific mechanics |
+| Tasha's Cauldron of Everything (TCE) | [Tasha's Cauldron of Everything](../../../assets/references/rules/Tasha's%20Cauldron%20of%20Everything.md) | Sidekicks, group patrons, parley, supernatural environments and natural hazards |
+| Van Richten's Guide to Ravenloft (VRGtR) | [Van Richten's Guide to Ravenloft](../../../assets/references/rules/Van%20Richten's%20Guide%20to%20Ravenloft.md) | Curses, fear and stress, haunted traps, survivors and horror-specific options |
 
-- These are mechanical references, not permission to import their setting lore or encounters into campaign canon. The separate restrictions on using `assets\Curse of Strahd.md` still apply.
+- These are mechanical references, not permission to import their setting lore or encounters into campaign canon. The separate restrictions on using `assets\references\campaign\Curse of Strahd.md` still apply.
 - Session logs and fixed backstories remain fixed. Follow the campaign's authority rules; use `campaign-state` for history, and read a player's Readme before their mechanics or plans.
 - Explicit campaign mechanics and Session 0 house rules override the general book mechanic for this table. Check `session-rules` when planning or reviewing session content and whenever a ruling touches house rules. Use `barovia-rules-reference` for Barovian magic, souls, sunlight, the Mists or lycanthropy.
 - A specific feature can override a general rule: read the actual spell, item, trait or feature and its exceptions, not just the general chapter.
@@ -53,9 +53,9 @@ Use the [situation index](./references/situation-index.md) to discover candidate
 Use built-in search and bounded reads; no index build or dependency installation is needed. Example searches from the repository root in PowerShell:
 
 ```powershell
-rg -n -- "^#{1,6} .*Chase" "assets\Dungeon Master's Guide.md"
-rg -n -- "^#{1,6} .*(Sidekick|Expert)" "assets\Tasha's Cauldron of Everything.md"
-rg -n -i -- "suffocat|holding.*breath" "assets\Player's Handbook.md"
+rg -n -- "^#{1,6} .*Chase" "assets\references\rules\Dungeon Master's Guide.md"
+rg -n -- "^#{1,6} .*(Sidekick|Expert)" "assets\references\rules\Tasha's Cauldron of Everything.md"
+rg -n -i -- "suffocat|holding.*breath" "assets\references\rules\Player's Handbook.md"
 ```
 
 In tools, use Windows paths. When heading search misses a rule, search body text and synonyms. Read enough surrounding lines to see whether a heading is inside an optional section, a table, or a particular creature's entry.

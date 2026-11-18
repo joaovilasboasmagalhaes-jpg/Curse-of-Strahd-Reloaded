@@ -17,7 +17,7 @@ Use `dnd-rules` for verified book mechanics and a brief scan for fitting lesser-
 | NPC stat blocks | `Appendices/Non-Player Characters.md`. Some NPCs have a block inline, others are defined by reference (for example Ireena: expert sidekick, Tasha's Cauldron p. 142, with the noble base). Follow the reference |
 | Conditions | `Appendices/Glossary.md` |
 | Encounters as the guide writes them | The arc files, in the sections where combat occurs |
-| Original book stat blocks | `assets/Curse of Strahd.md`: Appendix D ("Monsters and NPCs") and the area chapters. Use only where the guide references them. Reloaded overrides on conflicts |
+| Original book stat blocks | `assets/references/campaign/Curse of Strahd.md`: Appendix D ("Monsters and NPCs") and the area chapters. Use only where the guide references them. Reloaded overrides on conflicts |
 | Combat entry format | `_other/templates/combat.md`: Combat Level, Expected Character Level, Expected HP Consumption, Expected Allies, an enemies table by player count (3 to 6) and a Balancing table |
 | Party capabilities | Each player's Readme, then their mechanics files (for example `players/agni/vampire_details.md`, Elga's `players/sister_elga/soul_gathering.md` and `potion_brewing.md`) and fixed backstory |
 | Party level | The `Act * Summary.md` milestones: Act I starts at 2nd and ends at 4th, Act II 4th to 5th, Act III 5th to 8th |

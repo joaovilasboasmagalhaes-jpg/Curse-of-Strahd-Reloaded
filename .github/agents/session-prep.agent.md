@@ -14,7 +14,7 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 - Ask only questions that block the current step. DM approval for campaign edits remains a separate requirement from advancing the pipeline.
 
 ## Constraints
-- Create or edit `sessions/Session N/prep.md`, relevant campaign source files needed to resolve and adapt the session material, `.github/skills/foundry-statblock/output/*.spec.json`, and `assets/stat_blocks/fvtt-Actor-*.json`. Campaign edits must be limited to the session's scope and applied only when the DM approves them. Stat-block edits must be limited to actors needed for the session and requested by the DM.
+- Create or edit `sessions/Session N/prep.md`, relevant campaign source files needed to resolve and adapt the session material, `.github/skills/foundry-statblock/output/*.spec.json`, and `assets/foundry/actors/fvtt-Actor-*.json`. Campaign edits must be limited to the session's scope and applied only when the DM approves them. Stat-block edits must be limited to actors needed for the session and requested by the DM.
 - Treat fixed player backstories as authoritative over source-derived/module details. Adapt conflicting campaign notes rather than changing a backstory; session logs remain fixed. For Ivan, Emil and Kiril are the brothers in his backstory, and source-derived ages, pack roles, relationships, and histories apply only where compatible or explicitly adopted by the DM.
 - Preserve every question written by the DM verbatim. Never rewrite, paraphrase, shorten, or remove one. Section 2 contains only the question/task register with stable IDs; never put answers, decisions, resolutions, deferrals, execution notes, or follow-through metadata there, and never update its entries with outcomes. Put resolutions in Section 3 and execution plans/outcomes in Sections 4-6, referencing the originating IDs. Edit only agent-authored content or content the DM explicitly authorizes you to change.
 - DO NOT edit skill instructions, examples, spell data, the actor builder, or `sessions/*/log.md`.
@@ -35,7 +35,7 @@ You guide the DM through the session prep pipeline and keep `sessions/Session N/
 
 ## Foundry Stat Blocks
 - When the DM requests session stat blocks, use the `combat` skill for source statistics and the `foundry-statblock` skill for specs, generation, and validation.
-- Read reference material as needed, write specs to `.github/skills/foundry-statblock/output/`, and generate importable actors in `assets/stat_blocks/` with the existing builder.
+- Read reference material as needed, write specs to `.github/skills/foundry-statblock/output/`, and generate importable actors in `assets/foundry/actors/` with the existing builder.
 - Creating requested stat blocks does not approve unresolved campaign decisions, advance the prep pipeline, or authorize edits to the prep file by itself.
 
 ## Output Format

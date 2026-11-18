@@ -14,7 +14,7 @@ Keeps plans physically consistent. It does not know the date (`timeline`) or who
 | Location layout and descriptions | Arc files. Locations are headed sections such as `B5i. The Barovian Church`, `C2. River Ivlis Crossroads` |
 | Stated travel distances and times | Arc files. Search for `miles` and `takes` (for example, "two miles long and takes forty minutes") |
 | Geography, hidden or added settlements | `Chapter 2 - The Land of Barovia/Lore of Barovia.md`, "Geography". Soldav in Tsolenka Pass is an addition |
-| Original book geography | `assets/Curse of Strahd.md`: Chapter 2 ("Lay of the Land", "Areas of Barovia"), the area chapters (3-15, each with `### <code>.` room headings and "Approaching" sections), and the "Poster Map" at the end. Arc files cite these as `(p. N)`; find `**[p. N]**`. The Reloaded text wins on conflicts |
+| Original book geography | `assets/references/campaign/Curse of Strahd.md`: Chapter 2 ("Lay of the Land", "Areas of Barovia"), the area chapters (3-15, each with `### <code>.` room headings and "Approaching" sections), and the "Poster Map" at the end. Arc files cite these as `(p. N)`; find `**[p. N]**`. The Reloaded text wins on conflicts |
 | Relative positions | The `PINS` list in `barovia-map/barovia_map_tileserver.py` (pixel coordinates of 23 landmarks on the 5025 x 3225 player map) |
 | Backstory sites placed on the map | The player's Readme and planning files. Example: Elga's Silent Cloister, beneath Mount Ghakis near the Luna River and Argynvostholt |
 | Where the party is | `campaign-state` |
