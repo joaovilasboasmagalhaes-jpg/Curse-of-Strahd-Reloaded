@@ -18,7 +18,12 @@ These player-accessible documents record Ivan's established background, knowledg
 - [Backstory Questions](qa.md): Questions the player raised about Ivan's backstory, along with decisions and developments established in response.
 - [Werewolf Details](werewolf_details.md): The rules and mechanics supporting Ivan's portrayal as a werewolf.
 - [Additional Information](extra_info.md): A revised account of Ivan's knowledge of Barovia.
+- [Core Moments & Memories](core_moments_memories.md): Player-authored memories of Ivan and his family. These stories were prepared for the Session 9 Game of Stories and are established character canon.
 - [Player-Authored Overview](player_version/): The player's authoritative retelling of Ivan's background and glossary of character connections. Critical reference material to follow closely.
+
+## Session Retellings
+
+- [Game of Stories: Non-Canon Retelling](game_of_stories.md): The variation Ivan told in Session 9. The [Kiril memory](core_moments_memories.md#kiril) is the canon account.
 
 ## Campaign Planning
 

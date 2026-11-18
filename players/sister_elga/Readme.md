@@ -15,6 +15,7 @@ This directory contains reference material and campaign-planning notes related t
 These documents record established character information and mechanics.
 
 - [Backstory](backstory.md): The character backstory submitted by the player to the Dungeon Master (DM).
+- [Game of Stories](game_of_stories.md): Elga's canonical journal entry prepared for Session 9.
 - [Plot Hook](plot_hook.md): The DM-provided account of how Sister Elga enters the campaign.
 - [Soul Gathering](soul_gathering.md): The rules and mechanics for Sister Elga's soul-gathering ability.
 

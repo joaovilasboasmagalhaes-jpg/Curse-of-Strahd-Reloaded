@@ -138,9 +138,10 @@
 16. Ask the players to make a story about topics from their backstories:
 	- Agni: An old adventure from your adventuring days, or an adventure in Widow's Peek
 	- Caspian: An old adventure from your past of the academy or your village.
-	- Grim (done & saved): An old adventure with your former crew.
-	- Ivan (done & not yet saved): A tale shared between your clan.
-	- Sister Elga (done & saved): A story from your time in the convent or a tale of faith and devotion.
+	- Grim: An old adventure with your former crew.
+	- Ivan: A tale shared between your clan.
+	- Sister Elga: A story from your time in the convent or a tale of faith and devotion.
+	- **Recorded stories (received):** [[../../players/agni/game_of_stories|Agni]], [[../../players/caspian/game_of_stories|Caspian]], [[../../players/grim/game_of_stories|Grim]], and [[../../players/sister_elga/game_of_stories|Sister Elga]] are canon backstory. [[../../players/ivan/game_of_stories|Ivan's non-canon retelling]] is the version he told in play; his four [[../../players/ivan/core_moments_memories|family memories]], including the [[../../players/ivan/core_moments_memories#Kiril|Kiril memory]] it retells, are canon.
 17. Added a small line on the chapter in Arc C.
 18. Done: the player's interpretations indicate a strong understanding of what happened, so no further follow-up is needed.
 19. Deferred to Step 5.
@@ -158,7 +159,7 @@
 	- **Around 628 B.C. — Yester Hill:** Baba Zelenna forms the Cult of Chernovog at the Forest Fane, seeking to summon the demon prince and overthrow Strahd.
 	- **Around 629 B.C. — Yester Hill:** Lugdana and Livius fight Chernovog. Ismark has already died defending his village. Lugdana defeats the demon but dies of her wounds; the *Holy Symbol of Ravenkind* is lost in the aftermath.
 	- **After the battle — location unknown:** Eliza's tale suggests a raven angel reclaimed the Symbol, but its fate and current location remain unknown in the campaign history.
-	- Dates are approximate year-only entries; no exact days are given. Sources: [[../../Chapter 2 - The Land of Barovia/History of Barovia|History of Barovia]] and [[../../assets/curse-of-strahd.timeline|campaign timeline]].
+	- Dates are approximate year-only entries; no exact days are given. Sources: [[../../Chapter 2 - The Land of Barovia/History of Barovia|History of Barovia]] and [[../../assets/campaign/timelines/curse-of-strahd.timeline|campaign timeline]].
 28. **Q028 — What the Vistani know about Eliza's tale:**
 	- **What the tale and Eliza establish the Vistani know:** The story names Lugdana, the Morninglord, Chernovog (the Green God / demon lord), Yester Hill, and the *Holy Symbol of Ravenkind*. It presents Lugdana as a champion who fought Chernovog at Yester Hill, wielded the Symbol, defeated him, and died of her wound. The song says a raven angel reclaimed the Symbol. After the tale, Eliza says it is half-true: Lugdana was a paladin of the Morninglord and bore the Symbol; according to legend, an angel in raven form gave it to her. Eliza says no one knows what happened to the Symbol after Lugdana fell or where it is now. Treat the angel's gift and reclamation as legend, not verified events; Eliza's follow-up leaves its fate unknown.
 	- **If asked about people, events, or places:** Vistani answers can repeat the tale and Eliza's clarification above. They can identify Chernovog as the Green God / demon lord in the story and Yester Hill as the battle's location, but the campaign does not establish additional Vistani knowledge about them. The story does not name Livius, Ismark, Baba Zelenna, the Forest Fane, Castle Ravenloft, or the *Sigil of the Sun*; do not assume the Vistani know these names or details.
@@ -228,7 +229,7 @@ Pending the step 3 lock.
 
 **Close chase**
 
-Sources: [Dungeon Master's Guide, Chases](../../assets/Dungeon%20Master's%20Guide.md#chases), especially Beginning a Chase, Running the Chase, Ending a Chase, and Mapping the Chase. Starting distances, route length, and applying these rules to a phantom pursuer are this scene's adaptations.
+Sources: [Dungeon Master's Guide, Chases](../../assets/references/rules/Dungeon%20Master's%20Guide.md#chases), especially Beginning a Chase, Running the Chase, Ending a Chase, and Mapping the Chase. Starting distances, route length, and applying these rules to a phantom pursuer are this scene's adaptations.
 
 | Element | Q38 setup |
 | --- | --- |
@@ -249,7 +250,7 @@ Sources: [Dungeon Master's Guide, Chases](../../assets/Dungeon%20Master's%20Guid
 
 **If they fight / the wolf can attack**
 
-Source: [Monster Manual, Tyrannosaurus Rex](../../assets/Monster%20Manual.md#tyrannosaurus-rex). Use this as a clearly labeled proxy for the enormous wolf, not a claim that a normal wolf has these abilities. Use its chassis and Bite, but omit Tail and Multiattack.
+Source: [Monster Manual, Tyrannosaurus Rex](../../assets/references/rules/Monster%20Manual.md#tyrannosaurus-rex). Use this as a clearly labeled proxy for the enormous wolf, not a claim that a normal wolf has these abilities. Use its chassis and Bite, but omit Tail and Multiattack.
 
 | Element | Q38 proxy |
 | --- | --- |
@@ -391,7 +392,7 @@ Checked against the Foundry handout catalog and world assets on 2026-11-11; only
 
 - [DM discussion: preparing Madam Eva's reading](https://www.reddit.com/r/CurseofStrahd/comments/7r6jfz/how_did_you_all_prepare_for_madame_evas_reading/): search-visible anecdotes describe short cue sheets and player card handling rather than memorising everything. These are reported experiences, not guaranteed techniques; the thread could not be read directly.
 - [Ritual at the Table](https://talesandtankards.com/dms-corner/dm-resources/ritual-at-the-table/): physical objects, lighting, and silence as transitions from ordinary conversation into play.
-- [[../../assets/Van Richten's Guide to Ravenloft#Horror Atmosphere|Van Richten's Guide to Ravenloft - Horror Atmosphere]]: published staging guidance supports reducing screen distractions, rearranging furniture, subtle audio, and restrained props, with accessibility taking precedence. Guidance only; no new mechanics or source-book lore are adopted.
+- [[../../assets/references/rules/Van Richten's Guide to Ravenloft#Horror Atmosphere|Van Richten's Guide to Ravenloft - Horror Atmosphere]]: published staging guidance supports reducing screen distractions, rearranging furniture, subtle audio, and restrained props, with accessibility taking precedence. Guidance only; no new mechanics or source-book lore are adopted.
 
 ### Tarokka Deck
 
@@ -410,8 +411,8 @@ Chosen cards, in deal and reveal order:
 1. **The Traitor:** The "ancient foe" is **Leo Dilisnya**, whose spirit dominates the **gallows speaker** carrying the *Tome of Strahd*. The "old and noble house" is **House Wachter**; the "lost soul" is **Stella Wachter**, whose rescue brings the party into conflict with Leo in the Ethereal Plane. The Tome is recovered when the gallows speaker is defeated, not from Lady Wachter's locked chest. See [[../../Act II - The Shadowed Town/Arc H - The Lost Soul|Arc H - The Lost Soul]].
 2. **The Druid:** The foretelling points to the Forest Folk at Yester Hill, where the *Holy Symbol of Ravenkind* is intended to be. Its exact custody, how the druids came by it, and when the party can recover it relative to confronting Ludmilla there remain for Session 10 design, along with revising the werewolf-den reward. Lugdana's history as the Symbol's former wielder remains unchanged.
 3. **The Necromancer:** The foretelling still leads to the *Sunsword* hilt in the **Amber Temple**, specifically the **Vampyr's prison**, where **Patrina Velikovna** concealed it in a secret demiplane. The "house of the fallen dragon" is **Argynvostholt**, which provides the lead toward the temple. The card now reflects Patrina's destructive obsession with lichdom and the unnatural persistence of death; this campaign's amber-prison clue replaces the Necromancer's original printed treasure clue. See [[../../Act III - The Broken Land/Arc M - The Dragon's Manor|Arc M - The Dragon's Manor]] and [[../../Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Arc S - A Sword of Sunlight]].
-4. **The Mists:** The foretold ally is **Ezmerelda d'Avenir**, the Vistani monster hunter searching for her mentor, **Dr. Rudolph van Richten**. The reading directs the party to **the Abbey of Saint Markovia near Krezk**, where they can meet and recruit her. See [[../../Act III - The Broken Land/Arc K - The Fallen Abbey|Arc K - The Fallen Abbey]] and the ally reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Enemy|Curse of Strahd - Strahd's Enemy]].
-5. **The Marionette:** This card refers to **Strahd himself and the location of the final confrontation**, not Pidlwick II or another potential ally. The "beating heart of the castle" is the **Heart of Sorrow**; the foretold meeting place is **K60, the North Tower Peak of Castle Ravenloft**, nearby. See the location reading cited by C4f in [[../../assets/Curse of Strahd#Strahd's Location in the Castle|Curse of Strahd - Strahd's Location in the Castle]].
+4. **The Mists:** The foretold ally is **Ezmerelda d'Avenir**, the Vistani monster hunter searching for her mentor, **Dr. Rudolph van Richten**. The reading directs the party to **the Abbey of Saint Markovia near Krezk**, where they can meet and recruit her. See [[../../Act III - The Broken Land/Arc K - The Fallen Abbey|Arc K - The Fallen Abbey]] and the ally reading cited by C4f in [[../../assets/references/campaign/Curse of Strahd#Strahd's Enemy|Curse of Strahd - Strahd's Enemy]].
+5. **The Marionette:** This card refers to **Strahd himself and the location of the final confrontation**, not Pidlwick II or another potential ally. The "beating heart of the castle" is the **Heart of Sorrow**; the foretold meeting place is **K60, the North Tower Peak of Castle Ravenloft**, nearby. See the location reading cited by C4f in [[../../assets/references/campaign/Curse of Strahd#Strahd's Location in the Castle|Curse of Strahd - Strahd's Location in the Castle]].
 
 **DM-only symbolic associations:**
 
@@ -423,7 +424,7 @@ These explain how the cards' symbolism fits the campaign. The identities and des
 - **The Mists - Ezmerelda d'Avenir:** The card evokes a mysterious journey that tests the spirit. **Ezmerelda** crossed the Mists to follow her missing mentor, travels without a caravan, and is searching an unfamiliar, dangerous Barovia for answers. Both the wandering Vistana and the quest for **Van Richten** match that imagery; he is the object of her search, not the ally named by this card.
 - **The Marionette - Strahd:** The card's crowned ruler with puppet limbs makes the apparent master of Barovia look like someone else's instrument. **Strahd** commands the valley but remains confined by the **Dark Powers**, whose prison he is trying to escape. The image fits the contrast between his sovereignty and his lack of ultimate freedom; it does not imply that they directly dictate every action he takes. His escape scheme also centres on the **Heart of Sorrow**, reinforcing the foretold location near the castle's beating heart. See [[../../Chapter 2 - The Land of Barovia/Strahd von Zarovich|Strahd von Zarovich]].
 
-Symbol reference: [[../../assets/Curse of Strahd#High Deck|Curse of Strahd - High Deck]] and [[../../assets/Curse of Strahd#Common Deck|Common Deck]]. Campaign connections are supported by the arc references above.
+Symbol reference: [[../../assets/references/campaign/Curse of Strahd#High Deck|Curse of Strahd - High Deck]] and [[../../assets/references/campaign/Curse of Strahd#Common Deck|Common Deck]]. Campaign connections are supported by the arc references above.
 
 Instructions for handling the deck:
 1. Take out the 14-card high deck and set it aside.

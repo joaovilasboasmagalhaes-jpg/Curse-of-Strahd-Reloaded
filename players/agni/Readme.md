@@ -15,6 +15,7 @@ This directory contains reference material and campaign-planning notes related t
 These player-accessible documents record Agni's established background, knowledge, and mechanics.
 
 - [Backstory](backstory.md): The character backstory submitted by the player to the Dungeon Master (DM).
+- [Game of Stories](game_of_stories.md): Agni's canonical backstory story prepared for Session 9.
 - [Plot Hook](plot_hook.md): The DM-provided account of how Agni enters the campaign and encounters the Mists.
 - [Vampire Details](vampire_details.md): The rules and mechanics integrating Agni's Dhampir lineage and Order of the Undying Thirst Blood Hunter abilities.
 

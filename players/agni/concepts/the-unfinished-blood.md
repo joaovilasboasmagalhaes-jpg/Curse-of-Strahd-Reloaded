@@ -159,7 +159,7 @@ No direction was formally chosen in a single step; the DM approved integrating t
 **Applied edits**
 - [History of Barovia](../../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md): Strahd's alias renamed to Aurel Veshtor.
 - [Arc K](../../Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md): alias renamed in the Belviews' lore callout.
-- [curse-of-strahd.timeline](../../assets/curse-of-strahd.timeline): event title renamed.
+- [curse-of-strahd.timeline](../../../assets/campaign/timelines/curse-of-strahd.timeline): event title renamed.
 - [Changelog](../../Introduction/Changelog.md): local change note.
 - [dm_plans.md](../dm_plans.md): Osric Valemont, origin and talisman, time ruling, Mists and Milosh section rewritten, cure section.
 - [dm_campaign_integration.md](../dm_campaign_integration.md): Vallaki clues, crafting without delivery, Arc O and Arc P (including Urn warnings and encounter design), checklist.

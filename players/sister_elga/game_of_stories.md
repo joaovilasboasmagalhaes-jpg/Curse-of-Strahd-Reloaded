@@ -1,5 +1,7 @@
 # A torn page from Elga’s Journal
 
+> **Canon backstory.** This is the recorded version prepared for the Session 9 Game of Stories. The telling at the table may have differed.
+
 *The page of the journal has already yellowed, and the ink from the quill seems to be losing its strength. Elga still remembers when she wrote this, when she was just 14. She smiles as she reviews the page.*
 
 Today was such a great day! I swear that the monastery should get visitors more often, they always have such interesting stories to tell, and we never get to go outside... The priests say that we will have enough time to explore the world once we become proper Doom Guides.

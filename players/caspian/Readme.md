@@ -15,6 +15,7 @@ This directory contains reference material and campaign-planning notes related t
 These player-accessible documents record Caspian's established background, knowledge, and mechanics.
 
 - [Backstory](backstory.md): The character backstory submitted by the player to the Dungeon Master (DM), including his connection to the opening session.
+- [Game of Stories](game_of_stories.md): Caspian's canonical backstory story prepared for Session 9.
 
 ## Campaign Planning
 

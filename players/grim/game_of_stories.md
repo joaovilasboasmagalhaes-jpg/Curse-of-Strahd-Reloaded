@@ -1,3 +1,7 @@
+# Game of Stories: Grim
+
+> **Canon backstory.** This is the recorded version prepared for the Session 9 Game of Stories. The telling at the table may have differed.
+
 Bhodi, Meind, Mira and Bob the old boy were with Grim this  time around.
 
 Bhodi had always been their leader, and again he'd found a complicated job, but this time the reward was quite the catch.
