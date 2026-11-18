@@ -1,26 +1,32 @@
 ---
-description: "Split pending changes into coherent commits, optionally limiting scope and consulting Copilot session history."
-agent: "agent"
-argument-hint: "Optional scope or exclusions, e.g. only Session 8; exclude assets; plan only. Defaults to all changes."
+name: split-commits
+description: "Use when asked to split pending Git changes into coherent commits or plan that split. Supports scope, exclusions, grouping preferences, plan-only requests, and optional Copilot session history. Not for a routine single commit or rewriting existing commits."
 ---
-Split the repository's pending changes into relevant, coherent Git commits and create those commits. Additional text supplied with this prompt specifies scope, exclusions, grouping preferences, or other constraints. If the user requests a plan only, do not stage or commit anything.
+# Split commits
+
+Group the repository's pending changes into coherent Git commits. Create them unless the user requests a plan only. Loading or discussing this skill does not itself authorize staging or committing.
 
 ## Scope
 
-- With no additional text, include ALL pending changes: staged, unstaged, untracked, deletions, and renames. Do not limit the task to the open file, current conversation, or changes made by Copilot. Ignored files remain ignored.
+- With no explicit scope, include ALL pending changes: staged, unstaged, untracked, deletions, and renames. Do not limit the task to the open file, current conversation, or changes made by Copilot. Ignored files remain ignored.
 - Apply explicit scope and exclusions before grouping. Leave excluded content untouched and preserve its original staged or unstaged state, including excluded hunks in otherwise included files.
 - Safety rules override the default of including everything. Never silently omit something: report every exclusion, blocked file, or unresolved change and the reason.
 - Work on the current branch. Do not push, create a branch, amend existing commits, rewrite history, or discard changes. Do not start subagents without explicit permission.
 
-## Inspect And Group
+Examples:
 
-1. Read the repository instructions and load its Git skill if present. Follow its staging rules, size limits, secret checks, and commit-message conventions.
+- "Split my pending changes into commits, excluding assets" applies to all eligible pending changes outside that exclusion.
+- "Plan how to split the Session 8 changes into commits" produces a scoped plan without staging or committing anything.
+
+## Inspect and group
+
+1. Follow the repository instructions and load the [`git` skill](../git/SKILL.md) for staging rules, size limits, secret checks, and commit-message conventions.
 2. Record the initial branch, HEAD, status, and index state. Inspect both staged and unstaged diffs, and inspect untracked content before adding it. Use path-safe commands, including NUL-delimited output where filenames are parsed. Check recent commit messages for local style.
 3. Group changes by purpose, not merely by directory, extension, author, or editing session. Keep a change with the dependent notes, code, tests, configuration, or assets required to understand and use it. Separate independent concerns; do not manufacture tiny commits or create intermediate states with broken dependencies.
-4. If the purpose or relationship of changes is unclear, you may inspect relevant Copilot session history. Load the chronicle skill and use the session-store tools to search this repository by changed paths, topics, and recent sessions, then read only relevant turns. Treat history as supporting evidence: the current diffs determine what is actually being committed. If history is unavailable, proceed from the diffs and disclose material uncertainty; never invent intent or reapply superseded plans.
-5. Account for every in-scope change in an ordered commit plan. Briefly show each proposed summary, its purpose, and included paths or hunk boundaries. Proceed without an extra approval round unless a safety rule requires confirmation or a material ambiguity prevents a defensible grouping. Respect an explicit plan-only request.
+4. If the purpose or relationship of changes is unclear, you may inspect relevant Copilot session history. Load the `chronicle` skill if available and use available session-store tools to search this repository by changed paths, topics, and recent sessions, then read only relevant turns. Treat history as supporting evidence: the current diffs determine what is actually being committed. If history is unavailable, proceed from the diffs and disclose material uncertainty; never invent intent or reapply superseded plans.
+5. Account for every in-scope change in an ordered commit plan. Briefly show each proposed summary, its purpose, and included paths or hunk boundaries. For a plan-only request, stop without staging or committing. Otherwise, proceed without an extra approval round unless a safety rule requires confirmation or a material ambiguity prevents a defensible grouping.
 
-## Stage, Verify, And Commit
+## Stage, verify, and commit
 
 - Run the repository's required pre-staging safety checks on all candidate files, including untracked files. Do not commit secrets. For oversized or other restricted files, follow the Git skill's confirmation requirements; eligible groups may proceed while blocked files remain pending.
 - Stage only the exact paths or hunks belonging to the next group. Do not use blanket staging commands that could sweep in other groups or excluded changes. Existing staging is evidence of intent, not permission to include unrelated content.
@@ -31,7 +37,7 @@ Split the repository's pending changes into relevant, coherent Git commits and c
 - Commit one group at a time in dependency order. Verify each resulting commit's contents before continuing. If hooks fail or alter files, inspect the outcome and revalidate before retrying; do not bypass hooks or automatically absorb unrelated hook changes.
 - Recheck status between groups. Newly appearing changes that were not in the initial inventory must be reported and left untouched unless the user authorizes including them.
 
-## Final Accounting
+## Final accounting
 
 Compare the final status and created commits with the initial inventory. Confirm that every in-scope change was committed exactly once or explicitly accounted for, excluded content retains its original state, and no working-tree content was lost.
 
