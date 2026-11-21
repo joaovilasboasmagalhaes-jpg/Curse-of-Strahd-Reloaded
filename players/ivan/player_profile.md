@@ -24,7 +24,7 @@ Ivan joined before the campaign began, but no individual questionnaire response 
 
 ## Assessment Coverage
 
-- **Sessions / sources assessed:** Sessions 1–8 logs.
+- **Sessions / sources assessed:** Sessions 1–9 logs.
 - **Gaps:** No individual questionnaire response or explicit player feedback. Ivan's established character goal comes from his backstory and DM-facing story snapshot, not an explicit player statement about preferred story content.
 
 ## Observed Play
@@ -34,6 +34,7 @@ Ivan joined before the campaign began, but no individual questionnaire response 
 - **Session 7, Doru:** Ivan stated he would not permit Doru to live, then threatened to kill him if there were future incidents and made Donavich responsible for him ([Session 7](../../sessions/Session%207/log.md), church and Undercroft).
 - **Session 8, Strahd at the crossroads:** Ivan changed his appearance, introduced himself under a false name, and the party supported his cover story ([Session 8](../../sessions/Session%208/log.md), Strahd encounter).
 - **Session 8, discussion after Madam Eva's readings:** Ivan told the party Strahd threatened his family if he did not leave his clan and that he believes Strahd can manipulate minds. He did not tell them that he or his clan are Wolfir, or explain his belief that this influence caused his brother to cast him out ([Session 8](../../sessions/Session%208/log.md), party discussion after Madam Eva's readings).
+- **Session 9, Dancing Fire:** Ivan retold a linked story for the Game of Stories; the table record identifies the told retelling as non-canon where it differs from his established backstory ([Session 9](../../sessions/Session%209/log.md), Dancing Fire; [Ivan's non-canon retelling](../../players/ivan/game_of_stories.md)).
 
 ## Working Hypotheses
 

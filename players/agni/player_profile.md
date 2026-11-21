@@ -23,7 +23,7 @@ The character's stated goal and responses to transformed or endangered people ar
 
 ## Assessment Coverage
 
-- **Sessions / sources assessed:** Sessions 1–8 logs; Session 0 questionnaire.
+- **Sessions / sources assessed:** Sessions 1–9 logs; Session 0 questionnaire.
 - **Gaps:** No explicit player feedback about particular scenes or preferred spotlight style. Most evidence is character behavior.
 
 ## Observed Play

@@ -23,7 +23,7 @@ Do not treat Grim's willingness to consider dangerous bargains as evidence that 
 
 ## Assessment Coverage
 
-- **Sessions / sources assessed:** Sessions 1–8 logs; Session 0 questionnaire.
+- **Sessions / sources assessed:** Sessions 1–9 logs; Session 0 questionnaire.
 - **Gaps:** No explicit player feedback about scene enjoyment, spotlight, or desired story resolution. Much of the clearest evidence is shaped by Grim's search for her son.
 
 ## Observed Play
@@ -32,6 +32,7 @@ Do not treat Grim's willingness to consider dangerous bargains as evidence that 
 - **Session 3, ritual decision:** Grim argued for the ritual as a possible way out and later tried to kill the creature on the altar in case that changed the outcome; she stopped when the fight became too dangerous ([Session 3](../../sessions/Session%203/log.md), ritual chamber).
 - **Session 4, Village of Barovia:** Grim helped residents practically, asked about recent events, and later challenged Donavich's faith after Elga had encouraged him ([Session 4](../../sessions/Session%204/log.md), town square and church).
 - **Session 8, Tser Pool:** Grim asked about the drowned town, drew a conclusion about her son's kidnapping, and discussed desperate possible choices, including seeking Strahd's help ([Session 8](../../sessions/Session%208/log.md), private reading and party discussion).
+- **Session 9, Tser Pool:** Grim asked about the landscape and showed interest in the lakes ([Session 9](../../sessions/Session%209/log.md), Vistani Hospitality).
 
 ## Working Hypotheses
 

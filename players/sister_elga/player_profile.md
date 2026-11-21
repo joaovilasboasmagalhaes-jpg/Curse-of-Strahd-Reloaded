@@ -5,14 +5,14 @@ DM-only. Session observations are character actions; hypotheses about the player
 ## Player
 
 - **What they enjoy at the table:** The [Session 0 questionnaire](../../sessions/Session%200/session_0_questionnaire.csv) indicates the player is comfortable with horror and terror, prefers a serious campaign with dedicated relaxing moments, and selected few easy fights, mostly hard fights, and frequent TPK risk.
-- **What they dislike or avoid:** No individual content prohibition was named in the questionnaire. PvP requires in-character agreement from both players, consistent with the table-wide rule.
+- **What they dislike or avoid:** 57 did not like the Session 9 chase mechanics much; the specific cause is not recorded ([Session 9](../../sessions/Session%209/log.md), Return to the River Ivlis Crossroads). No individual content prohibition was named in the questionnaire. PvP requires in-character agreement from both players, consistent with the table-wide rule.
 - **How they play:** Not established. Elga's actions do not establish the player's general style.
 - **Spotlight preference:** Not established.
 
 ## Character
 
 - **What the player has said they want from the story:** No distinct player-stated ending or story preference is recorded. Elga's actions show a character commitment to the Ven and to guiding souls, but this should not be promoted to a player preference.
-- **What the player has reacted to strongly at the table:** No explicit player reaction is documented.
+- **What the player has reacted to strongly at the table:** 57 did not like the Session 9 chase mechanics much ([Session 9](../../sessions/Session%209/log.md), Return to the River Ivlis Crossroads).
 - **Things they asked about or followed up on:** Asked Madam Eva who the cloister's black figure was and discussed the Ven's principles and exceptions around undeath with the party ([Session 8](../../sessions/Session%208/log.md), private reading and party discussion).
 - **Hopes for the ending:** Not established.
 - **Lines not to cross:** No individual content prohibition was specified; the table-wide consent rule for PvP applies. Source: [Session 0 questionnaire](../../sessions/Session%200/session_0_questionnaire.csv).
@@ -23,8 +23,8 @@ The [questionnaire's combat-intelligence comment](../../sessions/Session%200/ses
 
 ## Assessment Coverage
 
-- **Sessions / sources assessed:** Sessions 1–8 logs; Session 0 questionnaire.
-- **Gaps:** No explicit player feedback about specific scenes, preferred spotlight, or ending. Religious convictions and soul-related choices belong to Elga unless the player confirms a broader preference.
+- **Sessions / sources assessed:** Sessions 1–9 logs; Session 0 questionnaire.
+- **Gaps:** No explanation of the chase feedback or explicit feedback about preferred spotlight or ending. Religious convictions and soul-related choices belong to Elga unless the player confirms a broader preference.
 
 ## Observed Play
 
@@ -33,6 +33,8 @@ The [questionnaire's combat-intelligence comment](../../sessions/Session%200/ses
 - **Session 4, village and church:** Elga helped make remedies for the sick and tried to encourage Donavich to hold onto hope ([Session 4](../../sessions/Session%204/log.md), town square and church).
 - **Session 7, Doru:** Elga stayed upstairs rather than participate in the confrontation, believing she could not permit Doru to leave while remaining true to her religious beliefs ([Session 7](../../sessions/Session%207/log.md), church and Undercroft).
 - **Session 8, Strix and Tser Pool:** Elga physically shielded the blue-tipped raven during the Strix attack, then asked Madam Eva about the cloister figure ([Session 8](../../sessions/Session%208/log.md), Strix fight and private reading).
+- **Session 9, Dancing Fire:** The DM clarified that Elga suspected Arturi might be a werewolf and that 57 thought Arturi might be misunderstood; do not assume Elga shared the latter opinion in character ([Session 9](../../sessions/Session%209/log.md), Dancing Fire; DM clarification, 2026-11-21).
+- **Session 9, wolf vision:** Elga was the character who died to the wolf in the vision; the party continued afterward ([Session 9](../../sessions/Session%209/log.md), Return to the River Ivlis Crossroads).
 
 ## Working Hypotheses
 
