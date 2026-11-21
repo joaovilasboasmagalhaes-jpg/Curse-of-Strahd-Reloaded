@@ -41,4 +41,6 @@ The campaign files may have been edited, so read them rather than relying on mem
 
 ## Procedure: after a new session
 
-Add or update the digest entry for that session (what happened, key NPC interactions, decisions, items, unresolved threads) and the "Current position" block. Also update the `timeline` ledger (date span) and `npcs`'s `roster-state.md` (NPC status and knowledge). Record any fight outcomes in the digest. Keep entries short and factual. Do not add planned content to the digest. Plans belong in campaign or player files.
+Use the `post-session` skill when updating state after a new or revised session. It coordinates the full workflow across the session digest, date ledger, NPC roster and player profiles.
+
+If using this skill directly, add or update the digest entry for that session (what happened, key NPC interactions, decisions, items, unresolved threads) and the "Current position" block. Also update the `timeline` ledger (date span) and `npcs`'s `roster-state.md` (NPC status and knowledge). Record any fight outcomes in the digest. Keep entries short and factual. Do not add planned content to the digest. Plans belong in campaign or player files.
