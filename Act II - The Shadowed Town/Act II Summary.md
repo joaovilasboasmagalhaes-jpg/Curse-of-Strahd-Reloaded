@@ -6,7 +6,9 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
-Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+The evening following the restoration of the bones, a letter from Strahd von Zarovich arrives from himself, inviting the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
+
+Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete. 
 
  >[!info]+ **Dealing with Izek Strazni**
  > [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]] unfold simultaneously, but only one will likely play out to completion depending on what players chose to do.
@@ -35,9 +37,9 @@ Before the players arrive, the ringmaster Rictavio reserves a room at the Blue W
 
 **The players arrive in Vallaki at dusk.**
 
-That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
+That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort. Father Lucian witnesses the theft, but does not identify the perpetrator in the dark.
 ## Neyavr 3
-At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
+Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
 
 Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
 

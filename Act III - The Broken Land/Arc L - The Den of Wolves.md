@@ -7,7 +7,7 @@ With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to 
 There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika's relationship to Emil Petrovich, Ivan's younger brother, and her role in his story must be adapted before this arc is run. Emil is not in Castle Ravenloft at the Session 8 crossroads; his later location and fate remain undecided. Do not use the source version's mate, pack-leader, or Ravenloft-prisoner details without adapting them to Ivan's fixed backstory.
 
 > [!warning]+ **Pending Changes**
-> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[#T4. The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[Arc T - The Three Fanes#T4. The Monster Hunter|The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
 >
 > * **Ivan's fixed backstory supersedes source-derived Emil and Kiril details.** Emil Petrovich and Kiril Petrovich are Ivan's younger brothers. Adapt this arc's ages, leadership history, relationships, and chronology to that backstory before running it. Emil is not imprisoned at Castle Ravenloft as of Session 8; whether he is transferred there later is undecided. Do not change Ivan's backstory to preserve the source version.
 > * Arturi Radanavich will be removed from the campaign.
@@ -30,7 +30,7 @@ Before she leads the players to the den, Ezmerelda proposes the following plan:
 > If the players stole from Ezmerelda's wagon in [[Arc E - The Missing Vistana]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
 # L2. Lake Baratok
 
-The journey from the village of Kresk to Lake Baratok is three-and-one-falf miles long and takes one hour and ten minutes.
+The journey from the village of Kresk to Lake Baratok is three-and-one-half miles long and takes one hour and ten minutes.
 
 If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Arc E - The Missing Vistana]]. 
 
