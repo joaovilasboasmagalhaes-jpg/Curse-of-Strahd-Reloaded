@@ -6,10 +6,10 @@ Party: Agni (dhampir blood hunter), Caspian, Grim, Ivan, Sister Elga (priest of 
 
 ## Current position
 
-- **Last session covered:** Session 8.
-- **Act I, Arc C ("Into the Valley"), at C4d. The Dancing Fire.** The party is at the Tser Pool fire after meeting Eliza and Arturi. They have received private readings from Madam Eva; the shared reading is still to come at the River Ivlis Crossroads at midnight.
-- **Date:** Neyavr 1, 735 B.C. (confirmed). Session 8 began after noon and ended before the planned midnight meeting.
-- **Likely next:** Continue the Tser Pool visit, then return to the crossroads for Madam Eva's shared reading and the next Arc C beats.
+- **Last session covered:** Session 9.
+- **Act I, Arc C ("Into the Valley"), after C4f. The Tarokka Reading.** The party completed the Dancing Fire, returned to the River Ivlis Crossroads, witnessed the March of the Dead, received Madam Eva's shared Tarokka reading, and returned to Tser Pool for the night.
+- **Date:** Neyavr 1 to Neyavr 2, 735 B.C. (inferred). The shared reading was moved to Neyavr 2 at midnight in accepted session prep.
+- **Likely next:** Continue at Tser Pool, then travel toward Vallaki on Neyavr 2 and the next Arc C beats.
 
 ## Sessions
 
@@ -29,6 +29,8 @@ Party: Agni (dhampir blood hunter), Caspian, Grim, Ivan, Sister Elga (priest of 
 
 **Session 8: Strahd, the raven, and Tser Pool.** Ivan changed his appearance and introduced himself to Strahd as Boris; the party supported his cover story that he was a Barovian townsman. Strahd spoke with the party about Ireena, the village's punishment, Death House, and whether outsiders should be allowed to leave, then departed southwest. The DM designated Ivan as the Hanged One, showing his real face. Elga's urn glowed near Escher, and the DM confirms the player was told. On the road, they defeated the strix, protected the blue-tipped raven, removed its silver barbs, and healed it; Ivan invited it to his shoulder. At Tser Pool, Stanimir welcomed them and Madam Eva gave private readings. Caspian deferred his question; Elga's answer about the shadow included an improvised line; Agni asked about the cure; Ivan asked whether Strahd was responsible for what happened to him; and Grim asked where the drowned town was. In his later notes, Ivan wondered if his path could require serving Strahd and if his brother had sought to change his fate after learning Ivan was chosen to lead. He questioned who the traveler was and whether his clan had gone north, but felt it was too soon and risky to search; he also rejected killing an innocent or sacrificing his humanity to the Beast. These remained his interpretations and questions. The party then discussed their shared goal and personal reasons for being in Barovia. Ivan told them Strahd had threatened his family if he did not leave his clan and that he believes Strahd can manipulate minds. He did not explain his belief that Strahd's influence caused his brother to cast him out, and did not tell the party that he or his clan are Wolfir. Eva will meet them at the crossroads at midnight for their shared reading. Eliza and Arturi met them at the fire; Arturi asked whether they had met Van Richten, and they said no. The session ended at the fire.
 
+**Session 9: The Dancing Fire and Tarokka.** The party played the Vistani Game of Stories at Tser Pool. Ireena won and returned their wagers; the party also won the other items. Stanimir confirmed his prince was Strahd, and Caspian paid close attention to Arturi's fox story. The DM clarified that Elga suspected Arturi might be a werewolf and 57 thought he might be misunderstood. The players did not learn of his curse. Eliza followed the party toward the River Ivlis Crossroads; they confronted and threatened her, and she swore not to follow them. During an unexplained wolf vision and chase, Elga was the character who died to the wolf; the vision ended and the party continued. The party witnessed the March of the Dead, agreed to buy a toy for Arabelle, and received Madam Eva's shared Tarokka reading. They returned to Tser Pool for the night.
+
 ## Open threads
 
 - Ireena is traveling with the party toward Vallaki; her possible transformation was discussed, but the conditions for it had not been met.
@@ -37,5 +39,6 @@ Party: Agni (dhampir blood hunter), Caspian, Grim, Ivan, Sister Elga (priest of 
 - Elga's urn holds the Langsten family's souls and memories.
 - Strahd's spies (bats, wolf, rats) have been watching the party.
 - Strahd may suspect the party's cover story for Ivan; he said he would investigate.
-- Madam Eva's shared reading is scheduled for midnight at the River Ivlis Crossroads. Caspian's personal question remains unresolved. Ivan has shared Strahd's threat to his family and his belief that Strahd can manipulate minds, but not that he suspects this influenced his brother or that he is Wolfir.
+- Madam Eva gave the shared reading and assigned the party to buy and deliver a toy to Arabelle by Neyavr 4. The DM confirmed Caspian's deferred question was asked and answered outside the table. [His written interpretation](../../../players/caspian/interpretations/caspian.txt) proposes asking how to see what his eyes cannot without letting anger choose his path or foe; [Arc C](../../../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#caspians-personal-reading) supplies a matching answer about the heart and mind, old learning, and the fox and sparrow. The exact exchange has not been independently confirmed. Ivan has shared Strahd's threat to his family and his belief that Strahd can manipulate minds, but not that he suspects this influenced his brother or that he is Wolfir.
+- Eliza swore not to follow the party after they threatened her, but her actual loyalty and later conduct remain unresolved.
 - Elga's improvised addition to Eva's answer about the shadow may need clarification; it is not established as an explanation.

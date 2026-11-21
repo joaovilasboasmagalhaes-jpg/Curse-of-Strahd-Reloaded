@@ -12,10 +12,11 @@ Maintained by `timeline`. Filled by `campaign-state` after each session. Status:
 | 6 | Octyavr 28 (night) to before dawn on Neyavr 1 | The log has them sleep and wake, and eat "before dawn" | inferred |
 | 7 | Neyavr 1 | Church, departure, crossroads. Tarokka is on Neyavr 1 per Arc C | confirmed |
 | 8 | Neyavr 1 (after noon through before the midnight crossroads meeting) | DM-confirmed session date; log ends at Tser Pool before the scheduled meeting | confirmed |
+| 9 | Neyavr 1 to Neyavr 2 | Accepted session-prep lock moved the midnight reading to Neyavr 2; the log ends with the party spending the night at Tser Pool | inferred |
 
 ## Current date
 
-**Neyavr 1, 735 B.C. (confirmed)**, at Tser Pool; the party is due at the River Ivlis Crossroads at midnight.
+**Neyavr 2, 735 B.C. (inferred)**, after the party spent the night at Tser Pool following the shared Tarokka reading.
 
 ## Notes
 
